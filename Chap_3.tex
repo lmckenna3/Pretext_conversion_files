@@ -1,0 +1,594 @@
+\documentclass[amstex,12pt]{book}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{verbatim}
+\usepackage{wasysym}
+\usepackage[margin=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{epigraph}
+\usepackage{graphicx}
+\usepackage[caption=false]{subfig}
+\usepackage{siunitx}
+\usepackage{isotope}
+\DeclareSIUnit\century{century}
+\DeclareSIUnit\year{y}
+\DeclareSIUnit\month{mo}
+\DeclareSIUnit\day{d}
+
+\usepackage{booktabs}
+\newcommand{\textsub}[1]{$_{\text{#1}}$}
+\newcommand{\textsup}[1]{$^{\text{#1}}$}
+\setcounter{chapter}{2}
+\setcounter{section}{-1}
+\pagestyle{plain}
+\graphicspath{ {figures/} }
+
+\begin{document}
+\chapter{Energy, Heat, Temperature and Light}\label{chap:3_EQTL}
+\date{\today}
+\author{Larry McKenna\\Department of Physics and Earth Sciences\\Framingham State University}
+\title{}
+\maketitle
+\section{Epigraph}
+\epigraph{Energy is eternal delight}{William Blake (1757---1827), \textit{The Marriage of Heaven and Hell}, The Poetical Works, 1908.} 
+\epigraph{Besides energy, no other general concept finds application is all domains of science....In the last analysis,everything that happens is nothing but changes in energy.}{Wilhelm Ostwald (1853---1932), Translated by Robert Bruce Lindsay, 1976, Applications of Energy: Nineteenth Century (Benchmark Papers on Energy, V2), John Wiley \& Sons}
+
+\section{Core Concepts}
+\begin{itemize}
+	\item	Energy is the ability to do work, to move something against a force opposing the motion. The movement of air, water and rock require the input of energy.
+	\item	Heat is energy flowing from a place of higher temperature to a place of lower temperature. Heat flows through and between Earth's various spheres through four mechanisms: radiation, convection, advection and conduction.
+	\item	Temperature is a measure of the average energy of the molecules in a system. Temperature is measured on several scales: conversion between scales is an oft-required skill.
+	\item	For interesting reasons, energy, heat and temperature are wrapped together in the color of light an object emits. Not all objects are hot enough to emit visible light, but all objects in the Universe emit light, and we can tell the temperature of these objects, whether they are across the room or across the Universe.
+	\item Earth's spheres interact to form Earth's climate. These interactions are driven by energy, most of which is supplied by the Sun. Understanding the magnitude, mechanisms and implications of this solar energy is the core goal of this book.
+\end{itemize}
+
+\section{Opening Problem}
+Find Earth's most extreme climate condition, and likely you'll find a human habitation near-by (Figure \ref{fig:humans_thrive}). Humans are a technologically adept species, and we have used our tool-making abilities to inhabit every continent, every elevation from 100 m below sea level in the Dead Sea Rift to 5000 m above sea level on the Tibetan Plateau, and in every climate from the desiccating heat of Death Valley, California to the perennial frigidity of Amundsen-Scott Station, Antarctica. Our species' comfort with Earth's diverse and dynamic climate is hardly surprising; we evolved here after all. But what is climate, and what controls it? Why is Earth's surface temperature so different than that of our nearest neighbors in the Solar System, Venus (where lead melts to a liquid) and Mars (where $CO_2$ freezes as snow)?
+ 
+\section{Isolated, closed, and open: A brief description of Earth's place in the Universe}
+\subsection{Systems}
+The Universe is a pretty big place; fortunately understanding Earth's climate requires us to understand only our miniscule corner of the Universe, a corner we'll call the Sun-Earth system. \textbf{A system is a set of interacting parts, separated from the rest of the universe by boundaries in space or time.} Systems can have sub-systems, which in turn can have sub-sub-systems, and so on. Perhaps you have read of the little ditty by Augustus De Morgan \footnote{De Morgan, A. (2015). A budget of paradoxes. Cambridge University Press. See \href{http://articles.latimes.com/1987-03-25/news/vw-191_1_fleast}{link}, accessed 16 January 2016}
+\begin{quotation}\noindent\textit{Great fleas have little fleas upon their backs to bite 'em,\\
+	And little fleas have lesser fleas, and so ad infinitum.\\
+	And the great fleas themselves, in turn, have greater fleas to go on,\\
+	While these again have greater still, and greater still, and so on.}
+\end{quotation}
+For the Sun-Earth system, the ``greater fleas'' might consist of the entire Solar System, then the Milky Way galaxy, and so on to the entire universe. Limiting ourselves to the Sun-Earth system and its many ``lesser fleas'' will keep us well-occupied.\\ 
+For our purposes, there are only three types of systems: isolated, closed, and open. Each is characterized by the ability of energy and matter to enter or leave the system. In an \textbf{isolated} system (Figure \ref{fig:sys_types} upper pane), neither energy nor matter can cross the system’s boundaries, either in or out. Truly isolated systems are hard to find, and even less interesting to study, because technically you can't observe them from the outside! The Universe is most likely a perfectly isolated system, and we will often assume that small regions of Earth are ``mostly isolated'' under special circumstances. More common are \textbf{closed} systems (Figure \ref{fig:sys_types} middle pane), which allow energy but not matter to flow through the boundary. The Earth is an excellent example of a closed system, with energy flowing into Earth from the Sun and out from Earth to ``space.'' Closed systems are readily understandable and abundant throughout the Universe. Finally, \textbf{open} systems (Figure \ref{fig:sys_types} lower pane) are those that have both energy and mass passing through the boundaries. Such systems are complex, and largely beyond the level of this book. Organisms are excellent examples of open systems.\\
+
+With one exception (cosmic rays, discussed in Chapter 13) nothing we examine in this book lays outside the boundaries of the closed Sun-Earth System, as schematically illustrated in Figure \ref{fig:sun_earth_sys}. The flow of energy from the Sun to Earth is a transfer within the system; both the Sun and Earth radiate energy out of the system. No appreciable energy enters the system from the outside. By definition, our closed system allows no flow of matter---``stuff''---into or out of Earth. This is a reasonable assumption for most of the last 4 billion years the system has been operating. Meteors---sand grain-sized pieces of asteroids from outside our Earth-Sun system---may seem to violate our assumption. But despite their dramatic appearance in the night sky, they don't add up to much material \footnote{Gardner, Chester S., Liu, Alan Z., Marsh, D. R., Feng, Wuhu, Plane, J. M. C., Inferring the global cosmic dust influx to the Earth's atmosphere from lidar observations of the vertical flux of mesospheric Na, Journal of Geophysical Research: Space Physics, 119 (9) DOI 10.1002/2014JA020383}: about 60 metric tonnes per day ($\SI{60}{\tonne\per\day}$, or roughly 66 US tons/day). Sounds like an enormous amount, but if spread evenly over the planet, one day's deposition amounts to less than one billionth of the thickness of a piece of paper, far less than 0.05\% the radius of a small atom! Our ``closed system'' assumption is a good one.
+
+\subsection{Earth Systems are the 6 Spheres}
+Understanding Earth's workings in general and climate in particular is possible because Earth is a system of systems: the Six spheres introduced in Chapter 1. Interactions between the spheres create complex and often unpredictable conditions that feedback on themselves to create the rich and changing planet we inhabit. As sketched in Figure \ref{fig:6_spheres} these interactions are flows of energy and matter between the spheres. Understanding these interactions is understanding Earth. The Anthroposphere overlaps and intersects the five natural spheres, indicating its profound influence on the spheres' interactions and Earth's natural processes, including climate. That climate is changing at rates not seen for millions of years. We have to understand that change, its causes, magnitudes and most importantly its consequences. \textbf{And that means we need to understand energy, heat and temperature.}
+
+\section{Matter}
+Wave your hand around. Go ahead, back and forth a few times. Feel the air flowing around your fingers, ruffling the hairs on the back of your hand? You can't see the air, but clearly something is there. If you need more proof, grab a bike pump, and try inflating a tire to a 100 psi (pounds per square inch). The pump works by forcing air from the atmosphere into the tire through a one-way valve. As you put more and more air into the tire, you'll find the effort you expend adding the next bit gets increasingly difficult. Air is ``stuff,'' it has mass and volume, and forcing more air into a small volume takes effort. That effort, of working against the air pressure in the tire, takes energy.
+
+\subsection{Matter is ``stuff''}
+Matter is anything in the Universe, like air, that takes up volume and consists of atoms or its constituent parts\footnote{This ignores \emph{Dark Matter}, which makes up roughly 84\% of the matter in the Universe. \href{https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy}{Link}, accessed 16 June 2017}. Matter has mass---the resistance to being accelerated---which is a very different concept than weight. In Earth's natural spheres, matter is made up of atoms, which in turn consist of a nucleus surrounded by a field of electrons. You almost certainly recall the model of the atom you saw in high school: little electrons whizzing around a nice, round nucleus in which lay orange protons and purple neutrons. Like all scientific models, this one is an approximation, and we will need a better approximation to understand climate.
+
+\subsubsection{Atoms and their constituents}
+\paragraph{Electrons}
+A better model of the atom begins with the negatively charged \emph{electrons}, which act not so much as particles but as waves, vibrating restlessly around the nucleus. In Figure \ref{fig:matter_struct}, the space all those wavy electrons occupy are shown as semi-transparent gray spheres, occupying all the volume around and within the nucleus. When isolated from atoms, electrons behave more like particles, but with no physically measurable size. All electrons have a single negative electrical charge, and have a mass about 1/1800 that of a proton. The electron cloud around a nucleus is more than 20,000 times wider than the nucleus\footnote{Krane, Kenneth S., Introductory Nuclear Physics, Wiley, 1987.}. At the scale of Figure \ref{fig:matter_struct}, the outer edge of the atom’s electron cloud would be \SI{150}{m} (roughly 450 feet) away from the nucleus shown in the figure! Take a finger and push it into the palm of your other hand. The feeling you get from your nerves, that feeling of pressure and tension, is due to interactions between the electron clouds of the astronomical number of carbon atoms in your skin. Those same clouds determine the chemical reactivity of an atom, more so than the much heavier but smaller nucleus. The small mass and large electric charge of electrons makes them reactive to light. This reactivity plays a central role in every topic of this book. 
+
+\paragraph{Protons, neutrons and the nucleus}
+The nucleus contains over 99.96\% of the mass of an atom, but less than a trillionth of the volume. The tiny nucleus consists of positively charged \emph{protons} and electrically neutral \emph{neutrons}. Not all combinations of protons and neutrons form stable atoms. With the exception of hydrogen, stable nuclei have about 30\% more neutrons than protons, an excess that helps hold the nucleus together. The number of protons and electrons in atoms is the same, so atoms have no net electrical charge.\\
+\paragraph{Atoms, elements and isotopes}
+``An atom'' refers to a single, identifiable piece of matter. The average person consists for example of approximately $2.5x10^{27}$ atoms, most of which are hydrogen, the majority of the rest oxygen and carbon. All atoms of a given element have the same number of protons in their nucleus; this feature of an atom defines its elemental nature. Think of elements, such as hydrogen, oxygen and carbon, as classes or ``brands'' of atoms. Remove a proton from an atom and you change it into a new element. The Periodic Table (Figure \ref{fig:pt}) lists the natural and artificially-made elements in a form reflecting the organization of electrons around the nucleus. One of the remarkable truths of the Universe is that only 92 naturally occurring elements make up the Universe we know. Yet, 99\% of the Universe is made of just two elements: hydrogen and helium (See Figure \ref{fig:elem_abund}). We'll find in Chapter 5 that only six elements make up 99\% of Earth. Know them, and carbon, and you know 99\% of Earth.\\
+
+All atoms of a given isotope have the same number of protons; this number defines both the type of element and the element's atomic number. Atoms have the same number of electrons orbiting the nucleus as protons within, making atoms electrically neutral. Unlike the other sub-atomic particles, the number of neutrons can vary between atoms of elements, reflecting the neutron's role as a stabilizer in the nucleus. These different forms, or flavors, of an element are called isotopes (See Table \ref{tab:isotopes}). Different isotopes are indicated by giving the total number of protons and neutrons as a superscript before the element symbol, and the number of protons as a subscript before the symbol: $\isotope[13][6]{C}$ means a C atom (all of which have 6 protons) and 7 neutrons.  Oxygen has three stable isotopes, carbon two, and aluminum just one. Carbon has a third, unstable isotope that many people have heard of:  the famous ``carbon 14''. Atoms of $\isotope[14][6]{C}$ are unstable because they have too many neutrons; the atom becomes more stable when one of those neutrons spontaneously decays to a proton (which stays in the nucleus) and an electron (which escapes the nucleus). This process is going on now, even as you read this sentence, in your own body, where 3000 to 4000 of your $\isotope[14][6]{C}$ atoms decay every second. This conversion of C atoms to a N atom happens at a consistent rate, and so can be used to tell the age of relatively recent organic material. Different isotopes of the same element also have slightly different masses, differences which lead to slightly different behaviors. This makes isotopes a powerful tracer, or proxy, of Earth processes.\\
+\begin{table}
+\begin{center}
+\caption{Elements and Isotopes} \label{tab:isotopes}
+
+\begin{tabular}{@{}cccccc@{}} \toprule
+Isotope & Protons & Neutrons & Electrons & Abundance  (\%) & Mass (amu)\\ \midrule
+\multicolumn{6}{c}{Carbon} \\ 
+\midrule
+\textsup{12}C & 6 & 6 & 6 & 98.9 & 12 \\
+\textsup{13}C & 6 & 6 & 7 & 1.1 & 13 \\ 
+\midrule \addlinespace[.4em]
+\multicolumn{6}{c}{Oxygen} \\ 
+\midrule
+\textsup{16}O & 8 & 8 & 8 & 99.76 & 16 \\
+\textsup{17}O & 8 & 9 & 8 & 0.04 & 17 \\
+\textsup{18}O & 8 & 10 & 8 & 0.20 & 18 \\ 
+\midrule \addlinespace[.4em]
+\multicolumn{6}{c}{Aluminum} \\ 
+\midrule
+\textsup{27}Al & 13 & 14 & 13 & 100 & 27 \\ 
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+
+
+\paragraph{Molecules}
+Most of the carbon atoms in your body are found in \textbf{molecules}, the next order of matter up from an atom. Molecules consist of two or more atoms of one or more elements, typically joined by shared electrons. The methane molecule portrayed in the left of Figure \ref{fig:matter_struct} consist of one carbon atom (in black), and four hydrogen atoms (in white). An unfortunate short-hand used by just about every scientist is to call both elements and molecular gasses made of those elements the same thing. So for example two bound atoms of nitrogen (N) form nitrogen gas ($N_{2}$). The trick to understanding which level of substance is at issue is the context: on Earth, most substances are found in molecules, not as individual atoms.
+
+\paragraph{States}
+At the temperatures and pressure of Earth's surface, matter naturally exists in three states, or phases: \textbf{solid, liquid and gas}. (A fourth state, plasma, is important in areas of high temperature, such as the Sun, but will not concern us.) Water, for example, exists as liquid water, solid ice and gaseous water vapor at all times on Earth. Changes between the phases are physical, not chemical, changes. For example, when water evaporates, the bonds between oxygen and hydrogen atoms \emph{within} the molecule are not broken. Instead, the relatively weak bonds \emph{between} the molecules are broken, allowing the molecules to separate. Evaporation, melting and sublimation (see Figure \ref{fig:phase_changes}) all require addition of energy into the system. This isn't the same thing as making the system hotter! As we'll see in Chapter 5, most melting of rock to form magma happens while the rock cools. Because condensation, deposition and freezing release energy into the surrounding environment, phase changes can move considerable energy around the earth. The classic example is a hurricane. Hurricanes are driven by evaporation of warm water from the ocean; the water vapor then rises into the atmosphere and condenses as rain, releasing the energy 5-10 km above the surface. The energy released by just one hurricane is 70 times the total human energy production during the same time! \footnote{Chris Landsea, National  Hurricane Center,  D7) How much energy does a hurricane release?, http://www.aoml.noaa.gov/hrd/tcfaq/D7.html, accessed 02 October 2016}.
+
+\section{Energy, Heat and Temperature}
+Energy is a surprisingly new concept in science, with connections to Victorian literature (think Frankenstein's monster) and the Industrial Revolution (think steam engines)\footnote{Gold, B. J. (2012). \textit{ThermoPoetics: energy in Victorian literature and science}. Cambridge, MIT Press.}. Newton dismissed energy as unimportant (he was wrong), Albert Einstein immortalized energy as $E=mc^2$ (he was right), but Nobel-prize winning physicist Richard Feynman said it best: ``we have no knowledge [of what] energy is. Energy is a very subtle concept\footnote{\textit{The Feynman Lectures on Physics}, 1964, Volume I; lecture 4, ``Conservation of Energy'' section 4-1.}. It is very, very difficult to get right\footnote{``What is Science?'' The Physics Teacher, 7(6), 1969, p. 313-320}.'' We need to get right with what energy is (Figure \ref{fig:turner_cute_little_bunny}) before we can discuss how it moves and subsequently changes Earth's temperature.
+
+\subsection{Energy}
+\subsubsection{Energy is the ability to do work}
+Energy is ability to do things, to raise a mass against gravity, to slide rocks against friction, to expand gasses against the weight of the overlying atmosphere, to warm an object. A formal definition is that \textbf{energy is what allows work to be done}, where work is the action of moving an object against an opposing force. For us a simpler definition can work: \textbf{energy is ultimately what causes one part of Earth to move relative to another}.
+
+\subsubsection{The Size of Energy}
+Get accustomed to energy by finding a filled one-liter bottle of water. Lift it $\SI{10}{\centi\metre}$ (about 4 inches), pause, and then lower the bottle gently to its initial location. That action requires energy, because you were moving the water against gravity. The amount of energy you used (in each direction) was $1$ Joule, symbolized as  $\SI{1}{\joule}$. This is the same amount of energy consumed in one heartbeat. An average college-aged person walking at average speed on level ground uses $\SI{100}{\joule/second}$ as they walk\footnote{V. Smil, \textit{Energy in Nature and Society}, 2008, Cambridge, MIT Press, pg. 135}. That same person should consume\footnote{HHS/USDA Dietary Guidelines for Americans, 2010} about 2400 ``Calories'' per day, which is equivalent to $\SI{1d7}{\joule/day}$. \\
+
+Understanding climate requires understanding energy, and that means we need a scale, a \emph{joulestick}, for energy. Table \ref{tab:joulestick} lists the energy of various natural and man-made events. The energies range from the relatively small (the solar energy hitting $\SI{1}{\meter\squared}$ of area at the top of Earth's atmosphere) to the almost incomprehensibly large (the total solar energy absorbed by Earth in one year). Values of this magnitude and range are difficult to understand, let alone use, so the third column of Table \ref{tab:joulestick} provides a useful way of scaling these numbers. As noted above, the average young adult consumes about $\SI{1d7}{\joule/day}$ of energy each day. Assume that in an instant of maniacal effort you expend that amount of energy in 1 second of time. Then the energy in a ton of crude oil would represent 1 hour, and the total energy in all easily extractable fossil fuels represents $\SI{130}{\mega\year}$. While using this book, use Table \ref{tab:joulestick} to put energy into a context that you can use. For example, the next time you sit down to dinner, think about (but do not try!) to eat a day’s worth of food in 1 second. If you did that, the annual amount of solar energy absorbed by Earth represents 12 billion years, or roughly the age of the Universe. The sheer magnitude of this values indicates that energy flow between Earth's spheres is dominated by solar energy. \\
+
+\begin{table}
+\begin{center}
+		\caption{The joulestick: a scale for measuring energy} \label{tab:joulestick}
+		\begin{tabular}{@{}lll@{}} \toprule
+			Event or Action & Energy (\si{joule}) & Analogous Time\\ \midrule
+			Global Annual Absorbed Solar Energy								& \num{4d24}	&\SI{12}{\giga\year}\\
+			Global Proven Fossil Fuel Reserves								& \num{4d22}	&\SI{130}{\mega\year}\\
+			Global Annual Net Energy Production								& \num{3d21}	&\SI{11}{\mega\year}\\
+			Global Annual Energy Consumption	  							& \num{5d20}	&\SI{1.7}{\mega\year}\\
+			US Annual Energy Consumption	      							& \num{1d20}	&\SI{330}{\kilo\year}\\
+			Strongest recorded earthquake (Chile 1960 05 22)	& \num{1d19}	&\SI{36}{\kilo\year}\\
+			US Daily Energy Consumption	        							& \num{3d17}	&\SI{900}{\year}\\
+			US Hourly Energy Consumption	      							& \num{1d16}	&\SI{37}{\year}\\
+			US Minutely Energy Consumption	    							& \num{2d14}	&\SI{7}{\month}\\
+			Atomic bomb dropped on Hiroshima	  							& \num{6d13}	&\SI{2}{\month}\\
+			Coal in a 100 ton railroad car	    							& \num{3d12}	&\SI{3}{\day}\\
+			1 ton of oil	                      							& \num{4d10}	&\SI{1}{\hour}\\
+			1 ton TNT	                          							& \num{4d09}	&\SI{7}{\minute}\\
+			1 Person's Daily Food Consumption	  							& \num{1d07}	&\SI{1}{\second}\\
+			Sunlight on $\SI{1}{\meter\squared}$ in 1 second, top of atmosphere	  & \num{1d03}	&\SI{0.1}{\milli\second}\\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+
+\subsubsection{Potential and Kinetic Energy}
+For our purposes, all energy can be classified as either potential or kinetic energy. \textbf{Kinetic energy is that contained in the motion of an object}, and is proportional to the square of the object's speed. Any object at rest has zero kinetic energy, a detail that will become important when we discuss temperature. Objects that vibrate, such as the bob of a pendulum or an atom in a molecule, have kinetic energy, too. \textbf{Potential energy is that stored in an object}, by virtue of its position (a rock perched high above a valley floor) or chemical structure (the energy stored in the bonds of a sugar molecule). Unlike kinetic energy, potential energy has no ``zero'' point. There's always somewhere lower a system can fall. Motion of water, air, rock and ice on Earth typically involves the exchange of one form of energy into another: as a raindrop $\SI{100}{\meter}$ above Earth's surface falls ground-ward, its potential energy is converted into kinetic energy, some of which is passed to molecules within the atmosphere, raising their temperature ever so slightly. And for us, this connection between kinetic energy and temperature is crucial.
+
+\subsection{Temperature}
+\subsubsection{Temperature is the average kinetic energy of particles in a system}
+Humans have a curious relationship with temperature, and always have. Perhaps the relationship is in our very DNA. Evolutionary biologist Daniel Liberman\footnote{Lieberman, D. E. (2014). Human Locomotion and Heat Loss: An Evolutionary Perspective. In R. Terjung (Ed.), Comprehensive Physiology (pp. 99–117). Hoboken, NJ, USA: John Wiley \& Sons, Inc. https://doi.org/10.1002/cphy.c140011} has hypothesized that the earliest human's behaviors of ``long distance walking and running created a selective advantage for [early humans] to dump heat effectively in hot, arid conditions....Humans are the sole species of mammal that excels at long distance trekking and running in extremely hot conditions. No horse or dog could possibly run a marathon in $\SI{30}{\degreeCelsius}$'' ($90^{\circ}$ F). Even though toleration of high temperatures is in our genetic structure, humans ability to sense temperature is not particularly good. When we touch something that we think feels ``cold'' we are actually sensing energy flowing from our fingers to the object, what we feel as ``hot'' is just our skin sensing energy flowing, perhaps too quickly, into the body. So most humans have a somewhat muddled understanding of temperature.\\
+
+\emph{Temperature is a measure of the average kinetic energy of the molecules or atoms in a system of interest}. This kinetic energy is contained in both translational (straight line) motion and vibrational motion (shaking) of the particles. Picture a tall glass of ice water, slowly being stirred to keep it well mixed. Both ice and water will be at the same temperature, and so water molecules in the liquid will have, on average, the same kinetic energy as the water molecules bonded together in the ice. Molecules in the liquid water will be translating and vibrating, while water molecules in the ice will just be vibrating. Many students incorrectly associate temperature with some concept of the amount or concentration of heat in an object. A simple thought experiment shows this interpretation must be wrong. Take an object with a uniform temperature and split it in two. Both halves will still have the same temperature as the original object, even though splitting the object should have ``split the heat'' in the objects as well. 
+
+\subsubsection{Temperature scales and temperature changes}
+Recognition of temperature as kinetic energy brings a startling revelation. An object whose particles are moving at high velocity will have a high temperature, which is simple enough. But now conduct a thought-experiment: what happens to the temperature of the object as the particles slow down? As the particles begin to slow, the system's temperature must decrease. But there is a lower limit to velocity: 0. Particles can't go slower than stopped, which means there must be a point at which temperatures can go no lower: absolute 0. On the Fahrenheit scale used in the United States, absolute 0 comes in at approximately $-459.7^{\circ}$ F.
+
+\paragraph{Temperature Scales}
+Unfortunately, that Fahrenheit scale is a problem. Fahrenheit's genius was building the first accurate mercury thermometer; his failure was choosing odd things to calibrate it. On the Fahrenheit scale, water at Earth's surface freezes at $32^{\circ}$ F and boils at $212^{\circ} F$, for a range of $180^{\circ} F$ between the two points. The metric system uses a more rational and reproducible scale for measuring temperature, defining the freezing point of water as $\SI{0}{\degreeCelsius}$ and boiling at $\SI{100}{\degreeCelsius}$, for a range of $\SI{100}{\degreeCelsius}$. One degree on the Celsius scale is thus equivalent to 1.8 degrees on the Fahrenheit scale. As shown in Figure \ref{fig:temp_scales} and Equation \ref{eqn:c2f}, the oft (but unfairly!) loathed conversion formula between Fahrenheit and Celsius scales simply reflects these scale choices. That formula is 
+	\begin{equation}
+	\label{eqn:c2f}
+	F=\frac{180}{100}\cdot  C+ 32=\frac{9}{5}\cdot C+ 32=1.8\cdot C+ 32
+	\end{equation}
+	
+On the Celsius scale, absolute 0 comes in at approximately $\SI{-273}{\degreeCelsius}$, which is still an arbitrary value. The Kelvin temperature scale fixes this problem, calling absolute zero $\SI{0}{\kelvin}$. (Note the lack of a degree sign in the Kelvin scale.) The Kelvin scale uses the same ``size'' of a degree as the Celsius scale, it just starts at absolute zero. Temperatures on the Kelvin scale are ``natural'' in the sense that they measure the temperature from a physically real 0. We will use both the Kelvin and Celsius scales in this book, and the ability to convert between them, and to the more familiar Fahrenheit scale is important. Table \ref{tab:t_conversions} gives the precise conversions, and a handy scale of equivalent temperatures.
+
+\begin{table}
+\begin{center}
+\caption{Temperature Conversions} \label{tab:t_conversions}
+
+\begin{tabular}{@{}lccc@{}} \toprule
+From/To & Fahrenheit ($^{\circ} F$) & Celsius ($^{\circ} C$) & Kelvin ($K$)\\ \midrule \addlinespace[.4em]
+Fahrenheit ($^{\circ} F$) & - & $C=\frac{5}{9}\cdot\left(F-32\right)$ & $K=\frac{5}{9}\cdot F+255$\\ \addlinespace[.4em]
+Celsius ($^{\circ} C$) & $F=\frac{9}{5}\cdot C+32$ & - & $K=C+273$\\ \addlinespace[.4em]
+Kelvin ($K$) & $F=\frac{9}{5}\cdot K-460$ & $C=K-273$ & -\\ \midrule
+\multicolumn{4}{c}{Examples of Representative Temperatures} \\ \midrule 
+Sun's Surface \href{http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html}{NASA}   				& 9945	&	5507	&	5780\\
+Global Record High \href{http://wmo.asu.edu/world-highest-temperature}{WMO} 		  & 134		& 56.7	& 330\\
+US Average Summer High \href{http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tmax/1/08/1895-2015?base_prd=true&firstbaseyear=1901&lastbaseyear=2000}{NCDC/NOAA}	& 87		& 31		& 304\\
+Global Average Surface		& 59		      & 15		&	288\\
+US Average Winter Low \href{http://wmo.asu.edu/world-lowest-temperature}{WMO}	  & 20		& -7		& 266\\
+Global Record Low \href{http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tmin/1/01/1895-2015?base_prd=true&firstbaseyear=1901&lastbaseyear=2000}{NCDC/NOAA}			  & -129	&	-89.2	& 184\\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+A convenient and reasonably accurate approximate formula for quickly converting from Celsius to Fahrenheit is
+	\begin{equation}
+	\label{eqn:c2f_appx}
+	F\approx 2 \cdot  C+ 30
+	\end{equation} 	
+This approximation is an easy way of converting temperatures ``on the fly,'' and is never off by more than $7^{\circ} F$ for temperatures typical of Earth’s surface.
+
+\paragraph{Temperature Changes}
+One last peculiarity of temperature conversions. The majority of climate studies involve changes or differences in temperatures, so much so that climatologists (and we) will use the Greek letter delta ``$\Delta$'' to mean a change or difference in a quantity. For example, global surface temperatures have, on average, changed by $\SI{0.8}{\degreeCelsius}$ between 1880 and 2018 CE. What is this temperature change expressed in Fahrenheit? Many students will na\"ively use the formula in Table \ref{tab:t_conversions}, or the shorthand Equation \ref{eqn:c2f_appx}, and confidently but incorrectly state that the difference is
+\begin{align}
+\label{eqn:wrong_dT}
+\begin{split}
+	\Delta F&=\frac{9}{5}\cdot  \Delta C+ 32\\
+	\Delta F&=\frac{9}{5}\cdot  \Delta 0.8+ 32\\
+	\Delta F&=33.2^{\circ} F\\
+\end{split}
+\end{align}
+
+The actual procedure is 
+\begin{align}
+\label{eqn:correct_dT}
+\begin{split}
+	\Delta F&=\frac{9}{5}\cdot  \Delta C\\
+	\Delta F&=\frac{9}{5}\cdot  \Delta 0.8\\
+	\Delta F&=1.4^{\circ} F\\
+\end{split}
+\end{align}
+
+The correct conversions of $\Delta T$ (between any scales) omits any addition or subtraction term. Only multiplicative terms, which reflect differences in the ``size'' of the degree, matter. An analogy helps explain why. Imagine paying \$10 for a \$9 item, and \$100 for a \$99 item. The difference in either case is \$1. Had you paid the bills with quarters, you would have received 4 quarters back in each case. Figure 3.07 shows another explanation of the concept, and Table \ref{tab:t_change_conversions} gives the conversion formulas. The importance of temperature changes in the study of climate change, and of converting such changes to more comfortable units, will prove important throughout the book.  
+
+\begin{table}
+\begin{center}
+\caption{Temperature Change Conversions} \label{tab:t_change_conversions}
+\begin{tabular}{@{}lccc@{}} \toprule
+From/To &  $\Delta ^{\circ} F$ & $\Delta ^{\circ} C$ & $\Delta K$\\ \midrule \addlinespace[.4em]
+$\Delta ^{\circ} F$ & - & $\Delta C=\frac{5}{9}\cdot\Delta F$ & $\Delta K=\frac{5}{9}\cdot\Delta F$\\ \addlinespace[.4em]
+$\Delta ^{\circ} C$ & $\Delta F=\frac{9}{5}\cdot \Delta C$ & - & $\Delta K=\Delta C$\\ \addlinespace[.4em]
+$\Delta K$ & $\Delta F=\frac{9}{5}\cdot \Delta K$ & $\Delta C=\Delta K$ & -\\ \midrule
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+
+\subsection{Heat}
+\subsubsection{Heat is energy flowing from here to there}
+Rid yourself of all preconceptions you have about heat. Heat is a tough concept, and the history of the study of heat has filled many a book. Fortunately, a modern understanding of heat is straightforward: \textbf{heat is energy moving from one place to another}. A fundamental observed regularity of nature is that heat naturally moves from an area of higher temperature to an area of lower temperature, never the other way around \footnote{A small technicality: the \emph{net} heat flow is always from hotter to colder.}. Refrigerators and air conditioners can break this law only because they are plugged in to an electrical outlet. The substantial energy they consume is required to move heat the ``wrong'' way. Nature is easier. Heat moving naturally into a system will do work on the system, increase its temperature, or both. Either way, the natural movement of heat will always be to average the temperature of all objects in a system. Figure \ref{fig:sun_earth_sys} now has increased meaning: Earth's average temperature must be between that of the Sun and space, as shown in Figure \ref{fig:sun_earth_sys_temps}. The same rule of natural heat flow will apply on Earth as well. A reasonable hypothesis is that Earth is warmer at the equator and colder at the poles. So we expect heat will naturally flow poleward, and this correct supposition will end up explaining the vast majority of Earth's climatic behavior.
+
+\subsubsection{How does energy get from here to there?}
+Heat flows through one of four mechanisms, all of which you have experienced directly. All four mechanisms are important to some part of the Earth system, but two of them are crucial to every aspect of Earth’s operations. A ranked list of the four heat flow mechanisms would be \textbf{radiation, convection, advection and conduction}. We’ll explore each below.
+
+\paragraph{Radiation}
+Temperature, as we learned above, is just the average kinetic energy of the particles in a system or object. In most objects, these particles are just molecules, all of which are vibrating rapidly. The vibration of electrons in these molecules causes them to emit energy as electromagnetic radiation. All objects emit electromagnetic radiation, but objects hotter than roughly $\SI{1000}{\kelvin}$ emit light visible to the naked eye. This is easy to demonstrate: Find an incandescent light bulb with a visible filament, and turn the light on for a minute. Then turn off the light bulb, and watch the filament turn from bright yellow to a dull red and then finally appear to stop glowing. The filament is still hot and glowing, but in light of wavelengths humans can't see. Even your body emits radiation, as an infrared camera will easily demonstrate (Figure \ref{fig:Hand_IR}). Examples of heat flow by radiation are easy to find: sunlight falling on your face, the warmth on your hands from a fire, and fast-food tacos bathed in heat lamps are all examples of radiative heating in action. Open a Thermos or any insulated container and you'll notice the inner container is coated with a silvery metallic paint, which is designed to reflect the radiation from the liquid back in to the liquid to keep it warm or cold.
+Given that all objects with temperatures above $\SI{0}{\kelvin}$ radiate some energy, and that all objects in the Universe \textit{are} above $\SI{0}{\kelvin}$, all objects must radiate some energy. Go outside on a clear evening and look at the stars. What you see is the light radiated by the hot surfaces of those astronomically-distant suns. Dense hot objects, like stars and Earth, radiate and absorb energy perfectly, and so are called \textbf{black body radiators}. Their radiation not only contains heat; it contains information on their temperature as well. We'll investigate this important type of radiator further in the next section.
+
+\paragraph{Convection}
+Hot air balloons rise through the atmosphere because the density of the warmer air in the balloon is less than the density of the cooler air outside the balloon. This buoyancy force drives the balloon upward against the force of gravity. Convective heat transport happens in much the same way. \textbf{Convection occurs when a layer of fluid is heated from below or cooled from above.} The lower, warmer fluid is less dense than the overlying cooler fluid, and like the hot air balloon, the warmer fluid will rise through the colder material. As it rises, it cools, until it reaches the top of the layer, where it cools enough to sink and subsequently be replaced by warmer fluid continually rising from below. This process continues until the temperature difference between the upper and lower boundaries becomes small. The circulation of fluids during convection transports heat effectively, often in large, circulation loops as shown in Figure \ref{fig:convection_final}, panel C. These loops can form long rolls (Figure \ref{fig:convection_in_a_cup}.A) or cells (Figure \ref{fig:convection_in_a_cup}.B), and can even be found in a good, strong cup of coffee (Figure \ref{fig:convection_in_a_cup}.C). Even the apparently solid Earth undergoes convection. Over a time scale of millions to billions of years, Earth's mantle convects, exactly like a stiff liquid (Figure \ref{fig:convection_final}.D). As we'll see in Chapter 5, convection in the mantle is responsible for plate tectonics, which drives much of the Geosphere. Convection drives much of the motion in the atmosphere and oceans as well. Within Earth, convection is the predominant and most important mode of heat transport.
+
+\paragraph{Advection}
+\textbf{Advection is heat transport by the bulk movement of objects.} Think ice dropped in to a glass, or a cold air mass moving into an area behind a cold front. Figure \ref{fig:dust_africa} shows a plume of hot dry air blowing from northwest Africa out into the North Atlantic Ocean. This movement is not due to buoyancy, nor does the flow form a continuous, closed loop, which distinguishes advection from convection. Instead movement of material during advection is driven by a variety of other forces, often external to the moving material. Another important distinction is that convection always involves vertical motion, either against or with gravity. Advection isn't driven by buoyancy, and so advection can happen in any direction, most importantly in the horizontal.
+
+\paragraph{Conduction}
+\textbf{Conduction is heat transferred by the vibration of, or collisions between, atoms and molecules in an object}. Imagine a line of balls connected by springs, and begin shaking one end of the line. This shaking represents an increase in the kinetic energy of that portion of the material. Bonds between the particles, represented by the springs, will slowly spread the kinetic energy down the line. Slowly is the operative word: conduction is a slow way of moving heat, and is most important in solid materials. This means that conduction is of lesser importance in the atmosphere and oceans than the other mechanisms we've discussed. In fact, conduction is really only important for our understanding of the role of the lithosphere in plate tectonics.\\
+
+Ironically, conduction is probably the best-known form of heat flow, because it is important on human time and spatial scales. Take a look back at Figure \ref{fig:convection_in_a_cup}. Note the temperature of the spoon (at the 12 o'clock position) changes from warmer (represented by the green colors) to cooler (represented by the purple colors) along the length of the spoon. This is due to the conduction of heat along the spoon from the hot coffee into the cooler spoon. Different materials have different abilities to conduct heat, as anyone who has installed that annoying pink insulation in a house can attest. Insulation is designed to be a poor conductor, which is why installing it in a house is worth the annoyance. Window glass is an excellent heat conductor, and can be the single largest source of heat loss (or gain) in a building. Most modern building windows contain multiple layers of glass separated by a gas-filled gap. The gas is a poor conductor of heat, and reduces the heat lost or gained through the window. Such double- or tripled-paned glass is expensive to install, but drastically reduces long-term heating and cooling costs for the building.
+
+\subsubsection{Three fundamental observations integrate energy, heat and temperature}
+\paragraph{Observation 1: Heat flows naturally from warmer to cooler areas}\label{obs_1}
+This simple idea is profoundly important to all of science, so much so that is enshrined as the Second Law of Thermodynamics. A physical ``law'' is just an observed regularity of nature, an actual exception to which has not been observed. There is no other physical law so often misunderstood and abused as this one. The Second Law states that the \textbf{net flow of heat is from warmer to cooler areas}. It does not mean that no heat flows from a cooler reservoir to a warmer one. Earth radiates a small amount of energy in all directions, some of which is intercepted by the Sun. But the Sun radiates far more heat to Earth, and so the net flow of heat is from the Sun and to Earth, by a factor of about 270,000!\footnote{After much canceling of common factors, the ratio is the ratio of the equilibrium temperatures, $T$, of the bodies as
+	\[ \left(\frac{T_{Sun}}{T_{Earth}}\right)^4 \] }
+
+\paragraph{Observation 2: An object or system at constant temperature has equal incoming and outgoing heat flow}\label{obs_2}
+This corollary to Observation 1 is clear to anyone who has tried to find a comfortable temperature while a passenger in a car or bus. The driver has the heat on high, so heat flow into the system is high. You in turn open a window to the colder exterior, allowing heat to flow out of the system, and maybe even allow some colder air to advect into the vehicle. The human body provides another example, although in this case some of the ``incoming'' heat is produced by the body. On a cloudy day you might be comfortably walking outside until the Sun pops from behind one of those clouds. The incoming solar energy warms your skin, and suddenly you are less comfortable. But this observation has global implications. Ignoring for the moment recent global warming, Earth has had roughly constant surface temperature for some time, which means Earth gets as much energy from the Sun as it emits into the vast cold of deep space, averaged over the long term.
+ 
+\paragraph{Observation 3: Anything that interrupts the flow of heat from a warmer object to a colder object will keep the warmer object warmer, longer.}
+Anyone who has used a blanket or sweatshirt can attest to this statement. That comforter you use on a cold night doesn't warm you---it has no source of energy. What that comforter does is reduce the rate at which heat radiates from your body into the surrounding colder air. That comforter is a poorly conducting layer between you and the cold air, which slows the loss of heat. The aluminized blankets one sees on marathon runners do essentially the same thing, although they prevent radiative loss as well. Fortunately for the well-being of life on Earth, our atmosphere acts the same way, slowing the rate of heat loss at the surface lie an invisible blanket. This is the origin of the Greenhouse Effect. 
+
+
+\section{Blackbody Radiation: What light and color can tell us about objects across the Universe}
+\subsection{Light as the way objects radiate energy}
+Electromagnetic radiation (which we'll abbreviate as EMR) is the formal name of what we casually call ``light''. Radio waves; infra-red, visible and ultraviolet light; and x-rays are all different parts of the electromagnetic spectrum. \textbf{EMR is emitted anytime an electron or other charged particle oscillates or is accelerated.} A Wi-Fi antenna, for example, emits radio waves when the electrons in the antenna oscillate in response to a signal from the unit. These radio waves propagate through the room until they hit your device’s antenna, where the process is reversed. The radio waves accelerate electrons in that antenna, and your device interprets the resulting electrical signals as a text message from a friend. Light is how electrons communicate. The connection between light and heat should be coming in to focus. Temperature is the average kinetic energy of a group of molecules, molecules that are vibrating to and fro, molecules which contain lots of electrons. So any object made of matter will constantly radiate away energy as light. We clearly need to understand light.
+
+Einstein won his Nobel Prize not for his discovery of Relativity, but for his description of the nature of light. His insight was that that light can act both as a particle and as a wave, a complication we can safely ignore. For us, light is a wave, with a wavelength that determines its energy and color. Wavelength is the distance between the same parts of two adjacent waves, a definition made much clearer by Figure \ref{fig:light}. Light exists in a spectrum with wavelengths from the infinite to the smallest conceivable size. Energy is inversely proportional to wavelengths, so shorter waves have more energy. Typical radio waves (such as those broadcast in the AM and FM bands) have wavelengths ranging from kilometers to a meter. At the high energy end of the spectrum are the short wavelength x-rays and gamma rays. X-rays are effective visualizers of bones and teeth because these types of light pass easily through soft-tissue of the body, interacting more strongly with the hard calcified tissues of your bones. But their high energy requires that exposure to them be limited to avoid damage to the body.
+
+Roughly in the middle of the electromagnetic spectrum lies the \textbf{visible spectrum}, the only part of the electromagnetic spectrum of our eyes can sense. The familiar ROY-G-BIV stretches from $\SIrange{390 }{ 750}{\nano\metre}$ wavelength, with blue light at the shorter and more energetic end of the visible spectrum. Above the blue end of the spectrum is the ultra-violet, or UV, part of the spectrum. The UV is relatively high energy light, as you know if you've ever had sunburn. Ultra-violet light is energetic enough to pass through the dead outer layers of skin and into the live cells just beneath. The UV light can damage the DNA in the cell's nucleus, killing off the cell and leading to peeling skin. Over exposure to UV light is the cause of skin cancer, the most common form of cancer in the United States\footnote{\href{https://www.cancer.gov/types/skin}{National Cancer Institute} accessed 21 June 2017}.
+ 
+Below the red end of the visible spectrum, and so at even lower energy, lies the infra-red (IR) portion of the spectrum. The IR happens to be the type of EMR radiated by the human body, as illustrated by the false-color photograph of Figure \ref{fig:Hand_IR}. This same photograph beautifully demonstrates the ability of some wavelengths of EMR to penetrate objects visible light cannot. Note that IR passes easily through both the trash bag and the subject's shirt, both of which are opaque to visible light. EMR is how electrons communicate, but electrons can only absorb light with appropriate energies. The molecules in the trash bag easily absorb the energy in visible light, but cannot absorb the lower energies of IR radiation, so the IR passes easily through the material. Human eyes apparently absorb the energy in visible light efficiently, and that's because some 4 billion years of evolution has adapted our eyes to see the portion of the spectrum in which the Sun emits most of its light. This, in turn, is determined by the Sun's surface temperature: Light, heat, temperature and color are all intertwined.
+
+\subsection{An object's temperature determines its color and spectrum of emitted radiation}
+\subsubsection{Color and temperature}
+Most people have gazed absent-mindedly into a hot fire and stared at the white-hot coals. Few may have come back hours later and recognized the now black and cool coals as the same that were glowing earlier. When hot, the coals glowed fiercely with whitish-blue color, but as they cooled they slowly faded to yellow, orange, a deep and dull red, and finally apparently stopped glowing at all. This recapitulation of the spectrum of visible light is no accident. We know now that temperature is just a measure of kinetic energy, and that the kinetic energy of the molecules in the hot coals was far higher than that in the cool coals. Unsurprisingly, hotter coals emit more, and higher energy light, which happens to have bluer colors and shorter wavelengths. Cooler coals emit longer wavelength, redder light. (Yes, this is exactly the opposite of the commonly used description of blue as a ``cool'' color and red as a ``warm'' color. Color is as much an artistic idea as a scientific one, probably to the consternation of both camps.) The color of light emitted by a glowing object is determined by its temperature, a relationship good \emph{anywhere} in the Universe. 
+
+\subsubsection{Color and spectrum}
+Not all molecules or atoms in a given object will all have the same energy. A few molecules or atoms will have much more energy than the average, while many more will have less energy than average. So real objects, even if they are of uniform temperature, will emit not just one wavelength of EMR, but a range, an entire spectrum. The wavelength of the average emitted EMR will be related to the average temperature of the object's surface, and hence to the color of the object. Think about the implications of this: the EMR emitted by any object in the universe carries with it information on the temperature of the emitter. In principle, we can measure the temperature of an object across the Universe, simply by looking at the spectrum of EMR it emits. This remarkable and useful behavior of matter is summarized in the concept of the Black-body Spectrum.
+
+\subsection{The Black-body Spectrum}
+\textbf{A ``black-body'' is simply an object that absorbs all EMR falling on it}. Observation 2 in Section \ref{obs_2} says that an object at constant temperature must absorb and emit energy at the same rate, so it should come as little surprise that a black-body also emits electromagnetic energy, and does so in a characteristic way. Our goal in this section is to use these concepts to calculate the average temperature of Earth's surface, using only the energy radiated from the Sun as an input. These same tools are being used by NASA to calculate the surface temperatures of planets orbiting distant suns. It's heady and important stuff.
+
+\subsubsection{Wein’s Law: the connection between Temperature and Color}
+We have already guessed that hotter objects should release more blue and energetic light than a cooler object. This relationship was first quantified by Wilhelm Wien, in 1893, the same year the first American-built gasoline-powered car hit the roads in Springfield, Massachusetts\footnote{Flink, James (1990). The Automobile Idea. MIT Press. p. 5. ISBN 0262560550.}. Wein's Law gives the relationship between the temperature of a black-body radiator and the wavelength of EMR the object emits most strongly:
+\begin{equation}
+	\lambda_{max}=\frac{\SI{2.9d6}{\nano\metre\kelvin}}{T}
+\end{equation}
+As we expect, wavelength is inversely proportional to temperature: as one increases the other decreases, as shown on Figure \ref{fig:weins_law}. Table \ref{tab:weins_results} gives the surface temperatures and the wavelength of peak emission for a few stars and other objects\footnote{Rigel: Przybilla, N., Firnstein, M., Nieva, M. F., Meynet, G., \& Maeder, A. (2010). Mixing of CNO-cycled matter in massive stars. Astronomy \& Astrophysics, 517, A38. \href{https://arxiv.org/abs/1005.2278}{ArXiv Preprint} Betelgeuse: Neilson, H., Lester, J. B., \& Haubois, X. (2011). Weighing Betelgeuse: Measuring the mass of alpha Orionis from stellar limb-darkening. \href{https://arxiv.org/abs/1109.4562}{ArXiv Preprint}}.
+
+\begin{table}
+\begin{center}
+\caption{Wein's Law in action: Temperatures and perceived colors}
+\label{tab:weins_results}
+\begin{tabular}{@{}lcccc@{}} \toprule
+Object & $T_{eff}$ (K) & $\lambda_{max}$ & Band & Color\\ \midrule
+Rigel	&12000	& $\SI{242}{\nano\metre}$ 	& UV	& Whitish-Blue\\
+Sun		&5780		& $\SI{502}{\nano\metre}$ 	& Visible	& White\\
+Betelgeuse	&3600	& $\SI{806}{\nano\metre}$ 	& IR	& Orange\\
+Lightbulb	&3000	& $\SI{967}{\nano\metre}$ 	& IR	& Orange\\
+Oven	&450	& $\SI{6.4}{\micro\metre}$ 	& Thermal IR	& Black\\
+Earth	&255	& $\SI{11.4}{\micro\metre}$ 	& Thermal IR	& Black\\ \bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}
+\centering
+\caption{Wein's Law in action: Temperatures and perceived colors}
+\label{tab:weins_results}
+
+\begin{tabular}{@{}lcccc@{}} \toprule
+Object & $T_{eff}$ (K) & $\lambda_{max}$ & Band & Color\\ \midrule
+Rigel	&12000	& $\SI{242}{\nano\metre}$ 	& UV	& Whitish-Blue\\
+Sun		&5780		& $\SI{502}{\nano\metre}$ 	& Visible	& White\\
+Betelgeuse	&3600	& $\SI{806}{\nano\metre}$ 	& IR	& Orange\\
+Lightbulb	&3000	& $\SI{967}{\nano\metre}$ 	& IR	& Orange\\
+Oven	&450	& $\SI{6.4}{\micro\metre}$ 	& Thermal IR	& Black\\
+Earth	&255	& $\SI{11.4}{\micro\metre}$ 	& Thermal IR	& Black\\ \bottomrule
+\end{tabular}
+
+\end{table}
+
+Because of the way the human eye works, we perceive the color of black-body radiators as a series from deep red to white to blue, as shown in Figure \ref{fig:weins_law}. If you happen to be reading this anytime from September to March, you can see the power of Wein’s Law for yourself by looking at the constellation Orion, which rides high in the sky during the Northern Hemisphere winter. Or, you can glance at Figure \ref{fig:Orion}, which shows an actual photograph of Orion in all its glory. In the upper left of the photograph is the red supergiant star Betelgeuse, a star so large that if it were placed at the Sun’s location, Mars, Earth, Venus and Mercury would all lie within the star. Match the color of Betelgeuse in the photograph to the colors-temperature relationship given in Figure \ref{fig:weins_law} and determine the stars’ temperature. You should get about $\SIrange{3300}{3600}{K}$ or so\footnote{Haubois, X., Perrin, G., Lacour, S., Verhoelst, T., Meimon, S., Mugnier, L., ... \& Millan-Gabet, R. (2009). Imaging the spotty surface of Betelgeuse in the H band. Astronomy \& Astrophysics, 508(2), 923-932.}. This star is so far away---640 light years\footnote{Harper, G. M., Brown, A., \& Guinan, E. F. (2008). A new VLA-Hipparcos distance to Betelgeuse and its implications. The Astronomical Journal, 135(4), 1430. }---that the light recorded in that photograph left the star in the year 1380 CE or so, and yet you can determine its temperature. Rigel, the star on the lower right of the photograph, is a brilliant blueish white. Its temperature is just as easily determined from Figure \ref{fig:weins_law}, at around 12,000 K. 
+
+\subsubsection{Planck’s Law: All Blackbody Spectra have the same shape}
+In the year 1900 CE, Max Planck announced\footnote{Planck, M. (1914). The Theory of Heat Radiation. Masius, M. (transl.) (2nd ed.). P. Blakiston's Son \& Co.} an astonishing discovery: the spectra of all black-bodies have the same ``shape,'' with a long tail at the low energy, long wavelength end, a peak as predicted by Wein, and then a quick drop-off at the high energy, short wavelength end of the spectrum. This spectral shape is shown in Figure \ref{fig:planks}, where you can see the spectra for objects ranging from $\SIrange{2000}{12000}{K}$. The circles on the curves give the location of the peak wavelength from Wein’s Law, as shown in Table \ref{tab:weins_results}. Note how each curve nestles neatly within its neighbors, with hotter objects emitting more, and bluer, light than cooler objects. Planck's law tells us that blackbody radiators radiate heat in a predictable and universal way. 
+\subsubsection{Stefan-Boltzmann Law: Hotter objects release more energy than cooler objects. Much more.}
+The final aspect of the heat flow from blackbody radiators we need to understand is the relationship between an object's surface temperature and the amount of heat it releases. While Figure \ref{fig:planks} shows qualitatively that hotter objects emit more heat than cooler objects, we need to quantify this relationship to understand Earth's climate. The relationship between the equilibrium surface temperature and the heat radiated by a blackbody radiator was first determined experimentally by Stefan (in 1879 CE) and theoretically by Boltzmann in 1884 CE. For an object with an equilibrium surface temperature $T_{eq}$, the amount of energy emitted, $E$, per square meter of area is
+\begin{equation}
+	E\propto T^4_{eq}
+\end{equation}
+``Proportional'' means that as the equilibrium temperature $T_{eq}$ increases, so too does E, the energy emitted. Anyone who has a job knows what proportional means: typically pay is proportional to hours worked. We can convert any proportion to an equation by inserting a ``constant of proportionality.'' For the work example, that constant is your rate of pay. The proportionality constant converts hours worked into money earned. So too for the Stefan-Boltzman Law. The proportionality constant, abbreviated with the Greek letter $\sigma$ (sigma), converts temperature into an energy, equal to $\SI{5.67d-8}{\watt\meter^{-2}\kelvin^{-4}}$.
+\begin{equation}
+	E=\sigma T^4_{eq}
+\end{equation}
+
+Note that temperature is raised to the fourth power. Doubling the temperature of an object means it will release $2^4=16$ times more energy! Figure \ref{} shows the heat radiated from an object the Sun's temperature is quite low, but the heat emitted by an object at $\SI{12000}{kelvins}$ is nearly 19 times as much. 
+
+\subsubsection{Why do we care about blackbody radiation anyway?}
+The three laws of blackbody radiation we just reviewed are powerful tools for understanding the Universe. But a more local application is more helpful: let us determine the Sun’s surface temperature. Simply from the color of the Sun’s light, Wien’s Law suggest that the Sun’s surface should be around $\SI{6000}{kelvins}$, an astonishingly easy and surprisingly accurate answer. But Planck’s law and the Stefan-Boltzmann Law will allow us to do better. Figure \ref{fig:solar} shows the Sun’s measured spectrum (in gray, determined from satellite observations) and the ideal black body spectra of objects at $\SI{5730}{kelvins}$, $\SI{5780}{kelvins}$, and $\SI{5830}{kelvins}$. What is your best estimate for the Sun’s temperature? While the Sun is not a perfect black body radiator, the spectra on Figure \ref{fig:solar} indicates the Sun has an effective temperature of $\SI{5780}{kelvins}$ (the yellow line in the Figure). We will use this value often enough to warrant memorizing it\footnote{Most sources (for example, \href{http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html}{NASA}) give $T_{eq}=\SI{5780}{kelvins}$. In keeping with the goal of accepting imprecisions of <1\%, I've rounded $T_{eq}$ to $\SI{5780}{kelvins}$, with an error of <0.03\%}. This value agrees nicely with our estimate of 6000 K from Wein’s Law and the Sun's apparent color, and represents our first step toward understanding Earth's surface temperature.
+
+Take a moment to find the boundary between the ultraviolet, visible and infrared radiation on the horizontal axis of Figure \ref{fig:planks}. The Sun's effective temperature is so low that nearly 50\% of its radiation is in the infrared part of the spectrum\footnote{This is the average power output from brute numerical integration of the E-490 and ASTM G173-03 top-of-atmosphere solar spectra models over the 120 nm to 1 mm interval with boundaries for the visual at 400 and 750 nm}. Only $44\%$ of the Sun's energy actually falls in the visible spectrum. This comparison is somewhat unfair; after all the visible part of the spectrum is narrow compared to the infrared. The concentration of light in that narrow visible band is what shapes Earth processes, including life.
+
+\section{Putting it all together: Earth's equilibrium temperature}
+\subsection{An equilibrium temperature for Earth}
+You don't need to precisely know Earth’s temperature to realize the Sun's surface is far hotter than that of our planet. So, Observation 1 from Section \ref{obs_1} tells us that the Sun will radiate energy to Earth, an unsurprising but now understood result. But Observation 2 (Section \ref{obs_2}) has a role to play as well: to first order, Earth's surface temperature changes (until recently) very slowly, so we must be in thermal equilibrium with the Universe. We must emit as much energy into space as we absorb from the Sun. Here's a thought experiment: How much warmer would Earth’s surface become if, for just one day, Earth were to absorb, but not emit one day's worth of solar energy? If that energy penetrates just \SI{1}{\metre} into the surface, the answer\footnote{Roughly, assume one day's solar irradiation is uniformly spread over a \SI{1}{\metre} deep layer of 75\% water and 25\% rock. Then  
+	$\Delta T=\Delta H/(c_p*mass)=\SI{1361}{\watt}\cdot \SI{86400}{\second}\cdot .3/(\SI{0.75}{\metre^3}\cdot\SI{4000}{\joule\kilo\gram^{-1}\kelvin^{-1}}\cdot \SI{1000}{\kilo\gram\metre^3} + \SI{0.25}{\metre^3}\cdot\SI{850}{\joule\kilo\gram^{-1}\kelvin^{-1}}\cdot \SI{2650}{\kilo\gram\metre^3})=2.5 K$
+See page 48 of notebook \#1.} is an astonishing $\SI{2.5}{\kelvin}$, or $4.5\ ^{\circ}F$! In one day! Clearly Earth is near thermal equilibrium.\\
+
+Near, but not at, which is why global warming is happening. The rate of global warming is roughly 0.1 K per decade. So you can already guess that the imbalance between incoming and outgoing heat can be tiny and yet still have an important climatological effect.
+
+\subsection{The factors that matter}
+Before we derive Earth's equilibrium temperature, let us sketch out our plan of action. We know from Observation 1 that heat radiated from the Sun to Earth warms our planet. We know from Observation 2 that Earth must emit just as much heat back into space. The only heat flow mechanism capable of removing heat from Earth to space is radiation, which means Earth will behave like a blackbody radiator, warming until its temperature is hot enough to radiate into space the same amount energy as it receives from the Sun. 
+\subsubsection{Insolation and the Solar Constant}
+The \textit{in}coming \textit{sol}ar radia\textit{tion} is given the lovely term insolation. At this time in the Sun's history, and at our distance from the Sun, the insolation we receive at the top of our atmosphere averages about \SI{1361} {\watt\per\metre^2} (W stands for a Watt, a unit of power, or rate at which energy is produced or consumed. A typical college student running up a flight of stairs in 2 seconds produces about 1361 W). This value is important enough to warrant its own term, the \emph{Solar Constant}, its own symbol, $S_0$, and a nod towards memorization. To visualize this amount of energy, take a large LED flood light, say one equivalent to a 90 W incandescent bulb. Plug it in, turn it on, close your eyes, and stare at it from about 10 inches away.  Now imagine that kind of bulb covering the entire side of the Earth facing the Sun. That’s how much energy the Sun provides the Earth.\\
+The Solar Constant applies only to Earth and only to now. As we will see later, the Sun is slowly getting brighter, by about 7\% per \textit{billion} years. The insolation a planet receives depends inversely upon the squared distance between the planet and the Sun, so Mercury, which is only 0.7 times as far from the Sun as Earth, receives almost twice the insolation Earth receives. The minor planet Pluto, over 50 times farther from the Sun than Earth, receives a paltry 1/2500th of the energy we receive. The otherwise scientifically-accurate movie \textit{The Martian} missed this point. On Mars, the Sun is less than half as bright as on Earth. The intrepid Matt Damon should have been walking around in what we would consider a semi-dark landscape.
+
+\subsubsection{Albedo, and why Peruvians are painting the Andes white}
+The story was oddly popular, and would be funny if it weren't so sad. In June of 2010 CE, the BBC published\footnote{http://www.bbc.com/news/10333304, published June 17,2010, accessed June 17, 2015} pictures of Peruvian Eduardo Gold painting a mountainside white, in an attempt to bring back the glaciers that supplied drinking water to his town's residents. Although his actions were widely derided, he was no crackpot: he had just won a \$200,000 prize from the World Bank for his proposal to return glaciers to that part of the Andes. His idea was rooted in the physics we have just been studying. The white paint, he reasoned, would reflect solar energy back into the atmosphere, thus reducing the temperature of the ground, and perhaps encouraging glacial regrowth. While his intervention will have only local effects on climate, the larger idea, that reflecting heat lowers temperature, is crucial to Earth's climate.\\
+Take Gold's experiment with paint and make it global. Imagine two planets, equidistant from the Sun. One planet is perfectly white, reflecting all energy falling on it. The other is perfectly black, absorbing all energy incident upon it. It makes sense that the highly reflective white planet would be colder than the highly absorbing black body, even though they receive the same insolation, because they don't absorb that energy equally. The proportion of energy hitting a planet that is reflected back into space is the planet's \emph{albedo}, from Latin \textit{albus} 'white'. Fans of the Harry Potter novels will have no trouble remembering that something white, like Albus Dumbledore's beard and hair, reflects all of the light hitting it.\\
+\begin{equation}
+	Albedo \equiv\frac{Reflected Energy}{Incident Energy}
+\end{equation}
+Albedo is the proportion of energy hitting a planet that the planet doesn't absorb. Earth's average albedo is about 0.30, which means Earth reflects about 30\% of the sun light falling on it. You must distinguish this reflected light from light Earth emits itself! This reflected sunlight is what makes Earth visible to the naked eye, or to camera in orbit around Earth or other planets (Figure \ref{fig:saturnearth}). A planet absorbs the proportion (1-A) of the light incident upon it. Venus has an albedo of about 0.9, so it reflects 90\% and absorbs the remaining 10\% of sun light falling upon it. The Moon has just the opposite behavior, with an albedo of 0.11, it is as dark as charcoal. It looks bright hanging in the night sky only because it is so much brighter than the surrounding blackness of space. 
+
+\subsubsection{Your Algebra teacher was right: it does help to know the formula for the area of a sphere}
+Finally we need to recognize one odd twist of geometry about how the Sun warms Earth's surface. The Earth is of course a sphere, but the Sun’s light falls on a disk of the same radius. Figure 3.19 shows a planet warmed by the Sun, which is off the edge of the figure to the left. That heat has to warm the entire planet, as shown by the dull red coloring of the planet facing away from the Sun. But light falls only on the apparent disk of the planet, as shown by the shadow of the planet in black on the right of the figure. A sphere has four times the surface area of a disk of the same radius, so on average a planet’s surface receives only $1/4$ of the insolation at the top of the atmosphere. 
+\subsection{Steven Hawkins be damned}
+Public speaking and doing math: two of the least favorite activities of college students. Alas, ability at public speaking and math also top the list of skills required by employers and graduate schools. So in figure \ref{fig:teqderivation} we derive the equilibrium temperature of Earth, using all of the information presented in the chapter. The math is on the left; a verbal description is on the right. Throughout E stands for energy, and all values refer to those for Earth, except for the insolation, $S_0$. So after a long pursuit, we have it: Earth's equilibrium surface temperature, $T_{eq}$, is \SI{255}{K}, \SI{-18}{\celsius}, or $-1^{\circ}$F. The more general result, applicable to any just about any object warmed by the light of a star, is
+\begin{equation}
+	T_{eq}=\left[\frac{S_0 \cdot (1-A)}{4 \sigma}\right]^{\frac{1}{4}}  \label{eq:teq}
+\end{equation}
+\subsubsection{What does it mean?}
+Understanding the relationship between insolation ($S_0$), albedo (A) and equilibrium temperature ($T_{eq}$) is crucial, and a brief look at how each term on the right of Equation \ref{eq:teq} contributes to the results is helpful. The quarter power in the equation means that large changes in insolation or albedo result in substantially smaller changes in equilibrium temperature. A whopping 1\% change in insolation or albedo will cause only $1/4$\% change in temperature. The surface temperature of a planet is resistant to change. Clearly an increase in insolation will tend to increase the surface temperature of a planet's surface (Figure \ref{fig:teqsensativity}, panel A). This makes sense: more energy received should lead to warming, and vice versa. The Sun's output has varied less than 0.1\% in recent times ($\pm \SI{1}{W/m^2}$), leading to essentially 0 direct change in Earth's temperature from changes in the Sun's output. Higher albedo leads to lower temperatures, because more energy is reflected back to space and hence less is available to heat the planet. As shown in Figure \ref{fig:teqsensativity}, Panel B, changes in albedo can produce significant changes in temperature, which is why Eduardo Gold's painting project had at least a little scientific credence. At least twice in Earth's history our planet has plunged into a ``snowball'' state, with glaciers covering the continents and even the oceans almost to sea level, even at the equator! Ice has a high albedo (0.7 if fresh) and so Earth’s surface may have been cold indeed.\\
+Calculating the equilibrium surface temperatures of all of the terrestrial planets is both good practice and another instructive way of understanding Equation \ref{eq:teq}. A table (Table {tab:teq}) helps to organize the analysis. The albedos of Mercury and the Moon are quite low, reflecting their lack of atmosphere and dark, basaltic crust. Both Mars and Earth have polar ice caps, clouds and varied surface types, which gives them intermediate albedos. Venus's thick layer of clouds, consisting of sulfur dioxide and droplets of sulfuric acid , reflect an astonishing 90\% of sunlight back to space. The high albedo and Venus' proximity to the Sun cause it to shine splendidly in Earth's twilight sky.
+\begin{table}
+\begin{center}
+\caption{Calculating the equilibrium temperatures of the Terrestrial planetss} \label{tab:teq}
+\begin{tabular}{@{}lccccccc@{}} \toprule
+Parameter	               &Symbol	 &Units	&Mercury	&Venus	&Earth	&Moon	&Mars\\ \midrule
+Albedo		               &A		   &-		    &0.07		  &0.90		&0.30		&0.11	&0.25\\
+Insolation               &S		   &W/m2	  &9130		  &2610		&1361		&1361	&590\\
+Equilibrium Temperature	 &$T_{eq}$&K		  &440		  &184		&255		&270	&211\\
+Average Temperature      &$T_{avg}$&K		  &440	    &737		&288		&270	&210\\
+Greenhouse Effect,$T_{avg}-T_{eq}$&$\Delta T_{GHE}$&K	&0 &553	&33	  &0	  &1\\
+Atmospheric Pressure &$P_{atm}$&bar	&0	&92	&1	&0	&0.01\\ \bottomrule
+\end{tabular}
+\end{center}
+\end{table}
+
+The Moon and Earth receive identical insolation, but have starkly different albedos. The Moon's darker surface and lower albedo means it absorbs 25\% more energy from the Sun than Earth does$\frac{E_{moon}^{abs}}{E_{earth}^{abs}}=\frac{(1-A_{moon})}{(1-A_{earth})}=\frac{0.89}{0.7}=1.27$. Accordingly, the Moon's $T_{eq}$ is \SI{270}{\kelvin}, about \SI{15}{\kelvin} warmer than Earth's equilibrium temperature. Mars and Earth have roughly the same albedos, but drastically different insolations. Mars receives about half the sunlight Earth does, and so its $T_{eq}$ is only \SI{210}{\kelvin}, \SI{45}{\kelvin} less than Earth's and colder than any temperature ever recorded on Earth's surface (see Table 3.02).\\
+\subsubsection{And why is it so wrong?}
+Let's make a final comparison and see how well our derived equilibrium surface temperatures compare to actual measured surface temperatures. Our calculated $T_{eq}$ are identical to measured average surface temperatures for some bodies (Mercury, the Moon), compare well for others (Mars) and are down-right terrible for the remainder (Earth, Venus). Clearly something is wrong: the equilibrium temperatures we so laboriously explored don't predict actual surface temperatures of all planets. For Earth, the disagreement is significant. The calculated $T_{eq}$ is \SI{255}{\kelvin}, or $-1^{\circ}$F. At this temperature, Earth should \emph{always} be a snowball, its surface permanently shrouded in a thick layer of snow and ice. The actual measured average surface temperature of Earth is \SI{288}{\kelvin}, equivalent to \SI{15}{\degreeCelsius} or a comfortable $59^{\circ}$F, a whopping $60^{\circ}$F warmer than $T_{eq}$. We haven’t wasted our time; the equilibrium temperatures we now understand so well are a fundamental part of understanding Earth's climate. But it is just that: a part. We need to recall observation 3 from above, that anything that slows the radiation of heat from a warm object will keep the object warmer, longer. Things that can slow the loss of heat include a sweatshirt on a student, a blanket on a sleeping person, or \emph{the atmosphere of a planet}. 
+
+
+\newpage
+.
+\section{Figures}
+
+\begin{figure}[p]
+\centering
+\subfloat{%
+  \includegraphics[height=4 in]{south_pole}%
+}
+
+\subfloat{%
+  \includegraphics[width=4 in]{death_valley2}%
+}
+
+\caption{Humans thrive in a vast array of environments. In the upper panel, the Geographic South Pole is marked by a brass rod in the foreground; in the background a ski-equipped transport aircraft is parked in front of the then active Scott-Amundsen Base. The average temperature at the South Pole is $\SI{-32}{\degreeCelsius}$ in summer, and $\SI{-60}{\degreeCelsius}$ in winter ($-26^{\circ} F$ and $-76^{\circ} F$ respectively). A small group of intrepid volunteers lives in the station during the six-month long polar winter. In the lower panel, a truck carrying out geophysical investigations accelerates across the flat dried lake bed near Death Valley,  California. Here the average temperature is $\SI{37}{\degreeCelsius}$ in summer, and $\SI{12}{\degreeCelsius}$ in winter ($99^{\circ} F$ and $54^{\circ} F$ respectively). Even during the summer, hundreds of people live and visit Death Valley National Monument. Despite this human occupation, there is precious little sign of non-human life present in either photograph.}
+\label{fig:humans_thrive}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Types_of_systems}%
+\caption{Systems come in three forms, each characterized by the ``leakiness'' of the system's boundaries to energy and matter. Upper pane: Neither energy nor matter can cross the boundaries of a truly isolated system. Because isolated systems are the easiest to understand, scientists will often assume a system is effectively isolated in order to study it. Middle pane: Closed systems allow energy, but not matter through the boundary. Earth is an excellent example of a closed system. Lower pane: Open systems have boundaries permeable to both energy and matter. All these flows can make open systems difficult to study.}
+\label{fig:sys_types}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{sun_earth_sys}%
+\caption{The Sun---Earth System. The system consists of two interacting parts (the Sun and Earth), energy flow between them (yellow arrows) and energy flow out the system boundary and to the system's exterior (brown arrows). Earth has interacting sub-parts, Earth's 6 ``spheres,'' these are shown within Earth's outlines, with interactions between them represented with green arrows.}
+\label{fig:sun_earth_sys}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{6_Spheres}%
+\caption{The 6 largest ``spheres'' making up the Earth system. Each sphere is itself a system, connected to others through the flow of energy and matter, as shown by the green arrows. The Geosphere, Atmosphere, Hydrosphere and Biosphere are all old and essentially permanent parts of Earth. The Cryosphere is a less  permanent and (on the time scale of Earth  history) far younger portion of Earth's natural environment. The Anthroposphere is young even by human standards, and dates at most to just a few thousand years ago. It is shown wrapped around and through the other spheres to reflect the penetration of human societie's by products throughout the other systems.}
+\label{fig:6_spheres}
+\end{figure} 
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{Structure_of_matter.pdf}%
+\caption{The structure of matter from molecules to quarks. Examples in each column are composed of the matter in the column to the right. Electrons and quarks appear to be “fundamental” particles. This schematic illustration has no real scale. For example, the electron cloud shown surrounding the carbon nucleus in the second column from the left should be \SI{150}{m} (roughly 450 feet) from the nucleus! (Krane, Kenneth S., Introductory Nuclear Physics, Wiley, 1987.) }
+\label{fig:matter_struct}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=9 in, angle =90]{Periodic_table_large.pdf}%
+\caption{The Periodic table of the elements. Public domain, from \href{https://commons.wikimedia.org/wiki/File:Periodic_table_large.png}{Wikimedia Commons}}
+\label{fig:pt}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{elem_abund}%
+\caption{In our part of the Universe (upper rectangle), H and He make up 99.9\% of all  atoms present. All the rest of the elements, from Be (beryllium) to U (uranium) make up that remaining 0.1\%, with oxygen (O) and carbon (C) making up the majority of that remaining 0.1\%. Earth is almost devoid of H and He, and consists largely of O, iron (Fe), magnesium (Mg) and silicon (Si). Earth behaves the way it does (a large mass of rock and metal) because of the composition is has.}
+\label{fig:elem_abund}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Phase_Changes.pdf}%
+\caption{Phase changes require input (those changes listed within the triangle) or output (those listed outside the triangle) of energy from the surrounding environment into the substance. Near and at Earth's surface, the transitions between gas and liquid, and solid and liquid are more common (and important) than those between solid and gas.}
+\label{fig:phase_changes}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Turner_Rain,_Steam_and_Speed}%
+%https://commons.wikimedia.org/wiki/File%3ATurner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg
+\caption{What is energy? Not even the Nobel-prize winning physicist Richard Feynman knew for sure. But perhaps the 19\textsup{th} Century English painter J. M. W. Turner had an emotional idea of what energy---and its use by society to construct the Anthroposphere---was. In this painting from 1844 CE, Turner deftly uses oil paints to produce a layered impression of what the newly invented ``railroad'' felt like. The steam engine, barely recognizable in the middle of the painting, burns coal and belches smoke as it rushes across a bridge 40 km (about 25 miles) west of London, England. If you look very closely in the lower right corner of the painting, you might make out a hare rushing (we hope as fast as the train) across the bridge as well. What's with the hare: is it a symbol of the train's speed? Of Man imitating nature? Of Man replacing nature? Of Man destroying nature? Turner asks, but doesn't answer, fundamental questions about our use of energy and its consequences.}
+\label{fig:turner_cute_little_bunny}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Temperature_scales.pdf}%
+\caption{The three most common temperature scales, compared. On the right is the familiar Fahrenheit scale, on which water freezes at $32 ^{\circ}F$ and boils at $212 ^{\circ}F$. In the middle is the Celsius scale, on which water freezes at $\SI{0}{\degreeCelsius}$ and boils at $\SI{0}{\degreeCelsius}$. The same temperature change (between boiling and freezing) has $180 ^{\circ}F$, but only $\SI{100}{\degreeCelsius}$: a $\SI{1}{\degreeCelsius}$ is 1.8 times bigger than a $1 ^{\circ}F$. On the left is the Kelvin scale, which uses the same size degree as the Celsius scale, but starts at absolute zero, the lowest possible temperature. The absolute Kelvin scale is required in most calculations, but can be cumbersome to use in daily life, even for scientists. The Celsius scale is more convenient, but can be cumbersome for non-scientists. Unfortunately, Fahrenheit's scale isn't used by anyone, except in the United States. Understanding climate and climate change requires we use all three. }
+\label{fig:temp_scales}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Sun_Earth_Space_temps.pdf}%
+\caption{Heat naturally flows from warmer to cooler parts of a system. So Earth must have a temperature between that of the Sun's surface ($\SI{5780}{\kelvin}$) and ``space'' ($\SI{2.7}{\kelvin}$). As we'll see later in this Chapter, calculating this temperature is straightforward. The result is a chilly $\SI{255}{\kelvin}$ }
+\label{fig:sun_earth_sys_temps}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Hand_in_bag_IR.jpg}%
+\caption{All objects emit radiation, even if we can't see it with our eyes. On the left is a visible light photograph, taken with light reflected by the objects. To the right is an image taken in the infra-red light emitted by the objects themselves. Colors in the infra-red image correspond to temperatures (given on the scale at the far right, in $^{\circ}F$. The background is dark because the relatively cool walls are at room temperature. Note that the bag is opaque to visible radiation, but transparent to infra-red radiation. Greenhouse gasses are just the opposite: transparent to visible, but decidedly opaque to infra-red. Courtesy of \href{http://coolcosmos.ipac.caltech.edu/cosmic_kids/learn_ir/}{NASA/IPAC}}
+\label{fig:Hand_IR}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{convection_final.pdf}%
+\caption{Convection in action. Upper panel shows a fluid (which on Earth could be air in the atmosphere, water in the oceans, or rock in the mantle) gains energy and temperature from a hotter lower surface (the dark red areas on the bottom of the figure). The fluid expands as it warms, which reduces its density, and it rises buoyantly through the cooler material to form columns, or plumes, or warm material (the red towers). As the material reaches the colder upper surface, it loses heat, becomes more dense, and sinks in downdrafts of cold (blue) anti-plumes. Although simplified, this is exactly what is going on, now, in the atmosphere above you and the geosphere below you. Lower Panel: A more realistic model for the look of convection in Earth’s mantle. The mushroom-shaped towers model the likely look of ``hot spot'' plumes in the mantle below, for example, Hawai'i. Both models assume Pe=700, Gr=100/7, and temperatures of 25-70 (top) and 25-35 (bottom).The models were generated from Rayleigh Benard Convection, written by Suraj Shankar for MATLAB}
+\label{fig:convection_final}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{convection_in_a_cup.jpg}%
+\caption{Three different example of convective heat transport, at three different physical scales. In panel a (upper left) cloud ``streets'' form off the Atlantic coast of North America. The long rows of cummulus clouds mark the tops of the warm leg of a convection cell (the red areas seen in Figure \ref{fig:convection_final}, panel c). These cloud streets formed when frigid air migrated over the relatively warm Atlantic Ocean, providing the neccessary conditions for convection. The image is about 350 km across, so individual convection cells are only a few kilometers wide. The image is courtesy \href{https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=82800}{NASA's Earth Observatory} accessed 20 June 2017. In panel b. (upper right) is a wonderful example of closed cell convection in the atmosphere. The hexagonal clouds mark areas of convective upwelling, again as shown by the red areas in Figure \ref{fig:convection_final}, panel c, but here the ``rolls'' seen in panel a have broken up into discrete cells. The edges of the clouds---marked by the thin clear lanes between them---mark the down-going leg of the convection. Each of these cells is 100 km across, more than 10 times the size of the rolls seen in panel a! Image is courtesy \href{https://visibleearth.nasa.gov/view.php?id=59758}{NASA Visible Earth} accessed 20 June 2017. In panel c (lower right) look carefully at the subtle variation of temperatures of the coffee in the cup, revealed by the infra-red image. Note the same closed cell hexagonal structure shown in panel b. The same heat transport mechanism, but at a scale 10,000,000 times smaller! Image is courtesy \href{http://coolcosmos.ipac.caltech.edu/cosmic_kids/learn_ir/}{NASA/IPAC}}
+\label{fig:convection_in_a_cup}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{dust_africa.jpg}%
+\caption{Advective transport in action. The brown air-mass (highlighted by green dashed lines) is a plume of warm, dry, dusty air blowing off Africa and into the Atlantic Ocean. At the time this image was taken, the plume was about three days old, having originated on the African coast due east of Cape Verde islands. Image is courtesy \href{https://earthobservatory.nasa.gov/IOTD/view.php?id=85423}{NASA Earth Observatory}, and has been modified slightly from the original to increase visibility of the dust. Accessed 21 June 2017.}
+\label{fig:dust_africa}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{light.pdf}%
+\caption{Electromagnetic radiation is a coupled wave of electrical (in red) and magnetic (in green) fields. These waves have a wavelength, the distance from one part of a wave to the same part of the next.  Regardless of wavelength, light travels at a constant speed in a vacuum, termed ``c'', equal to $\SI{3d8}{\metre\per\sec}$ or about 1 foot in a billionth of a second. EMR ranges from radio waves with wavelengths larges than some countries, to gamma rays with wavelengths smaller than the nuclei of atoms (right-hand scale). EMR carries energy, which is inversely proportional to the wavelength: EMR of longer wavelength have \emph{less} energy than shorter wavelength EMR (left-hand scale). Our eyes have evolved to see only a tiny portion of the electromagnetic spectrum,the ``visible light'' band, with wavelengths between $\SIrange{390}{750}{\nano\metre}$, or billionths of a meter. The infra-red band, at longer wavelength, and hence lower energy, lies just below the visible band. These two types of EMR are crucial for understanding Earth's climate.}
+\label{fig:light}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{weins_law.eps}%
+\caption{The perceived color of an object is related to its color. Cooler objects emit more red than blue light, so we see them as reddish. Hot objects are the opposite, emitting more blue than red light, so we perceive them as bluish. Interestingly, our eyes have evolved to see light emitted by objects at the temperature of the Sun’s surface as white! Given that, what temperature do you predict for the Sun's surface?}
+\label{fig:weins_law}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=4.5 in]{Orion.jpg}%
+\caption{The stars, dust and gas of the constellation Orion, as revealed in this spectacular photograph by Rogelio Bernal Andreo. (The original photograph is available at \href{http://deepskycolors.com/astro/JPEG/RBA_Orion_HeadToToes.jpg}{this link}. Individual stars are easy to see, each glowing in a color according to their effective temperature. The supergiant Betelgeuse (upper left) is a bright orange, while supergiants Rigel and giant(ess) Bellatrix glow blue-white. The purple-pink areas are glowing emission nebulae of hydrogen gas. Their color is \emph{not} due to their temperature, because they are insufficiently dense to behave as black-body radiators. Rather, their color is due to their composition: this purple-pink in unique to H-rich nebulae. The gigantic clouds are areas of on-going star formation. The blueish-white area (a particularly good example is just to the right of Rigel) are reflection nebulae, formed of small ``dust'' particles of minerals and ices suspended between the stars. Their color is \emph{not}  due to their temperature, either. Instead, they simply reflect he blue light of nearby stars. You can easily determine the effective temperatures of black-body radiators Betelgeuse, Rigel and Belltrix by comparing their colors to those given in Figure \ref{fig:weins_law}. This photograph was NASA's Astronomy Picture of the Day in 23 October 2010, and is in the public domain, via CC BY-SA 3.0.}
+\label{fig:Orion}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{energybbr.pdf}%
+\caption{The energy emitted by a black body radiator rises strongly with increasing temperature, due to the fourth-power relationship. A small temperature change leads to a large energy emission change, but a large energy change will lead to a small temperature change. }
+\label{fig:energybbr}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{plank2.pdf}%
+\caption{Blackbody radiators emit electromagnetic of a wide range of energies. The variation of energy emitted at each wavelength is the spectrum of an object. Plank explained that the blackbody spectrum always has the same fundamental shape, with a sharp rise at the high energy, short wavelength end of the spectrum, rising to a peak at exactly the wavelength predicted by Wein's Law (the circles on each curve) and then a long, slow decline at the low-energy, long-wavelength end of the spectrum.  }
+\label{fig:planks}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{solar.pdf}%
+\caption{The Sun's spectrum (measured at the top of Earth's atmosphere) compared to the blackbody spectra of objects at \SIlist{5730;5780;5830}{\kelvin}. The best match is \SI{5780}{\kelvin}, and we'll call this the Sun's effective equilibrium temperature, $T_{eq}$. }
+\label{fig:solar}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{saturnearth.png}%
+\caption{A spectacular photograph of Saturn, taken from the orbiting Cassini spacecraft on November 12, 2013. The Sun is occulted by Saturn, so the picture looks oddly lit. The small yellow box highlights a pale blue dot, which is Earth, shining from the 30\% of the Sun’s light Earth reflects back into space. The larger yellow box is an enlargement of Earth and (barely visible) the Moon, here blurred together because of the resolution of the camera. The smaller red box highlights our home, and the large red box shows the disposition of Earth (to the left) and Moon (to the right) about the time the main photograph was taken. No one in the history of our species has ever made it farther from Earth than the Moon…our entire domain as a species is contained in the fuzzy little blob within the red box. The original photograph (http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17172) shows Mars and Venus as well, here somewhat hard to see at about the 11 o’clock position relative to Saturn. Original photograph courtesy of NASA/JPL-Caltech.}
+\label{fig:saturnearth}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{sunsphere}%
+\caption{The Sun's energy warms a sphere (on the left), but is received by an apparent disk (as shown by the shadowed area on the right). A sphere has four times the area of a disk, so each part of the planet receives, on average, only one quarter of the arriving energy.}
+\label{fig:sunsphere}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{teqsensativity}%
+\caption{The relationship between changes in insolation (upper panel), albedo (lower panel) and Earth's equilibrium temperature. Current values for all three parameters are marked by the small circle. Note that large changes in the incoming solar radiation are needed to produce moderate temperature changes.}
+\label{fig:teqsensativity}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{derivation.png}%
+\caption{Derivation of the equilibrium surface temperature of Earth. The mathematics in the left hand column is explained in the text on the right hand column}
+\label{fig:teqderivation}
+\end{figure}
+
+\end{document}

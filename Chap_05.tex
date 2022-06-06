@@ -1,0 +1,394 @@
+\documentclass[amstex,12pt]{book}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{verbatim}
+\usepackage{wasysym}
+%\usepackage{mathabx}
+\usepackage[margin=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{epigraph}
+\usepackage{graphicx}
+\usepackage{siunitx}
+\usepackage[caption=false]{subfig}
+\usepackage{booktabs}
+\usepackage{rotating}
+\usepackage[flushleft]{threeparttable}
+\usepackage{textcomp}
+\usepackage{fontenc}
+\usepackage{isotope}
+
+
+\DeclareSIUnit\year{y}
+\DeclareSIUnit\ma{Ma}
+\setcounter{chapter}{4}
+\setcounter{section}{-1}
+\setcounter{secnumdepth}{5}
+\pagestyle{plain}
+\graphicspath{ {figures/} }
+\sisetup{separate-uncertainty}%
+
+
+\begin{document}
+\title{}\label{chap:05_geosph}
+\date{\today}
+\author{Larry McKenna\\Department of Physics and Earth Sciences\\Framingham State University}
+%\title{}
+%\maketitle
+\section*{Epigraph}
+\epigraph{Quote here} 
+
+\section{Core concepts}
+\begin{itemize}
+\item Our Solar System formed 4.567 billion years ago from a large nebula of gas, dust and ice. 
+\item Earth grew through the accretion of billions of differentiated objects, formed from the dust and ice in the nebula. Meteorites contain abundant evidence for the timing and rate of this accretion. Earth largely completed its formation 100 Million years after formation began. 
+\item As a result of the way it accreted, the solid Earth is layered chemically, mechanically and thermally. The chemical layers include the metallic core, the rocky mantle, and two different kinds of crust. Mechanically, Earth includes a solid inner core, a liquid outer core, a convecting mantle, the weak, partially molten asthenosphere and the solid, strong, stiff and cold lithosphere.
+\item Earth's lithosphere is naturally divided into plates, which move across the asthenosphere at a few centimeters per year. The plates are thin but strong, and deform only at their edges, where earthquakes, volcanoes and mountain belts form. The movement and interactions of the plate are described by Plate Tectonic Theory
+\item Science has a hierarchy of understanding and surety, which includes theories, hypotheses, facts and laws. The scientific definitions of these concepts are different than the common-use definitions. 
+\end{itemize}
+
+\section{Opening problem}
+Where is the safest place to live in the United States if you are afraid of natural disasters? According to the real estate firm Tulia\footnote{http://www.trulia.com/blog/trends/avoid-natural-hazards/ Accessed 16 January 2016}, head to the northern Mid-West, far from either coast. Why? Why is living along the coasts of California, Oregon, and Washington a higher-risk decision than living in Dayton, OH? Ultimately, the reason is how, and how fast, Earth formed. 
+
+\section{Formation of Earth}
+\subsection{Origins}
+``Where did you grow up?'' is the first question most of us ask of a new acquaintance. Origins tell much about a person, and even more about planets. The origin of our Solar System in general, and of Earth in particular, places important constraints on the composition, structure and behavior of the planet. The manner and speed of Earth's formation largely determined its gross structure and fate. The place of formation, our orbit about the Sun, determines the heat we receive from the Sun and hence our climate; oscillations in this orbit produce everything from the day-night cycle every 24 hours to Ice Ages every 100,000 years. 
+
+\subsubsection{Earth is old: Deep time and its implications}
+A time span like 100,000 years is incredible by human standards. But Earth and the Solar System are old. That incredible-sounding 100,000 years is the same proportion of the age of Earth as 12 minutes is to a year. Before we can appreciate Earth's formation and structure, we need to understand deep time and the age of Earth. As we will see in the following sections, meteorites contain mineral grains that define the age of Earth and the Solar System. Painstakingly precise measurements of naturally occurring U and Pb in these grains shows they formed 4.567 billion years ago, with an uncertainty of just 0.0005 billion years. This age comes from the same meteorite pictured in Figure \ref{allende}. Holding this meteorite in one's hand is a heady experience: one is holding a rock that reaches beyond the foundation of our planet. The same careful research that gives the age of these earliest mineral grains clearly indicate that most of the planets (the exception being Earth) had formed within a few million years of the Solar System's birth. A few million years seems like a long time to those of us with lifespans measured in decades, but in the realm of geology, a few million years is quite brief.\\
+
+Time so important that an analogy is warranted. One year is 365 days, 8760 hours, roughly half a million minutes, and so on. Imagine squeezing those 4.567 billion years of Earth history into one calendar year. Table \ref{tab:timeanalogy} gives the result of this analogy. For example, a time span of 100 million years is to Earth's age as 8 days is to a calendar year. Most Spring Breaks are about 8 days long, and chances are most students find that week to be fleeting. So, too, with 100 million years for the Earth. Memorable, yes, but all too brief. The Earth is old, and processes we short-lived humans think glacially slow can re-shape our planet in the blink of an eye. (The blink of an eye, the duration of that single event, is equivalent to 10 years in our analogy. For most college students two eye blinks are a lifetime.)
+
+\begin{table} 
+\centering
+\caption{Analogies for deep time}
+\label{tab:timeanalogy}
+\begin{tabular}{@{}rrcccccccc@{}} \toprule
+\multicolumn{2}{c}{Time}				&Age	&Span	&\multicolumn{6}{c}{Analogous Period Relative to 1 Year}\\ \cmidrule(r){1-2} \cmidrule(c){3-4} \cmidrule(l){5-10}
+\multicolumn{2}{c}{Years}	& & 		&Years	&Days	&Hours	&Minutes	&Seconds& Eye blinks\\ \midrule
+4567000000&\num{4.567e9}&&&1&&&&&\\
+1000000000&\num{1e9}&1 Ga&1 Gyr&0.2&80&&&&\\
+100000000&\num{1e8}&&&&8&&&&\\
+10000000&\num{1e7}&&&&0.8&19&&&\\
+1000000&\num{1e6}&1 Ma&1 My&&&1.9&120&&\\
+100000&\num{1e5}&&&&&&12&&\\
+10000&\num{1e4}&&&&&&1.2&70&\\
+1000&\num{1e3}&1 ka&1 kyr&&&&&7&\\
+100&\num{1e2}&&&&&&&0.7&10\\
+10&\num{1e1}&&&&&&&0.07&1\\
+1&\num{1e0}&1 a&1 yr&&&&&&0.1\\ \bottomrule
+\end{tabular}
+\end{table}
+
+We need to take time for one other matter before continuing. Earth scientists routinely discuss both \emph{when} some event happened in Earth's history, and the duration of that event. The age of event, the time when something happened, will always be given in units of years ago, or \textit{annum}, abbreviated \textit{a}. The deep history of Earth requires we have handy abbreviations for old ages, so we will use giga-annums (Ga), mega-annums (Ma) and kilo-arnnums (ka) for dates in billions, million, or thousands of years, respectively. Earth's age is thus 4.567 Ga, while most dinosaurs went extinct 66.04 Ma, roughly 66 million years ago. Durations get a different unit: \textit{years}, abbreviated \textit{yr}, but use the same pre-fixes. We will see below that most of the planets in our Solar System formed in just 4 to 6 million years, or 4-6 Myr.\\
+
+\subsection{The current Solar System} 
+\subsubsection{Cosmography}
+Earth is one of eight planets, a handful of dwarf planets, and millions of asteroids and other minor bodies orbiting our Sun. Figure \ref{fig:solsys1} shows an accurate image (not a photograph) of the architecture of the Solar System, while a schematic view is given in Figure \ref{fig:solsys2}. Closest to the Sun are the four Earth-like, or \emph{terrestrial planets}, Mercury, Venus, Earth and Mars. All are small spheres of rock and metal, with little or no atmosphere and few or no moons. Farther from the Sun are the \emph{gas and ice giants planets}, Jupiter, Saturn, Uranus and Neptune. As their name implies, these planets are massive planets (Jupiter has 300 times the Earth's mass) with enormous atmospheres of hydrogen, helium and ices, and have dozens of moons (Figure \ref{fig:sizes}).\\
+
+Three,or maybe four, belts of tiny bodies are scattered throughout the Solar System. These small planetesimals are remnants from the formation of the Solar System at 4.567 Ga. The \emph{Main Asteroid Belt} between Mars and Jupiter contains over half a million planetesimals, ranging in size from the minor planet Ceres (Figure \ref{fig:ceres}, lower left) to boulders a meter across (Figure \ref{fig:MBA}). Meteors glimpsed in Earth's atmosphere are largely chunks of these asteroids; meteorites (such as those shown in Figures {fig:allende}) are meteor fragments that survive the fiery, brief passage through our atmosphere. Thousands of these fragments have been collected and analyzed, and provide detailed data on the very materials from which Earth formed. The Edgeworth Kuiper Belt is the next belt of tiny bodies, and lies just outside the orbit of Neptune. Pluto, that favorite minor planet, is one of the larger and the best-known object in this EKB. Finally, the Solar System is surrounded by the \:{O}\:{o}rt Cloud, a belt of icy objects so far from the Sun that the occasional passage of a distant star can perturb one of the \:{O}\:{o}rt objects into the inner Solar System, where it warms, evaporates, and fleetingly becomes a comet. Recent discoveries have begun to reveal a fourth potential belt of objects between the Edgeworth Kuiper Belt and the \:{O}\:{o}rt Cloud\footnote{Sheppard, S., Trujillo, C., Tholen, D., \& Kaib, N. (2018). A New High Perihelion Inner Oort Cloud Object. arXiv preprint arXiv:1810.00013.}. These ``Extreme Kuiper Belt Objects'' may include a massive, Neptune-sized planet lurking at the edge of the Solar System, a planet so far from the Sun that no one has ever seen it. This exciting idea will remain the focus of intensive research for decades. 
+
+\subsubsection{Geometry}
+Three aspects of the planets' orbital geometry provide important evidence for the Solar System's formation. First, as Figure {fig:solsys2} shows, the planets' orbits all lie in a plane, rather than being randomly distributed around the Sun. Second, all the planets, minor planets and asteroids orbit counterclockwise around the Sun, and the vast majority rotate counterclockwise about their axes. Finally, the size and compositional differences between the Terrestrial and Gas/Ice Giants indicates that not all planets are created equally. This hints that the Solar System formed from a counterclockwise-spinning cloud of gas and dust. This much was hypothesized in the $18^{th}$ Century by three different ``natural philosophers,'' what we would call `scientists. But confirmation and precise development of the details of this Nebular Hypothesis really only happened in the past two decades, with the development of new technologies (particularly the Hubble Space Telescope) which provided the first striking evidence of the formation of other solar systems.\\
+
+\subsection{Formation of the Solar System}
+\subsubsection{Molecular clouds: the birth places of stars}
+Figure \ref{fig:pillars} is Hubble Space Telescope photograph of stars and their associated planetary systems in the throes of formation within a giant molecular cloud. The pillar is a nebula composed of molecules of \emph{hydrogen and helium gas}, miniscule fragments of minerals called \emph{dust}, and frozen water and other volatile compounds (all called \emph{ices}, regardless of composition). Hot, newly formed stars (the pinkish objects with ``spikes'') are evaporating the gas, dust and ices into the whitish tendrils. The gravity of still-forming stars creates a dense cocoon of material resistant to this evaporation, and produce the dozens of knots seen in the photograph. These are other solar systems forming in real time, in front of our very eyes.\\
+%
+\subsubsection{Proto-Planetary Disk: the birth places of planets}
+Within each knot is a still-forming proto-star. As the proto-star's gravity pulls gas, dust and ice toward it, the material naturally forms a flattened disk (Figures \ref{fig:ppdisk1} and \ref{fig:ppdisk2}), with abundant material in the middle central plane, and less above and below. This proto-planetary disk is the birthplace of planets\footnote{Williams, J. P., \& Cieza, L. A. (2011). Protoplanetary disks and their evolution. arXiv preprint arXiv:1103.0556}. As the dust and gas are pulled to the central plane of the disk and the proto-star, they naturally begin to spin faster all in one direction. This affect of the conservation of angular momentum is spun on a chair and retracted one's arms, or watched an ice skater spin faster as they draw their hands in to their body. This is why all the planets in our Solar System have counter-clockwise orbits in the same plane, and why most spin counter-clockwise on their axes. The material also warms as it approaches the proto-star. Proto-stars are volatile and energetic, blowing away the gasses and melting the ices from the area near the star. This leaves dust as the only stable material in the central plane close to the star (the red-shaded areas in Figure \ref{fig:ppdisk2}). The location where the disk goes from gas and ice poor to gas and ice rich has the wonderful name of the ``snow line.'' Dust makes up only about 2\% of the nebula (Table \ref{tab:ppneb}), so inside the snow line, planets will tend to be rocky and small, like the terrestrial planets. Beyond the snow line, planets can make use of the gas and ice, so they grow to massive gas and ice giants. The snow line was originally near the current position of the Main Asteroid Belt\footnote{Morbidelli, A., Bitsch, B., Crida, A., Gounelle, M., Guillot, T., Jacobson, S., \& Lega, E. (2015). Fossilized condensation lines in the Solar System protoplanetary disk. Icarus. (arXiv:1511.06556v1 20 Nov 2015)}. To first order, these observations explain the large scale structure of the Solar System. The exclusion of ice and gas inside the snow line wasn't perfect, as you attest to. Ices were the primary source of water, carbon and nitrogen to the Earth, and that water, carbon and nitrogen is crucial to the development of life. The sources of Earth's water and other ices remains a mystery, which we'll examine in more detail below.\\
+
+\begin{table} 
+\centering
+\begin{threeparttable}
+\caption{Composition of the Proto-planetary Nebula}
+\label{tab:ppneb}
+\begin{tabular}{@{}llll@{}} \toprule
+Phase		&Abundance	&Components					&Abundance\\ \toprule
+Gas			&97-98\%		&Hydrogen ($H_2$)		&73\%		  \\
+				&						&Helium ($He$)			&25\%		  \\ \midrule
+Dust		&2\%				&Small, Si-rich mineral grains	&1.75\%  \\
+		    &						&Metal\tnote{1}     &0.25\%		 \\ \midrule
+Ice		  &$<1$\%	    &Water ($H_2O$)     &$<0.5$\%  \\
+		    &						&Methane ($CH_4$)   &$<0.1$\%  \\
+		    &						&Carbon Dioxide ($CO_2$)	&$<0.1$\%  \\
+		    &						&Ammonia ($NH_3$)	  &$<0.1$\%		 \\ \bottomrule
+\end{tabular}
+\begin{tablenotes}
+\item[1] The average of H and L type ordinary chondrites’ metal abundance.
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\subsection{Accretion and Formation of Earth and the other planets: Fast, hot and melty}
+Soon after the first dust grains in the Solar System formed (at 4.567 Ga, these grains make up much of the Allende meteorite seen in Figure \ref{fig:allende}), they began to coagulate together. Throughout the Solar System these grains grew from microscopic sizes into pebble-sized objects, which collided and merged to form planetesimals 10 to 100s km across (Figure \ref{fig:jakob1} and \ref{fig:jakob2}). All this colliding was an energetic affair, with millions of collisions and impacts (Figure \ref{fig:hfm}) necessary to build an average planetesimal. During an impact, a portion of the collision's kinetic energy would be converted to heat (Chapter 3) raising the temperature of the newly-enlarged planetesimal.\\
+
+Combined with the decay of radioactive material in the planetesimals, this collisional heating began to melt the small and still growing objects. With more collisions came more heating, and more melting, and soon the objects began to segregate into distinct layers, or shells. This \emph{differentiation} began 1-3 Myr after the initial formation of the Solar System. The rock particles in the dust had a far higher melting point than metal\footnote{Rubie, D. C., \& Jacobson, S. A. (2015). Mechanisms and Geochemical Models of Core Formation. arXiv preprint:1504.05417.} so the metals melted first, and being denser they slowly fell to the planetesimals' center. Eventually the rock in the mantle melted too, forming a planet-wide layer of molten rock, a magma ocean, which grew deeper as the object grew. At the surface, the magma cooled to form hardy rocky crust (Figure \ref{fig:hfm}). The resulting differentiated body had a thin, cold rocky crust; a warm magma ocean, a warm, rocky mantle; and a hot, molten iron core. (The structure has a passing relationship to the peanut version of a popular chocolate with a brightly colored candy shell.) All those minor objects orbiting the Sun in the Main Asteroid Belt, Kuiper Belt and \:{O}\:{o} cloud are all relics of this period of our Solar System's formation. Meteorites are so scientifically valuable because they are fragments of these ancient objects---they contain abundant evidence for the earliest differentiation and melting of planetesimals. We don't have to guess about the formation and differentiation of planetesimals: we have pieces of them!\\
+
+About 5\% of all observed meteorite falls are metallic meteorites (Figure \ref{fig:ironmets}). These represent the cores of layered planetesimals fragmented by a later collision. Less than 0.5\% of falls are pallasite meteorites. These spectacular rocks consist (Figure \ref{fig:pallasite}) of the common mantle mineral olivine (the unsurprisingly green material in Figure \ref{fig:pallasite}) floating in a matrix of now hardened metal. These meteorites may preserve the core-mantle boundaries from planetesimals, but may also record mantle olivines from a large body mixed with the sinking core\footnote{Tarduno, J. A., Cottrell, R. D., Nimmo, F., Hopkins, J., Voronov, J., Erickson, A., ... \& McKinley, R. (2012). Evidence for a dynamo in the main group pallasite parent body. Science, 338(6109), 939-942.} of a smaller planetesimal, as shown in the lower right quadrant of Figure \ref{fig:hfm}. Regardless, pallasitic meteorites show that differentiation was early and common. This process determined that the fate of all the Terrestrial planets was to be layered. Earth was born of embryos that had differentiated into layered bodies, and so Earth is, too. Earth still has this core-mantle-crust structure.
+
+As shown in Figures \ref{fig:jakob1} and \ref{fig:jakob2}, the already differentiated planetesimals collided and merged into ever larger (and differentiated) embryos up \SI{4000}{\kilo\metre} (2500 miles) across, objects roughly the size of Mars. Good evidence suggests that embryos that large had formed within 3 Myr of the start of accretion! The embryo that would become Earth grew quickly within the inner Solar System, reaching about 90\% of its present mass in \SI{40}{100}{} Myr. (Remember that 70 Myr in Earth's history is equivalent to 5.5 days in one year.) At about this time, an embryo about the size of Mars struck Earth, perhaps with a glancing blow. The collision was catastrophic for the embryo, Theia, and nearly so for Earth. Based on detailed computer modeling of the event, the collision disrupted Theia, vaporizing much of the mantle of both planets\footnote{\'{C}uk, M., \& Stewart, S. T. (2012). Making the Moon from a Fast-Spinning Earth: A Giant Impact Followed by Resonant Despinning. Science, 338(6110), 1047–1052. https://doi.org/10.1126/science.1225542; Lock, S. J., Stewart, S. T., Petaev, M. I., Leinhardt, Z. M., Mace, M. T., Jacobsen, S. B., \& Ćuk, M. (2018). The origin of the Moon within a terrestrial synestia. Journal of Geophysical Research: Planets. https://doi.org/10.1002/2017JE005333
+} Theia's core sank into Earth's core, and its mantle mixed intimately with proto-Earth's mantle. Some mixture of the two gained sufficient energy to orbit Earth, with a portion of the resulting debris cloud orbiting Earth before coalescing to form the Moon. The impact melted \textit{at least} the upper \SI{700}{\kilo\metre} (430 miles) of Earth's mantle\footnote{Rumble, D. et al. The oxygen isotope composition of Earth's oldest rocks and evidence of a terrestrial magma ocean. Geochem. Geophys. Geosyst. 14, 1929-1939 (2013).}, forming a planet-wide \emph{magma ocean} that would have boiled off any water lucky enough to have made it to the surface. Earth was knocked to its side during the collision, giving rise to the obliquity (axial tilt) that gives us our seasons. After this collision, Earth's formation was largely done. Except for the volatiles.\\
+
+Volatile elements are those that have low boiling points, so they have a proprensity to ``fly away'' as gasses. After the Theia collision, a slow but violent rain of planetesimals to Earth's surface\footnote{Marchi, S., Bottke, W. F., Elkins-Tanton, L. T., Bierhaus, M., Wuennemann, K., Morbidelli, A., \& Kring, D. A. (2014). Widespread mixing and burial of Earth's Hadean crust by asteroid impacts. Nature, 511(7511), 578-582} brought water and other volatile elements to Earth. This was no gentle summer’s shower. Millions of undifferentiated objects crashed into the Earth, delivering water and other biologically important elements to Earth's surface. The impacts were sufficiently large and energetic enough to till Earth's surface, repeatedly folding, melting, and mixing the upper 20 to 30 km of the crust. Over the next few hundred million years, Earth gained volatile gasses and liquids from this late veneer of meteorites. A few samples of the Earth, tiny crystals of a mineral called zircon, survive from this time. These fragments provide good evidence that oceans (the primary component of the hydrosphere) existed, at least episodically, within ~200 Myr of Earth’s formation. For the next few 100 Myr, the occasional large impact would boil off part of the ocean, and perhaps the entire ocean, into the atmosphere, but Earth's formation was largely done. Earth had an atmosphere, a hydrosphere, and a differentiated geosphere.\\
+What about the biosphere? All those meteorite impacts and their after-effects would have sterilized any nascent biosphere on the early Earth. The biosphere probably hadn't developed when, about 400 Myr after formation, Earth was once again pelted by large meteorites, ones jostled out of the Asteroid Belt by a roving Jupiter. You can see the scars from this ``Late Heavy Bombardment'' tonight, if the Moon is out. Look (Figure \ref{fig:moon}) for the dark maria on the surface; these plains of volcanic rocks are the scars of impacts on the moon from the same period. Earth sufered the same intense bombardment, but nearly 4 billion years of energetic weathering and tectonics have erased any record of those impacts on the planet. This last blasting of Earth's surface again frustrated development of the biosphere. When the LHB finally petered out 3.7 to 3.8 Ga\footnote{Bottke, W. F., Vokrouhlick\'{y}, D., Minton, D., Nesvorn\'{y}, D., Morbidelli, A., Brasser, R., ... \& Levison, H. F. (2012). An Archaean heavy bombardment from a destabilized extension of the asteroid belt. Nature, 485(7396), 78-81. [The article does argue differently, but their figure 3 suggests that flux was ~10\% of initial intensity by 3.7 Ga. Close enough for our needs here.]}, life appears to have evolved quickly, within a few 100 Myr of the end of the bombardment. Earth's complement of spheres is complete.\\
+
+\section{Earth's contemporary internal structure}
+\subsection{Introduction}
+Earth's ferocious formation has left its mark on our planet. We concluded in the previous section that Earth is layered, with denser metals in the core, less dense rock in the mantle and crust, and quite light water and gasses in the atmosphere and hydrosphere. Even 4.567 billion years later, Earth's structure reflects the way, and the what, of which it formed. Of course those 4.567 billion years have seen significant cooling and chemical changes in all parts of Earth, changes we will examine in this and subsequent chapters. The remainder of this chapter is devoted to understanding the surprisingly dynamic rocky part of our planet, the Geosphere. To fully understand and appreciate Earth's behavior, you have to realize that Earth's interior is at enormous pressures and high temperatures, and that at these extreme conditions rocks will flow like honey, metal will flow like water, and water is a chemically vicious substance more like gas than liquid. \\
+
+\subsection{Density and Bulk Composition}
+The simplest and most important question we can about Earth is ``What is it made of?'' Although Earth accreted from a variety of different types of differentiated meteorites, a good estimate for Earth’s composition is provided by a particular type of primitive meteorites called \emph{enstatite chondrites}. These meteorites give the best match of both the chemical and isotopic composition of the planet. Despite its size and magnificent complexity, Table 3 shows that 99.5\% of Earth is made up of just 7 elements! To first order, Earth will behave like a ball of these elements. This is a profound constraint of Earth's behavior: it will not act like an all water planet, nor a planet of gold. Earth behaves like a planet made of rock (a mixture of Si, O and other elements) with a metallic (Fe and Ni and other elements) core.\\
+
+\begin{table} 
+\centering
+\begin{threeparttable}
+\caption{Earth's Bulk Elemental Composition\tnote{1}}
+\label{tab:ebc}
+\begin{tabular}{@{}llll@{}} \toprule
+Element	  &Symbol		&Composition\tnote{2}	&Cumulative\tnote{3}\\
+      	  &	        &Weight \%		&Weight \% \\ \midrule
+Oxygen		&O				&33						&33\\
+Iron			&Fe				&28						&62\\
+Silicon		&Si				&20				    &82\\
+Magnesium &Mg				&14				    &96\\
+Nickel		&Ni		    & 2			      &98\\
+Calcium 	&Ca		    & 1		        &99\\
+Aluminum  &Al		    & 1		        &99.5\\ \bottomrule
+\end{tabular}
+\begin{tablenotes}
+\item[1] See Figure \ref{fig:pt-be} for the location of these elements on the periodic table.
+\item[2] The bulk compositions here are from Javoy, M., Kaminski, E., Guyot, F., Andrault, D., Sanloup, C., Moreira, M., ... \& Jaupart, C. (2010). The chemical composition of the Earth: Enstatite chondrite models. Earth and Planetary Science Letters, 293(3), 259-268. They differ from McDonough's values by less than 10\% of the values. 
+\item[3] Rounding errors account for the small discrepancies between composition and cumulative weights. 
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+We have already seen that the cores of differentiated planets are mostly metals like Fe and Ni. If we make the simple (and wrong) guess that all the Fe and Ni separated into the core, we’d expect the core to make up 28\%+2\%=30\% of Earth. The actual mass of the core is about 32\% of Earth's total mass, so there must be more than just Fe and Ni in the core, including sulphur (S) and silicon (Si), and perhaps some other light elements like H and O\\
+
+A different and powerful approach to estimating Earth's bulk composition is to use density, the ratio of mass to volume of an object. Earth has a well determined mass\footnote{ } of $M=\SI{5.9726e24}{\kilo\gram}$. The average radius $r$ of the planet is \SI{6.371e6}{\metre}. Earth's density $\rho_{Earth}$ is 
+\begin{equation}
+	\rho_{Earth}=\frac{Mass_{Earth}}{Volume_{Earth}}=\frac{Mass_{Earth}}{\frac{4}{3} \pi r^3}=\frac{\SI{5.9726e24}{\kilo\gram}}{\frac{4}{3} \pi (\SI{6.371e6}{\metre})^3}=\SI{5515}{\kilo\gram\per\metre^3}
+\end{equation}
+Earth has an average density about 5.5 times the density of water, or about twice the average density of rocks at the surface. This high density is partly due to Earth's tremendous internal pressures, which compress rocks and metals in the interior to high densities. Even accounting for this, Earth is far too dense to be made only of rock, so much of Earth's interior must be made of metal. But just how much? Figure \ref{fig:bulkdensity} shows the expected bulk density for planets of Earth mass, but composed of different mixtures of metal to rock . A pure rock planet would be much less dense (and hence of larger radius) than Earth, while a planet made from mostly iron would be much more dense (and hence far smaller). Using reasonable models for the behavior of rocks and metals at high pressure, Earth should have about 32\% metal, in excellent agreement with observation. The same process can be used to calculate the size and densities of planets over a wide range of compositions and masses. Over the past 20 years astronomers have discovered thousands of planets around distant stars, and for a small sub-set of these (roughly 850 planets\footnote{843 as of 23 June 2019 http://exoplanet.eu/ The Extrasolar Planets Encyclopaedia}) herculean efforts have provided both mass and radius of these far-distant worlds. The same process we used above is providing the first hints of the composition of Earth-sized planets thousands of light years distant. As we saw in Chapter 4, knowing the color of these planets’ stars gives us their temperature, from which we can infer the surface temperature of the planets. Incredibly, we live in the first era in history where we can estimate the ``Earth-likeliness'' of distant worlds\footnote{de Fontenelle, M. (1686). Conversations on the Plurality of Worlds}.\\
+  
+\subsection{How do we know?}
+Before we dig into the Geosphere, a brief interlude on how we know the remarkably precise details of Earth's internal structure, composition and temperature. Earth's radius is on average 6370 km, about the same distance as a drive from Juneau, AK to Jacksonville, Fl. The deepest anyone has actually walked in Earth-the deepest mine-is slightly less than \SI{4}{\kilo\metre} below ground, while the deepest hole ever drilled is only 12 km deep. These are 0.06\% and 0.2\% of Earth's radius-vanishingly small depths into the Geosphere. By happy coincidence, these are exactly the same proportion as the thickness of the skin of an apple is to the apple itself\footnote{Fortunately, Homutov\'{a}, I., \& Bla\v{z}ek, J. [in (2006) Differences in fruit skin thickness between selected apple (Malus domestica Borkh.) cultivars assessed by histological and sensory methods. Hort. Sci.(Prague), 33(3), 108-113] measured typical skin thicknesses of European apple cultivars to be 33 to 73 um. According to the Washington Apple Council [http://bestapples.com/trade-and-export-marketing/grades-sizing/, accessed 17 January 2016] ``Washington crops traditionally peak on sizes 100 and 113'' apples per 48 pound box, which translates into diameters of 72.1 to 77.5 mm.}. Our knowledge of the deep Earth comes from less direct means than in-person observation.\\
+
+Three important lines of evidence reveal Earth's internal structure. The most important is through the use of seismic waves, sound waves generated in earthquakes. The velocity of the various forms of seismic waves depend upon the composition, density and temperature of Earth's innards. Over the past 30 years, seismologist have used increasingly sophisticated mathematical tools on increasingly many earthquake records to precisely determine Earth's internal structure (Figure \ref{fig:seismic}). Much like a CAT scan uses thousands of x-rays to build a detailed model of a patient's organs, seismic studies are beginning to image detailed structures thousands of kilometers below the surface, in a level of detail unimaginable just 30 years ago. A second line of evidence comes from experiments done in laboratories that squeeze and heat rocks to the conditions expected in the deep Earth (Figure \ref{fig:anvil}). These experiments provide direct evidence for the behavior of Earth at the extraordinary temperatures and pressures in the interior. Technological advances in recent years have led to a slew of new discoveries on the behavior or rocks and metals at the depth of the core-mantle boundary, and of iron well into the outer core.\\
+The third line of evidence comes from Earth itself: mantle xenoliths (from the Greek, \textit{xenos}- foreign and \textit{lith}- rock, a rock that is foreign to the rock around it) and inclusions. Some volcanic eruptions begin hundreds of kilometers below the surface, and gnaw at the surrounding rocks as they rise. Occasionally the eruptions will carry pieces of the mantle to the surface, where the observant geologist can grab a piece to study at her leisure. One such sample is shown in Figure \ref{fig:xenolith}. You may be closer to a similar piece of the mantle than you think: all natural diamonds are from the mantle, brought to the surface in ancient (and explosive) volcanic eruptions. Some diamonds contain microscopic and scientifically priceless inclusions of rocks and minerals from the deep interior. The study of these inclusions is revealing for example both the composition and the relative amount of oxygen in the deep mantle.\\
+
+\subsection{Earth's chemical layers}
+\subsubsection{Core}
+Anyone for calling Earth's Core? Anyone with a modern smart phone can directly and personally probe Earth's core, even though it lies \SI{4000}{\kilo\metre} below the surface. Take out that phone and invoke the compass application (Figure \ref{fig:compass}). Spin the phone around, and notice how the phone uses Earth's magnetic field to calculate the direction of the phone’s pointing. That magnetic field is generated in the molten and rapidly convecting outer core, a part of Earth easily probed but not easily appreciated or understood. Even less understood is the solid inner core within. 
+\paragraph{Composition}
+Seismic waves beautifully reveal the startling nature of the core. As Figure \ref{fig:interior} shows, Earth's density nearly doubles as one passes from the mantle to the core at depth of about 2890 km. As early as 1952, studies had shown that seismic wave velocities in the core were close too, but slightly less than, than those in pure Fe. This led Francis Birch, one of the founders of geophysics, to famously state that the core was iron with an ``uncertain mixture of all the elements\footnote{Birch, Francis. (1952). Elasticity and constitution of the Earth's interior. Journal of Geophysical Research, 57(2).}.'' Sixty years of research has added some precision to Birch's statement. The core is predominantly (Table \ref{tab:corecomp}) an amalgam of Fe-Ni metal with 10\% lighter elements, most likely Si with O or S\footnote{Badro, J., Brodholt, J. P., Piet, H., Siebert, J., \& Ryerson, F. J. (2015). Core formation and core composition from coupled geochemical and geophysical constraints. Proceedings of the National Academy of Sciences, 112(40), 12310–12314. \href{https://doi.org/10.1073/pnas.1505672112}{Link}; Hirose, K., Morard, G., Sinmyo, R., Umemoto, K., Hernlund, J., Helffrich, G., \& Labrosse, S. (2017). Crystallization of silicon dioxide and compositional evolution of the Earth’s core. Nature, 543, 99.}. Seismic wave velocities also reveal the mechanical state of the core. Recall that P-waves can pass through both solids and fluids, while S-waves can only propagate through solids. S-wave velocities go to 0 km/s at the top of the outer core, and stay at 0 km/s until the top of the inner core at a depth of 5150 km. This behavior is expected of liquids, which can’t transmit S-waves. This behavior is direct evidence that the outer core is a liquid, while the inner core is solid.
+
+\begin{table} 
+\centering
+\begin{threeparttable}
+\caption{Earth's Bulk Elemental Composition\tnote{1}}
+\label{tab:ebc}
+\begin{tabular}{@{}llll@{}} \toprule
+Element	  &Symbol		&Composition\tnote{2}	&Cumulative\tnote{3}\\
+      	  &	        &Weight \%		&Weight \% \\ \midrule
+Iron		  &Fe				&85						&87\\
+Nickel		&Ni			  &5		  			&92\\
+Oxygen		&O		    &4		        &96\\
+Silicon		&Si		    &3		        &98\\
+Sulphur		&S		    &2	          &99\\
+Carbon		&C		    &2	          &100\\ \bottomrule
+\end{tabular}
+\begin{tablenotes}
+\item[1] See Figure \ref{fig:pt_core} for the location of these elements on the periodic table.
+\item[2] The compositions here are an amalgam of Hirose, K., Morard, G., Sinmyo, R., Umemoto, K., Hernlund, J., Helffrich, G., \& Labrosse, S. (2017). Crystallization of silicon dioxide and compositional evolution of the Earth’s core. Nature, 543, 99 and Badro, J., Brodholt, J. P., Piet, H., Siebert, J., \& Ryerson, F. J. (2015). Core formation and core composition from coupled geochemical and geophysical constraints. Proceedings of the National Academy of Sciences, 112(40), 12310–12314. https://doi.org/10.1073/pnas.1505672112, constrained by a 1:1 wt/wt ratio for C and S, and 90 wt \% for Fe+Ni.  
+\item[3] Rounding errors account for the small discrepancies between composition and cumulative weights. 
+\end{tablenotes}
+\end{threeparttable}
+\end{table}
+
+\paragraph{Inner}
+At the very center of the planet (Figure \ref{fig:interior}) lies the inner core, the smallest, least massive, hottest and youngest of all major parts of the planet, and the last to be discovered. The inner core makes up a little less than 1\% of Earth by volume\footnote{According to both PREM and STW 105 models, $V_{ic}/V_{Earth}=(1221.5/6371)^3=0.7\%$}, and is so remote that it was only discovered in 1936 by \footnote{Ishii, M., \& Dziewo\'{n}ski, A. M. (2002). The innermost inner core of the earth: Evidence for a change in anisotropic behavior at the radius of about 300 km. Proceedings of the National Academy of Sciences, 99(22), 14026-14030.}. Not until 1972 did seismologist conclusively demonstrate that the inner core is a mushy solid. The inner core formed “only” ~1 Ga and continues to grow about 1 mm/yr, consuming the outer core as it goes. 
+
+
+ 
+\begin{align}
+	E_{reflected}=Albedo\cdot E_{SWR}\\
+	E_{reflected}=0.30\cdot \SI{340}{\watt\per\m^{2}}\\ \label{eq:eref}
+	E_{reflected}=\SI{102}{\watt\per\m^{2}}
+\end{align}
+
+
+
+\section{Figures}
+.
+\newpage
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{Allende}%
+\caption{A small piece of the justifiably famous Allende meteorite. Early in the morning of Saturday February 8, 1969, a few tons of asteroid burrowed in to Earth’s atmosphere. Seconds later, residents of Pueblito de Allende Mexico (630 km, 400 miles south of El Paso, TX) saw a bright, blue fireball move across the sky. Moments later the meteor exploded, spewing thousands of fragments (like the one shown) across northern Mexico. The Allende meteorite records pieces of the earliest Solar System including chondrules (the dark spherical blobs, formed from melted dust), calcium-aluminum inclusions (the white hunks, formed from gasses condensing to solids) and a dark fine-grained matrix rich in carbon and water. The calcium aluminum inclusions are the oldest known things in the Solar System: they formed \SI{4567.3(2)}{\giga\year} ago (Connelly, J. N. et al., (2012). The absolute chronology and thermal processing of solids in the solar protoplanetary disk. Science, 338(6107), 651-655.). This is the stuff from which Earth, and hence you and me, are made. This photograph was digitally enhanced by stretching the brightness and contrast to reveal the meteorite's texture, the scale is in centimeters.}   
+\label{fig:allende}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[height=6 in]{solarsystem}%
+\caption{A perspective view of the Solar System viewed from the location of the most distant man-made object (Pioneer 11), generated by the wonderful NASA/JPL-Caltech Solar System Simulator (http://space.jpl.nasa.gov/). The upper panel focuses on the outer planets, and the most famous non-planet, Pluto. Pluto's odd orbit stands out, illustrating that it deserved its sad demotion to ``dwarf planet''. The lower panel focuses on the inner planets (labeled) and two of the larger bodies in the Asteroid Belt (in gray). Even at this scale the planar nature, and profound scale, of the Solar System is evident. Courtesy NASA/JPL-Caltech.}   
+\label{fig:solsys1}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=5 in]{solsyssketch}%
+\caption{A schematic view of the Solar System. Panel A (upper left) shows the planet’s orbit as viewed from the ``side'' of the Solar System. All of the planets orbit within \ang{7} of a plane, indicating that the planets originally formed in a plane as well. Panel B (middle left) shows the system from above. Planets orbit the Sun in elliptical, not circular, orbits. This is particularly easy to see in the orbits of Mercury and Mars shown in the magnified illustration of Panel C (lower left). The Edgeworth Kuiper Belt is too distant from the Sun to show in its entirety on the diagram, so its location is indicated by the small portion in the upper right. The \:{O}\:{o}rt cloud would lie more than 600 feet from the page at the scale of the diagram, and the closest star to Earth would be about 3000 ft away! Space is big. The actual size of the planets can't be shown in either parts of Panel B, instead they are shown magnified by about 400 times in Panel D (right). Earth is about 1/10 the size of Jupiter, which in turn is about 1/10 the size of the Sun.}   
+\label{fig:solsys2}
+\end{figure}
+ 
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{ceresearthjup}%
+\caption{The relative scale of objects in the Solar System. Ceres is the largest object in the Asteroid Belt, discovered from Earth on January 1, 1801 CE. The object was hailed as a missing planet until the second (and third, then fourth…) asteroid was discovered a few years later. The Moon is about one quarter of Earth’s size, and is one of the larger natural satellites in the Solar System. Earth is the largest of the Terrestrial planets, but is tiny compared to the largest of the Gas/Ice Giants, Jupiter. Courtesy NASA.}   
+\label{fig:sizes}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{ceres}%
+\caption{Ceres' heavily cratered surface (particularly obvious at the terminator on the left) shows the violent way it accreted boulders and smaller planetesimals during its formation in the early Solar System. With a diameter of roughly \SI{940}{\kilo\metre} (550 miles), Ceres is differentiated into a rocky core and a water-rock crust (seen in the photograph). Ceres is obviously round, because its gravity is stronger, over the long term, than the material of which it is made. Thousands of objects the size, but not the composition, of Ceres would be needed to form Earth. Tens of thousands of these objects roamed the inner Solar System 4.56 Gya. Courtesy of NASA/JPL-CalTech.}   
+\label{fig:ceres}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{MBA}%
+\caption{A selection of Main Belt Asteroids, shown to scale to illustrate their enormous range in sizes. Vesta is the second largest Main Belt Asteroid (after Ceres), about \SI{530}{\kilo\metre} (330 miles) across. Note that some asteroids, like 243 Ida, have their own moons! The heavily cratered surfaces are witness to billions of years of punishing exposure to a hostile space environment. Image courtesy NASA/JPL-Caltech/JAXA/ESA.}   
+\label{fig:MBA}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{pillars.pdf}%
+\caption{The birth of stars and planets, revealed in this magnificent photograph from the Hubble Space Telescope of a region in the constellation Carnia, 7500 light years away. The area in the image is about 3 light years across. The striking red-brown columns are ``clouds'' of gas and dust; the wispy whitish-blue tendrils are the same gas and dust after being evaporated by the intense light of the new stars (pinkish, with artefactual crosses). The dense globules are the sites of ongoing star and planet formation. The twin jets are material being shot from the forming stars. Our Solar System formed in the same way, with dozens of stars forming simultaneously in a region just a few light years across. Credit: NASA, ESA, and M. Livio and the Hubble 20th Anniversary Team (STScI, https://www.spacetelescope.org/images/heic1007e/).}   
+\label{fig:pillars}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{ppdisk1}%
+\caption{This striking Hubble Space Telescope photograph reveals a proto-planetary disk in the Orion Nebula, 1500 light years away. We see the disk from nearly edge on, so the central star is blocked from view; the white spots above and (more faintly) below the bow-tie-shaped disk are reflections of star light from the disk itself. Our Solar System formed in a similar (though much smaller) disk 4.56 Ga. Compare this actual disk with the cross-sectional view in Figure \ref{fig:ppdisk2}. Credit: Mark McCaughrean (Max-Planck-Institute for Astronomy), C. Robert O'Dell (Rice University), and NASA. http://hubblesite.org/image/359/news\_release/1995-45.}   
+\label{fig:ppdisk1}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{ppdisk2}%
+\caption{A sketch of the proto-planetary nebula in which our Solar System formed. The dense central plane of the disk is the formation area of boulders, planetesimals, embryos and finally planets. Inside the \emph{snow line} (red shading) temperatures were sufficiently hot to melt and evaporate ices and gasses, leaving predominantly dust in the central plane. The snow line initially formed about three times further from the Sun than Earth is now. The dense central plane extended out to about 30 times the Earth-Sun distance. Based on Nuth, J. A. (2001). How were the comets made? Am. Sci, 89(3), 228 and Williams, J. P., \& Cieza, L. A. (2011). Protoplanetary disks and their evolution. arXiv preprint arXiv:1103.0556.}   
+\label{fig:ppdisk2}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{jakob1}%
+\caption{The formation of Earth. The first solid stuff in our Solar System were tiny Calcium-Aluminum Inclusions, or CAIs. They formed from the gas and dust in the proto-planetary nebula at \SI{4567.3(2)}{} Ma. Heating from collisions and decay of radioactive isotopes in the grains led to the melting and differentiation of many planetesimals, leaving them with dense metallic cores surrounded by rocky mantles and a thin crust of volcanic rocks and ices. Within 100,000 years, the first embryos of the terrestrial planets had formed. Some embryos grew more rapidly than others, and within 10 million years, $\sim 64\%$ of Earth had accreted into the embryo destined to become home. By that time, proto-Earth must have been the dominant planet at 1 astronomical unit (the distance between Earth and the Sun), sweeping in or ejecting the remaining material near our orbit. Accretion was effectively complete \SI{40}{100}{} million years after CAIs formed, when the collision of Earth with a Mars-sized impactor led to the formation of the Moon. The figure is not to scale. Modified from Jacobsen, 2013, Science 300, pg. 1513-1514., and Jacobsen et al.Nature 508, pg. 84-87 (2014).}   
+\label{fig:jakob1}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{jakob2}%
+\caption{A more quantitative version of Figure \ref{fig:jakob1}, showing the important events in the history of planetesimals (orange, lower left), Earth (green), the Moon (gray, middle right) and Mars (a ``starved'' embryo, red). Chondrule formation, accretion and melting of planetesimals, and clearing of gas were all complete by 3 My after CAI. The range of times over which the Grand Tack, Late Heavy Bombardment (DeMeo \& Carry, 2014, Nature 505, pg. 629-634), and evolution of life, respectively are shown by boxes labeled GT, LHB and EoL. Curious, isn't it, that life on earth seems to have appeared only after the LHB? The timing of melting is from Kruijer et al., 2014, Science 344, p. 1150-1154; Jacobsen et al., 2014, Nature 508, p. 84-87. Formation of Mars is from Dauphas \& Pourmand, 2011, Nature 473, p. 489-493.}   
+\label{fig:jakob2}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{hfm}%
+\caption{A more quantitative version of Figure \ref{fig:jakob1}, showing the important events in the history of planetesimals (orange, lower left), Earth (green), the Moon (gray, middle right) and Mars (a ``starved'' embryo, red). Chondrule formation, accretion and melting of planetesimals, and clearing of gas were all complete by 3 My after CAI. The range of times over which the Grand Tack, Late Heavy Bombardment (DeMeo \& Carry, 2014, Nature 505, pg. 629-634), and evolution of life, respectively are shown by boxes labeled GT, LHB and EoL. Curious, isn't it, that life on earth seems to have appeared only after the LHB? The timing of melting is from Kruijer et al., 2014, Science 344, p. 1150-1154; Jacobsen et al., 2014, Nature 508, p. 84-87. Formation of Mars is from Dauphas \& Pourmand, 2011, Nature 473, p. 489-493.}   
+\label{fig:hfm}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{ironmets}%
+\caption{Two metallic meteorites from the Kristin Chon Collection at Framingham State University. They look non-descript, masquerading as slag or the other industrial by product. Cut one open (on the right) and you can see that they are entirely Fe-Ni metal. The characteristic Widmanstätten pattern [admittedly poorly developed here; I need to polish the surface and hit it with HNO3] seen on the polished face indicates extraordinarily slow cooling of the once molten Fe-Ni core of the meteorite’s parent body. Most estimate suggest the core crystallized over 10 Myr time scale. These meteorites demonstrate the existence of differentiated planetesimals in the early Solar System, the slow cooling of the core in a large objects, and the later disruption of the parent body by an impact that scattered pieces into Earth’s orbit. This photograph was digitally enhanced by stretching the brightness and contrast to reveal the meteorite’s texture.}   
+\label{fig:ironmets}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{pallasite}%
+\caption{A thin slice of a pallasite meteorite. The green crystals are olivine, an iron- and magnesium-rich mineral and the principal component of the upper mantle of rocky objects like including Earth. The shiny gray material is solidified metal, largely iron and nickel. The texture of the meteorite indicates the olivine crystal were floating in the molten Fe-Ni metal. How the olivines and metals were mixed is somewhat of a mystery, but current hypotheses have the olivines and liquid metal mixing after a collision that shattered an already differentiated object.}   
+\label{fig:pallasite}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{moon}%
+\caption{Earth’s Moon, seen from a perspective that only two dozen people have ever had: 6000 miles from the Moon. The darker areas are lunar maria, vast scars of impacts from the Late Heavy Bombardment, subsequently filled by volcanic rock. They date from 4.0 to 3.85 Ga. The light highland areas formed 4.4 Ga from minerals that floated to the top of the magma ocean that covered the Moon soon after its formation. The highlands. Image is courtesy of NASA.}   
+\label{fig:moon}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=3 in]{pt_be}%
+\caption{The six elements (high-lighted in green) which together make up 99.5\% of Earth. Our planet consists of $1/3$ iron, a majority of which is in the core; roughly $1/3$ atomic oxygen; and roughly $1/3$ silicon and magnesium, all of which combines chemically with the oxygen to form the mantle and crust. This Figure accompanies Table \ref{tab:ebc}.}   
+\label{fig:pt-be}
+\end{figure}
+
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{bulkdensity}%
+\caption{Inferring Earth's composition from its bulk density. Earth-massed planets made of various proportion of metallic iron and silicate rock (given by the lower row on the figure) would have the density given in the upper row. Earth's measured density is approximately \SI{5515}{\kilogram\per\metre\cubed}, suggesting Earth is about 32\% metal. The estimate is about 2\% points too high, quite an achievement considering that the estimate is based on a single observable property of the planet: its density. In the past decade, astronomers have determined the radius and the mass of almost 850 planets (precisely 843 as of 23 June 2019, according to \href{http://exoplanet.eu/}{The Extrasolar Planets Encyclopaedia}) orbiting stars thousands of light years from Earth. Using the resulting density, this method can be used to estimate their bulk compositions!}   
+\label{fig:bulkdensity}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{seismic.pdf}%
+\caption{The power of seismology lies in revealing Earth's deep structure, much as a CAT scan reveals the internal organs of a patient. Here rocks that are colder (in blue) and warmer (in red) than usual reveal an enormous cold plate lying \SIrange{400}{1200}{\kilo\metre} below the surface of North America. The map view in the upper panels shows the ancient Farallon Plate (in blue) lying \SI{700}{\kilo\metre} below North America. In the lower panel a cross section of the Earth (along the line indicated in the upper panel) shows the Farallon plate (in blue, labeled ''EF'') trundling eastward, toward the viewer. This cold slab, once a great tectonic plate at the surface, has traveled from the west coast of the continent over the past 150 My. (Porritt, R. W., Allen, R. M., \& Pollitz, F. F. (2014). Seismic imaging east of the Rocky Mountains with USArray. Earth and Planetary Science Letters, 402, 16-25.). I do not have copyright permission for this figure, and use it as a placeholder only.}   
+\label{fig:seismic}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{anvil}%
+\caption{A diamond anvil experiment in a synchrotron light source. A rock sample is placed in between two diamonds, and the diamonds are pressed together to produce pressures equivalent to those in Earth. A synchrotron produces x-rays that heat and probe the atomic structure of the sample, providing experimental evidence for the nature of earth's deep interior. http://newscenter.lbl.gov/2011/12/12/diamonds-and-dust/nd . This is a placeholder figure. And unappealing as well.}   
+\label{fig:anvil}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{xenolith}%
+\caption{A mantle xenolith (the green and black area) contained within a basaltic volcanic rock (the dark surrounding rock). The volcanic rock started as a magma---molten rock---in Earth’s mantle. During its ascent through the mantle to the surface, the magma tore off a chunk of the mantle and carried it to the surface. The abundant green mineral is olivine (seen also in Figure \ref{fig:pallasite}), the less common black mineral is pyroxene. Not visible is a third common mantle mineral, garnet. We don’t have to guess the composition of the mantle, we can measure it! This photograph was digitally enhanced by stretching the brightness and contrast to reveal the sample's texture.}   
+\label{fig:xenolith}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=6 in]{internal}%
+\caption{Earth's contemporary internal structure as revealed by analysis of seismic waves. Smooth, continuous changes in the density or seismic wave velocity indicate volumes in Earth with homogenous chemical compositions and mineral makeup. Discrete jumps (for example at 2890 km depth) reflect abrupt changes in one or both. Note that S-wave velocities fall to \SI{0}{\kilo\metre\per\second} in the outer core, indicating that this part of Earth is liquid. S-wave velocities return to positive values in the inner core, indicating it is solid.}   
+\label{fig:internal}
+\end{figure}
+
+\begin{figure}[p]
+\centering
+\includegraphics[width=3 in]{pt-core.pdf}%
+\caption{The principle elemental components of Earth's core, as shown on a periodic table. Compare with Figure \ref{fig:pt-be} and Table \ref{tab:ebc}.}   
+\label{fig:internal}
+\end{figure}
+
+%\newpage
+%\begin{sidewaysfigure}
+%\centering
+%\includegraphics[width=8 in]{ann_ghg}%
+%\caption{Changes in the concentrations of the three anthropogenic greenhouse gasses since 1979 CE. Each gas is shown in a separate row (carbon dioxide, $CO_2$; methane, $CH_4$; and nitrous oxide $N_2O$, from top to bottom) with atmospheric concentrations (in parts per million ppm) in the left hand column and annual changes (\%) on the right hand column. Measured vales are shown in unfilled symbols, and projections in the smaller, filled symbols. The abundances of all three gasses has increased in the past 40 years, with typical growth rates 0.3 to 0.6 percent per year. Methane (middle panel) is a clearly different. Before 2000 CE methane concentrations grew rapidly, then leveled off (even falling) for 7 years, only to begin increasing again since 2008 CE. The reasons for the recent increase are still debated, but include changes in the methane released by microbes (often found in rice paddies and the guts of cattle), from increased fossil fuel production, a decrease in the rate methane is removed from the atmosphere, or a combination of all three. }
+%\label{fig:annghg}
+%\end{sidewaysfigure}
+
+\end{document}
+
