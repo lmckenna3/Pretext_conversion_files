@@ -1,0 +1,40 @@
+\documentclass[amstex,12pt]{book}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{verbatim}
+\usepackage{wasysym}
+\usepackage[margin=2cm]{geometry}
+\usepackage{hyperref}
+\usepackage{epigraph}
+\usepackage{graphicx}
+\usepackage[caption=false]{subfig}
+\usepackage{siunitx}
+\usepackage{isotope}
+\DeclareSIUnit\century{century}
+\DeclareSIUnit\year{y}
+\DeclareSIUnit\month{mo}
+\DeclareSIUnit\day{d}
+
+\usepackage{booktabs}
+\newcommand{\textsub}[1]{$_{\text{#1}}$}
+\newcommand{\textsup}[1]{$^{\text{#1}}$}
+\setcounter{chapter}{2}
+\setcounter{section}{-1}
+\pagestyle{plain}
+\graphicspath{ {figures/} }
+
+\begin{document}
+\title{Book title goes here}
+\author{Larry McKenna}
+%\title{}
+
+
+\include Chap_2.tex
+\include Chap_3.tex
+\include Chap_4.tex
+\include Chap_05.tex
+\include Chap_7.tex
+\include Chap_8.tex
+\include Chap_12.tex
+
+\end{document}
