@@ -1,0 +1,15 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="The_Ethics_of_Climate_Change">
+  <title>Climate Change and the Science of Ethics</title>
+  <xi:include  href="Ethics_Epigraph.ptx"/>
+  <xi:include  href="Ethics_Core_Concepts.ptx"/>
+  <xi:include  href="Who_owns_the_air.ptx"/>
+  <xi:include  href="Air_is_a_common_property.ptx"/>
+  <xi:include  href="Global_problem__individual_causes.ptx"/>
+  <xi:include  href="Hinterlands_and_Wastelands.ptx"/>
+  <xi:include  href="The_Atmosphere_as_a_CPR.ptx"/>
+  <xi:include  href="The_Evolution_of_Morals.ptx"/>
+  <xi:include  href="Elinor_Ostrom_s_insights.ptx"/>
+  <xi:include  href="Humanities_Safe_Place.ptx"/>
+  <xi:include  href="Choosing_to_choose.ptx"/>
+  <xi:include  href="Ethics_Figures.ptx"/>
+</chapter>

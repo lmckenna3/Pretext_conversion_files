@@ -1,0 +1,9 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="The_Geosphere">
+  <title>The Geosphere</title>
+  <xi:include  href="Geosphere_Epigraph.ptx"/>
+  <xi:include  href="Core_Concepts.ptx"/>
+  <xi:include  href="Opening_Problem.ptx"/>
+  <xi:include  href="Earth_s_Formation.ptx"/>
+  <xi:include  href="Earth_s_Internal_Structure.ptx"/>
+  <xi:include  href="Geosphere_Figures.ptx"/>
+</chapter>

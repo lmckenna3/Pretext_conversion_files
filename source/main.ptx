@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+  <docinfo>
+<macros>
+\newcommand{\textsub}[1]{$_{\text{#1}}$}
+\newcommand{\textsup}[1]{$^{\text{#1}}$}
+</macros>
+<latex-image-preamble>
+\usepackage{tikz}
+\usepackage{tkz-graph}
+\usepackage{tkz-euclide}
+\usetikzlibrary{patterns}
+\usetikzlibrary{positioning}
+\usetikzlibrary{matrix,arrows}
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes}
+\usetikzlibrary{through,intersections,decorations,shadows,fadings}
+\usepackage{pgfplots}
+</latex-image-preamble>
+  </docinfo>
+  <book>
+    <title>Book title goes here</title>
+    <frontmatter>
+      <titlepage>
+        <author>
+          <personname>Larry McKenna</personname>
+        </author>
+      </titlepage>
+    </frontmatter>
+    <xi:include href="./The_Ethics_of_Climate_Change.ptx"/>
+    <xi:include href="./Energy__Heat__Temperature_and_Light.ptx"/>
+    <xi:include href="./chapter3.ptx"/>
+    <xi:include href="./The_Geosphere.ptx"/>
+    <xi:include href="./Hydrosphere.ptx"/>
+    <xi:include href="./Cryosphere.ptx"/>
+    <xi:include href="./The_Ice_Ages.ptx"/>
+    <backmatter>
+      <xi:include href="./bibliography.ptx"/>
+    </backmatter>
+  </book>
+</pretext>

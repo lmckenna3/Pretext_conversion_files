@@ -1,0 +1,11 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" >
+  <title>The Greenhouse Effect and Earth's Many Temperatures</title>
+  <xi:include  href="Greenhouse_Epigraph.ptx"/>
+  <xi:include  href="Greenhouse_Core_Concepts.ptx"/>
+  <xi:include  href="Earths_many_temperatures.ptx"/>
+  <xi:include  href="The_Greenhouse_Effect.ptx"/>
+  <xi:include  href="Earth_s_Thermostat.ptx"/>
+  <xi:include  href="Hot_Equator__Cold_Poles.ptx"/>
+  <xi:include  href="Average_Temperatures.ptx"/>
+  <xi:include  href="Greenhouse_Figures.ptx"/>
+</chapter>

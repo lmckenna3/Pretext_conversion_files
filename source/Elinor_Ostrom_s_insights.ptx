@@ -1,0 +1,295 @@
+<section xml:id="Elinor_Ostrom_s_insights">
+  <title>Elinor Ostrom and effective governance of the common</title>
+  <introduction>
+    <p>
+      The difference between successfully and unsuccessfully managed CPRs lies in how they are <em>governed</em>.
+      Think of
+      <q>governance..as the structures and processes by which [individuals] in societies make decisions and share power,
+      creating the conditions for ordered rule and collective action.<fn>
+      Schultz, L., Folke, C., "Osterblom, H., &amp; Olsson, P. (2015).
+      Adaptive governance, ecosystem management, and natural capital.
+      Proceedings of the National Academy of Sciences, 112(24), 7369-7374
+      </fn>.</q>
+      The science of CPR governance was pioneered by Professor Elinor Ostrom,
+      one of the winners of the Nobel Memorial Prize for Economics in 2009.
+      Her work, with hundreds of colleagues and students,
+      demonstrated through both field work and careful laboratory studies that successful governance strategies exist,
+      and can be implemented by societies who want them.
+    </p>
+    <p>
+      So how does a collection of free-loaders, would-be cooperators,
+      and the occasional altruists successfully manage a CPR? Observations of well-managed CPRs shows that the Tragedy of the Commons is
+      <em>not</em> inevitable.
+      Individuals in the group must eventually learn from experience that conditional cooperation<mdash/>acting with the group as long as free-loaders are punished<mdash/>leads to increased cooperation over time,
+      and the long-term sustainability of the resource.
+      This cooperation is begun by those rare altruists,
+      but is ultimately completed by the remainder of the users,
+      who enforce cooperation by preventing free-loaders from unfair gain.
+    </p>
+  </introduction>
+  <subsection xml:id="practices">
+    <title>Observed practices of successfully managed CPR</title>
+    <p>
+      These same observations show that a suite of core features are shared by these well-managed CPRs<fn>
+      Dietz, T., Ostrom, E., &amp; Stern, P. C. (2003).
+      The struggle to govern the commons.
+      Science, 302(5652), 1907-1912
+      </fn>.
+      Fundamental to successful governance is data on the resource:
+      how much there is, how fast that amount is changing,
+      how healthy the resources is,
+      are crucial observations that allow the users to maintain the resource.
+      Users build and maintain reputations for trustworthiness by frequent face-to-face conversations.
+      For example,
+      lobster fishers in Maine accomplish both these tasks simultaneously,
+      often over a doughnut and coffee in the pre-dawn hours before they head out for the day.
+      This communication also helps users gauge each others behavior,
+      and make sure that everyone follows the rules they've agreed to.
+      Well-run CPRs have efficient and low-cost ways of excluding outsiders from the resource,
+      either through formal rules or informal behaviors.
+      Lobstering is an intensely local activity,
+      and fishers who try to place their gear in another town's waters will quickly find their gear
+      <q>missing</q>
+      if they continue the practice.
+      Finally, and this might be out of control of a group, CPRs are easier to manage when the resource only changes slowly.
+      Rapid change, as see in the cod fisheries of Maine,
+      produces so much anxiety in users that free-loading becomes seductively attractive<fn>
+      Acheson, J., &amp; Gardner, R. (2014).
+      Fishing failure and success in the Gulf of Maine:
+      lobster and groundfish management.
+      Maritime Studies, 13(1), 8.
+      <url href="https://doi.org/10.1186/2212-9790-13-8">Link</url>
+      </fn>.
+    </p>
+  </subsection>
+  <subsection xml:id="no_toc">
+    <title>8 Successful Strategies</title>
+    <p>
+      With those goals in mind, Ostrom and her co-authors found that a few good strategies were enough to bring stability to CPRs (See <xref ref="tab_8_strats">Table</xref>).
+      Each of them faces unique challenges when applied to global CPRs, such as the atmosphere CPR. Below we examine each strategy,
+      grouped by the practices we saw in <xref ref="practices">Section</xref>
+    </p>
+    <table xml:id="tab_8_strats">
+      <title>8 Strategies for Successful Governance of Common Pool Resources</title>
+      <tabular>
+        {@ll@} \toprule
+        Number &amp; Title\\ \midrule
+        0 &amp; No Panaceas\\
+        1 &amp; Be Prepared for Change\\
+        2 &amp; Dealing with Conflict\\
+        3 &amp; Collect Lots of Data\\
+        4 &amp; Analytical Discussions\\
+        5 &amp; Provide Infrastructure\\
+        6 &amp; Inducing Rules Compliance\\
+        7 &amp; Nested Governance\\ \bottomrule
+      </tabular>
+    </table>
+    <paragraphs>
+      <title>Change is inevitable (Strategies 0, 5)</title>
+      <p>
+        A
+        <q>panacea</q>
+        is a cure-all, something that fixes all ailments.
+        Unfortunately,
+        there are no panaceas when it comes to governing a CPR. Strategies that work in one CPR may not work in another one,
+        and strategies that work now may not work in the future.
+        Because change is inevitable,
+        users should be open to review of the rules and limits governing the CPR. This requires experimentation with what works,
+        often repeatedly.
+        Even in small CPRs this can lead to confusion and anger amongst users.
+        Experimentation is hard for any CPR, but is exceptionally hard for the atmospheric CPR. We have only one planet after all,
+        and experiments take decades to play out.
+        So our
+        <q>experiments</q>
+        have to be done indirectly<mdash/>through computer simulation,
+        small-scale models,
+        or using Earth's past natural climate changes as natural experiences.
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Build trust (Strategy 2)</title>
+      <p>
+        As we've seen repeatedly in this chapter,
+        reputation is the key to initiating and maintaining the conditional cooperation so crucial to running a CPR. Honest,
+        early and frequent communication is a key aspect of building reputation,
+        trust and cooperation with in a group.
+        Conflict within any group is inevitable,
+        (partly because power is usually unevenly distributed between individuals),
+        but having existing relationships helps to both reduce the frequency and severity of the conflicts.
+      </p>
+    </paragraphs>
+    <p>
+      Building trust on global CPRs is triply difficult.
+      Everyone, all 7 billion humans,
+      use the atmosphere CPR, so we can only build trust through reputation,
+      which takes time, technology and money.
+      But most of us will never, meet directly.
+      So we need to rely on representative
+      (often political)
+      leaders, many of whom have vague reputations even with their own people.
+      Finally, most CPRs are small enough that users share a common culture,
+      which is definitely not true for global CPRs.
+      The enormous variation in cultural beliefs across the human population makes reputation building difficult.
+    </p>
+    <paragraphs>
+      <title>Collect, analyze and discuss data (Strategies 1,6)</title>
+      <p>
+        Having reliable data on the status of the CPR is invaluable.
+        Knowing how much of the resource is left,
+        how fast the amount of the resource is changing,
+        and where the remaining resources are located are all as valuable as the resource itself.
+        But data alone is not enough:
+        the data has to be presented to users in ways they can understand and act on,
+        but in enough detail to be useful.
+        Finally the users of the resource need to discuss the data amongst themselves and others so they can create a proper course of action for the CPRs management.
+      </p>
+    </paragraphs>
+    <p>
+      Applying this to climate change and the atmosphere CPR is exceptionally difficult.
+      Surprisingly few people actually understand the greenhouse effect,
+      and hence don't understand the causal relationship between emission of greenhouse gasses and global warming<fn>
+      Just 35 words,``Earth's [surface] transforms sunlight's <em>visible</em>
+      light energy into <em>infrared</em> light energy,
+      which leaves Earth slowly because it is absorbed by greenhouse gases.
+      When people produce greenhouse gases,
+      energy leaves Earth <em>even more slowly</em><mdash/><em>raising</em>
+      Earth's temperature."are enough to  get the point across,
+      even to a lay audience.
+      Ranney, M. A., &amp; Clark, D. (2016).
+      Climate Change Conceptual Change: Scientific Information Can Transform Attitudes.
+      Topics in Cognitive Science, 8(1), 49-75.
+      <url href="https://doi.org/10.1111/tops.12187">Link</url>
+      </fn>.
+      No amount of data on the status of the atmosphere can help users manage it successfully if they don't understand how the CPR actually works.
+      Clearly, the goal of this book is to change that!
+    </p>
+    <paragraphs>
+      <title>Infrastructure is important (Strategy 4)</title>
+      <p>
+        Infrastructure<ndash/>the built facilities and structures of society<mdash/>conditions what is a CPR. Something as simple as barb-wire provides a great example.
+        Prior to the 1880s, the Great Plains of the United States were largely open lands,
+        through which
+        <q>cowmen</q>
+        drove their grazing herds.
+        Closing the millions of acres of land was impractical,
+        and the grass remained a CPR. With the invention of barb-wire,
+        enclosing vast stretches of land became possible,
+        and the open prairie was rapidly fenced in.
+        Barb-wire killed a CPR<fn>
+        Cook, S. The Rise of Barbed Wire and Its Transformation of the American Frontier
+        <url href="http://xroads.virginia.edu/~class/am485_98/cook/develp2.htm">Link</url>
+        accessed 24 March 2017
+        </fn>.
+        Global communications and transport has allowed the flourishing of a global marketplace for resources from many CPRs:
+        lobster from Maine is flown nightly to markets around the world.
+      </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Governance (Strategies 3 and 7)</title>
+      <p>
+        Users in well-run CPRs believe,
+        often through extensive experience and experimentation,
+        that the rules governing use of the resource are beneficial to them in the long-run.
+        Users who have this
+        <q>buy-in</q>
+        are more likely to follow the rules themselves,
+        and are less tolerant of free-loading in others.
+        Developing this ethic is easier when there are tiered penalties for rule-breakers.
+        Thus mild or initial infractions should have mild penalties,
+        but subsequent or serious infractions earn more serious sanctions.
+      </p>
+    </paragraphs>
+    <p>
+      Finally, there is how all this governance is structured.
+      Research clearly indicates that CPRs fail if the only governance is from centralized,
+      top-down administration through laws by national governments.
+      Instead, governance is more effective when it starts at the local level with users,
+      and continues to larger scales.
+      These groups form a
+      <q>nested</q>
+      chain of institutions, all of which share management decisions,
+      focused on maintaining the CPR<fn>
+      Brewer, J. (2012).
+      Revisiting Maine's lobster commons:
+      rescaling political subjects.
+      International Journal of the Commons, 6(2). https://doi.org/10.18352/ijc.336
+      </fn>.
+      The lobster fishery in Maine is governed by local fishers at the port level,
+      who effectively and collectively enforce the rules on the number and type of lobster caught.
+      A fisher from each local collection of ports serves on a state-sponsored
+      <q>Lobster Zone Council,</q>
+      which fosters communication and data sharing at the regional level.
+      One person from each of these Councils also serves on the
+      <q>Lobster Advisory Council,</q>
+      which advises Maine's Governor,
+      sponsors lobster research and resolves the inevitable disputes between ports,
+      zones and regions.
+      The
+      <q>Atlantic States Marine Fishery Council</q>
+      has a Lobster Board,
+      which coordinates maintenance of lobster fisheries all along the New England coast.
+      Most controversially, the
+      <q>National Marine Fisheries Service</q>
+      provides a Federal presence in the management.
+    </p>
+    <p>
+      This is a sprawling, apparently cumbersome structure,
+      and some levels were designed specifically to prevent other levels from gaining too much power.
+      But it <em>works</em>.
+      Despite 70 years of intensive fishing,
+      climate change, technological growth and two World Wars,
+      lobster have survived as a resource,
+      and lobstering has survived as a way of life.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Governing the Atmospheric CPR is more difficult than governing other CPRs</title>
+    <p>
+      The global scale and slow change of the atmospheric CPR means it has different features than the vast majority of other CPRs.
+      These unique features make governing the atmospheric CPR uniquely difficult.
+      As we saw above, Ostrom's research showed that CPRs are well-governed when the users communicate repeatedly<fn>
+      Dietz, et al.
+      Op.
+      Cit.
+      </fn> and personally with each other.
+      This builds trust and reputation among the users.
+      This trust allows users to escape the Prisoner's Dilemma,
+      and avoid the worst-of-all-outcomes we saw in <xref ref="Prisoners_D">section</xref>.
+      But the atmospheric CPR is global!
+      Meeting, personally and repeatedly,
+      with fellow emitters of greenhouse gasses from China, Brazil,
+      or Australia is impossible.
+      The only people who can meet repeatedly face to face are political entities,
+      such as national governments,
+      multi-national organizations (The UN), and others private entities.
+      But even these meetings can be overly large,
+      with well over 23,000 participants<fn>
+      Carbon Brief,
+      quoting offical UN documentation https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop21, accessed 14 March 2017
+      </fn> at the important 2015 Climate talks in Paris.
+      Building trust and reputation is hard when you have to meet 23,000 people in a few weeks.
+    </p>
+    <p>
+      Another subtle difference is the slow,
+      inter-generational nature of the atmospheric CPR's collapse.
+      Cod fishing went from profitable to impossible in a generation.
+      But the collapse of the atmospheric CPR has been happening for at least 150 years,
+      and will continue for at least as long.
+      In his perfectly titled essay <em>The Perfect Moral Storm</em>, Steven Gardiner<fn>
+      Gardiner, S. M. (2006).
+      A perfect moral storm: climate change,
+      inter-generational ethics and the problem of moral corruption.
+      Environmental values, 397-413.
+      </fn> argues that those same political entities who met in Paris tend to act with their current
+      (not future)
+      citizens in mind and so ignore the interests of future citizens.
+      While true, this behavior isn't relegated just to politicians.
+      Most people tend to discount the needs of future people in favor of those already here;
+      many individuals even tend to discount their own future needs over their current needs.
+      But are you any less
+      <q>valuable</q>
+      in 20 years than you are now?
+      This practice of discounting the future in favor of the present has always been a difficulty of managing CPRs, but it reaches new levels when applied to global CPRs such as the atmosphere's ability to hold the waste products of the Anthroposphere.
+    </p>
+  </subsection>
+</section>

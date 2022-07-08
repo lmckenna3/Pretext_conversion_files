@@ -1,0 +1,339 @@
+<section xml:id="Blackbody_Radiation">
+  <title>Blackbody Radiation: What light and color can tell us about objects across the Universe</title>
+  <subsection>
+    <title>Light as the way objects radiate energy</title>
+    <p>
+      Electromagnetic radiation
+      (which we'll abbreviate as EMR)
+      is the formal name of what we casually call
+      <q>light</q>. Radio waves; infra-red, visible and ultraviolet light;
+      and x-rays are all different parts of the electromagnetic spectrum.
+      <em>EMR is emitted anytime an electron or other charged particle oscillates or is accelerated.</em>
+      A Wi-Fi antenna, for example,
+      emits radio waves when the electrons in the antenna oscillate in response to a signal from the unit.
+      These radio waves propagate through the room until they hit your device's antenna,
+      where the process is reversed.
+      The radio waves accelerate electrons in that antenna,
+      and your device interprets the resulting electrical signals as a text message from a friend.
+      Light is how electrons communicate.
+      The connection between light and heat should be coming in to focus.
+      Temperature is the average kinetic energy of a group of molecules,
+      molecules that are vibrating to and fro,
+      molecules which contain lots of electrons.
+      So any object made of matter will constantly radiate away energy as light.
+      We clearly need to understand light.
+    </p>
+    <p>
+      Einstein won his Nobel Prize not for his discovery of Relativity,
+      but for his description of the nature of light.
+      His insight was that that light can act both as a particle and as a wave,
+      a complication we can safely ignore.
+      For us, light is a wave,
+      with a wavelength that determines its energy and color.
+      Wavelength is the distance between the same parts of two adjacent waves,
+      a definition made much clearer by <xref ref="fig_light">Figure</xref>.
+      Light exists in a spectrum with wavelengths from the infinite to the smallest conceivable size.
+      Energy is inversely proportional to wavelengths,
+      so shorter waves have more energy.
+      Typical radio waves
+      (such as those broadcast in the AM and FM bands)
+      have wavelengths ranging from kilometers to a meter.
+      At the high energy end of the spectrum are the short wavelength x-rays and gamma rays.
+      X-rays are effective visualizers of bones and teeth because these types of light pass easily through soft-tissue of the body,
+      interacting more strongly with the hard calcified tissues of your bones.
+      But their high energy requires that exposure to them be limited to avoid damage to the body.
+    </p>
+    <p>
+      Roughly in the middle of the electromagnetic spectrum lies the
+      <em>visible spectrum</em>,
+      the only part of the electromagnetic spectrum of our eyes can sense.
+      The familiar ROY-G-BIV stretches from <m>\SIrange{390 }{ 750}{\nano\metre}</m> wavelength,
+      with blue light at the shorter and more energetic end of the visible spectrum.
+      Above the blue end of the spectrum is the ultra-violet,
+      or UV, part of the spectrum.
+      The UV is relatively high energy light,
+      as you know if you've ever had sunburn.
+      Ultra-violet light is energetic enough to pass through the dead outer layers of skin and into the live cells just beneath.
+      The UV light can damage the DNA in the cell's nucleus,
+      killing off the cell and leading to peeling skin.
+      Over exposure to UV light is the cause of skin cancer,
+      the most common form of cancer in the United States<fn>
+      <url href="https://www.cancer.gov/types/skin">National Cancer Institute</url>
+      accessed 21 June 2017
+      </fn>.
+    </p>
+    <p>
+      Below the red end of the visible spectrum,
+      and so at even lower energy, lies the infra-red (IR) portion of the spectrum.
+      The IR happens to be the type of EMR radiated by the human body,
+      as illustrated by the false-color photograph of <xref ref="fig_Hand_IR">Figure</xref>.
+      This same photograph beautifully demonstrates the ability of some wavelengths of EMR to penetrate objects visible light cannot.
+      Note that IR passes easily through both the trash bag and the subject's shirt,
+      both of which are opaque to visible light.
+      EMR is how electrons communicate,
+      but electrons can only absorb light with appropriate energies.
+      The molecules in the trash bag easily absorb the energy in visible light,
+      but cannot absorb the lower energies of IR radiation,
+      so the IR passes easily through the material.
+      Human eyes apparently absorb the energy in visible light efficiently,
+      and that's because some 4 billion years of evolution has adapted our eyes to see the portion of the spectrum in which the Sun emits most of its light.
+      This, in turn,
+      is determined by the Sun's surface temperature: Light, heat,
+      temperature and color are all intertwined.
+    </p>
+  </subsection>
+  <subsection>
+    <title>An object's temperature determines its color and spectrum of emitted radiation</title>
+    <subsubsection>
+      <title>Color and temperature</title>
+      <p>
+        Most people have gazed absent-mindedly into a hot fire and stared at the white-hot coals.
+        Few may have come back hours later and recognized the now black and cool coals as the same that were glowing earlier.
+        When hot, the coals glowed fiercely with whitish-blue color,
+        but as they cooled they slowly faded to yellow, orange,
+        a deep and dull red, and finally apparently stopped glowing at all.
+        This recapitulation of the spectrum of visible light is no accident.
+        We know now that temperature is just a measure of kinetic energy,
+        and that the kinetic energy of the molecules in the hot coals was far higher than that in the cool coals.
+        Unsurprisingly, hotter coals emit more,
+        and higher energy light,
+        which happens to have bluer colors and shorter wavelengths.
+        Cooler coals emit longer wavelength, redder light.
+        (Yes, this is exactly the opposite of the commonly used description of blue as a
+        <q>cool</q>
+        color and red as a
+        <q>warm</q>
+        color.
+        Color is as much an artistic idea as a scientific one,
+        probably to the consternation of both camps.)
+        The color of light emitted by a glowing object is determined by its temperature,
+        a relationship good <em>anywhere</em> in the Universe.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Color and spectrum</title>
+      <p>
+        Not all molecules or atoms in a given object will all have the same energy.
+        A few molecules or atoms will have much more energy than the average,
+        while many more will have less energy than average.
+        So real objects, even if they are of uniform temperature,
+        will emit not just one wavelength of EMR, but a range,
+        an entire spectrum.
+        The wavelength of the average emitted EMR will be related to the average temperature of the object's surface,
+        and hence to the color of the object.
+        Think about the implications of this:
+        the EMR emitted by any object in the universe carries with it information on the temperature of the emitter.
+        In principle,
+        we can measure the temperature of an object across the Universe,
+        simply by looking at the spectrum of EMR it emits.
+        This remarkable and useful behavior of matter is summarized in the concept of the Black-body Spectrum.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>The Black-body Spectrum</title>
+    <introduction>
+      <p>
+        <em>A
+        <q>black-body</q>
+        is simply an object that absorbs all EMR falling on it</em>.
+        Observation 2 in <xref ref="obs_2">Section</xref>
+        says that an object at constant temperature must absorb and emit energy at the same rate,
+        so it should come as little surprise that a black-body also emits electromagnetic energy,
+        and does so in a characteristic way.
+        Our goal in this section is to use these concepts to calculate the average temperature of Earth's surface,
+        using only the energy radiated from the Sun as an input.
+        These same tools are being used by NASA to calculate the surface temperatures of planets orbiting distant suns.
+        It's heady and important stuff.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Wein's Law: the connection between Temperature and Color</title>
+      <p>
+        We have already guessed that hotter objects should release more blue and energetic light than a cooler object.
+        This relationship was first quantified by Wilhelm Wien, in 1893,
+        the same year the first American-built gasoline-powered car hit the roads in Springfield, Massachusetts<fn>
+        Flink, James (1990).
+        The Automobile Idea.
+        MIT Press. p. 5.
+        ISBN 0262560550.
+        </fn>.
+        Wein's Law gives the relationship between the temperature of a black-body radiator and the wavelength of EMR the object emits most strongly:
+        <men>
+          \lambda_{max}=\frac{\SI{2.9d6}{\nano\metre\kelvin}}{T}
+        </men>
+      </p>
+      <p>
+        As we expect,
+        wavelength is inversely proportional to temperature:
+        as one increases the other decreases,
+        as shown on <xref ref="fig_weins_law">Figure</xref>.
+        <xref ref="tab_weins_results">Table</xref>
+        gives the surface temperatures and the wavelength of peak emission for a few stars and other objects<fn>
+        Rigel: Przybilla, N., Firnstein, M., Nieva, M. F., Meynet, G., &amp; Maeder, A. (2010).
+        Mixing of CNO-cycled matter in massive stars.
+        Astronomy &amp; Astrophysics, 517, A38.
+        <url href="https://arxiv.org/abs/1005.2278">ArXiv Preprint</url>
+        Betelgeuse: Neilson, H., Lester, J. B., &amp; Haubois, X. (2011).
+        Weighing Betelgeuse: Measuring the mass of alpha Orionis from stellar limb-darkening.
+        <url href="https://arxiv.org/abs/1109.4562">ArXiv Preprint</url>
+        </fn>.
+      </p>
+      <table xml:id="tab_weins_results">
+        <title>Wein's Law in action: Temperatures and perceived colors</title>
+        <tabular>
+          {@lcccc@} \toprule
+          Object &amp; <m>T_{eff}</m> (K) &amp; <m>\lambda_{max}</m> &amp; Band &amp; Color\\ \midrule
+          Rigel  &amp;12000  &amp; <m>\SI{242}{\nano\metre}</m>   &amp; UV  &amp; Whitish-Blue\\
+          Sun    &amp;5780    &amp; <m>\SI{502}{\nano\metre}</m>   &amp; Visible  &amp; White\\
+          Betelgeuse  &amp;3600  &amp; <m>\SI{806}{\nano\metre}</m>   &amp; IR  &amp; Orange\\
+          Lightbulb  &amp;3000  &amp; <m>\SI{967}{\nano\metre}</m>   &amp; IR  &amp; Orange\\
+          Oven  &amp;450  &amp; <m>\SI{6.4}{\micro\metre}</m>   &amp; Thermal IR  &amp; Black\\
+          Earth  &amp;255  &amp; <m>\SI{11.4}{\micro\metre}</m>   &amp; Thermal IR  &amp; Black\\ \bottomrule
+        </tabular>
+      </table>
+      <p>
+        \end{table}
+      </p>
+      <p>
+        Because of the way the human eye works,
+        we perceive the color of black-body radiators as a series from deep red to white to blue,
+        as shown in <xref ref="fig_weins_law">Figure</xref>.
+        If you happen to be reading this anytime from September to March,
+        you can see the power of Wein's Law for yourself by looking at the constellation Orion,
+        which rides high in the sky during the Northern Hemisphere winter.
+        Or, you can glance at <xref ref="fig_Orion">Figure</xref>,
+        which shows an actual photograph of Orion in all its glory.
+        In the upper left of the photograph is the red supergiant star Betelgeuse,
+        a star so large that if it were placed at the Sun's location, Mars, Earth, Venus and Mercury would all lie within the star.
+        Match the color of Betelgeuse in the photograph to the colors-temperature relationship given in <xref ref="fig_weins_law">Figure</xref>
+        and determine the stars' temperature.
+        You should get about <m>\SIrange{3300}{3600}{K}</m> or so<fn>
+        Haubois, X., Perrin, G., Lacour, S., Verhoelst, T., Meimon, S., Mugnier, L., ... &amp; Millan-Gabet, R. (2009).
+        Imaging the spotty surface of Betelgeuse in the H band.
+        Astronomy &amp; Astrophysics, 508(2), 923-932.
+        </fn>.
+        This star is so far away<mdash/>640 light years<fn>
+        Harper, G. M., Brown, A., &amp; Guinan, E. F. (2008).
+        A new VLA-Hipparcos distance to Betelgeuse and its implications.
+        The Astronomical Journal, 135(4), 1430.
+        </fn><mdash/>that the light recorded in that photograph left the star in the year 1380 CE or so,
+        and yet you can determine its temperature.
+        Rigel, the star on the lower right of the photograph,
+        is a brilliant blueish white.
+        Its temperature is just as easily determined from <xref ref="fig_weins_law">Figure</xref>,
+        at around 12,000 K.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Planck's Law: All Blackbody Spectra have the same shape</title>
+      <p>
+        In the year 1900 CE, Max Planck announced<fn>
+        Planck, M. (1914).
+        The Theory of Heat Radiation.
+        Masius, M. (transl.) (2nd ed.).
+        P. Blakiston's Son &amp; Co.
+        </fn> an astonishing discovery:
+        the spectra of all black-bodies have the same
+        <q>shape,</q>
+        with a long tail at the low energy,
+        long wavelength end, a peak as predicted by Wein,
+        and then a quick drop-off at the high energy,
+        short wavelength end of the spectrum.
+        This spectral shape is shown in <xref ref="fig_planks">Figure</xref>,
+        where you can see the spectra for objects ranging from <m>\SIrange{2000}{12000}{K}</m>.
+        The circles on the curves give the location of the peak wavelength from Wein's Law,
+        as shown in <xref ref="tab_weins_results">Table</xref>.
+        Note how each curve nestles neatly within its neighbors,
+        with hotter objects emitting more,
+        and bluer, light than cooler objects.
+        Planck's law tells us that blackbody radiators radiate heat in a predictable and universal way.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Stefan-Boltzmann Law: Hotter objects release more energy than cooler objects. Much more</title>
+      <p>
+        The final aspect of the heat flow from blackbody radiators we need to understand is the relationship between an object's surface temperature and the amount of heat it releases.
+        While <xref ref="fig_planks">Figure</xref>
+        shows qualitatively that hotter objects emit more heat than cooler objects,
+        we need to quantify this relationship to understand Earth's climate.
+        The relationship between the equilibrium surface temperature and the heat radiated by a blackbody radiator was first determined experimentally by Stefan (in 1879 CE) and theoretically by Boltzmann in 1884 CE. For an object with an equilibrium surface temperature <m>T_{eq}</m>,
+        the amount of energy emitted,
+        <m>E</m>, per square meter of area is
+        <men>
+          E\propto T^4_{eq}
+        </men>
+      </p>
+      <p>
+        <q>Proportional</q>
+        means that as the equilibrium temperature <m>T_{eq}</m> increases,
+        so too does E, the energy emitted.
+        Anyone who has a job knows what proportional means:
+        typically pay is proportional to hours worked.
+        We can convert any proportion to an equation by inserting a
+        <q>constant of proportionality.</q>
+        For the work example, that constant is your rate of pay.
+        The proportionality constant converts hours worked into money earned.
+        So too for the Stefan-Boltzman Law.
+        The proportionality constant,
+        abbreviated with the Greek letter <m>\sigma</m> (sigma),
+        converts temperature into an energy,
+        equal to <m>\SI{5.67d-8}{\watt\meter^{-2}\kelvin^{-4}}</m>.
+        <men>
+          E=\sigma T^4_{eq}
+        </men>
+      </p>
+      <p>
+        Note that temperature is raised to the fourth power.
+        Doubling the temperature of an object means it will release <m>2^4=16</m> times more energy!
+        <xref ref="">Figure</xref> shows the heat radiated from an object the Sun's temperature is quite low,
+        but the heat emitted by an object at
+        <m>\SI{12000}{kelvins}</m> is nearly 19 times as much.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Why do we care about blackbody radiation anyway?</title>
+      <p>
+        The three laws of blackbody radiation we just reviewed are powerful tools for understanding the Universe.
+        But a more local application is more helpful:
+        let us determine the Sun's surface temperature.
+        Simply from the color of the Sun's light, Wien's Law suggest that the Sun's surface should be around <m>\SI{6000}{kelvins}</m>,
+        an astonishingly easy and surprisingly accurate answer.
+        But Planck's law and the Stefan-Boltzmann Law will allow us to do better.
+        <xref ref="fig_solar">Figure</xref>
+        shows the Sun's measured spectrum
+        (in gray, determined from satellite observations)
+        and the ideal black body spectra of objects at <m>\SI{5730}{kelvins}</m>,
+        <m>\SI{5780}{kelvins}</m>, and <m>\SI{5830}{kelvins}</m>.
+        What is your best estimate for the Sun's temperature?
+        While the Sun is not a perfect black body radiator,
+        the spectra on <xref ref="fig_solar">Figure</xref>
+        indicates the Sun has an effective temperature of <m>\SI{5780}{kelvins}</m>
+        (the yellow line in the Figure).
+        We will use this value often enough to warrant memorizing it<fn>
+        Most sources
+        (for example,
+        <url href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html">NASA</url>
+        )
+        give <m>T_{eq}=\SI{5780}{kelvins}</m>.
+        In keeping with the goal of accepting imprecisions of <m>\lt 1\%</m>, I've rounded <m>T_{eq}</m> to <m>\SI{5780}{kelvins}</m>,
+        with an error of <m>\lt 0.03\%</m>
+        </fn>.
+        This value agrees nicely with our estimate of 6000 K from Wein's Law and the Sun's apparent color,
+        and represents our first step toward understanding Earth's surface temperature.
+      </p>
+      <p>
+        Take a moment to find the boundary between the ultraviolet,
+        visible and infrared radiation on the horizontal axis of <xref ref="fig_planks">Figure</xref>.
+        The Sun's effective temperature is so low that nearly 50% of its radiation is in the infrared part of the spectrum<fn>
+        This is the average power output from brute numerical integration of the E-490 and ASTM G173-03 top-of-atmosphere solar spectra models over the 120 nm to 1 mm interval with boundaries for the visual at 400 and 750 nm
+        </fn>.
+        Only <m>44\%</m> of the Sun's energy actually falls in the visible spectrum.
+        This comparison is somewhat unfair;
+        after all the visible part of the spectrum is narrow compared to the infrared.
+        The concentration of light in that narrow visible band is what shapes Earth processes,
+        including life.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

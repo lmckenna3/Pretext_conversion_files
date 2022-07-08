@@ -1,0 +1,229 @@
+<section xml:id="Matter">
+  <title>Matter</title>
+  <introduction>
+    <p>
+      Wave your hand around.
+      Go ahead, back and forth a few times.
+      Feel the air flowing around your fingers,
+      ruffling the hairs on the back of your hand?
+      You can't see the air, but clearly something is there.
+      If you need more proof, grab a bike pump,
+      and try inflating a tire to a 100 psi
+      (pounds per square inch).
+      The pump works by forcing air from the atmosphere into the tire through a one-way valve.
+      As you put more and more air into the tire,
+      you'll find the effort you expend adding the next bit gets increasingly difficult.
+      Air is
+      <q>stuff,</q>
+      it has mass and volume,
+      and forcing more air into a small volume takes effort.
+      That effort, of working against the air pressure in the tire,
+      takes energy.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Matter is
+    <q>stuff</q>
+    </title>
+    <introduction>
+      <p>
+        Matter is anything in the Universe, like air,
+        that takes up volume and consists of atoms or its constituent parts<fn>
+        This ignores <em>Dark Matter</em>,
+        which makes up roughly 84% of the matter in the Universe.
+        <url href="https://science.nasa.gov/astrophysics/focus-areas/what-is-dark-energy">Link</url>,
+        accessed 16 June 2017
+        </fn>.
+        Matter has mass<mdash/>the resistance to being accelerated<mdash/>which is a very different concept than weight.
+        In Earth's natural spheres, matter is made up of atoms,
+        which in turn consist of a nucleus surrounded by a field of electrons.
+        You almost certainly recall the model of the atom you saw in high school:
+        little electrons whizzing around a nice,
+        round nucleus in which lay orange protons and purple neutrons.
+        Like all scientific models, this one is an approximation,
+        and we will need a better approximation to understand climate.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Atoms and their constituents</title>
+      <paragraphs>
+        <title>Electrons</title>
+        <p>
+          A better model of the atom begins with the negatively charged <em>electrons</em>,
+          which act not so much as particles but as waves,
+          vibrating restlessly around the nucleus.
+          In <xref ref="fig_matter_struct">Figure</xref>,
+          the space all those wavy electrons occupy are shown as semi-transparent gray spheres,
+          occupying all the volume around and within the nucleus.
+          When isolated from atoms,
+          electrons behave more like particles,
+          but with no physically measurable size.
+          All electrons have a single negative electrical charge,
+          and have a mass about 1/1800 that of a proton.
+          The electron cloud around a nucleus is more than 20,000 times wider than the nucleus<fn>
+          Krane, Kenneth S., Introductory Nuclear Physics, Wiley, 1987.
+          </fn>.
+          At the scale of <xref ref="fig_matter_struct">Figure</xref>,
+          the outer edge of the atom's electron cloud would be \SI{150}{m} (roughly 450 feet) away from the nucleus shown in the figure!
+          Take a finger and push it into the palm of your other hand.
+          The feeling you get from your nerves,
+          that feeling of pressure and tension,
+          is due to interactions between the electron clouds of the astronomical number of carbon atoms in your skin.
+          Those same clouds determine the chemical reactivity of an atom,
+          more so than the much heavier but smaller nucleus.
+          The small mass and large electric charge of electrons makes them reactive to light.
+          This reactivity plays a central role in every topic of this book.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Protons, neutrons and the nucleus</title>
+        <p>
+          The nucleus contains over 99.96% of the mass of an atom,
+          but less than a trillionth of the volume.
+          The tiny nucleus consists of positively charged <em>protons</em>
+          and electrically neutral <em>neutrons</em>.
+          Not all combinations of protons and neutrons form stable atoms.
+          With the exception of hydrogen,
+          stable nuclei have about 30% more neutrons than protons,
+          an excess that helps hold the nucleus together.
+          The number of protons and electrons in atoms is the same,
+          so atoms have no net electrical charge.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Atoms, elements and isotopes</title>
+        <p>
+          <q>An atom</q>
+          refers to a single, identifiable piece of matter.
+          The average person consists for example of approximately <m>2.5x10^{27}</m> atoms,
+          most of which are hydrogen, the majority of the rest oxygen and carbon.
+          All atoms of a given element have the same number of protons in their nucleus;
+          this feature of an atom defines its elemental nature.
+          Think of elements, such as hydrogen,
+          oxygen and carbon, as classes or
+          <q>brands</q>
+          of atoms.
+          Remove a proton from an atom and you change it into a new element.
+          The Periodic Table
+          (<xref ref="fig_pt">Figure</xref>)
+          lists the natural and artificially-made elements in a form reflecting the organization of electrons around the nucleus.
+          One of the remarkable truths of the Universe is that only 92 naturally occurring elements make up the Universe we know.
+          Yet, 99% of the Universe is made of just two elements:
+          hydrogen and helium (See <xref ref="fig_elem_abund">Figure</xref>).
+          We'll find in Chapter 5 that only six elements make up 99% of Earth.
+          Know them, and carbon, and you know 99% of Earth.
+        </p>
+      </paragraphs>
+      <p>
+        All atoms of a given isotope have the same number of protons;
+        this number defines both the type of element and the element's atomic number.
+        Atoms have the same number of electrons orbiting the nucleus as protons within,
+        making atoms electrically neutral.
+        Unlike the other sub-atomic particles,
+        the number of neutrons can vary between atoms of elements,
+        reflecting the neutron's role as a stabilizer in the nucleus.
+        These different forms, or flavors,
+        of an element are called isotopes (See <xref ref="tab_isotopes">Table</xref>).
+        Different isotopes are indicated by giving the total number of protons and neutrons as a superscript before the element symbol,
+        and the number of protons as a subscript before the symbol:
+        <m>\isotope[13][6]{C}</m> means a C atom
+        (all of which have 6 protons)
+        and 7 neutrons.
+        Oxygen has three stable isotopes,
+        carbon two, and aluminum just one.
+        Carbon has a third,
+        unstable isotope that many people have heard of: the famous
+        <q>carbon 14</q>. Atoms of <m>\isotope[14][6]{C}</m> are unstable because they have too many neutrons;
+        the atom becomes more stable when one of those neutrons spontaneously decays to a proton
+        (which stays in the nucleus)
+        and an electron
+        (which escapes the nucleus).
+        This process is going on now,
+        even as you read this sentence, in your own body,
+        where 3000 to 4000 of your
+        <m>\isotope[14][6]{C}</m> atoms decay every second.
+        This conversion of C atoms to a N atom happens at a consistent rate,
+        and so can be used to tell the age of relatively recent organic material.
+        Different isotopes of the same element also have slightly different masses,
+        differences which lead to slightly different behaviors.
+        This makes isotopes a powerful tracer,
+        or proxy, of Earth processes.
+      </p>
+      <table xml:id="tab_isotopes">
+        <title>Elements and Isotopes</title>
+        <tabular>
+          {@cccccc@} \toprule
+          Isotope &amp; Protons &amp; Neutrons &amp; Electrons &amp; Abundance  (%) &amp; Mass (amu)\\ \midrule
+          Carbon \\
+          \midrule
+          \textsup{12}C &amp; 6 &amp; 6 &amp; 6 &amp; 98.9 &amp; 12 \\
+          \textsup{13}C &amp; 6 &amp; 6 &amp; 7 &amp; 1.1 &amp; 13 \\
+          \midrule \addlinespace[.4em]
+          Oxygen \\
+          \midrule
+          \textsup{16}O &amp; 8 &amp; 8 &amp; 8 &amp; 99.76 &amp; 16 \\
+          \textsup{17}O &amp; 8 &amp; 9 &amp; 8 &amp; 0.04 &amp; 17 \\
+          \textsup{18}O &amp; 8 &amp; 10 &amp; 8 &amp; 0.20 &amp; 18 \\
+          \midrule \addlinespace[.4em]
+          Aluminum \\
+          \midrule
+          \textsup{27}Al &amp; 13 &amp; 14 &amp; 13 &amp; 100 &amp; 27 \\
+          \bottomrule
+        </tabular>
+      </table>
+      <paragraphs>
+        <title>Molecules</title>
+        <p>
+          Most of the carbon atoms in your body are found in <em>molecules</em>,
+          the next order of matter up from an atom.
+          Molecules consist of two or more atoms of one or more elements,
+          typically joined by shared electrons.
+          The methane molecule portrayed in the left of <xref ref="fig_matter_struct">Figure</xref> consist of one carbon atom
+          (in black),
+          and four hydrogen atoms
+          (in white).
+          An unfortunate short-hand used by just about every scientist is to call both elements and molecular gasses made of those elements the same thing.
+          So for example two bound atoms of nitrogen (N) form nitrogen gas
+          (<m>N_{2}</m>).
+          The trick to understanding which level of substance is at issue is the context:
+          on Earth, most substances are found in molecules, not as individual atoms.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>States</title>
+        <p>
+          At the temperatures and pressure of Earth's surface,
+          matter naturally exists in three states, or phases:
+          <em>solid, liquid and gas</em>. (A fourth state, plasma,
+          is important in areas of high temperature,
+          such as the Sun, but will not concern us.) Water, for example,
+          exists as liquid water,
+          solid ice and gaseous water vapor at all times on Earth.
+          Changes between the phases are physical, not chemical, changes.
+          For example, when water evaporates,
+          the bonds between oxygen and hydrogen atoms <em>within</em>
+          the molecule are not broken.
+          Instead, the relatively weak bonds
+          <em>between</em> the molecules are broken,
+          allowing the molecules to separate.
+          Evaporation, melting and sublimation
+          (see <xref ref="fig_phase_changes">Figure</xref>)
+          all require addition of energy into the system.
+          This isn't the same thing as making the system hotter!
+          As we'll see in Chapter 5, most melting of rock to form magma happens while the rock cools.
+          Because condensation,
+          deposition and freezing release energy into the surrounding environment,
+          phase changes can move considerable energy around the earth.
+          The classic example is a hurricane.
+          Hurricanes are driven by evaporation of warm water from the ocean;
+          the water vapor then rises into the atmosphere and condenses as rain,
+          releasing the energy 5-10 km above the surface.
+          The energy released by just one hurricane is 70 times the total human energy production during the same time!<fn>
+          Chris Landsea, National Hurricane Center, D7) How much energy does a hurricane release?, http://www.aoml.noaa.gov/hrd/tcfaq/D7.html,
+          accessed 02 October 2016
+          </fn>.
+        </p>
+      </paragraphs>
+    </subsubsection>
+  </subsection>
+</section>

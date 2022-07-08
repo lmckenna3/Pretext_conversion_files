@@ -1,0 +1,215 @@
+<section xml:id="Ethics_Figures">
+  <title>Figures</title>
+  <figure xml:id="fig_china_pollution_ab" >
+    <caption>Who owns the air? Eastern China routinely has amongst the worst air quality in the world. In the upper photograph (panel a) a relatively clear sky on January 3, 2013 shows a light snow dusting the ground around Beijing and Tianjin. The lower photograph (panel b) taken on January 14, 3013 shows clouds (brightest white) and heavy dense smog<mdash/>air pollution<mdash/>obscuring the ground; even the clouds are tinged with gray and brown from the smog. As explained more fully in the text, the air quality in Beijing that day was off-the-scale terrible.  Parts (a) and (b) are courtesy of NASA's Earth Observatory (
+    <url href="http://earthobservatory.nasa.gov/IOTD/view.php?id=80152&amp;src=ve">link</url>
+    ).</caption>
+    \subfloat{
+    <image width="92.5%" source="china_pollution_a"/> }
+    \subfloat{
+    <image width="92.5%" source="china_pollution_b"/> }
+  </figure>
+  <figure xml:id="fig_china_pollution_c" >
+    <caption>The photograph is a ground level picture in Beijing on January 23, 2013. Note the time (8:30 am) and the weather forecast icon in the upper left corner of the phone-sunny. The gray is not fog, it is smog: air pollution from burning of fossil fuels and from burning wood. From the Atlantic magazine web site,
+    <url href="http://www.theatlantic.com/photo/2013/01/chinas-toxic-sky/100449/">link</url>.
+    I DO NOT have permission (yet) to use this image.</caption>
+    <image width="92.5%" source="china_pollution_c"/>
+  </figure>
+  <figure xml:id="fig_world_night_ab" >
+    <caption>Earth at night, as revealed by night-time imaging from the NASA Suomi satellite. (panel a, top) The world at night. Brightness and density of lights accurately maps wealth: brighter areas are richer. Note the incredible density of people in the Nile River valley (northeast Africa), the
+    <url href="https://people.hofstra.edu/geotrans/eng/ch6en/appl6en/tokaido.html">Tokaido Corridor</url>
+    along the eastern coast of Japan, northern India, and central Europe from the Po river valley in Italy, through Germany, Belgium and Luxembourg, and on to London and Manchester in the United Kingdom.  Courtesy
+    <url href="http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79765/dnb_land_ocean_ice.2012.3600x1800.jpg">NASA</url>
+    ) (panel b, bottom) The remarkable geography of human settlement and industry in  North America is beautifully revealed in this detailed image. Note the continuous city of Bosnywash (BOSton-New York-WASHington) in the northeast coast, the Great Lakes Megaloplis arcing from Toronto, Canada to Minneapolis, Minnesota. The two areas alone account for more than one third of the total US population! Note the sudden decrease in light intensity along the line stretching from Autin, TX to Fargo, ND. West of this line  precipitation rapidly falls from 30'' to 15'' per year. Large metropolitan areas need lots of water, more than 15'' can provide. Images are courtesy
+    <url href="https://www.nasa.gov/sites/default/files/images/712129main_8247975848_88635d38a1_o.jpg">NASA</url>
+    .</caption>
+    \subfloat{
+    <image width="92.5%" source="world_night_a"/> }
+    \subfloat{
+    <image width="92.5%" source="world_night_b"/> }
+  </figure>
+  <figure xml:id="fig_EPA_pm" >
+    <caption>Particulate matter (PM) is a particularly dangerous form of pollution, and is a common by-product of burning fossil fuels and other bio-matter. Smaller particles can be inhaled and then become lodged in the lungs, where they nucleate diseases. The finest and most dangerous PM are smaller than \SI{2.5}{\micro\meter}, are generally called
+    <q>PM\textsub{2.5}</q>. Particulate material less than \SI{10}{\micro\meter}, PM\textsub{10} are still quite dangerous. Their size can be hard to visualize. Here, a human hair (about \SI{70}{\micro\meter} across, and fine beach sand (\SI{90}{\micro\meter}) dwarf the PM particles that make air pollution fatal. As many as a million Chinese die prematurely from PM\textsub{2.5} pollution; it and its larger cousin contribute to the gray pallor seen in <xref ref="fig_china_pollution_ab">Figures</xref> and <xref ref="fig_china_pollution_c"></xref>. Courtesy of the US Environmental Protection Agency
+    <url href="https://www.epa.gov/sites/production/files/2016-09/pm2.5_scale_graphic-color_2.jpg">link</url>
+    .</caption>
+    <image width="92.5%" source="EPA_pm"/>
+  </figure>
+  <figure xml:id="fig_O3_pac_winds" >
+    <caption>Brisk westerly winds (for historic reasons winds are named after the direction from which they blow) carry natural and anthropogenic material across the oceans. Here a series of three images show the movement of air and dust during a week-long interval in April of 2010. Darker shades of brown indicate exponentially higher concentrations of dust. The green star marks the approximate location of one air
+    <q>package</q>
+    during the period. Despite the intricate winding and unwinding associated with the air's fine-scale movement, the migration from east Asia to North America in a few days is evident. Courtesy of NASA's Earth Observatory page
+    <url href="http://earthobservatory.nasa.gov/IOTD/view.php?id=78742">link</url>.
+    The site includes an intriguing animation of the data</caption>
+    <image width="92.5%" source="O3_pac_winds"/>
+  </figure>
+  <figure xml:id="fig_slr" >
+    <caption>Sea level rise, averaged over the globe, for the remainder of the century. Total sea level rise is sensitive to global warming, and hence to the mass of greenhouse gasses we chose to emit. The red line is a model of sea level rise in a world where little is done to constrain release of greenhouse gasses. This
+    <q>business as usual</q>
+    world would have \SIrange{0.4}{0.7}{\metre} (2.3 feet) of sea level rise by 2100 CE. If human society chooses to limit growth of greenhouse gas emissions so that they peak in 2100 CE, a more modest \SIrange{0.4}{0.2}{\metre} of sea level growth (1.3 feet, green line) results. The black line (in both the main figure and inset) shows historic sea levels to 900 BCE. Historic data are from Kopp <em>et al.</em>, 2016 (Temperature-driven global sea-level variability in the Common Era. Proceedings of the National Academy of Sciences, 2016 113 (11) E1434-E1441; published ahead of print February 22, 2016, doi:10.1073/pnas.1517056113). Forecast for RCP 8.5 (red) and 6.0 (green) are from Church <em>et al.</em>, 2013, Sea Level Change. In: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, <em>et al.</em> (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA.</caption>
+    <image width="92.5%" source="slr"/>
+  </figure>
+  <figure xml:id="fig_impermafrost" >
+    <caption>Melting permafrost will change the way people live in the polar regions. (Panel a, top) The Inuit village of Qannaaq in northwest Greenland is one of the most northerly (\ang{77.47}N latitude) occupied places in the planet. The village is built on <em>permafrost</em>, permanently frozen ground that makes an excellent construction substrate. Until it melts. Photograph by Andy Mahoney, courtesy of the National Snow and Ice Data Center, <em>All About Frozen Ground</em>, accessed 20 January 2017.
+    <url href="https://nsidc.org/cryosphere/frozenground">NSIDC</url>.
+    (panel b, bottom) When the permfrost does melt, as in this example of a building in Dawson City, Yukon Territory, Canada, the ground looses structural strength and buildings collapse. This problem is now particularly severe in portions of Alaska and Siberian Russia.Photograph by Andrew Slater, courtesy of the National Snow and Ice Data Center, <em>All About Frozen Ground</em>, accessed 20 January 2017.
+    <url href="https://nsidc.org/cryosphere/frozenground">NSIDC</url>
+    </caption>
+    \subfloat{
+    <image width="92.5%" source="Qannaaq"/> }
+    \subfloat{
+    <image width="92.5%" source="Dawson_City"/> }
+  </figure>
+  <figure xml:id="fig_rcp_T" >
+    <caption>pablum</caption>
+    \subfloat{
+    <image width="92.5%" source="rcp85T2090"/> }
+    \subfloat{
+    <image width="92.5%" source="rcp45T2090"/> }
+  </figure>
+  <figure xml:id="fig_rcp_P" >
+    <caption>pablum</caption>
+    \subfloat{
+    <image width="92.5%" source="rcp85P2090"/> }
+    \subfloat{
+    <image width="92.5%" source="rcp45P2090"/> }
+  </figure>
+  <figure xml:id="fig_mass_ext" >
+    <caption>The large scale pattern of extinctions and originations on Earth over the past 540 My.
+    <q>Originations</q>
+    are the opposite of extinction, the evolution of new genera.The gray band indicates the typical "background" range of origination and extinction rates. The
+    <q>Big Five</q>
+    mass depletions are the events plunging below the -13% extinction rate. Those marked with a circle are true mass extinctions, those marked with the asterisk may be due to low origination. The proportion of species going extinct in these events is staggering: In all of the Big Five <m>>75%</m> of animal species went extinct, as shown by the red scale on the right hand axis. The blue arrow on the right side of the figure indicates that the current mass extinction has moved about a quarter of the way toward the 75% extinction level typical of other mass extinctions. Modified from Figures 1 and 2 of Richard K. Bambach, Andrew H. Knoll, and Steve C. Wang, "Origination, extinction, and mass depletions of marine diversity", Paleobiology, 30(4), 2004, pp. 522-542. Special extinction totals are from Barnosky, A. D., Matzke, N., Tomiya, S., Wogan, G. O., Swartz, B., Quental, T. B., ... &amp; Mersey, B. (2011). Has the Earth's sixth mass extinction already arrived? Nature, 471(7336), 51-57 .</caption>
+    <image width="92.5%" source="mass_ext"/>
+  </figure>
+  <figure xml:id="fig_hill_top" >
+    <caption>A composite photograph illustrating the relationship between people and their need for extensive hinterlands. The lower part of the figure is of the Hobet-21 mine, in southwestern West Virginia. The yellow line indicates the total mined area. The brownish area on the west was the active mine in 2015; the light green areas to the east are older areas of the mine undergoing regrowth. The  upper portion of the composite shows the island of Manhattan, outlined in white, to the same scale as the mine. In 2007 CE, the coal produced at the Hobet-21 mine would have provided about 50 days worth of energy (
+    <url href="https://www.nycedc.com/economic-data/july-2013-economic-snapshot">link</url>,
+    accessed 28 February 2017) to Manhattan. Roughly 6 more Hobet-21 mines would be needed just to provide one portion of one city with its energy needs. Because of the density of housing in Manhattan, it is one of the most energy efficient cities in the United States. Both photographs are courtesy of NASA Earth Observatory. The lower, via the Earth Observatory World of Change series,
+    <url href="http://earthobservatory.nasa.gov/Features/WorldOfChange/hobet.php">Mountaintop Mining, West Virginia</url>,
+    accessed 23 February 2017, and the upper from the Image of the Day archive
+    <url href="http://earthobservatory.nasa.gov/IOTD/view.php?id=82417">Manhattan and Thanksgiving</url>,
+    accessed 23 February 2017</caption>
+    <image width="92.5%" source="hill_top"/>
+  </figure>
+  <figure xml:id="fig_circ_flow" >
+    <caption>The simple but powerful
+    <q>Circular Flow</q>
+    model of economic activity. In this model, economic activity centers on households, which can be individuals, nuclear families, multiple families, or even unrelated people, who sharing living costs and space (US Census Bureau, . Households provide labor and human capital to business firms (lower red arrow), in return
+    <url href="https://www.census.gov/quickfacts/table/PST045216/00">link</url>,
+    accessed 3 March 2017) for which firms pay wages and other income (lower green arrow). Households use these wages to purchase (upper green arrow) goods and services from other firms (upper red arrow), completing the circular flow of the economy. But this model in incomplete: both households and firms require input of raw materials (food, water, metals, energy, and so on) from Earth's natural resources to fuel the inner economic circles (blue arrows). The hinterlands that supply these natural resources are an important source of natural capital to the world's economy. Like human capital, they have economic value, even if that value is hard to precisely quantify. As you know from taking out your households trash, flushing a toilet, or watching smoke rise from a smokestack, all households and firms generate waste (gray arrows). This waste is generally expelled back into the environment, often into the hydrosphere and atmosphere. Natural recycling can move these waste products back in to the biosphere and geosphere (dashed gray line), while anthropic recycling can intercept the movement of waste back in to the environment.</caption>
+    <image width="92.5%" source="circ_model"/>
+  </figure>
+  <figure xml:id="fig_pipelines" >
+    <caption>One way of visualizing the raw materials needed to fuel the Anthroposphere. Randall Munroe imagines pipelines carrying all the liquids consumed in the United States in a year. The liquids move at 4 m/s, or about 10 mph. The pipes in the first panel are actual size. The second panel is scaled; the stick figure women provides the scale. Pipes with natural materials (water, petroleum,milk) represent extracted natural capital (the blue arrows in <xref ref="fig_circ_flow">Figure</xref>), while the pipes with manufactured products (ketchup, cement) are goods produced by firms (upper red arrow in <xref ref="fig_circ_flow">Figure</xref>). Note that water is by far the most important raw material to the Anthroposphere, larger than all the other fluids <em>combined</em>. Not shown in this diagram is that an equal number of pipes would be necessary to carry wastes back into the Earth. This is XKCD cartoon
+    <url href="https://xkcd.com/1649/">1649</url>,
+    and is courtesy of Randall Munroe.</caption>
+    <image width="92.5%" source="pipeline_1"/>
+  </figure>
+  <figure>
+    <image width="92.5%" source="pipeline_2"/>
+  </figure>
+  <figure xml:id="fig_coal_powerplant" >
+    <caption>Resource use leads inevitably to  discharge of wastes. A coal-fired power plant, such as this coal-fired electrical generating plant in northern Illinois, requires input of coal, delivered by train or barge. The desired output of burning the coal is electricity (transported by the high-voltage wires on the towers in the background). But combustion also includes the generation of soot, ash, and gasseous by products, some of which are emitted into the atmosphere by the smoke stack in the right background. The wide tower on the far right uses water from Lake Michigan as a coolant; the steam rising from this tower is relatively clean, but does carry significant waste heat lost to the environment. I do not yet have permission to use this image, which is <copyright/> 2010
+    <q>codeeightythree</q>
+    at
+    <url href="https://www.flickr.com/photos/railpictures/4316794283/in/photostream/">this link</url>
+    </caption>
+    <image width="92.5%" source="coal_powerplant"/>
+  </figure>
+  <figure>
+    <image width="92.5%" source="ins_and_outs"/>
+  </figure>
+  <figure xml:id="fig_trash" >
+    <caption>Trash barrels are great examples of the use (and abuse) of common property resources. The resource here is a
+    <q>wasteland,</q>
+    a place to put waste products of some activity. The trash barrel is finite in extent, so its use is a zero-sum game: the more you use, the less any one else can use. (Clearly the barrels shown here were far <em>too</em> finite.) The barrels are freely available for all to use, so excluding anyone from depositing trash is difficult, even when the resource is completely full! These two characteristics<mdash/>finite size and low excludability<mdash/>are the defining characteristics of common property resources. Unfortunately, the overuse of the resource, as seen here, is all too common. Image courtesy of NOAA,
+    <url href="https://marinedebrisblog.wordpress.com/tag/plastics/">link</url>,
+    accessed 08 March 2017.</caption>
+    <image width="92.5%" source="trash_barrels"/>
+  </figure>
+  <figure xml:id="fig_cod_lobstah" >
+    <caption>Fish are an excellent example of common property resources. This graph shows the weight of lobster (solid blue line) and cod (dash-dot red line) landed on docks in Maine. (The weight is the amount caught in a given year, divided by the maximum ever caught, and is shown as a percentage.) Cod landings peaked in the early 1990s, and then declined exponentially and catastrophically to essentially 0. Cod fishing in Maine is effectively extinct. This crash was due to a variety of causes, including poor governance of the resource (which contributed to over-fishing) and climate change. The fate of cod exemplify the <em>Tragedy of the Commons</em>, the destruction of a resource from users choosing short-term gain over long-term sustainability. The lobster fishery is still going strong, although there is some evidence that climate change is eroding lobster habitats. The lobster fishery in Maine is an excellent example of a common property resource that has avoided the Tragedy of the Commons through robust governance by fishers, communities, local, state and Federal governments. (Data from
+    <url href="http://www.maine.gov/dmr/commercial-fishing/landings/documents/cod.table.pdf">Maine DMR Cod</url>
+    and
+    <url href="http://www.maine.gov/dmr/commercial-fishing/landings/documents/lobster.table.pdf">Maine DMR lobstah</url>,
+    accessed 09 March 2017.)</caption>
+    <image width="92.5%" source="lobstah_cod"/>
+  </figure>
+  <figure xml:id="fig_CPR_users" >
+    <caption>Users of CPRs fall into four behavioral categories, defined by inclined they are to work cooperatively to sustain the resource. Panel A (left) shows the relative frequency of the different types with the black dashed line, with cooperativeness increasing to the right. Altruists initiate cooperation regardless of others' actions, while free-loaders cooperate only with punishment. In the middle are those who cooperate on the provision that others do, and those whose cooperation is conditional on the elimination of free-loaders. Societies solve the collective action dilemma when their rules and behaviors increase the proportion of conditional cooperators over time, as shown by the blue, solid line. In societies where free-loaders are too common, or where rules and behaviors allow free-loaders to increase, tend to spiral into the Tragedy of the Common (dash-dot red line)(Vollan, B., &amp; Ostrom, E. (2010). Cooperation and  the Commons. Science, 330(6006), 923-924. https://doi.org/10.1126/science.1198347). These fates are schematically shown in Panel B, on the right, with more cooperation leading to long-term success, and less leading to, well, less. Note the similarity of these trajectories to those of lobster and cod in <xref ref="fig_cod_lobstah">Figure</xref>.</caption>
+    <image width="92.5%" source="CPR_users"/>
+  </figure>
+  <figure xml:id="fig_brain_affec_cog" >
+    <caption>The human brain consists of two grand portions: the affective (in red) and the cognitive (in green). The affective brain evolved long before the cognitive portions, and is the source of our feelings of affection to kin (family) and friends, anger, sympathy and empathy. This is the center of our moral
+    <q>intuition,</q>
+    where we distinguish between the morally good and bad. These raw thoughts are automatic and emerge quickly and unconsciously, sometimes to the embarrassment of our cognitive brains. That part of our brains is responsible for higher order moral
+    <q>reasoning,</q>
+    of deciding how to do what is ethically right <em>versus</em> wrong. You may have experienced this dichotomy of function if you have ever witnessed someone
+    <q>cheating</q>
+    in a social situation<mdash/>cutting in line, receiving undeserved benefits, or cheating on an exam<mdash/>and felt an instant sense of anger or indignation. But did you then take a moment and think about what to do? If so, you have felt the affective message emerge and then shaped it by cognitive thought (Buss, D. (2012). Evolutionary psychology: The new science of the mind, 4th Edition Psychology Press, page 276-9.</caption>
+    <image width="92.5%" source="brain_affec_cog"/>
+  </figure>
+  <figure xml:id="fig_bonobos_food_sharing" >
+    <caption>https://www.flickr.com/photos/estherfotografeert/236212800/in/photostream/ Reciprocal altruism is an essential social activity performed by many primates, including these bonobos (a the sister species of the common chimpanzee). Here a dominant female (on the right) shares food with a subordinate female the left). Primates, with their relatively long life spans, penchant for living in small groups, and well-developed ability to identify and remember other individuals, make primates particularly pre-disposed to altruism (Trivers, R. L. (1971). The Evolution of Reciprocal Altruism. The Quarterly Review of Biology, 46(1), 35-57. https://doi.org/10.1086/406755). Even though food sharing looks like a simple short-term exchange, each cycle is a successful round of the
+    <q>prisoner's dillemma</q>
+    game. Evidence indicates that food sharing, grooming and other short-term practices add up to significant long-term reputation between the individuals (Jaeggi, A. V., De Groot, E., Stevens, J. M. G., &amp; Van Schaik, C. P. (2013). Mechanisms of reciprocity in primates: testing for short-term contingency of grooming and food sharing in bonobos and chimpanzees. Evolution and Human Behavior, 34(2), 69-77. https://doi.org/10.1016/j.evolhumbehav.2012.09.005). Small acts matter.</caption>
+    <image width="92.5%" source="bonobo_food_sharing"/>
+  </figure>
+  <figure xml:id="fig_groups" >
+    <caption>Humans are a social species: we thrive in our interactions with communities other humans. Not all interactions are equal, though. The reputation an individual has with family and close kin is generally more important to the individual than their reputation with more distant (geographically, culturally, or otherwise) communities. Like onions and ogres, human's ethical behavior is layered, with closer layers (communities) receiving more ethical standing. As noted by generations of philosophers, humans ethical and
+    <q>moral duties and obligations are generated by our community memberships...which are multiple and`` layered (Callicott, J. B. (2014). Thinking like a planet: The land ethic and the earth ethic. Oxford University Press.). As our opinion of who is ``close</q>
+    changes, so too do our duties and obligations. Over our species's cultural history,
+    <q>close</q>
+    has tended to expand from an early, small community (in red) to a later, broader one (in green).</caption>
+    <image width="92.5%" source="groups"/>
+  </figure>
+  <figure xml:id="fig_planet_bound_pot_surf" >
+    <caption>A ball on a surface will naturally come to rest at a low point on the surface, as shown in Panel A (top) by the circle. The green coloring in the center indicates
+    <q>safe</q>
+    areas where the ball remains stable. Yellow indicates areas where, if change continues, the ball risks rolling away. Red indicates the areas of natural, perhaps sudden and catastrophic, change.  In Panel B (bottom), ball
+    <q>A</q>
+    has moved to the brink of a shallow hill. If it moves too much more to the left, it will slowly roll downhill, naturally, seeking another stable place. Ball
+    <q>B</q>
+    has already started to roll down its shorter and steeper hill.  Planetary boundaries are one way of envisioning this affect for Earth's systems. The inner yellow boundaries form the
+    <q>warning</q>
+    zone of change, while the outer red boundaries indicate the
+    <q>danger zone.</q>
+    Earth's Holocene climate is, like the ball in Panel A, stable because it is in an equilibrium created by interactions of Earth's spheres. Change the conditions of those spheres, or the interactions between them, and climate can be driven out of its stable area, where it can fall into places not seen since the dawn of human civilization.</caption>
+    <image width="92.5%" source="planet_bound_pot_surf"/>
+  </figure>
+  <figure xml:id="fig_planet_bound" >
+    <caption>The eight planetary boundaries we will consider, modified from Rockstr&#xf6;m et al. (2009). Sectors in green are still in their safe zones, those in yellow are now in the
+    <q>warning</q>
+    zone, and those in red  are in the
+    <q>danger</q>
+    zone. Human activities, mostly associated with growing food, have pushed biodiversity and global geochemical cycles well in to the
+    <q>danger</q>
+    area. Three other systems, including climate change, land use, and ocean acidification, are all in , or close to, their respective
+    <q>warning zones.</q>
+    Two systems, fresh water and ozone depletion, are still firmly in the safe area. Ozone depletion is actually <em>decreasing</em>, thanks to the remarkable success of the Montreal Protocols, an international environmental agreement signed by the United States and 196 other countries in 1987.</caption>
+    <image width="92.5%" source="planet_bound"/>
+  </figure>
+  <figure xml:id="fig_ocean_acidity" >
+    <caption>Oceans absorb <m>CO_2</m> from the atmosphere, so as the concentration of <m>CO_2</m> increases in the latter, it increases in the former as well. Through a series of chemical reactions, this leads to an increase in the acidity of the oceans. This acidity is measured on the pH scale, with lower numbers indicating more acidic conditions. The graph shows the pH of sea water sampled near Bermuda (gray line) over the past 30 years. (Note the pH scale is reversed, so more acidic waters are toward the top of the diagram.)  Although a strong seasonal pattern is evident, over time the pH is increasing by about <m>0.016 pH/decade</m>, which amounts to almost 4% increase in acidity every 10 years. The data are from the Environmental Protection Agency (
+    <url href="https://www.epa.gov/climate-indicators/climate-change-indicators-ocean-acidity#ref5">link</url>),
+    who quote Bates,  N.R. 2016 update to data originally published in: Bates, N.R., M.H. Best, K. Neely, R. Garley, A.G. Dickson, and R.J. Johnson. 2012. Indicators of anthropogenic carbon dioxide uptake and ocean acidification in the North Atlantic Ocean. Biogeosciences 9:2509-2522.</caption>
+    <image width="92.5%" source="oceanacidity"/>
+  </figure>
+  <figure xml:id="fig_npp" >
+    <caption>Net Planet Production varies widely across Earth and season, but annual production varies by only <m>\pm 2%/year</m>. NPP in July and January reflect the availability of light and water in controlling NPP. During northern hemisphere summer (upper panel), robust plant growth, shown by the deep green areas, includes the northern boreal forests (near <m>60\circ</m> N) and the tropical rain forests (near the equator). The dry deserts ((near <m>30\circ</m> N)) and polar ice caps lack water, soil, or light. In Northern hemisphere winter (lower panel), when light is scarce and temperatures cold, no growth occurs over the vast stretches of the northern landmasses. The southern continents bloom, but the relatively small areas of these continents means their productivity is small. This pattern will become clear when we examine the annual cycles in <m>CO_2</m> concentrations in the atmosphere.</caption>
+    \subfloat{
+    <image width="92.5%" source="npp_jul.jpg"/>
+    }
+    \subfloat{
+    <image width="92.5%" source="npp_jan.jpg"/> }
+  </figure>
+  <figure xml:id="fig_eco_values" >
+    <caption>Most people have a mixture of relationships with the natural world, visualized in the diagram above. Individuals who see nature as providing goods and services to humans see the natural world as having instrumental value: Nature for humans. Those who see the natural world as providing personally or culturally-important meaning to them respond to a relational values: Nature and humans. Finally, those who think the natural world has inherent worth, independent of human needs or wants. This intrinsic value system n=might be labeled: Nature for Nature. Where does your combination of values plot on this diagram? Each vertex represents a single value, where you'd be on the diagram if you thought the natural world had only, say, instrumental value. But if you enjoy the beauty of a sunset, the wash of waves at a beach, or even the smell of freshly-mowed grass, then you also find relational value in the natural world.</caption>
+    <image width="92.5%" source="eco_values"/>
+  </figure>
+  <figure xml:id="fig_groups_and_circ" >
+    <caption>Pablum</caption>
+    <image width="92.5%" source="groups_and_circ"/>
+  </figure>
+</section>

@@ -1,0 +1,177 @@
+<section xml:id="Cryosphere_Figures">
+  <title>Figures and Tables</title>
+  <figure xml:id="fig_Barentsburg">
+    <caption>The opening photograph illustrates the the central theme of this chapter: Earth's icy Cryosphere (represented by the rapidly melting Gr&#xf8;nfjord Glacier in the background) is rapidly melting because of anthropogenic climate change, fueled by <m>CO_2</m> emissions from burning  fuels (represented by the Barentsburg power plant in Svalbard). Temperature change in the Arctic is two to three times the global average, a pattern called
+    <q>Arctic Amplification. Photograph by Thomas Nilsen, The Barents Observer. I DO NOT YET HAVE PERMISSION TO USE THIS IMAGE. Original caption: ``In times of climate changes, the view couldn't be more contradictory; a coalmine with a smoky coal power plant in front of a melting glacier. In recent years, the Arctic, and especially Svalbard, has warmed twice as much as the rest of the planet. Presumably owing to warming, most of the glacier retreat rates on Svalbard have increased several folds in recent decades. That includes the Gronfjord glacier just south of Barentsburg. The coal plant in Barentsburg consumes about 30,000 tons of coal annually.  Photo: Thomas Nilsen</q>
+    https://thebarentsobserver.com/en/node/4314?utm_source=EHN&amp;utm_campaign=ee2e6d6857-RSS_EMAIL_CAMPAIGN&amp;utm_medium=email&amp;utm_term=0_8573f35474-ee2e6d6857-99389405</caption>
+    <image width="92.5%" source="barentsburgcoalpowerplant"/>
+  </figure>
+  <figure xml:id="fig_kebenkaises">
+    <caption>The rapidly variable cryosphere. Panel A is a picture of Sweden's high point, the lovely Kebenkaises mountain. At the time the photograph was taken, the southern peak (white arrow) was the high point, at roughly \SI{2100}{\metre} above sea level. The photograph is by Alexandar Vujadinovic, available at
+    <url href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kebnekaise_viewed_from_Tarfala_valley___narrower_crop.jpg/1024px-Kebnekaise_viewed_from_Tarfala_valley___narrower_crop.jpg">Link</url>
+    and is under CC 4. Panel B shows the difference between daily and average maximum temperatures for 02 July 2018, one day of a record heat wave suffered by Europe in the summer of 2018. The yellow diamond marks the location of Kebenkaises, where temperatures were about \SI{10}{\celsius} higher than normal. The image is courtesy of Climate Reanalyzer at the University of Maine (
+    <url href="https://climatereanalyzer.org/reanalysis/daily_maps/">Link</url>).
+    In Panel C, a scientist uses a differential GPS to measure the height of the southern peak, which melted by more than \SI{4}{\metre} in July of 2018 alone. The rocky northern peak (red arrow in Panel A) became the high point as the southern peak wasted away. This figure and the details of the caption are from an article, in Swedish,
+    <url href="http://www.mynewsdesk.com/se/su/pressreleases/kebnekaises-sydtopp-blir-laegre-aen-nordtoppen-i-augusti-2611533">here</url>.
+    I do not have permission yet to use Panel C.</caption>
+    <image width="92.5%" source="kebenkaises"/>
+  </figure>
+  <figure xml:id="fig_cryo_albedo_feedback">
+    <caption>The cryosphere-albedo-temperature feedback (upper portion with dashed outline) is a positive feedback system exerting great leverage on Earth's climate. Through connections with ocean temperature (lower portion) this system also intersects the carbon cycle, which ends up twiddling the greenhouse effect thermostat and further extending the feedbacks leverage on climate. Begin with an increase, for whatever reason, in the area covered by highly reflective snow or sea ice. This increases albedo (note the solid green
+    <q>gain</q>
+    between the two boxes, indicating they change in the same sense), which <em>decreases</em> (red, dashed gain) absorbed short wave energy from the Sun. In turn this reduces Earth's equilibrium temperature <m>T_{eq}</m>, then the average surface temperture <m>T_{surf}</m>, which increases the stability of snow and ice and so starts the cycle anew. Over time scales of a few hundreds to thousands of years<mdash/>quite short geologically<mdash/>the deep oceans begin to cool as well, allowing more <m>CO_2</m> to dissolve into them. This <m>CO_2</m> comes from the atmosphere, so the greenhouse effect lessens, leading to further reductions in <m>T_{surf}</m> and stabilizing the cryosphere even more. These coupled systems play a crucial role in strengthening and terminating recent Ice Ages, and (in the Proterozoic) initiating
+    <q>Snowball Earth</q>
+    periods.</caption>
+    <image width="92.5%" source="cryo_albedo_feedback"/>
+  </figure>
+  <figure xml:id="fig_cryo_concept_map">
+    <caption>As we saw in <xref ref="fig_jonas">Figure</xref>, a single snowstorm can thrust 100 million people into the Cryosphere overnight. Despite this, most people are less familiar with the Cryosphere than any other major system on Earth. The figure maps out the way a changing Cryosphere (in the center) affects other parts of Earth, including the Anthroposphere (shown in blue <em>italic</em> type). The red arrows indicate positive feedbacks which amplify changes to the Cryosphere. The power subtle power of the Cryosphere is evidenced best two end-members of its effects: changes to winter tourism at one end, and changes to Earth's very shape on the other.</caption>
+    <image width="92.5%" source="cryo_concept_map"/>
+  </figure>
+  <figure xml:id="fig_jonas">
+    <caption>An intense winter storm in late January of 2016 brought the Cryosphere to a third of the people in the United States, and left so much snow it was visible from space. This image from NASA's Aqua satellite was taken mid-day on January 24, 2016. Although snow is visible over much of the image, the snow from that storm fell (inset image) in a band from Arkansas to Massachusetts. The Cryosphere<mdash/>the domain of frozen water<mdash/>is stable only where temperatures are below the freezing point of water. Daily and seasonal variations in temperature mean the Cryosphere is exceptionally volatile, more so than any of the Earth's other spheres, even the Biosphere. Long term changes in Earth's surface temperature<mdash/>both natural and man-made<mdash/>can push the Earth into
+    <q>Hot House</q>
+    eras marked by the near absence of a Cryosphere; or by''Snowball'' stages, with glaciers covering the continents even to sea level at the equator.</caption>
+    <image width="92.5%" source="jonas"/>
+  </figure>
+  <figure xml:id="fig_wheres_the_cryo">
+    <caption>The Cryosphere's components, by volume, roughly equivalent to mass. When examined through this lens, the Antarctic and Greenland Ice Sheets dominate the Cryosphere, storing roughly 98% of all Earth's ice. Glaciers and sea ice, although they cover a wide area of each pole, are so thin they contribute little mass to the system. Permafrost and snow aren't shown on the diagram, as the former is rather difficult to quantify, and the latter is too thin and temporary to matter. The Antarctic Ice Sheet (AIS) has three distinct parts, as shown on the upper inset diagram: East (the largest, darkest blue), West (medium blue), and Peninsula (the smallest, shown by the black line). The continent is surrounded by extensive winter-time sea ice (inset). The Greenland Ice Sheet<mdash/>the last vestige of the extensive ice sheets of the most recent Ice Age<mdash/>is continuing to melt, increasing relative sea levels. Arctic sea ice cover is shown in the inset at roughly its maximum extent, although this has been rapidly decreasing for the past two decades. Melting of this floating ice does <em>not</em> increase sea level. Roughly, each 1% of ice shown in the figure is equivalent to \SI{0.7}{\milli\metre} of sea level rise, roughly the annual amount of the AIS and GIS annually meting into the oceans. The inset figures are courtesy of NASA,
+    <url href="https://svs.gsfc.nasa.gov/11703">Link</url>,
+    The Arctic and the Antarctic Respond in Opposite Ways Released on October 8, 2014, accessed 20 August 2018.</caption>
+    <image width="92.5%" source="wheres_the_cryo"/>
+  </figure>
+  <figure xml:id="fig_snowfall">
+    <caption>Even in as static a medium as a woodcut, the gentle sounds and sights of snow falling resonate with anyone who has experienced it first-hand. Seiji Sano (Japan, b 1959) Snow Falling Softly 2004 woodblock print. I do not have permission yet to use this figure.</caption>
+    <image width="92.5%" source="snowfall"/>
+  </figure>
+  <figure xml:id="fig_orographic">
+    <caption>This splendid view of California from NASA's Modis instrument shows the power of orographic uplift in creating snow. The fertile, green Central Valley (in the center) is walled on the right by the snow-capped Sierra Nevada mountains. Storms move from the west to east here, and as air masses rise up to clear the Sierra Nevada range, they cool and drop their water as snow. The inset shows the topography (in meters) along the base of the insert; note that the deserts to the east are as high as much of the snow-covered Sierra's, but lack snow, due to the
+    <q>snow shadow</q>
+    effect of the mountains. This image is courtesy of NASA/Modis
+    <url href="https://www.ncdc.noaa.gov/sites/default/files/Sierra-Nevada-snowpack-comparison-web-quality.jpg">Link</url>
+    .</caption>
+    <image width="92.5%" source="orographic.png"/>
+  </figure>
+  <figure xml:id="fig_seasonalsnow">
+    <caption>Snow cover in the Northern Hemisphere in (left) wintertime maximum and (right) summer-time minimum. Gray areas are snow covered. As the globe warms, the area covered by snow is decreasing, particularly at lower latitudes and elevations. Overall reductions in average snow cover have decreased by about 7% since the 1920s CE. This image is courtesy of the National Snow and Ice Data Center,
+    <url href="https://nsidc.org/cryosphere/snow/science/where.html">Link</url>,
+    accessed 21 August 2018.</caption>
+    <image width="92.5%" source="seasonalsnow"/>
+  </figure>
+  <figure xml:id="fig_scemax">
+    <caption>The limits of snow cover in the Northern Hemisphere. Areas in dark blue were <em>always</em> covered by snow in every week in every January from 1967-2015<mdash/>they are permanently in the Cryosphere. Areas in white were <em>never</em> covered by snow in any week of January in that period, so were never part of the Cryosphere. Areas in light blue are those on the edge, part of the Cryosphere that is at risk of  disappearing in a globally-warming world. Compare this to <xref ref="fig_sce">Figure</xref> Figure 3 from Kunkel et al. Op cit.</caption>
+    <image width="92.5%" source="NHSCEmaxima"/>
+  </figure>
+  <figure xml:id="fig_sce">
+    <caption>Changes to snow covered areas in the past 40 years. Brown areas lost snow cover; blue areas gained. In Europe (on the right) southerly areas lost snow, as we predicted in <xref ref="fig_scemax">Figure</xref> and <xref ref="snow_talk">section</xref>. In North America (on the let) the pattern is more complicated, with minor gains (as we predicted) in the Central Plains and heavy losses (as we didn't predict!) in the Rocky Mountains. This is probably due to the severe drought in the Western United States during this time. Climate is complicated. Figure 1 from Kunkel et al. Op cit.</caption>
+    <image width="92.5%" source="NHSCEchanges"/>
+  </figure>
+  <figure xml:id="fig_seaice_anncycle">
+    <caption>Upper pane, the average annual cycle of sea ice extent in the Arctic, as measured by satellites since 1979 CE. At the end of the melting season (September) sea ice grows as the sunlight fails and air temperatures plummet. Sea ice reaches a maximum extent in February or March, and then slowly begins to melt as the sunlight returns to the far polar reaches. Blue shading shows the ranges over which 90% (light blue area) and 50% (darker blue) of all data lay. The dark blue line shows the median. The red and orange lines show the trend for 2018 and 2012 CE, the all time lowest ice recorded. The inset maps show the distribution of sea ice for an typical year. Lower pane, the annual cycles of both Northern Hemisphere (blue) and Southern Hemisphere (orange) sea ice. Note the larger annual variation in the Southern Hemisphere, and the reversed seasons. Although trends are hard to see int this figure, a slow decrease in both maximum and minimum sea ice in the Arctic is visible. The inset maps show the distribution of Southern Hemisphere sea ice for an typical year at both September maximum and February Minimum. Data from Fetterer, F., K. Knowles, W. Meier, M. Savoie, and A. K. Windnagel. 2017, updated daily. Sea Ice Index, Version 3. Boulder, Colorado USA. NSIDC: National Snow and Ice Data Center. doi: https://doi.org/10.7265/N5K072F8, Accessed 22 August 2018, at https://nsidc.org/data/seaice_index.</caption>
+    <image width="92.5%" source="seaice_anncycle"/>
+  </figure>
+  <figure xml:id="fig_aa">
+    <caption>One illustrative example of Arctic Amplification: warming at the North Pole. The main figure shows the temperature changes (relative to 1959-1980) at the North Pole (solid blue lines) and for the world as a whole (dashed orange lines). Since 1980 CE, the North Pole has warmed 3 times faster than the world as a whole. The inset shows predicted temperature changes over a likely range of GHG emissions; by 2100 CE may warm by \SIrange{5}{10}{\celsius} (<m>9\ to\ 18^{\circ}</m>F) above current already warm temperatures. [Data for the North Pole is compliments of Zeke Hausfather, Berkeley Earth, personal communication 23 August 2018,
+    <q>Its [sic] observational data from Berkeley Earth and the CMIP5 multi-model mean for each RCP. Anomalies are plotted with respect to a 1951-1980 mean, and models have been aligned to observations over the last 20 years (1999-2018).</q>
+    Global data are the GISS data, wrt a 1951-1980 mean. Predicted ranges are CMIP5 means forced by RCP85 (upper) and RCP 60 (lower).The global results are compliments of the (amazing) KNMI Climate Explorer, https://climexp.knmi.nl/plot_atlas_form.py.]</caption>
+    <image width="92.5%" source="arcticamp"/>
+  </figure>
+  <figure xml:id="fig_sub_polar">
+    <caption>In the left pane, three Polar bears approach the starboard bow of a US Navy submarine while surfaced \SI{520}{\kilo\metre} (280 miles; I assume these are nautical miles) from the North Pole in October of 2003 CE. According to the crew members, the bears investigated the boat for almost 2 hours before leaving. The ice here is relatively thin, as you can see from the pieces stranded on the submarine's hull. This U. S. Navy photo by Chief Yeoman Alphonso Braggs (number 031000-N-XXXXB-001) was twice chosen as a Wikipedia <em>Picture of the Day</em>.</caption>
+    <image width="92.5%" source="USSHonolulu_polar_bears"/>
+  </figure>
+  <figure xml:id="fig_min_ice">
+    <caption>Upper pane: Annual monthly minimum sea ice extent in the Arctic (solid blue) and Antarctic (orange dashed line). Extent in the Arctic shows, despite substantial year-to-year variations due to natural variability, a clear and accelerating decline, averaging about 1.4% loss <em>per year</em> since 1979. Sea ice extent in Antarctica is more stable, and while it may be growing slowly (AR5, Chapter 4, page 333ff.) recent wide swings in extent suggest future changes may be imminent. Lower pane: Determining when the Arctic will be ice free at the end of the summer melt season (not all year!) begin by mathematically modeling the recorded losses as a function of time. The natural year-to-year variations in the observed minimium areas lead to uncertainty in the results, expressed by the best estimate (solid red line) and confidence interval (red dashed lnes). The best estimate predicts an ice-free Arctic ocean<mdash/>for the first time in the last 100,000 years<mdash/>by 2040 CE, and a 5% chance by 2032 CE. Even the most distant likely date-2066-is in the lifetime of just about every reader of this book.</caption>
+    <image width="92.5%" source="swimsanta1"/>
+  </figure>
+  <figure xml:id="fig_breakup">
+    <caption>This image from NASA's Modis instrument shows the very northern part of Greenland (red rectangle on inset map shows the location) and adjacent Arctic Ocean on 19 August 2018. Sea ice covers the majority of the Arctic Ocean, here glimpsed between clouds tinted pink for clarity. Against the Greenland Coast though the sea ice is broken in spots, and vast areas of the open ocean are ice free. This is typically the refuge of the thickest sea ice in the Arctic Ocean, generally four times as thick as normal sea ice, even in summer. But melting induced by abnormally warm weather<mdash/>made more likely by climate change and Arctic Amplification<mdash/>allowed the ice to be broken up by winds. This area was once expected to be the
+    <q>last refuge</q>
+    of ice in the Arctic. Image courtesy of NASA Worldview application (https://worldview.earthdata.nasa.gov/) operated by the NASA/Goddard Space Flight Center Earth Science Data and Information System (ESDIS) project, accessed 21 August 2018</caption>
+    <image width="92.5%" source="unprecedented"/>
+  </figure>
+  <figure xml:id="fig_permafrost">
+    <caption>Permafrost forms where soil temperatures remain below freezing points for years. Like snow cover, the stability of permafrost changes with distance from the pole, as shown here by continuous areas (in darkest purple) to areas with only isolated pockets (lightest purple). Except for a few places in South America and Antarctica, permafrost is rare in the Southern Hemisphere. Figure courtesy of he National now and Ice Data Center. https://nsidc.org/sites/nsidc.org/files/images//permafrost_distribution_in_the_arctic.jpg</caption>
+    <image width="92.5%" source="permafrost_distribution_in_the_arctic"/>
+  </figure>
+  <figure xml:id="fig_clath_fire">
+    <caption>Clathrates are
+    <q>cages</q>
+    of ice wrapped around gas molecules. Gas molecules are normally spread relatively far apart, but dense ice allows clathrates to concentrate gas by almost a factor of 200. So much so that clathrates <em>burn</em> when ignited, as shown here. The whitish chunks of ice the bottom (laying on a wire mesh) release gas as they warm, supplying the purplish-red flame with new methane. THis photograph is courtesy of J. Pinkston and L. Stern (USGS). https://www.usgs.gov/media/images/gas-hydrates-burning.</caption>
+    <image width="92.5%" source="Burning_Gas_Hydrates"/>
+  </figure>
+  <figure xml:id="fig_perennial_ice_2">
+    <caption>Panel A: A panoramic image of eastern Greenland beuatifully illustrates the various types of perennial ice, including glaciers, ice caps (ice isolated from the main ice sheet) and the massive Greenland Ice Sheet, at the horizon. Credit: Frank Paul, University of Zurich https://www.flickr.com/photos/gsfc/8741348411/in/photostream/. Panel B shows the very last remnant of the very last glacier in Venuzuela, \SI{4900}{\metre} high in the Andes.
+    <q>In 1910, glaciers spanned an area of at least 10 square kilometers (4 square miles) in the mountainous region of northwestern Venezuela. As of November, 2015, when this image was taken, less than one percent of that glaciated area remains, and all of it is locked up in one glacier. The ongoing retreat of Humboldt Glacier-Venezuela's last patch of perennial ice-means that the country could soon be glacier-free. Carsten Braun, a scientist at Westfield State University in Massachusetts who has surveyed the glacier predicted in 2015 that the glacier would disappear in the next 10 to 20 years.</q>
+    The image is courtesy of NASA Earth Observatory images by Joshua Stevens, using Landsat data from the U.S. Geological Survey and topographic data from the Shuttle Radar Topography Mission (SRTM). The quoted portion of the caption is by Kathryn Hansen of NASA. https://earthobservatory.nasa.gov/images/92659/last-glacier-standing-in-venezuela</caption>
+    <image width="92.5%" source="perennial_ice_2"/>
+  </figure>
+  <figure xml:id="fig_ELA">
+    <caption>Upper panel: The spectacular Ruth Glacier, in Denali National Part, Alaska (inset), drains the southeast side of Denali, the high point of North America. The brown streaks along the glaciers are lateral morraines, piles of dirt, rock and ruble dumped onto the glacier's surface upstream. Credit: Google Earth. Lower panel: Glaciers and ice sheets grow when winter accumulation of snow fall exceeds summertime loss by ablation. After many centuries to millenia, a glacier develops an equilibrium shape, with the accumulation area that ends at the equilibrium line altitude. The profile is not to scale.</caption>
+    <image width="92.5%" source="ELA"/>
+  </figure>
+  <figure xml:id="fig_glacial_loss">
+    <caption>Glaciers lose mass by melting, sublimation and calving of icebergs, two of which are illustrated in this impressive image from NASA's <em>Landsat</em> satellite. The Greenland Ice Cap (right) slides downhill into the Baffin Bay (left) through hundreds of outlet glaciers middle). A line of sapphire-blue melt pools dots the transition between continuous ice and the outlet glaciers. This water collects in pools and then (panel B; the colors have been stretched to show the abundance of melt channels) flows through channels either off or <em>into</em> the glacier. There it helps lubricate the outlet glacier's flow, accelerating the calving of icebergs, shown in panel C. Robert Simmon made the original image, which is courtesy of NASA's Earth Observatory, https://earthobservatory.nasa.gov/images/7569</caption>
+    <image width="92.5%" source="meltandcalve"/>
+  </figure>
+  <figure xml:id="fig_B15">
+    <caption>Caption from NSF/USAP: ``The northern edge of the giant iceberg, B-15A, in the Ross Sea, Antarctica. Iceberg B-15A is a fragment of a <em>much larger iceberg</em> (B-15) that broke away from the Ross Ice Shelf in March 2000. Scientists believe that the enormous piece of ice broke away as part of a long-term natural cycle (every 50-to-100 years, or so) in which the shelf<mdash/>which is roughly the size of Texas<mdash/>sheds pieces much as human fingernails grow and break off. In 2005 ocean currents took B-15A slowly past the Drygalski ice tongue; the collision broke off the tip of Drygalski in mid-April. Iceberg B-15A sailed on along the coast leaving McMurdo Sound until it ran aground off Cape Adare in Victoria Land (a region of Antarctica lying south of New Zealand), where it broke into several smaller pieces on Oct. 27 and 28, 2005. On November 21, 2006 several large pieces were seen just 60 kilometres (37 mi) off the coast of Timaru, New Zealand, the largest measuring about 1.8 kilometres (1.1 mi) wide and 120 feet (37 m) high. Photo by and courtesy of Josh Landis and the NSF/USAP. https://photolibrary.usap.gov/PhotoDetails.aspx?filename=EDGE02.JPG.</caption>
+    <image width="92.5%" source="B15A"/>
+  </figure>
+  <figure xml:id="fig_mtn_glacier">
+    <caption>The Aletsch Glacier in Switzerland is the largest valley glacier in the Alps and it has been losing mass since the mid-19th century. Its volume loss since the middle of the 19th century is well-visible from the trimlines, the line of highest advance of hte glacier, marked in yellow. A new study using data from two NASA satellites found that glaciers like this one lost an average of 571 trillion pounds of ice per year from 2003 to 2009, which contributed to about 30 percent of the total observed global sea level rise during the same period. Credit: Frank Paul, University of Zurich. Credit: Frank Paul, University of Zurich https://www.flickr.com/photos/gsfc/8741348531/in/photostream/</caption>
+    <image width="92.5%" source="Aletsch_Glacier.png"/>
+  </figure>
+  <figure xml:id="fig_south_pole">
+    <caption>The tiniest portion of the Antarctic Ice Sheet, seen from the (ceremonia</caption>
+    <image width="92.5%" source="south_pole"/>
+  </figure>
+  <figure xml:id="fig_rel_size">
+    <caption>Antarctica (in yellow), Greenland (in green, of course) and North America (gray) showing their correct relative sizes, which most maps can't do correctly. Antarctica is nearly twice the area of the lower 48 states; Greenland is about the area of the Western US. Nearly all (99%) of Antarctica is ice covered, with an average thickness of about \SI{1900}{\metre} (6200 feet), five times the height of the Empire State Building. Greenland<mdash/>the world's largest island<mdash/> is 80% covered by ice sheet and glaciers, with an average depth of \SI{1650}{\metre} (5500 feet), three times the height of the Empire State Building.</caption>
+    <image width="92.5%" source="relative_sizes_GIS_AIS.png"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}[htp]
+  </p>
+  <p>
+    <image width="92.5%" source="antarc_physical.png"/> \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_AISXC">
+    <caption>A cross section of Antarctica, showing the ice sheet (in lighter blue), bedrock (brown) and ocean (darker blue). The cross section (inset map) starts near the McMurdo Base, passes through Dome Argus and Dome Fuji, and ends at Queen Maud Land. Ice thickness (in meters) is shown by dashed blue lines. Note how the smoothed-surfaced ice sheet covers the bedrock topography, in some places by over \SI{3100}{\metre}, except for isolated out cropings in the Antarctic (on the left) and Orvin (on the right) Mountains.The ice sheet flows downhill, spreading from the high point toward the margins of the continent. Along the continent's margin are a number of floating ice shelves. The Ross Ice Shelf (a few hundreds of meters thick) remains the largest, but the Fimbul (which means
+    <q>Giant Ice</q>
+    [Really! see Fimbulisen (the giant ice) https://geonames.usgs.gov/apex/f?p=gnispq:5:0::NO::P5_ANTAR_ID:4905]) Ice Shelf is probably the best-named. Ice shelves are particularity susceptible to break-up die to warming oceans, as shown in <xref ref="fig_buttress">Figure</xref>. Ice surface and bedrock elevations are from BEDMAP2, Fretwell, P., Pritchard, H. D., Vaughan, D. G., Bamber, J. L., Barrand, N. E., Bell, R., ... Zirizzotti, A. (2013). Bedmap2: improved ice bed, surface and thickness datasets for Antarctica. The Cryosphere, 7(1), 375-393.
+    <url href="https://doi.org/10.5194/tc-7-375-2013">Link</url>,
+    data of 5th March 2013, accessed 4 September 2018.</caption>
+    <image width="92.5%" source="antarcticaxsec.png"/>
+  </figure>
+  <figure xml:id="fig_ESB">
+    <caption>The sea level equivalent of the Cryosphere and its constituents is a handy way of conceptualizing the amount of water stored in ice. If all ice were melted and allowed to run to the oceans, sea levels would rise an average of \SI{66}{\metre}, or 220 feet! Were this to happen<mdash/>and melting of <em>all</em> ice in the Cryosphere is exceptionally unlikely on human timescales<mdash/>sea level would rise high enough to cover the first 13 floors of the Empire State Building, as shown above. The contribution from melting glaciers, the Greenland Ice Sheet and the Antarctic Ice Sheets are shown separately above, from the top to bottom.</caption>
+    <image width="73%" source="ESB_SLR"/>
+  </figure>
+  <figure xml:id="fig_GISxsection">
+    <caption>A cross section of Greenland, showing the ice sheet (in lighter blue), bedrock (brown) and ocean (darker blue). The cross section runs from the northwest corner of the island, to
+    <q>Summit</q>
+    (the high point) and then to the southwestern corner of the island. Ice thickness (in meters) is shown by dashed blue lines. The ice sheet mantles topography thoroughly, leaving rock exposed only at the edges. The approximate location of deep ice cores drilled through the ice sheet is shown by the black line labeled
+    <q>GISP.</q>
+    This ice core has provided a rich history of the ice ages back to <nbsp/>800 ky. Ice surface and bedrock elevations are from Bamber, J. L., Griggs, J. A., Hurkmans, R. T. W. L., Dowdeswell, J. A., Gogineni, S., Howat, I., ... &amp; Steinhage, D. (2013). A new bed elevation dataset for Greenland., Data available at Greenland 5 km DEM, Ice Thickness, and Bedrock Elevation Grids, Version 1, http://nsidc.org/data/nsidc-0092, accessed 4 September 2018.</caption>
+    <image width="92.5%" source="GISxsection.png"/>
+  </figure>
+  <figure xml:id="fig_gis_physical">
+    <caption>The Greenland Ice Sheet seen in map view (Panel A, left) and in a satellite image indicating the speed of ice flow (Panel B, right). In panel B, faster speeds are shown by reds and purples. The three largest outlet glaciers on the island are indicated on both panels, and are clearly shown by the red and purples of rapidly flowing glaciers. Images courtesy of NASA.</caption>
+    <image width="92.5%" source="gis_physical"/>
+  </figure>
+  <figure xml:id="fig_SLR">
+    <caption>All three perennial ice reservoirs are melting and contributing to sea level rise. The curves show accumulated contributions to sea level rise since 1990 CE, projections are shown with dotted lines. Mountain glaciers are contributing the most now, roughly \SI{0.8}{\milli\metre} per year, while Greenland and Antarctica contribute a little less. The inset shows the total contribution of all three, which surpasses \SI{54}{\milli\metre} per year by 2020: 2 inches. By 2025 CE or so, melting Cryosphere will be adding more than an inch to sea levels every decade, and that value will increase over time. Shading shows very likely (90%) confidence intervals for the values. Data digitized from AR 5, Ch 4, Figure 4.25. Extrapolations are OLS quadratic fits to the digitized data.</caption>
+    <image width="92.5%" source="SLR"/>
+  </figure>
+  <figure xml:id="fig_SLR_vs_SLE">
+    <caption>The size of the reservoir matters less than the warming of a reservoir, at least as it applies to sea level rise. Above, the blue bars show the proportion of sea level equivalent in each of the three perennial cryosphere reservoirs; Antarctica has the vast majority of the ice, nearly 90%. Mountain glaciers have only 1% of <em>potential</em> sea level equivalent, but contributes 50% of observed sea level rise through 2020 CE. The reason is straight-forward: mountain glaciers are warming far faster than the more polar ice sheets. This graph was suggested by Meier, M.F., M.B. Dyurgerov, U.K. Rick, S. O'Neel, W.T. Pfeffer, R.S. Anderson, S.P. Anderson, and A.F. Glazovsky. 2007. Glaciers dominate eustatic sea-level rise in the 21st century. Science 317: 1064-1067, but with data from <xref ref="tab_wti">Table</xref> and from the data and forecasts described in <xref ref="fig_SLR">Figure</xref> caption</caption>
+    <image width="92.5%" source="SLR_vs_SLE"/>
+    .
+  </figure>
+  <figure xml:id="fig_LarsenB">
+    <caption>The rapidity and scale of ice shelf loss on the Antarctic Peninsula is well-documented in this series of satellite images of the Larsen B ice shelf. The images start on January 31, 2002 CE (upper left) and end just 6 weeks later on March 17. In the first image, lines of blue melt-water pools indicate the floating ice shelf is in distress, as melt water pools into existing cracks in the \SI{220}{\metre} (720 foot) thick ice shelf. This water rapidly funnels through the ice shelf, wedging the cracks open and (second image) leading to the rapid disintegration of the shelf into thousands of ice bergs. By March 17, the ice shelf had retreated by \SIrange{50}{60}{\kilo\metre} in less than 45 days. The final image shows the ice shelf's limits in 1947 (violet), 1961 (indigo) and 1993 (blue), which indicates that the shelf had been relatively stable prior to 1993 CE. The red, orange, yellow and green lines indicate the shelf edge over the collapse. The dotted line shows the outline of the State of Rhode Island and Providence Plantations, the smallest state (with the longest name) in the United States. Sea level did not rise when the ice shelf broke up; floating ice displaces a volume of water equal to its melted volume. Sources: Outlines for 1947, 1961, and 1993 are courtesy of Ted Scambos, National Snow and Ice Data Center, University of Colorado, Boulder, at https://nsidc.org/news/newsroom/larsen_B/index.html. Outlines for other times are by the author from the imagery. The imagery is from NASA/Goddard Space Flight Center, https://svs.gsfc.nasa.gov/30160. Image at https://svs.gsfc.nasa.gov/vis/a030000/a030100/a030160/woc_CollapseLarsen-B_IceShelf_Qsign.png</caption>
+    <image width="92.5%" source="LarsenB"/>
+    .
+  </figure>
+</section>

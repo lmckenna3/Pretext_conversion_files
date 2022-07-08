@@ -1,0 +1,598 @@
+<section xml:id="Earth_s_Thermostat">
+  <title><m>CO_2</m> as Earth's thermostat</title>
+  <introduction>
+    <p>
+      The four principal GHG are water vapor,
+      carbon dioxide, methane and nitrous oxide.
+      All of them are minor components of the atmosphere,
+      but produce the vast majority of the Greenhouse Effect.
+      While water vapor will turn out to be the largest contributor,
+      we'll see that it is not the most climatologically important greenhouse gas.
+      That role belongs to carbon dioxide.
+      <xref ref="tab_ghgconcs">Table</xref>
+      and <xref ref="fig_annghg">Figure</xref>
+      show the more important aspects of these greenhouse gasses,
+      including their recent
+      (and projected future)
+      changes.
+    </p>
+  </introduction>
+  <subsection>
+    <title>The four principal greenhouse gasses</title>
+    <subsubsection>
+      <title>Water vapor</title>
+      <p>
+        Water is unique: no other substance can be found in solid,
+        liquid and gaseous form on Earth's surface.
+        Water vapor is the gaseous form of water,
+        and it generally exists dissolved into air,
+        just like salt dissolves in water.
+        On average, water vapor makes up just 0.2 to 0.5% of the atmosphere<fn>
+        The lower limit is an area-weighted global annual average 1000-300 mb specific humidity, 1981-2010 Climatology from NOAA NCEP-NCAR CDAS-1: Climate Data Assimilation System I; NCEP-NCAR Reanalysis Project,
+        via IRI maproom http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCEP-NCAR/.CDAS-1/.mc8110\/, accessed June 30, 2015;
+        upper limit is from T.J. Blasing, Recent Greenhouse Gas Concentrations,
+        http://cdiac.ornl.gov/pns/current_ghg.html, accessed 30 June 2015.
+        </fn>,
+        more in the tropics, and less in the poles.
+        As that observation suggests,
+        the concentration of water vapor in the atmosphere is strongly proportional to temperature,
+        rising about 6% for every \SI{1}{\kelvin} temperature increase (3.5% for every <m>1^{\circ}F</m> increase).
+        Water vapor constantly moves across the globe
+        (<xref ref="fig_wv_vis">Figure</xref>)
+        due to atmospheric circualtion,
+        and just as constantly cycles from the atmosphere to the oceans,
+        cryosphere and geosphere, and back in to the atmosphere.
+        Because of its raw abundance,
+        water vapor provides about half of the total greenhouse effect
+        (precise values are given in <xref ref="tab_ghgconcs">Table</xref>).
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Carbon Dioxide</title>
+      <p>
+        Macbeth is the star of Shakespeare's shortest and darkest play,
+        <em>The Tragedy of Macbeth</em>.
+        During the play Macbeth savagely slaughters his King,
+        his best friend, the wife and child of his kinsman,
+        a few of his own guards, and drives his Queen to suicide.
+        He's an odd
+        <q>hero</q>
+        for a play.
+        Carbon dioxide is the Macbeth of this book.
+        It's the central character,
+        the moody and ever-present actor, in climate science,
+        and though of course it lacks Macbeth's moral flaws,
+        carbon dioxide certainly can play the antihero.
+        Carbon dioxide is ubiquitous,
+        found in various forms in the atmosphere, hydrosphere,
+        geosphere,
+        biosphere and even<mdash/>trapped as tiny,
+        ice-surrounded bubbles<mdash/>in the cryosphere.
+        We'll spend all of Chapter 11 understanding the crucial role of carbon in Earth's climate.
+        For now, we need only to know that carbon dioxide makes up just [409, 412, 414, 416, 419] parts per million
+        (abbreviated ppm)
+        of the atmosphere [in mid-year 2019, 2020, 2021, 2022, 2023 respectively]<fn>
+        I don't intend that the book actually have this terminology;
+        rather I include this so the book is up-to-date when published,
+        and I don't have to continually recalculate the value!
+        The extrapolation here uses NOAA's global <m>CO_2</m>
+        <q>trend</q>
+        data (
+        <url href="ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_gl.txt">Link here</url>,
+        accessed 11 May 2019, complete from Jan 1980 to Feb 2019),
+        fit to a quadratic model in time,
+        and extrapolated to mid years. 95% CI on the extrapolations are less than 0.3 ppm
+        </fn>.
+      </p>
+      <p>
+        A <em>part per million</em> is a common way of expressing the concentration of trace constituents,
+        and in this case refers to the number of molecules of carbon dioxide found in one million molecules of
+        <q>air.</q>
+        One way of envisioning the ppm unit is to think of $10,000, all in pennies.
+        Take $4 worth of those one million pennies,
+        paint them red, then mix them into the other $9,996.
+        Those red pennies are 400 ppm of the total.
+        The terminology is so common in climate studies we need a handy way of writing
+        <q>the concentration of this molecule in this place is this,</q>
+        which we do this way:
+        <men>
+          [CO_2]_{atm}=412\ ppm
+        </men>
+      </p>
+      <p>
+        The square brackets are read as
+        <q>concentration of,</q>
+        the chemical formula in the brackets identifies the compound of interest,
+        and the subscript gives the particulars of where
+        (or when)
+        the concentration was measured.
+      </p>
+      <table xml:id="tab_ghgconcs">
+        <title>Greenhouse gasses in Earth's Atmosphere</title>
+        <tabular>
+          {@lccccc@} \toprule
+          Parameter        &amp;Units        &amp;Water      &amp;Carbon Dioxide    &amp;Methane  &amp;Nitrous Oxide\\ \midrule
+          Formula          &amp;             &amp;<m>H_2O</m>      &amp;<m>CO_2</m>            &amp;<m>CH_4</m>    &amp;<m>N_2O</m>\\
+          Concentration, 2020    &amp;ppm    &amp;2000-5000  &amp;412              &amp;1.880    &amp;0.332\\
+          Concentration, 1750    &amp;ppm    &amp;2000-5000  &amp;280              &amp;0.722    &amp;0.27\\
+          Average Annual Change  &amp;%/yr  &amp;0          &amp;0.6              &amp;0.4      &amp;0.3\\
+          GWP (over 100 yrs)    &amp;-      &amp;0.2        &amp;1                &amp;28        &amp;265\\
+          Lifetime              &amp;years  &amp;0.03        &amp;<m>\sim 100-1000</m>  &amp;<m>\sim10</m>  &amp;<m>\sim120</m>\\
+          Proportion Greenhouse Effect  &amp;%    &amp;57    &amp;23                &amp;6        &amp;2\\
+          Proportion US emissions  &amp;%    &amp;0          &amp;82                &amp;10        &amp;5\\
+          Condensation Temperature&amp; <m>^{\circ}C</m> &amp;0    &amp;-78              &amp;-187      &amp;-88\\ \bottomrule
+        </tabular>
+      </table>
+      <p>
+        The lifetime of carbon dioxide in the atmosphere is anywhere from 100 to 1000 years,
+        depending on how one defines the lifetime.
+        We'll define it as the time before a molecule is removed from the atmosphere by any process.
+        The implications of this should surprise you:
+        next time you use a gasoline-powered vehicle,
+        step back and look at the exhaust before you get in the vehicle.
+        On average<fn>
+        http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/html/table_01_26.html_mfd accessed 30 January 2016 shows that average age of US cars is 11.4 years in 2014, unchanged for 3 model years.
+        Alson, J., Hula, A., &amp; Bunker, A. (2014).
+        Light-Duty Automotive Technology, Carbon Dioxide Emissions,
+        and Fuel Economy Trends: 1975 through 2013.
+        Appendix F, US Environmental Protection Agency, Ann Arbor, Michigan,
+        available at:
+        http://www.epa.gov/oms/fetrends.htm# accessed 30 January 2016 report that average <m>CO_2</m> emissions for the US average fleet is
+        (for the 1990-2014 period,
+        weighted by a triangular distribution with mean = 2014-11.4=2002.6)
+        is 420 g <m>CO_2</m>\/mile.
+        Assume average speed of 33 mph=0.55 mileminute=230 gminute
+        </fn>,
+        for every minute you drive,
+        that car will emit about 230 g<mdash/>roughly
+        <em>one half pound</em><mdash/>of carbon dioxide.
+        That gas will remain in the atmosphere at least until your great-grandchildren are breathing it,
+        and probably much longer.
+        The growth of carbon dioxide in the atmosphere-largely due to human-caused emissions-amounts to about 0.6%, or roughly 2.5 ppm,
+        per year<fn>
+        This is the exponentially smoothed 2018 growth rate (alpha=0.25) for <m>CO_2</m> based on the NOAA's
+        <q>measured global annual mean dry-air mole fractions used in deriving the radiative forcing values provided in ... the AGG,</q>
+        available at https://www.esrl.noaa.gov/gmd/aggi/NOAA_MoleFractions_2019.csv
+        </fn>.
+      </p>
+      <p>
+        Despite its tiny abundance,
+        carbon dioxide is responsible for about one quarter of the entire greenhouse effect.
+        This is because Earth happens to radiate infrared light at precisely the same wavelengths carbon dioxide absorbs it
+        (<xref ref="fig_sun_earth_spectrum">Figure</xref>),
+        and because carbon dioxide is an efficient absorber of that infra-red radiation.
+        A decent way of measuring the ability of a greenhouse gas to influence climate is through the
+        <em>global warming potential</em>,
+        or GWP. This is a relative measure,
+        and by convention the GWP for carbon dioxide is set at 1.
+        The GWP of water, although it is hard to measure accurately<fn>
+        Because their absorbencies overlap,
+        the relative contributions of water and carbon dioxide to the total GHE is indeterminate.
+        Students find this enormously frustrating.
+        So I calculate and approximate measure by dividing actual GHG concentrations by the CDAIC AGGI contributions from each GHG, then normalizing those ratios to that for <m>CO_2</m>.
+        These values were within factor of <nbsp/>2 of IPCC 100 year GWP. The corresponding ratio for H2O is 0.2, relative to <m>CO_2</m>.
+        I fully acknowledge this is at best an approximation,
+        and at worst a pedagogical extrapolation.
+        But I think the cost in terms of precise physics is offset by the increased accuracy of students' understanding.
+        </fn>,
+        is about one fifth that of carbon dioxide.
+        Roughly speaking,
+        one molecule of carbon dioxide has 5 times the potency of one water molecule to warm the climate.
+        Water is more important overall because there is ten times more water vapor in the atmosphere than carbon dioxide.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Methane</title>
+      <p>
+        Methane<mdash/>a common molecule found from Earth's deep interior,
+        to the surface to the atmosphere<mdash/>is a simple molecule consisting of a central carbon atom and 4 surrounding hydrogen atoms.
+        The majority of natural methane emissions come from wetlands<fn>
+        Anderson, Brian, et al.
+        <em>Methane and nitrous oxide emissions from natural sources.</em>
+        United States Environmental Protection Agency, Office of Atmospheric Programs, Washington (2010).
+        </fn>,
+        where it is released as a byproduct of oxygen-free decay of organic matter.
+        Bubbles of methane rising from such places has the wonderful name of
+        <q>swamp gas.</q>
+        But these natural emissions now represent only 40% of global emissions.
+        The other 60% comes from human activity,
+        including the production of natural gas and coal,
+        the gaseous discharge from the intestines of domesticated animals
+        (largely cattle),
+        and from rice paddies.
+        Natural gas,
+        which is an increasingly important source of energy in the United States,
+        is largely methane.
+        While the contemporary concentration of [1.87, 1.88, 1.89, 1.90, 1.91] ppm in mid-year [2019, 2020, 2021, 2022, 2023 respectively] has increased recently (around 0.4% per year.<fn>
+        NOAA, ibid.
+        </fn>), the rate of increase is quite variable over 5 to 10 year periods.
+        The reasons for this are still hotly debated,
+        but include increases in the methane released by microbes
+        (often found in rice paddies and the guts of cattle),
+        from increased fossil fuel production,
+        and a decrease in the rate methane is removed from the atmosphere,
+        or a combination of all three<fn>
+        Nisbet, E. G., et al. (2019), Very Strong Atmospheric Methane Growth in the 4 Years 2014-1017: Implcations for the Paris Agreement.
+        Global Biogeochemical Cycles 33(3),
+        <url href="http://doi.org/10.1029/2018GB006009">This doi</url>
+        </fn>.
+        Over the past 250 years,
+        humans have more than doubled atmospheric methane concentrations, Methane has a GWP of 28,
+        so despite its low concentrations it is a powerful greenhouse gas,
+        fueling about 6% of the greenhouse effect.
+        Once in the atmosphere,
+        methane is destroyed over a 10 year period by reactions with naturally-occurring compounds in the atmosphere.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Nitrous oxide</title>
+      <p>
+        Yes, laughing gas is a greenhouse gas,
+        the least influential of the top four gasses we'll consider in detail.
+        This gas is still rare-only [0.332 0.332 0.333 0.334 0.335] ppm in mid-year [2019, 2020, 2021, 2022, 2023 respectively<fn>
+        NOAA, ibid.
+        </fn>] and has only increased about 25% since pre-industrial times.
+        This low increase reflects the fact that almost two thirds of all nitrous oxide reaching the atmosphere is from natural sources,
+        mostly from bacterial activity in soils and the oceans.
+        This also explains the gas's relatively slow increase of 0.3% annually.
+        Growing food<fn>
+        Donald J. Wuebbles, Nitrous Oxide: No Laughing Matter, Science 2 October 2009: 326 (5949), 56-57. [DOI:10.1126/science.1179571]
+        </fn>,
+        aided by nitrogen-rich application of fertilizers and manures,
+        is the primary source of anthropic nitrous oxide,
+        although burning of fossil fuels contributes a small amount as well.
+        Nitrous oxide is removed from the atmosphere by bacteria,
+        or destroyed by chemical reactions and ultraviolet light.
+        With a long lifetime (120 years) and remarkably high GWP (265),
+        nitrous oxide provides a small but important 2% of the GHE.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Greenhouse Gasses and Human Needs</title>
+      <p>
+        Buried in the dry recitation of facts above are hints of ideas we will revisit often,
+        but should start considering now.
+        Look back and notice that both methane and nitrous oxide are released through agricultural practice:
+        bovine emissions and rice paddies for methane,
+        fertilizer for nitrous oxide.
+        Of course in most parts of the developed world,
+        these crops and animals are cared for,
+        harvested and transported by vehicles consuming fossil fuels and emitting carbon dioxide,
+        the other important GHG. Something as necessary and fundamental to existence as growing food is a primary source of the very gasses that are threatening our way of life.
+        This could be quite a dilemma:
+        could it really come down to choosing to heat or to eat?
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Feedbacks</title>
+    <introduction>
+      <p>
+        Back in Chapter 3 we defined a system as a collection of interacting parts.
+        One important type of interaction in climate systems are feedbacks,
+        in which one part of the system affects another part, and that one yet another,
+        and so on until the initial part itself is affected.
+        Such feedback loops are common in any complicated system,
+        including living organisms, human societies, and of course climate.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Block diagrams and mechanics</title>
+      <p>
+        A handy way of visualizing such a loop is a block diagram,
+        as shown in <xref ref="fig_feedback_loops_intro">Figure</xref>.
+        Block diagrams represents parts of the system as blocks,
+        and interactions between the parts as lines.
+        Inputs to a block represent interaction signals from other parts of the system,
+        while outputs are resulting signals sent to other parts.
+        The signal represents how change in one part of the system will change the next part along the loop.
+        Signals have one of two values:
+        positive or negative.
+        A positive signal means the two parts will change in the same sense:
+        if one goes down, the other will, too.
+        In this book,
+        positive signals are shown in block diagrams with green lines ending in a filled circle.
+        A negative signal means the parts change in the opposite sense:
+        if one increases, the other will decrease, and <em>vice versa</em>.
+        Negative signals are shown with red dashed lines ending in an unfilled circle,
+        as shown in the center of <xref ref="fig_feedback_loops_intro">Figure</xref>. (A signal of
+        <q>no change</q>
+        is possible, but irrelevant;
+        such a signal would mean the parts really don't interact!)
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Positive and Negative Feedback Loops</title>
+      <p>
+        Interaction is the primary reason we'll study feedback loops,
+        because loops interact to either amplify or dampen changes that occur to a system.
+        Two examples illustrate this crucial concept.
+        Collegiate wrestlers compete in narrowly-defined weight classes,
+        so a wrestler typical monitors her weight closely.
+        A very simplified feedback loop of the system <em>Wrestler</em>
+        is shown in the Panel A of <xref ref="fig_feedback_loops_intro">Figure</xref>.
+        Jump in to the loop at <em>Calories Consumed</em>
+        and follow the positive signal output to <em>Body Weight</em>.
+        This indicates that if a wrestler were to increase her caloric intake while keeping all other factors constant,
+        her weight would increase.
+        The opposite is also true: fewer calories would lead to weight loss.
+        This is a <em>positive</em> interaction,
+        because the changes have the same sign.
+        Follow the negative output from
+        <em>Body Weight</em> to <em>Caloric Intake</em>
+        and you'll see that in response to her weight gain,
+        the wrestler would need to reduce her subsequent caloric intake, which
+        (follow the loop around!)
+        would eventually lead to weight loss.
+        Note how this loop acts to dampen, or reduce,
+        weight changes and leads to the maintenance of a steady state weight.
+        Any complicated system which remains near a steady state condition for the long term is dominated by such
+        <em>negative feedback loops</em>.
+        Don't let the word <em>negative</em> fool you:
+        it refers not to the goodness or desirability of the outcome,
+        but to the fact that the scale of change is reduced on each passage through the loop.
+        Not surprisingly, positive loops amplify change on each passage.
+        In the upper right of <xref ref="fig_feedback_loops_intro">Figure</xref>
+        is a simplified block diagram of a Student.
+        The student, for whatever reason,
+        reduces his exercise intensity for a period of time.
+        As you may have experienced,
+        this leads to a decrease in the student's conditioning,
+        which in turn leads to a further reduction in the student's exercise intensity.
+        Eventually the student may find himself in pretty poor shape,
+        and stop exercising all together.
+        Despite the unfortunate outcome,
+        this is a positive feedback loop,
+        because the change grows larger with each trip around the loop.
+        Positive loops are inherently unstable:
+        even a small initial change can lead to arbitrarily large changes over time.
+      </p>
+      <p>
+        Determining the nature of a loop is easy:
+        count the number of negative signals.
+        If a loop has an odd number of negative signals,
+        the loop is itself negative.
+        The lower panel of <xref ref="fig_feedback_loops_intro">Figure</xref>
+        shows changes in the wrestler's weight
+        (in red)
+        and student's conditioning
+        (in green)
+        over time.
+        While the wrestler's weight increases suddenly and dramatically,
+        her weight returns quickly to the initial weight after a few trips around the loop,
+        even if it overshoots that steady state value on the return.
+        On the other hand,
+        the student's conditioning initially drops only slightly,
+        but that change is rapidly amplified.
+      </p>
+      <p>
+        For nearly 4 billion years, Earth's climate,
+        while varying widely for short periods of time,
+        has been sufficiently stable and comfortable for life to flourish through the oceans,
+        across the surface,
+        into the atmosphere and even tens of kilometers deep in the geosphere.
+        What a remarkable example of long-term maintenance of a steady state in a complicated system!
+        Many strong,
+        persistent and overlapping negative feedbacks have maintained a habitable climate on Earth for billions of years.
+        Oddly enough, though,
+        the first feedback we need to look at is a positive one,
+        and involves carbon dioxide, water and the greenhouse effect.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>The Role of Carbon Dioxide and other Non-Condensable Gasses in the greenhouse effect</title>
+    <introduction>
+      <p>
+        <xref ref="fig_schmidt_hills">Figure</xref>
+        was taken in the Schmidt Hills of Antarctica,
+        and shows the frozen Polar Plateau leading off to the Ronne Ice Shelf in the background.
+        At the time the photograph was taken,
+        the air temperature was a balmy \SI{-5}{\celsius} (<m>20^{\circ}</m> F), pretty mild for Antarctica.
+        Today the ice there is a thousand meters
+        (more than 3000 feet)
+        thick, but the smoothness of the rocky ridge in the background suggests that the ice at one time covered the ridge as well.
+        The ice is nothing more than compacted snow,
+        but to the surprise of most people,
+        snow in Antarctica is actually pretty rare,
+        simply because the air is too cold to hold much water.
+        Antarctica is a unique and spectacular part of planet Earth,
+        but much of the planet's surface would look like the landscape in <xref ref="fig_schmidt_hills">Figure</xref>
+        if it weren't for the effects of carbon dioxide as a
+        <em>non-condensable gas</em>:
+        a gas that doesn't freeze to a solid on the surface.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Specific humidity <em>vs.</em> temperature</title>
+      <p>
+        To act as a greenhouse gas, water must dissolve into the air.
+        This process is similar to the dissolution of salt in water.
+        The dissolved salt is invisible in the water,
+        at least to the naked eye.
+        There is also a limit to how much salt a given amount of water can dissolve,
+        which defines the solubility of salt in water.
+        Water in air behaves much the same,
+        both invisible to the naked eye and having a well-defined maximum solubility.
+        Humidity is a measure this amount,
+        and it is a strong function of temperature.
+        Warmer air has a higher solubility for water than colder air,
+        with a <m>\sim 6\%</m> increase in solubility for each \SI{1}{\kelvin} increase in temperature<fn>
+        Lalibert&#xe9;, F., Zika, J., Mudryk, L., Kushner, P. J., Kjellsson, J., &amp; D&#xf6;&#xf6;s, K. (2015).
+        Constrained work output of the moist atmospheric heat engine in a warming climate.
+        Science, 347(6221), 540-543; Allan, R. P., &amp; Soden, B. J. (2008).
+        Atmospheric warming and the amplification of precipitation extremes.
+        Science, 321(5895), 1481-1484.
+        </fn>.
+        <xref ref="fig_relative_humidity">Figure</xref>
+        shows the relationship between air temperature and water solubility.
+        The blue curve shows the maximum amount of water dissolved in air,
+        and defines air at 100% relative humidity.
+        Relative humidity, that standard of weather forecasts,
+        is just the proportion of the maximum possible water actually present in the air.
+        For example,
+        the red dashed line on <xref ref="fig_relative_humidity">Figure</xref> shows 50% relative humidity,
+        a reasonably comfortable day.
+        The orange dotted line shows 25% relative humidity,
+        which most people would find uncomfortably dry.
+        Note how water solubility plummets as air temperature decreases.
+        As air temperature approaches \SI{-40}{\celsius}, solubility approaches 0, which means that no water vapor exists in the air.
+        At these cold temperatures,
+        typical of Antarctica for example, there can be no snow:
+        no water can get into the air to freeze!
+      </p>
+      <p>
+        At Earth's <m>T_{eq}</m>, (\SI{-18}{\celsius} left arrow on the figure),
+        water vapor in the air is exceptionally small,
+        less than a tenth of the average amount today<fn>
+        To good approximation the saturation water vapor pressure is given by <m>p_{wv}=A \cdot 10^{\frac{B \cdot T}{C+T}}</m>,
+        where <m>p_{wv}</m> is in\si{\pascal}, T is temperature in \si{\celsius}, and
+        <m>A,\ B \ and \ C</m> are \SI{611}{\pascal}, 7.5, and \SI{237.7}{\celsius} respectively.
+        Thus the ratio is <m>\frac{10^{\frac{B \cdot T_{eq}}{C+T_{eq}}}}{10^{\frac{B \cdot T_{av}}{C+T_{av}}}}\sim 11.5</m>
+        </fn>.
+        This poses a problem.
+        If water is responsible for over half of the greenhouse effect,
+        how did it get into the air in the first place?
+        Wouldn't temperatures be too cold to get any water into the air?
+        Enter the non-condensable gasses.
+        As <xref ref="tab_ghgconcs">Table</xref> shows
+        (bottom row)
+        carbon dioxide,
+        methane and nitrous oxide have condensation temperatures far colder than Earth's <m>T_{eq}</m>.
+        Those gasses remain in the atmosphere regardless of surface temperature,
+        and produce a sufficient greenhouse effect to get
+        <em>some</em> water vapor into the air
+        (<xref ref="fig_wvco2">Figure</xref>).
+        This in turn increases the greenhouse effect,
+        raising the temperature even more.
+        This positive feedback loop,
+        sketched in <xref ref="fig_wvco2">Figure</xref>
+        is a fundamental and crucial mechanism in the maintenance of Earth's climate.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>And a powerful feedback it is</title>
+      <p>
+        Think of carbon dioxide as Earth's thermostat, a wonderful term<fn>
+        The first use of which I can find is Oestreicher, D. (1973).
+        <em>Growing, Crowding Population Hiking Earth's Thermostat</em>.
+        Detroit Free Press, Tuesday, June, 12(1), 973.
+        </fn> that evocatively summarizes the importance of carbon dioxide to climate, society,
+        and this book.
+        Thermostats don't heat or cool a room,
+        they merely control the mechanism that does.
+        So too with carbon dioxide and the other non-condensable greenhouse gasses we discussed,
+        which control the greenhouse effect through the water vapor feedback.
+        Ideally we would conduct careful,
+        controlled experiments on this relationship,
+        but of course this is impossible.
+        To do a controlled experiment,
+        as might be done in chemistry or biology,
+        you need to prepare at least two identical systems.
+        One system is left unchanged and acts as a control,
+        a measure of the normal behavior of the system.
+        The other systems are then modified,
+        and the difference between the control and experimental systems reveals the effects of the modifications.
+        Earth sciences are unique in that such controlled experiments are often impossible:
+        we have, after all, only one Earth.
+        Earth scientists often result to using natural experiments to understand how Earth works.
+        Over Earth's history <m>[CO_2]_{atm}</m> has varied from 1000s to perhaps 200 ppm,
+        and that enormous range has been accompanied by equally enormous changes in surface temperatures.
+        These natural experiments confirm the strength of the water vapor feedback,
+        but don't provide a precise view of the relationship between
+        <m>[CO_2]_{atm}</m> and the average surface temperature.
+      </p>
+      <p>
+        For the past 250 years, we have been conducting a real,
+        but uncontrolled,
+        experiment on the relationship between
+        <m>[CO_2]_{atm}</m> and the average surface temperature., by increasing GHG concentrations by about 80%. The resulting global warming provides clear evidence of the water vapor feedback,
+        but using this relationship seems premature.
+        Fortunately there is another way.
+        A third and powerful technique for understanding how carbon dioxide drives climate is to use computer models.
+        Such models range from simple ones using a single mathematical approximation to global models using over half a million points at dozens of levels in atmosphere and ocean,
+        connected by thousands of mathematical relationships.
+        The strength of these models is the ability to do exactly the controlled experiments we can't do on the real Earth.
+        In a computer model, changing the concentration of a gas,
+        or the albedo of a continent, is straightforward,
+        although determining the accuracy of the results is not.
+        In a beautiful example of the usefulness and power of this method,
+        researchers from NASA<fn>
+        Lacis, A. A., Schmidt, G. A., Rind, D., &amp; Ruedy, R. A. (2010).
+        Atmospheric CO2: Principal control knob governing Earth's temperature.
+        Science, 330(6002), 356-359.
+        Figures are reproduced from http://www.giss.nasa.gov/research/briefs/lacis_01/, accessed 3 August, 2015
+        </fn> twiddled Earth's thermostat by removing
+        (in the model)
+        non-condensable greenhouse gasses from the atmosphere.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Why water vapor is a response, not a driver, of global climate change</title>
+      <p>
+        <xref ref="fig_noco2earth">Figure</xref> shows the remarkable results,
+        with colors showing the average annual temperatures at each latitude.
+        Areas in reds and yellows have average annual temperatures above freezing;
+        areas in blues have annual temperatures below freezing.
+        Results to the left of
+        <q>0</q>
+        time nicely reproduce actual global temperatures.
+        As soon as condensable gasses are removed at 0 years,
+        surface temperatures plummet, quickly,
+        globally, and solely because carbon dioxide is gone.
+        Average global temperatures decrease by about what you should expect: \SI{35}{\celsius} (<m>63^{\circ}</m>F), and do so with a half-life of just 3.5 years.
+        In the first 3.5 years,
+        this model predicts that global temperatures would decrease by \SI{17}{\celsius} (<m>31^{\circ}</m>F), or roughly \SI{5}{\celsius} (<m>9^{\circ}</m>F) per year!
+        Water vapor may be the most important of the greenhouse gasses in our atmosphere,
+        but it holds that position only at the invitation of the other,
+        non-condensable, greenhouse gasses, like carbon dioxide.
+        As suggested by the box model in <xref ref="fig_wvco2">Figure</xref>,
+        and confirmed in the computer models illustrated in <xref ref="fig_noco2earth">Figure</xref>,
+        water vapor in our atmosphere is a <em>response</em>,
+        not a driver, of global climate change.
+        This is a topic to which we will return:
+        as you can imagine,
+        increase in atmospheric water vapor will propagate into changes in precipitation and water supply as well.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>How a tiny bit of human-emitted <m>CO_2</m> can change a planet's temperature</title>
+    <p>
+      Typically people do not use huge blocks of ice or open fires to change the temperature of a room.
+      True, you might open a window,
+      but most of us live in buildings where the temperature is controlled by a thermostat,
+      sitting quietly in a corner of the room.
+      One merely flicks a button,
+      and the (now) computer-controlled thermostat will send signals to the heating or cooling system of the building,
+      which heats or cools air which is subsequently blown into the room.
+      Remarkably little energy is expended by you in the act of changing the room's temperature.
+      The thermostat acts as a (metaphorical) lever,
+      magnifying the forces you exert into room-wide changes in climate.
+      Anthropic release of carbon dioxide works in precisely the same way.
+      Because of its power as a greenhouse gas,
+      carbon dioxide and other gasses we emit into the atmosphere directly change Earth's surface temperature.
+      But these effects are leveraged by the
+      <m>CO_2-H_2O</m> feedback into even larger changes,
+      changes which have led to a roughly \SI[separate-uncertainty]{0.92(6)}{\celsius} (<m>1.7^{\circ}</m>F) increase in global surface temperatures<fn>
+      IPCC, 2013: Summary for Policymakers.
+      In: Climate Change 2013: The Physical Science Basis.
+      Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA., page 3, updated to the 2009-2018 decade by averaging the GISS (GISTEMP Team, 2019: GISS Surface Temperature Analysis (GISTEMP).
+      NASA Goddard Institute for Space Studies.
+      Dataset accessed 2019-05-29 at https://data.giss.nasa.gov/gistemp/) average surface data.
+      I took the difference between the average GISS 2003-2012 temperatures
+      (the period used in the SPM)
+      and the GISS 2009-2018 temperatures,
+      and added it to the SPM value of 0.78 C.
+      </fn> since the 1850-1900 CE period.
+      These and other changes will continue in the future;
+      understanding the tempo and mode of which will occupy the final few chapters of the book.
+    </p>
+    <p>
+      Before that,
+      we need to have a baseline from which we can measure and understand differences and changes in climate.
+      So, let's turn to our final topic for this chapter,
+      why the Tropics are hot and the Poles are cold.
+    </p>
+  </subsection>
+</section>

@@ -1,0 +1,678 @@
+<section xml:id="Circulation">
+  <title>Contemporary Circulation</title>
+  <subsection>
+    <title>Introduction: The oceans move heat from the equator to the pole</title>
+    <p>
+      The oceans are in unceasing and tumultuous motion.
+      It's one of the features that make the oceans so mesmerizing to watch,
+      and one of the features that make the oceans most dangerous to live with.
+      But the motions that most captivate human observers<mdash/>waves and tides come to mind<mdash/>aren't important to the ocean's long-term climatological roles.
+      More subtle horizontal and vertical circulations in the oceans are what will concern us in this chapter.
+      Like the overlying atmosphere,
+      the fluid oceans are constantly slung about by Earth's rotation and heated by the Sun.
+      Unlike the atmosphere, the oceans are dense,
+      penned in by the continents, and heated from above,
+      so circulation of the oceans is qualitatively different then circulation of the atmosphere.
+      Currents in the ocean are 1000 times slower (\SI{0.01}{\metre\per\second}) than those in the atmosphere (\SI{10}{\metre\per\second}), so the first difference we should expect is the time it takes for the oceans to circulate
+      (years to millennia)
+      will be much longer than the those for the atmosphere
+      (days to months).
+      The second difference is that density changes within the oceans is controlled by temperature and salinity,
+      both of which change only at the surface.
+    </p>
+    <p>
+      Circulations in the oceans are driven by both winds and density.
+      We'll find that winds in the atmosphere drive circulation in the shallow,
+      warm oceans above the thermocline.
+      These <em>gyres</em> move water horizontally in ocean-wide circulation cells.
+      Once dragged to polar regions by circulation in gyres,
+      water cools, becomes saltier and so denser.
+      This dense water sinks to abyssal depths,
+      forming the <em>meridional overturning circulation</em>.
+      The MOC is a vertical convective circulation of the oceans,
+      and the primary way oceans move heat from the equator to the poles.
+      A full trip around the MOC takes thousands of years,
+      most it spent in the dark,
+      isolated depths of the deepest parts of the oceans.
+      We'll examine each of these circulations in <xref ref="gyres">sections</xref> and <xref ref="MOCs"></xref>.
+    </p>
+    <p>
+      Both gyres and the MOC are global circulations,
+      with examples found in every ocean basin.
+      In <xref ref="ENSO">section</xref>
+      we'll examine the <em>El Ni&#xf1;o-Southern Oscillation</em>
+      (ENSO), a unique and culturally-important circulation in the tropical Pacific Ocean and atmosphere.
+      The ENSO is a quasi-periodic but natural variation in Pacific Ocean sea surface temperature and height,
+      accompanied by reversals in the circulation of the overlying atmosphere.
+      While the ENSO itself is limited to the tropical Pacific Ocean,
+      changes there drive changes in weather across the world,
+      often leading to substantial storms and billions of dollars of damage in the United States, Australia and South America.
+      A particularly strong El Ni&#xf1;o in 1982-3 caused over 1000 deaths and $13 billion in damages world-wide<fn>
+      whoi, see email
+      </fn>,
+      and brought wide-spread attention to the phenomenon for the first time.
+      We'll examine the ENSO in <xref ref="ENSO">section</xref>.
+    </p>
+  </subsection>
+  <subsection xml:id="gyres">
+    <title>Gyres</title>
+    <introduction>
+      <p>
+        Tiny Henderson Island is about as far as you can get from other humans.
+        About halfway between Chile and New Zealand
+        (its location is shown by the star in <xref ref="fig_gyre">Figure</xref>)
+        is \SI{5000}{\kilo\metre} (3000 miles) from any substantial human habitation<fn>
+        Lavers, J. L., &amp; Bond, A. L. (2017).
+        Exceptional and rapid accumulation of anthropogenic debris on one of the world's most remote and pristine islands.
+        Proceedings of the National Academy of Sciences, 114(23), 6052.
+        <url href="https://doi.org/10.1073/pnas.1619818114">Link</url>
+        </fn>.
+        Despite this remoteness,
+        the beaches of this uninhabited island are covered with plastic waste (<xref ref="fig_henderson">Figure</xref>,
+        so dense one would think there had been a boisterous beach party the day before.
+        All of the plastic waste in <xref ref="fig_henderson">Figure</xref>
+        was bourne to the island by currents of the South Pacific gyre,
+        which carries debris from as far away as Japan, Chile,
+        and China<fn>
+        Lavers and Bond, op cit.
+        </fn>.
+        Less visible is that gyres are the dominant circulation of the shallow oceans;
+        we need to understand their geometry and the forces that drive them.
+      </p>
+      <p>
+        As you can see in <xref ref="fig_gyre">Figure</xref>,
+        gyres are a series of currents forming elliptical circulations across each ocean basin.
+        <xref ref="fig_gyre_schematic">Figure</xref>
+        shows a schematic view of the layout of gyres.
+        Northern Hemisphere oceans,
+        penned in by continents to high latitudes,
+        all have two sets of gyres,
+        a clockwise circulating sub-tropical gyre and a counter-clockwise gyre centered
+        (except in the Indian Ocean)
+        at sub-polar latitudes.
+        Across the equator,
+        circulation reverses so sub-tropical gyres circulate counter-clockwise.
+        The Southern Ocean is not hemmed by continents,
+        so the Antarctic Circumpolar Current surrounds Antarctica,
+        effectively shutting off the continent from the rest of the world's oceans.
+        The map colors in <xref ref="fig_gyre">Figure</xref> show that the western,
+        poleward moving portions of the sub-tropical gyres are narrow,
+        fast moving streams of water coursing through the oceans;
+        these <em>western boundary currents</em>
+        are the primary way oceans move heat from the equator toward the poles.
+        The arrow colors in <xref ref="fig_gyre">Figure</xref>
+        show the relative temperature of each current.
+        The odd east-west dichotomy of SSTs from <xref ref="fig_sst_anom_map">Figure</xref>
+        is clearly the effect of the warm and cool currents in the gyres.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Driving Forces</title>
+      <p>
+        Winds alone are not enough to drive the shallow circulations seen in gyres.
+        As always, we need to remember that all this motion occurs on a spinning Earth,
+        and so Coriolis effects will sooner or later become important in explaining the motion.
+        In the northern hemisphere,
+        the Coriolis effect deflects any fluid motion to the right,
+        and the same will be true for the motion of the oceans driven by winds.
+        This was first noted by the famous Norwegian oceanographer,
+        adventurer and Nobel peace prize-winning Fridtjof Nansen.
+        In 1893 CE, he and his crew of 11 purposely locked themselves in Arctic Sea for nearly 2 years in an attempt to get to the North Pole.
+        During this time, Nansen npticed that the ice would drift not with th ewind,
+        but to the right.
+        After his return, he mentioned this observation to Vagn Ekman,
+        then a young student in graduate school.
+        Ekman later set down and in a single night of remarkable creativity derived the complicated mathematics explaining Nansen's observation.
+        Ekman found that Earth's rotation causes the ocean's surface to move \SIrange{30}{60}{\celsius} to the <em>right</em>
+        of the wind direction in the Northern Hemisphere
+        (and a similar angel to the <em>left</em>
+        in the Southern Hemisphere).
+        But this upper layer of the ocean drags the next layer down,
+        which also then moves \SIrange{30}{60}{\celsius} to the <em>right</em>
+        of the force acting on it (<xref ref="fig_ekman">Figure</xref>.
+        This pattern repeats, with each layer moving to the right
+        (or left, in the Southern Hemisphere)
+        of the one above:
+        the lowest layers might be moving opposite to the wind's direction!
+        Friction and turbulence between all these moving layers reduces the current velocity with depth, so this
+        <q>Ekman spiral</q>
+        is rarely more than \SIrange{10}{100}{\metre} deep.
+        The result is that water moves at at right angles to the wind.
+      </p>
+      <p>
+        We can use the North Atlantic as an example.
+        In the sub-tropics,
+        the north-east trades induce circulation to the west and north,
+        forming the North Equatorial Current.
+        Trapped by winds and the eastern boundary of Norht America,
+        the current pushes into the Florida Straits as the Gulf Stream,
+        after which the prevailing westerlies of the temperate belt take over,
+        forming the North Atlantic Current.
+        The net motion is clockwise,
+        and as a result the Ekman flow slowly pumps water into the center of the gyre,
+        forming a low, wide dome in the sea surface.
+        At the center of the dome, sea water slowly (<em>very</em> slowly,
+        on the order of just \SI{1}{\metre} per week) pumping warm salty water a few hundred meters deep.
+      </p>
+      <p>
+        At the equator and in the sub-polar gyres,
+        this pump runs in reverse, sucking colder,
+        fresher water from depth and drawing to the surface.
+        The gyres, driven by the Ekman pump and fueled by global winds,
+        determine the large scale shallow circualtion of the oceans. \paragraphs{Winds} \paragraphs{Coriolis} \paragraphs{Time scales} \paragraphs{Role as plastic waste collectors} \subparagraph{SEA results and floating trash rafts} \subparagraph{Henderson Island
+        <url href="http://www.pnas.org/content/114/23/6052.short?ssource=mfr&amp;rss=1">PNAS</url>
+        }
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection xml:id="MOCs">
+    <title>Meridional Overturning Circulation</title>
+    <introduction>
+      <p>
+        Like the atmosphere,
+        the vertical circulation of the atmosphere happens through convection.
+        In the atmosphere, air warmed by Earth's surface becomes less dense,
+        and rises,
+        and forms the great convective systems<mdash/>the Hadley and Ferrel Cells we saw in Chapter 6.
+        In the oceans,
+        a different process drives large-scale vertical convection known as the Meridional Overturning Circulation,
+        or MOC. Warm ocean water at the poles looses heat and gains salt from evaporation and formation of ice.
+        This colder, saltier and denser water sinks deeply,
+        circulates through the ocean depths,
+        and then returns to the surface and eventually to the poles.
+        The MOC plays two roles of interest to us<fn>
+        Buckley, M. W., &amp; Marshall, J. (2016).
+        Observations, inferences,
+        and mechanisms of the Atlantic Meridional Overturning Circulation: A review.
+        Reviews of Geophysics, 54(1), 5-63.
+        <url href="https://doi.org/10.1002/2015RG000493">Link</url>
+        </fn>.
+        One is that it moves heat from the southern hemisphere to the northern,
+        cooling the southern polar areas and warming the northern polar areas.
+        The MOC are also important for the role they play in moderating the effects of climate change, by
+        <q>burying</q>
+        heat deep within the oceans.
+        Fully 90% of all the excess energy Earth has stored since we started affecting the climate is stored in the deep oceans by the MOC. Besides melting of the cryosphere,
+        the formation and circulation of the MOC may be the most sensitive parts of the climate to human alteration.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Connection to NA sub-tropical and sub-polar gyres</title>
+      <p>
+        MOCs are driven by the formation of cold, salty, dense water.
+        The conditions for this to happen<mdash/>warm water underlying intensely cold air<mdash/>are most likely where warm western boundary currents meet sub-polar gyres,
+        as shown by <xref ref="fig_dwf">figure</xref>.
+        While many areas around Antarctica contribute to MOC formation,
+        only a small area of the Atlantic has the correct combination of temperature,
+        depth and salinity to start the formation of dense water<fn>
+        Burls, N. J., Fedorov, A. V., Sigman, D. M., Jaccard, S. L., Tiedemann, R., &amp; Haug, G. H. (2017).
+        Active Pacific meridional overturning circulation (PMOC) during the warm Pliocene.
+        Science Advances, 3(9), e1700156. https://doi.org/10.1126/sciadv.1700156
+        </fn>.
+        In all these areas,
+        warm surface water cools by evaporation into the overlying colder air
+        (<xref ref="fig_moc_xssection">Figure</xref>,
+        red upward-pointing arrows).
+        This cools the water and increases its salinity,
+        both of which make the water denser.
+        Formation of sea ice in the winter also makes the remaining water denser.
+        This dense water then sinks rapidly toward the bottom,
+        as shown schematically in <xref ref="fig_moc_formation">Figure</xref>
+        by the downward pointing loops in the polar areas.
+        The dense water sinks until it reaches water of the same density,
+        typically a few \SI{1000}{\metre} below the surface.
+        These newly formed
+        <q>deep water</q>
+        masses tend to maintain their temperature,
+        salinity and hence density for centuries.
+        The combinations are characteristic,
+        and waters formed in different locations have names and can be tracked across the globe.
+        Two of these deep waters are particularly important for our story: North Atlantic Deep Water is made in the Greenland and Labrador Seas,
+        while Antarctic Bottom Water is made in the Ross and Weddell Seas
+        (<xref ref="fig_dwf">Figure</xref>).
+        Each of these deep waters sink and then flow equator-ward at depths,
+        crossing the equator and then
+        (<xref ref="fig_moc_xssection">Figure</xref>)
+        rising to the surface again at about \SIrange{50}{60}{\celsius} S latitude.
+      </p>
+      <p>
+        This upwelling is a key piece of the MOC circulation<mdash/>after all what goes down must eventually come back up.
+        As we saw in Chapter 6, the prevailing winds of the Southern Ocean are westerlies, and<fn>
+        NOAA. What are the Roaring Forties?
+        National Ocean Service website, 6/25/18,
+        <url href="https://oceanservice.noaa.gov/facts/roaring-forties.html">Link</url>
+        accessed July 3, 2018
+        </fn> the gale-force winds between \SIrange{50}{60}{\celsius} S are known as the
+        <q>furious fifties!</q>
+        As <xref ref="fig_moc_xssection">Figure</xref> illustrates,
+        these east-moving winds cause
+        (via the Ekman current)
+        surface currents to move northward,
+        drawing both the NADW and the AABW toward the surface.
+        Once there, the cold but nutrient rich waters exchange gasses with the atmosphere,
+        and continue their convective motion back to their formation areas.
+      </p>
+      <p>
+        Along the way the former NADW waters warm and eventually join the Gulf Stream,
+        transporting heat from the southern hemisphere and depositing it the sub-polar areas of the North Atlantic.
+        The MOC caries about 30% of all the heat passing \SI{30}{\celsius} N, with the rest carried by the atmosphere.
+        This warms the northern and cools the southern hemisphere sub-polar areas<mdash/>ocean and atmosphere<mdash/>by<fn>
+        Buckley, M. W., &amp; Marshall, J. (2016).
+        Observations, inferences,
+        and mechanisms of the Atlantic Meridional Overturning Circulation: Reviews of Geophysics, 54(1), 5-63. https://doi.org/10.1002/2015RG000493, Figure 3c
+        </fn> \SIrange{1}{3}{\celsius}. Because the Pacific Ocean doesn't contribute to the MOC, the polar Atlantic ocean is also warmer than the Pacific Ocean,
+        again by about \SI{3}{\celsius}. All of this combines to make western Europe warmer than it otherwise would be,
+        although the exact degree of this warming due to MOC is vigorously debated<fn>
+        see, for example, Seager, R., Battisti, D. S., Yin, J., Gordon, N., Naik, N., Clement, A. C., &amp; Cane, M. A. (2002).
+        Is the Gulf Stream responsible for Europe's mild winters?
+        Quarterly Journal of the Royal Meteorological Society, 128(586), 2563-2586. https://doi.org/10.1256/qj.01.128
+        </fn>.
+      </p>
+      <p>
+        The complete trip around the MOC can take centuries,
+        which means over these periods the MOC is the primary mixer of the global oceans,
+        bring water from the North Atlantic to the Southern Ocean and back again.
+        The MOCs<mdash/>particularly the Atlantic branch<mdash/>thus controls how fast and how much anthropogenic heat and GHG will be mixed into the oceans.
+        The atmosphere has so little mass that it warms quickly when exposed to the extra energy trapped by anthropogenic GHGs.
+        The land's surface is much more massive than the atmosphere,
+        but the land doesn't circulate,
+        so a relative thin portion of Earth's surface warms rapidly when exposed to extra heat.
+        The oceans are both massive <em>and</em> circulating,
+        so they can store extensive heat throughout their depth,
+        <em>if</em> the Atlantic MOC is operating well and mixing the oceans.
+        Since 1960 CE, about 90% of all the solar heat trapped by man-made GHGs has been trapped in the oceans,
+        and the deep oceans share of that is increasing rapidly.
+        On the short term<mdash/>less than a human lifetime<mdash/>that's good news.
+        The oceans have on average only warmed by a tiny \SI{0.06}{\celsius} in the past 60 years<fn>
+        Cheng, L., Trenberth, K. E., Fasullo, J., Boyer, T., Abraham, J., &amp; Zhu, J. (2017).
+        Improved estimates of ocean heat content from 1960 to 2015.
+        Science Advances, 3(3), e1601545. https://doi.org/10.1126/sciadv.1601545.
+        They have total ocean heat gain since 1960 CE as <m>\Delta Q_{1960}=\SI{33.5e22}{\joule}</m>;
+        given the mass of the oceans
+        <m>M_o=\SI{1.3e21}{\kilogram}</m> and the heat capacity of sea water <m>C_{p, sw}=\SI{3.985e3}{\joule\kilogram\per\kelvin}</m>,
+        <m>\Delta T=\frac{\Delta Q}{M_o\cdot C_{p, sw}}</m>
+        </fn> This tiny change is an average,
+        but it makes the point that the massive oceans can store a great deal of heat without changing temperature.
+        Had all that heat been left in the atmosphere,
+        we'd have seen nearly 10 times more warming than actually occurred,
+        for a total of \SI{8}{\celsius}, or <m>16\cdot F</m>.
+        As Buckley and Marshall<fn>
+        op. cit
+        </fn> note, the MOC is now
+        <q>essentially setting the pace of global warming well into the 22nd century</q>
+        But on long terms,
+        the increasing temperature of the oceans threatens to slow down the MOC, and this could have significant global consequences.
+        The MOC's global power is tied directly to the formation of NADW in the Labrador and Greenland Seas,
+        right where the two North Atlantic gyres meet,
+        at the southern apex of Greenland.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Climate change and slowing the MOC</title>
+      <p>
+        Most models and some recent observations<fn>
+        Moore, G. W. K., Vage, K., Pickart, R., &amp; Renfrew, I. (2015).
+        Open-ocean convection becoming less intense in the Greenland and Iceland Seas.
+        Nature Climate Change, 5, 877-882; Smeed, D. A., McCarthy, G., Cunningham, S. A., Frajka-Williams, E., Rayner, D., Johns, W. E., ... &amp; Bryden, H. L. (2014).
+        Observed decline of the Atlantic meridional overturning circulation 2004-2012.
+        Ocean Science, 10(1), 29-38; Rahmstorf, S., Box, J. E., Feulner, G., Mann, M. E., Robinson, A., Rutherford, S., &amp; Schaffernicht, E. J. (2015).
+        Exceptional twentieth-century slowdown in Atlantic Ocean overturning circulation.
+        Nature climate change, 5(5), 475.
+        </fn> all suggest that the Atlantic branch of the MOC will weaken as the world warms.
+        This surprising result is due to the sensitivity of deep water formation in the Labrador and Greenland Seas.
+        As air and sea surface temperatures increase,
+        surface waters in these areas cool less,
+        and hence become less dense.
+        Also, all that warm air and water increases melting of ice on Greenland<fn>
+        Box, J. E., &amp; Colgan, W. (2013).
+        Greenland ice sheet mass balance reconstruction.
+        Part III: Marine ice loss and total mass balance (1840-2010).
+        Journal of Climate, 26(18), 6990-7002; Watson, C. S., White, N. J., Church, J. A., King, M. A., Burgette, R. J., &amp; Legresy, B. (2015).
+        Unabated global mean sea-level rise over the satellite altimeter era.
+        Nature Climate Change, 5(6), 565.
+        </fn>,
+        leading to increased fluxes of freshwater into the Seas.
+        All this fresher,
+        warmer water tends to stay fresher and warmer for longer than was
+        (until recently)
+        usual, so it sinks less readily,
+        chocking off the very beginning of MOC formation.
+        This change could have planet-wide implications, including<fn>
+        Vellinga, M., &amp; Wood, R. A. (2002).
+        Global climatic impacts of a collapse of the Atlantic thermohaline circulation.
+        Climatic change, 54(3), 251-267.
+        </fn> <em>cooling</em>
+        western Europe by \SI{4}{\celsius}, increasing sea ice in the Atlantic Ocean<fn>
+        Cheng, W., Bitz, C. M., &amp; Chiang, J. C. (2013).
+        Adjustment of the global climate to an abrupt slowdown of the Atlantic meridional overturning circulation,
+        pg. 295-, in Ocean Circulation: Mechanisms and Impacts-Past and Future Changes of Meridional Overturning, eds.
+        Andreas Schmittner, John C. H. Chiang, &amp; Sidney R. Hemming, Volume 173 Geophysical Monograph Series
+        </fn>,
+        moving<fn>
+        Timmermann, A., Okumura, Y., An, S. I., Clement, A., Dong, B., Guilyardi, E., ... &amp; Stouffer, R. J. (2007).
+        The influence of a weakening of the Atlantic meridional overturning circulation on ENSO. Journal of climate, 20(19), 4899-4919.
+        </fn> the ITCZ southward in the Atlantic
+        (and hence changing rainfall patterns in the tropics)
+        and even affecting atmospheric circulation on the Pacific Ocean<fn>
+        ibid.
+        </fn>,
+        making El Ni\<sq>nos more likely
+        (see next section).
+        Some of these changes<mdash/>reduced temperatures and increased sea ice in particualr<mdash/>would reduce the impacts of climate change in at least some areas of the globe.
+        Are these
+        <q>good,</q>
+        in the ethical sense?
+        Are the other changes? whether they are or not,
+        they will be coming sooner than most other changes associated with our experiment with Earth</sq>s climate,
+        as they will happen in our lifetime.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection xml:id="ENSO">
+    <title>ENSO</title>
+    <subsubsection>
+      <title>Introduction</title>
+      <p>
+        The two broad categories of ocean currents we just examined
+        (<xref ref="gyres">Section</xref>
+        and <xref ref="MOCs">Section</xref>)
+        clearly showed that ocean currents are driven by winds at the ocean surface.
+        The influence was one way: winds blow, water flows.
+        Now we turn our attention to the El Ni&#xf1;o-Southern Oscillation (ENSO), a coupled see-saw motion of ocean and atmosphere in the tropical Pacific Ocean.
+        The ENSO is the largest (natural) source of climatic variability over 2-10 year periods<fn>
+        McPhaden, M. J., Zebiak, S. E., &amp; Glantz, M. H. (2006).
+        ENSO as an Integrating Concept in Earth Science.
+        Science, 314(5806), 1740.
+        <url href="https://doi.org/10.1126/science.1132588">link</url>
+        </fn>,
+        and even affects the global atmospheric concentration of <m>CO_2</m>.
+        Anomalously warm sea surface temperatures in El Ni&#xf1;o periods and cold anomalies during La Ni&#xf1;a episodes are accompanied by whole-scale reorganizations of atmospheric pressure and winds in the Pacific and weather across the globe.
+        ENSO cycles typically develop in April to June,
+        reach their full strength between October-February,
+        and then fade away, replaced by normal conditions<fn>
+        For example, the IRI
+        <url href="http://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/">Link</url>
+        accessed 05 April 2018, and Clarke, A. J. (2014).
+        El Ni&#xf1;o physics and El Ni&#xf1;o predictability.
+        Annual review of marine science, 6, 79-99.
+        </fn>,
+        until the next event begins in 3 years or so.
+      </p>
+      <p>
+        The changes to winds and SST during an ENSO are of fundamental importance to our planet's climate,
+        and it is all-too-easy to focus one's attention of just these patterns.
+        Equally important for us though is understanding how tightly coupled feedbacks between sea surface temperature,
+        atmospheric pressure and the resulting winds in the equatorial Pacific Ocean combine to produce an ENSO. To understand this,
+        we'll first look at
+        <q>normal</q>
+        conditions in the equatorial Pacific Ocean,
+        and then use this to derive the forces behind the ENSO cycle.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Pacific SSTs</title>
+      <p>
+        <xref ref="fig_enso_norm">Figure</xref>
+        shows average sea surface temperatures in the Pacific Ocean,
+        and it's hard to miss the enormous pool of warm water
+        (greater than \SI{27}{\celsius}, shown with a light-pink color)
+        in the western Pacific basin.
+        On the other edge of the basin,
+        cool deep water upwells along the coast of South America
+        (shown in blues and greens).
+        This water is rich in nutrients and <m>CO_2</m>,
+        and once it reaches the surface it fuels remarkable biologic productivity,
+        beginning with phytoplankton and ending
+        (until recently)
+        with consumers such as anchovy and other fish.
+        This relatively cold water is dragged by the South Equatorial Current
+        (see <xref ref="gyres">Section</xref>)
+        to the west;
+        the SEC is in turn largely driven by south-easterly trade winds
+        (the large open arrows on <xref ref="fig_enso_norm">Figure</xref>.)
+        As it travels across the Pacific, the water warms,
+        and eventually trade winds pile the warm water against the western edge of the Pacific.
+        The Western Pacific Warm Pool,
+        propped up by trade winds and heated by intense sunlight,
+        sits \SI{30}{\centi\metre} higher than its cooler counterparts in South America.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Walker Circulation</title>
+      <p>
+        Water in the warm pool readily evaporates into the overlying atmosphere.
+        Humid air is less dense than dry air (Chapter 6),
+        so it rises, cools and forms towering thunderstorms
+        (<xref ref="fig_wpwp_tstorms">Figure</xref>)
+        as part of a regional low pressure system (<xref ref="fig_Walker">Figure</xref>,
+        lower panel.
+        Off at the east edge of the Pacific the relatively cold waters induce sinking in the overlying atmosphere,
+        forming a regional high pressure system with clear skies and little rain.
+        At the Equator the Coriolis effect is vanishingly small,
+        so winds flow from the high to the low pressure areas,
+        augmenting the trade winds and reinforcing the formation of the Western Pacific Warm Pool.
+        This Walker Cell completes a circuit high in the atmosphere,
+        connecting the low level westward flow with a high level eastward flow,
+        as shown in <xref ref="fig_Walker">Figure</xref>, lower panel.
+        This is a classic positive feedback system,
+        with trade winds establishing the Western Pacific Warm Pool,
+        which then initiates circulation in the atmosphere,
+        which then strengthens the trade winds, amplifying the Warm Pool.
+        This elegant description was first made by Bjerknes in 1969 CE<fn>
+        Atmospheric teleconnections from the equatorial Pacific.
+        Mon Weather Rev 97:163-172
+        </fn>,
+        only 14 years before the term <em>El Ni&#xf1;o</em>
+        became a household term, and the
+        <q>Bjerknes Feedback</q>
+        is named in his honor.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="enso_cycle">
+      <title>The ENSO cycle</title>
+      <p>
+        But positive feedbacks work both ways:
+        whether a signal grows stronger or weaker,
+        a positive feedback amplifies the change.
+        So if<mdash/>for whatever reason<mdash/>trade winds weaken for a period,
+        the Western Pacific Warm Pool will start moving westward,
+        dragging the associated low with it.
+        As the east-west difference in SST grows smaller,
+        so too does the Walker circulation,
+        weakening winds and allowing the warm water to slosh eastward.
+        In a classic El Ni&#xf1;o, the warm water pool surges all the way to South America,
+        forcing the thermocline to sink in the eastern Pacific and stifling the upwelling of nutrient-rich waters there.
+        Rain follows the warm pool,
+        and moves from the Western Pacific to eastward of the International Date Line.
+        The Walker Cell effectively reverses,
+        and a new temporarily stable pattern<mdash/>the El Ni&#xf1;o<mdash/>is born.
+        A typical cycle starts in April, reaches a peak in the
+        (southern hemisphere)
+        summer from December to February, and fades a year latter.
+        This is all nicely shown by <xref ref="fig_oni">Figure</xref>,
+        which shows the departures of central Pacific SST from the long-term average (The four circles on the graph indicate the times shown in <xref ref="fig_enso_stages">Figure</xref>).
+        El Ni&#xf1;os<mdash/>reflecting higher SST<mdash/>are shown as red spikes,
+        with taller,
+        broader spikes indicating stronger and longer-lasting episodes.
+        An El Ni&#xf1;o is defined by a departure of <m>></m>\SI{0.5}{\celsius} from the norm,
+        with increasingly stronger episodes at \SIlist{1.0; 1.5; 2.0}{\celsius}. Take the time to count the number of El Ni&#xf1;o during the 1950-2020 period.
+        Depending on how you count a few close calls,
+        you should find 23 events in <m>2018-2050=68</m> years.
+        So the average period is
+        <men>
+          Period=\frac{68\ years}{23\ events}\approx 3\ years/event
+        </men>
+      </p>
+      <p>
+        <xref ref="fig_oni">Figure</xref>
+        also shows that most El Ni&#xf1;os are followed by La Ni&#xf1;as,
+        episodes of colder-than-normal water in the mid-Pacific
+        (<xref ref="fig_enso_stages">Figure</xref>, bottom panel).
+        Although just as frequent as their warm counter=parts, La Ni&#xf1;as are generally weaker and less globally-important than El Ni&#xf1;o's they follow.
+        They physics behind this is still not well-understood<fn>
+        McPhaden, et al., op. cit.
+        </fn> An excellent way to conceive of all this motion is to imagine the Warm Pool as the crest of a warm,
+        high wave at the ocean's surface.
+        Once released by weakening trade winds,
+        this wave propagates over a few month period across the Pacific Ocean,
+        reflects off the western coast of South America,
+        then travels back across the Pacific<fn>
+        Wang, C., and J. Picaut, (2004) Understanding ENSO physics - A review,
+        in Earth's Climate: The Ocean-Atmosphere Interaction, Geophysical Monograph Series, Volume 147,
+        edited by C. Wang, S.-P. Xie,
+        and J. A. Carton, pp. 21-48, AGU, Washington, D. C.
+        </fn>.
+        Waves have both an crest and a trough;
+        the trough following the warm pool is cool,
+        and produces the La Nin&#xf1;a, which slowly dissipates as it reaches the mid-Pacific.
+        As an La Ni&#xf1;a episode ends,
+        the Pacific is back to a normal condition,
+        awaiting the beginning of the next episode.
+      </p>
+      <table xml:id="tab_enso_occurences">
+        <title>El Ni&#xf1;os and La Ni&#xf1;a's since 1950</title>
+        <tabular>
+          {@cccccccc@} \toprule
+          El Ni&#xf1;os &amp;La Ni&#xf1;as\\ \cmidrule(r){1-4} \cmidrule(r){5-8}
+          Weak    &amp;Moderate  &amp;Strong    &amp;Very Strong  &amp;Weak      &amp;Moderate  &amp;Strong    &amp;Very Strong\\ \midrule
+          1954-55  &amp;1955-56  &amp;1973-74  &amp;              &amp;1952-53  &amp;1951-52  &amp;1957-58  &amp;1982-83\\
+          1964-65  &amp;1970-71  &amp;1975-76  &amp;              &amp;1953-54  &amp;1963-64  &amp;1965-66  &amp;1997-98\\
+          1971-72  &amp;1995-96  &amp;1988-89  &amp;              &amp;1958-59  &amp;1968-69  &amp;1972-73  &amp;2015-16\\
+          1974-75  &amp;2011-12  &amp;1998-99  &amp;              &amp;1969-70  &amp;1986-87  &amp;1987-88\\
+          1983-84  &amp;          &amp;1999-00  &amp;              &amp;1976-77  &amp;1994-95  &amp;1991-92\\
+          1984-85  &amp;          &amp;2007-08  &amp;              &amp;1977-78  &amp;2002-03  \\
+          2000-01  &amp;          &amp;2010-11  &amp;              &amp;1979-80  &amp;2009-10  \\
+          2005-06  &amp;          &amp;          &amp;              &amp;2004-05  \\
+          2008-09  &amp;          &amp;          &amp;              &amp;2006-07\\
+          2016-17  &amp;          &amp;          &amp;              &amp;2014-15\\
+          2017-18\\ \bottomrule
+        </tabular>
+      </table>
+      <p>
+        The obvious question<mdash/>why do the trade winds weaken at the start an ENSO cycle<mdash/>is still unsolved!<fn>
+        Thual, S., Majda, A. J., Chen, N., &amp; Stechmann, S. N. (2016).
+        Simple stochastic model for El Ni&#xf1;o with westerly wind bursts.
+        Proceedings of the National Academy of Sciences, 113(37), 10245. https://doi.org/10.1073/pnas.1612002113
+        </fn>.
+        The fact that no two ENSO cycles are identical<mdash/>varying in strength,
+        duration,
+        period and location<mdash/>suggests that relatively small and random fluctuations can occasional combine to initiate an ENSO cycle.
+        This variability also means that forecasting an El Ni&#xf1;o is devilishly difficult more than a few months before its peak<fn>
+        Ludescher, J., Gozolchiani, A., Bogachev, M. I., Bunde, A., Havlin, S., &amp; Schellnhuber, H. J. (2013).
+        Improved El Ni&#xf1;o forecasting by cooperativity detection.
+        Proceedings of the National Academy of Sciences, 110(29), 11742.
+        <url href="https://doi.org/10.1073/pnas.1309353110">Link</url>
+        ; see their following paper, Ludescher, J., Gozolchiani, A., Bogachev, M. I., Bunde, A., Havlin, S., &amp; Schellnhuber, H. J. (2014).
+        Very early warning of next El Ni&#xf1;o.
+        Proceedings of the National Academy of Sciences, 111(6), 2064.
+        <url href="https://doi.org/10.1073/pnas.1323058111">link</url>
+        for a spectacular example of non-predictability!
+        </fn>.
+        This is unfortunate,
+        as strong El Ni&#xf1;os wreck havoc across the globe,
+        and some fore-warning would be welcome.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="tab_enso_effects">
+      <title>Teleconnections and ENSO's global reach</title>
+      <p>
+        Just from looking at the changes in rain fall accompanying an El Ni&#xf1;o (<xref ref="fig_Walker">Figure</xref>
+        you can probably guess (correctly) that Indonesia and Australia tend to suffer severe drought at these times,
+        while the island nations of the central Pacific and counties of western South America suffer flooding<fn>
+        McPhaden, et al., op cit.
+        </fn>.
+        These local effects are sever but hardly surprising.
+        But ENSO affects global weather through
+        <em>teleconnections</em>,
+        the propagation of atmospheric changes over long distances.
+        The affect is much like that involving multiple people bouncing on the same trampoline.
+        If one person changes the location and strength of their jumping,
+        they'll change the patterns of all those around them.
+      </p>
+      <p>
+        A strong El Nin&#xf1;o reorganizes atmospheric circulation across the entire Pacific basin.
+        Importantly for those of us in North America,
+        the mid-latitude jet stream moves southward during the Northern Hemisphere winter<fn>
+        Climate Prediction Center Internet Team, El Nin&#xf1;o-Related Changes in Atmospheric Circulation in the Tropics and Mid-latitudes (2005)
+        <url href="http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/ensocycle/enso_circ.shtml">Link</url>,
+        accessed Summer Solstice, 2018
+        </fn>.
+        This southward swing to the Jet Stream brings the strong storm systems typical of the Alaskan Gulf to the shores of California.
+        It was these storms that led the Los Angeles Times to publish over 1000 articles on El Ni&#xf1;o during the 1997-1998 episode!
+        That year flooding caused landslides, floods
+        (contributing to the deaths oof over 60 people in California alone)
+        and other damages of more than $1 billion.
+        Flooding and heavy rains propagated across the sothern United States that year,
+        including Texas
+        (eight dead)
+        and Florida.
+        As <xref ref="fig_enso_affects">Figure</xref>,
+        this pattern of changes is typical,
+        with increased precipitation along the entire southern tier of the U.S. The polar jet stream in North America move northward at the same time,
+        allowing warmer and drier air to invade the northwestern US and SW Canada.
+        The winter of 1997-1998 was so warm in the northern U.S. that fatalities due to cold fell by 98% that year.
+        Partly because it was well-predicted,
+        well-covered, and well-planned for,
+        the 1997-1998 El Ni&#xf1;o actually brought net economic benefits and saved lives in the U.S. Other global consequences of ENSO variations are given in <xref ref="tab_enso_consequences">Table</xref>. \begin{sidewaystable}
+      </p>
+      <tabular>
+        {@lll@} \toprule
+        Feature                  &amp;Description  &amp;Effected Area\\ \midrule
+        Atlantic Hurricanes      &amp;Fewer and lower intensity storms  &amp; North Atlantic Ocean\\
+        Pacific Hurricanes      &amp;More intense and more frequent typhoons (aka hurricanes)   &amp;Central Pacific\\
+        Carbon Cycle            &amp;Reduced oceanic upwelling leads to lower <m>[CO_2]_{atm}</m>, but latter terrestrial effects lead to increased <m>[CO_2]_{atm}</m>, both by <m>\pm ~1ppm</m>.  &amp; Global \\
+        Coral Reefs              &amp;Bleaching and local die-off of corals  &amp;\\
+        Marine Animals          &amp;Increased mortality and decreased reproduction  &amp;West coast of South America\\
+        Human Life              &amp;Global deaths can exceed 10,000, as in 1997/1998 &amp;Global \\
+        Economic Impact          &amp;Global economic damage can exceed $35 billion US, as in 1997/1998  &amp;Global \\
+        Agriculture              &amp;Flooding and drought cause local carnage, globally El Ni&#xf1;o probably increases some crop yields (like soybeans) but decrease yields of others (corn, rice and wheat)  &amp;Global \\ \bottomrule
+      </tabular>
+      <p>
+        \end{sidewaystable}
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>History and future of ENSO</title>
+      <p>
+        The ENSO is not a by=product of global climate change,
+        nor is there evidence that ENSO will change significantly as Earth continues to warm.
+        Since the beginning of the Holocene (<m>\approx 11,700</m> ya) the ENSO cycle has slowly strengthened<fn>
+        Liu, Z., Lu, Z., Wen, X., Otto-Bliesner, B. L., Timmermann, A., &amp; Cobb, K. M. (2014).
+        Evolution and forcing mechanisms of El Ni<nbsp/>no over the past 21,000 years.
+        Nature, 515(7528), 550-553.
+        <url href="https://doi.org/10.1038/nature13963">Link</url>
+        </fn> by <m>\approx 15\%</m>, with the
+        <q>modern</q>
+        ENSO first appearing \SIrange{4500}{3000}{\year} ago<fn>
+        Carre, M., Sachs, J. P., Purca, S., Schauer, A. J., Braconnot, P., Falcon, R. A., ... Lavallee, D. (2014).
+        Holocene history of ENSO variance and asymmetry in the eastern tropical Pacific.
+        Science, 345(6200), 1045-1048.
+        <url href="https://doi.org/10.1126/science.1252220">Link</url>
+        </fn>.
+        So ENSO is, at least by human scales, an ancient phenomenon,
+        and clearly pre-dates even the beginnings of human's climate modifications.
+        And while the warming oceans will bring a host of changes to the planets,
+        it is still not clear if a changing ENSO pattern is one of them.
+        <xref ref="fig_oni">Figure</xref>
+        shows that the strength of the strongest EL Ni&#xf1;os has increased linearly since 1950 CE, this is just one of many ways to measure the intensity of the ENSO, and the data set is still too brief to see a strong climate-change signal in the noisy natural variations of ENSO. Studies using digital climate models have both found<fn>
+        for example, Cai, W., Santoso, A., Wang, G., Yeh, S. W., An, S. I., Cobb, K. M., ... &amp; Lengaigne, M. (2015).
+        ENSO and greenhouse warming.
+        Nature Climate Change, 5(9), 849, and references therein
+        </fn> and not found<fn>
+        Collins, M., An, S. I., Cai, W., Ganachaud, A., Guilyardi, E., Jin, F. F., ... &amp; Vecchi, G. (2010).
+        The impact of global warming on the tropical Pacific Ocean and El Ni&#xf1;o.
+        Nature Geoscience, 3(6), 391.
+        </fn> evidence for changes in ENSO in a globally-warmed world.
+        This uncertainty is the hallmark of the very-best aspects of science:
+        a vigorous debate and continual improvement in hypotheses,
+        models and data eventually leading to greater understanding.
+        As Stuart Firestein<fn>
+        Firestein, S. (2012).
+        Ignorance: How it drives science.
+        New York, Oxford University Press, pg. 56
+        </fn> notes, this ignorance of important ideas
+        <q>is both the beginning of the scientific process[, ] and the result.</q>
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

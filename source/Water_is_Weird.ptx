@@ -1,0 +1,249 @@
+<section xml:id="Water_is_Weird">
+  <title>Water is weird</title>
+  <introduction>
+    <p>
+      Carbon, and carbon dioxide, are the molecular stars of this book.
+      But the award for best supporting molecule must go to water.
+      Water is a unique and wonderfully complex substance.
+      For example,
+      it is the only substance that naturally occurs on Earth's surface as solid,
+      liquid and gas
+      (<xref ref="fig_3_phase_water">Figure</xref>).
+      Or this: the solid form of water (ice) is less dense than the liquid form,
+      so the solid floats on the liquid.
+      These behaviors are so normal to human experience most people are surprised to discover how abnormal that behavior really is Chemically,
+      water is equally unusual, and can both dissolve,
+      and dissolve into, a vast array of natural materials.
+      Because of this,
+      water naturally forms mixtures with everything from atmospheric gasses to biological molecules to mantle minerals.
+      If Earth had substantially less water than we do,
+      plate tectonics as we know it may never have started<fn>
+      J. Korenaga, Initiation and Evolution of Plate Tectonics on Earth: Theories and Observations.
+      Annual Review of Earth and Planetary Sciences 41, 117-151 (2013 doi:10.1146/annurev-earth-050212-124208; Campbell, I.H., Taylor, S.R., 1983.
+      No water, no granites, no oceans, no continents.
+      Geophysical Research Letters 10, 1061e1064.
+      </fn> because mantle rocks would be too stiff to convect.
+      But, even if Earth had just three times more water than we do,
+      formation of the continental crust may have been inhibited,
+      with profound implications for Earthly life and climate<fn>
+      Maruyama, S., Ikoma, M., Genda, H., Hirose, K., Yokoyama, T., &amp; Santosh, M. (2013).
+      The naked planet Earth:
+      most essential pre-requisite for the origin and evolution of life.
+      Geoscience Frontiers, 4(2), 141-165.
+      I admit that this article is at the very furthest edge of acceptability as a reference.
+      It is a wild read!
+      </fn>.
+      So before we study the Hydrosphere<mdash/>the vast bodies of liquid water on Earth<mdash/>we need to understand a little about water,
+      the molecule.
+      Three aspects of water are particularly important for our study of Earth and its climate.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Water's odd thermodynamic properties and their climatological importance</title>
+    <subsubsection>
+      <title>Melting and boiling temperatures</title>
+      <p>
+        Recall from Chapter 3 that elements in the same column of the periodic table have similar chemical behaviors.
+        <xref ref="fig_wiw">Figure</xref> <em>(upper panel)</em>
+        shows the melting and boiling points of five
+        <q>dihydride</q>
+        substances: water (<m>H_2O</m>),
+        and the chemical analogues formed by sulfur (<m>H_2S</m>),
+        selenium (<m>H_2Se</m>), tellurium (<m>H_2Te</m>), and polonium
+        (<m>H_2Po</m>).
+        Three trends are evident as the analogue's atomic weight approaches that of water: (1) Melting points of the analogous compounds decrease; (2) boiling points of the analog compounds decrease; (3) The
+        <q>gap</q>
+        between the boiling and melting points decreases dramatically,
+        which means the liquid phase is stable over an increasingly small temperature range.
+        You can use the diagram to predict the melting and boiling points of water by sketching in a straight line that approximates each trend until the line gets to 18 amu,
+        the mass of water.
+        You'll get about \SI{-83}{\degreeCelsius} for the melting point and \SI{-71}{\degreeCelsius} for the boiling point
+        (the light-blue filled data points on the Figure).
+        Students asked to do this in the classroom have an interesting reaction:
+        they hesitate to sketch in,
+        write down or even talk about their prediction,
+        because they know it's wildly wrong!
+      </p>
+      <p>
+        Water actually melts at \SI{0}{\degreeCelsius} and boils at \SI{100}{\degreeCelsius}, far higher temperatures than the chemical analogues.
+        The temperature difference between the two<mdash/>\SI{100}{\degreeCelsius}<mdash/>is nearly 3 times the average of the analogues.
+        These features have profound implications for Earth and its biosphere.
+        Earth's average surface temperature happens to be at the lower end of the liquid stability range,
+        guaranteeing that Earth's oceans are liquid, not ice or vapor.
+        As we saw in Chapter 4, Earth's average surface temperature is maintained by a robust greenhouse effect,
+        to which water vapor is the strongest contributor.
+        This is possible only because Earth's surface temperature is close enough to the boiling point to allow some water to exist as gas in the atmosphere.
+        Finally, life on Earth requires liquid water,
+        which is possible at Earth's surface temperature only because of water's anomalous behavior.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Density</title>
+      <p>
+        The <em>lower panel</em> of <xref ref="fig_wiw">Figure</xref>
+        shows the density of liquid water
+        (solid line)
+        and its analogue <m>H_2S</m>
+        (dashed line)
+        at temperatures just above their freezing points.
+        Liquids typically get more dense as they cool,
+        because the lower kinetic energy of the molecules allows them to pack more tightly together.
+        This is shown nicely by the data for <m>H_2S</m>,
+        which gets denser rapidly as temperature falls.
+        Not so water.
+        Water's density changes very little as it approaches freezing,
+        and actually peaks at \SI{4}{\degreeCelsius}. Water is so weird it doesn't act like its closet chemical brethren.
+        This particular behavior has profound implications for everything from figure skating to the ecology of freshwater lakes.
+      </p>
+      <p>
+        In the temperate areas of the globe (See Figure 4.14),
+        annual temperature cycles drive a process that recharges lakes and ponds with oxygen,
+        a process possible only because water has that odd density maximum at \SI{4}{\degreeCelsius}. During the summer,
+        strong sunlight, high air temperatures,
+        winds and waves all conspire to warm and mix the upper surface of the lake.
+        A sharp temperature change, called the thermocline,
+        separates this less dense surface layer from the deeper,
+        colder, denser water below.
+        The stratification induced by the density differences effectively cuts off the deeper water from the atmosphere.
+        Over the summer the deep water slowly looses oxygen (<m>O_2</m>) as organisms consume it,
+        this leads to an gradual increase of nutrients in the deep water as well.
+        As autumn rolls around, air temperatures drop,
+        and the upper layer cools more rapidly than the deep water,
+        and eventually the pond becomes isothermal,
+        the same temperature throughout.
+        At this point, all the water had the same density,
+        stratification disappears, and waters can
+        <q>turnover</q>
+        from top to bottom.
+        The <m>O_2</m>-rich surface waters mix with the nutrient-rich bottom waters,
+        leading to ideal conditions for life throughout the lake.
+        As winter approaches,
+        surface waters cool more quickly than the deeper waters,
+        and once cooler than \SI{4}{\degreeCelsius}, these less dense water caps the lake,
+        yet again establishing a stable, stratified lake.
+        Eventually the densest water,
+        at \SI{4}{\degreeCelsius}, sinks to the bottom,
+        where it will sit for the remainder of the winter.
+        Perhaps the lake's surface freezes,
+        but because ice is less dense than liquid water,
+        it floats to the lake top, capping off the lake from further cooling.
+        Animals in the lake stay warm, the lake stays liquid,
+        and all wait patiently until spring, where melting, heating,
+        and overturning again renew the lake's water,
+        setting the cycle up for the coming summer.
+        Water's weirdness makes all of this possible.
+        If ice were denser than liquid water,
+        lakes and ponds would freeze from the bottom up,
+        overturning would be rare, and life might be absent from lakes and ponds.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="water_emp">
+      <title>Heating, melting and evaporation energies</title>
+      <p>
+        Most readers have thrown ice in a cooler to keep something cold,
+        or waited for water to boil to make a beverage.
+        The idea that ice keeps thing cold or water takes a while to boil is so...normal...we don't question it.
+        But yet again water is weird,
+        in this case moderating temperature changes by being an energy hog.
+        Raising the temperature of \SI{1}{\gram} of water takes about twice the amount of energy as raising the same mass of just about any other liquid.
+        Water's high heat capacity allows it to absorb significant heat without changing temperature significantly.
+        As we'll see below,
+        the oceans have absorbed the vast majority (90%, see<fn>
+        Cheng, L., Trenberth, K. E., Fasullo, J., Boyer, T., Abraham, J., &amp; Zhu, J. (2017).
+        Improved estimates of ocean heat content from 1960 to 2015.
+        Science Advances, 3(3), e1601545.
+        </fn>) of
+        <q>extra</q>
+        heat trapped by the Earth over the past few centuries.
+        The high heat capacity of the oceans has moderated heating of the oceans,
+        and greatly reduced the heating of the atmosphere.
+      </p>
+      <p>
+        Perhaps in middle or high school you did the classic experiment of looking at the temperature of a mixture of water and ice as the mixture was heated.
+        You were probably surprised to find that the temperature of the water stayed right at \SI{4}{\degreeCelsius} until the last bit of ice melted.
+        Rather than raising the system's temperature,
+        that heat was breaking bonds between water molecules in the ice.
+        The energy needed to melt \SI{1}{\gram} of substance, the
+        <q>heat of fusion,</q>
+        is a characteristic of every substance,
+        and perhaps not to your surprise water is yet again a standout,
+        with one of the highest heats of fusion of any liquid.
+        A similar concept involves the transition from liquid to vapor (the
+        <q>heat of vaporization</q>
+        ) and water's is yet again uncommonly high.
+        The latter trait is particularly important for climate.
+        Every kilogram of water evaporated from the ocean surface requires the same amount of energy contained in \SI{200}{\milli\litre}
+        (more than <m>3/4</m> cup)
+        of gasoline.
+        Recall that energy is never destroyed;
+        the energy of vaporization travels with the water vapor into the atmosphere,
+        and is released when the vapor condenses into rain.
+        This is the energy that drives thunderstorms and hurricanes.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Hydrogen bonding as their explanation</title>
+    <p>
+      All of these oddities of water are due to
+      <em>hydrogen bonding</em>.
+      Hydrogen bonds form between hydrogen atoms in one molecule and another atom
+      (typically oxygen or nitrogen)
+      in a neighboring molecule.
+      Unlike the better known covalent and ionic bonds,
+      hydrogen bonds are weak and can be fleeting.
+      Despite this,
+      the sheer number of hydrogen bonds in water makes water weird<fn>
+      Stokely, K., Mazza, M. G., Stanley, H. E., &amp; Franzese, G. (2010).
+      Effect of hydrogen bond cooperativity on the behavior of water.
+      Proceedings of the National Academy of Sciences, 107(4), 1301-1306.
+      </fn>.
+      Atoms in the upper right corner of the periodic table,
+      such as oxygen and nitrogen,
+      have far greater affinity for electrons than hydrogen atoms.
+      The resulting <m>O-H</m> or <m>N-H</m> bonds are asymmetrical,
+      with electrons preferentially crowding the oxygen and nitrogen atoms.
+      As a result, oxygen atoms have a partial net negative charge
+      (as shown by the Greek letter delta
+      <m>\delta^{\-}</m> in <xref ref="fig_H_bonding">Figure</xref>)
+      and their bound hydrogen atoms have a small net positive charge<fn>
+      Chaplin, M. (2017, August 5).
+      Hydrogen bonding in water.
+      Retrieved August 14, 2017, from
+      <url href="http://www1.lsbu.ac.uk/water/water_hydrogen_bonding.html">This URL</url>
+      </fn>.
+    </p>
+    <p>
+      Water is a perfect environment for the formation of hydrogen bonds.
+      The slightly positive hydrogen atom from one molecule slides up to the slightly negative oxygen atom of an adjacent molecule,
+      a process repeated by every hydrogen and oxygen atom in the liquid.
+      At low temperatures, each water molecule has
+      (on average)
+      four hydrogen bonds with neighboring molecules,
+      double the number of strong covalent bonds in the molecule itself.
+      Water, on a microscopic scale,
+      looks more like a pyramidal arrangement of 5 water molecules,
+      connected by weak and constantly shifting hydrogen bonds.
+    </p>
+    <p>
+      All this hydrogen bonding makes <em>liquid</em>
+      water particularly stable relative to the <em>solid</em>
+      and <em>gaseous</em> forms,
+      explaining the high freezing point of water,
+      and the wide temperature range of its occurrence,
+      noted in <xref ref="water_emp">section</xref>.
+      As water cools toward freezing,
+      the hydrogen bonds shift the geometry of the water molecules themselves,
+      allowing them to pack slightly closer together,
+      a geometry destroyed by further cooling,
+      thus explaining the density maximum noted above.
+      Finally, heating and vaporizing water takes so much energy because all those hydrogen bonds have to be broken.
+      The analogues of water we looked at earlier-the
+      <q>dihydrides</q>
+      are all much larger than water,
+      and have different angles between the hydrogens,
+      which makes the hydrogen bonding far weaker than in water.
+      Water owes its odd behavior directly to hydrogen bonding.
+    </p>
+  </subsection>
+</section>

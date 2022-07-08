@@ -1,0 +1,141 @@
+<section xml:id="EHTL_Figures">
+  <title>Figures</title>
+  <figure xml:id="fig_humans_thrive" >
+    <caption>Humans thrive in a vast array of environments. In the upper panel, the Geographic South Pole is marked by a brass rod in the foreground; in the background a ski-equipped transport aircraft is parked in front of the then active Scott-Amundsen Base. The average temperature at the South Pole is <m>\SI{-32}{\degreeCelsius}</m> in summer, and <m>\SI{-60}{\degreeCelsius}</m> in winter (<m>-26^{\circ} F</m> and <m>-76^{\circ} F</m> respectively). A small group of intrepid volunteers lives in the station during the six-month long polar winter. In the lower panel, a truck carrying out geophysical investigations accelerates across the flat dried lake bed near Death Valley,  California. Here the average temperature is <m>\SI{37}{\degreeCelsius}</m> in summer, and <m>\SI{12}{\degreeCelsius}</m> in winter (<m>99^{\circ} F</m> and <m>54^{\circ} F</m> respectively). Even during the summer, hundreds of people live and visit Death Valley National Monument. Despite this human occupation, there is precious little sign of non-human life present in either photograph.</caption>
+    \subfloat{
+    <image width="92.5%" source="south_pole"/> }
+    \subfloat{
+    <image width="92.5%" source="death_valley2"/> }
+  </figure>
+  <figure xml:id="fig_sys_types" >
+    <caption>Systems come in three forms, each characterized by the
+    <q>leakiness</q>
+    of the system's boundaries to energy and matter. Upper pane: Neither energy nor matter can cross the boundaries of a truly isolated system. Because isolated systems are the easiest to understand, scientists will often assume a system is effectively isolated in order to study it. Middle pane: Closed systems allow energy, but not matter through the boundary. Earth is an excellent example of a closed system. Lower pane: Open systems have boundaries permeable to both energy and matter. All these flows can make open systems difficult to study.</caption>
+    <image width="92.5%" source="Types_of_systems"/>
+  </figure>
+  <figure xml:id="fig_sun_earth_sys" >
+    <caption>The Sun<mdash/>Earth System. The system consists of two interacting parts (the Sun and Earth), energy flow between them (yellow arrows) and energy flow out the system boundary and to the system's exterior (brown arrows). Earth has interacting sub-parts, Earth's 6
+    <q>spheres,</q>
+    these are shown within Earth's outlines, with interactions between them represented with green arrows.</caption>
+    <image width="92.5%" source="sun_earth_sys"/>
+  </figure>
+  <figure xml:id="fig_6_spheres" >
+    <caption>The 6 largest
+    <q>spheres</q>
+    making up the Earth system. Each sphere is itself a system, connected to others through the flow of energy and matter, as shown by the green arrows. The Geosphere, Atmosphere, Hydrosphere and Biosphere are all old and essentially permanent parts of Earth. The Cryosphere is a less  permanent and (on the time scale of Earth  history) far younger portion of Earth's natural environment. The Anthroposphere is young even by human standards, and dates at most to just a few thousand years ago. It is shown wrapped around and through the other spheres to reflect the penetration of human societie's by products throughout the other systems.</caption>
+    <image width="92.5%" source="6_Spheres"/>
+  </figure>
+  <figure xml:id="fig_matter_struct" >
+    <caption>The structure of matter from molecules to quarks. Examples in each column are composed of the matter in the column to the right. Electrons and quarks appear to be "fundamental" particles. This schematic illustration has no real scale. For example, the electron cloud shown surrounding the carbon nucleus in the second column from the left should be \SI{150}{m} (roughly 450 feet) from the nucleus! (Krane, Kenneth S., Introductory Nuclear Physics, Wiley, 1987.)</caption>
+    <image width="92.5%" source="Structure_of_matter.pdf"/>
+  </figure>
+  <figure xml:id="fig_pt" >
+    <caption>The Periodic table of the elements. Public domain, from
+    <url href="https://commons.wikimedia.org/wiki/File:Periodic_table_large.png">Wikimedia Commons</url>
+    </caption>
+    <image width="92.5%" source="Periodic_table_large.pdf"/>
+  </figure>
+  <figure xml:id="fig_elem_abund" >
+    <caption>In our part of the Universe (upper rectangle), H and He make up 99.9% of all  atoms present. All the rest of the elements, from Be (beryllium) to U (uranium) make up that remaining 0.1%, with oxygen (O) and carbon (C) making up the majority of that remaining 0.1%. Earth is almost devoid of H and He, and consists largely of O, iron (Fe), magnesium (Mg) and silicon (Si). Earth behaves the way it does (a large mass of rock and metal) because of the composition is has.</caption>
+    <image width="92.5%" source="elem_abund"/>
+  </figure>
+  <figure xml:id="fig_phase_changes" >
+    <caption>Phase changes require input (those changes listed within the triangle) or output (those listed outside the triangle) of energy from the surrounding environment into the substance. Near and at Earth's surface, the transitions between gas and liquid, and solid and liquid are more common (and important) than those between solid and gas.</caption>
+    <image width="92.5%" source="Phase_Changes.pdf"/>
+  </figure>
+  <figure xml:id="fig_turner_cute_little_bunny" >
+    <caption>What is energy? Not even the Nobel-prize winning physicist Richard Feynman knew for sure. But perhaps the 19\textsup{th} Century English painter J. M. W. Turner had an emotional idea of what energy<mdash/>and its use by society to construct the Anthroposphere<mdash/>was. In this painting from 1844 CE, Turner deftly uses oil paints to produce a layered impression of what the newly invented
+    <q>railroad</q>
+    felt like. The steam engine, barely recognizable in the middle of the painting, burns coal and belches smoke as it rushes across a bridge 40 km (about 25 miles) west of London, England. If you look very closely in the lower right corner of the painting, you might make out a hare rushing (we hope as fast as the train) across the bridge as well. What's with the hare: is it a symbol of the train's speed? Of Man imitating nature? Of Man replacing nature? Of Man destroying nature? Turner asks, but doesn't answer, fundamental questions about our use of energy and its consequences.</caption>
+    <image width="92.5%" source="Turner_Rain,_Steam_and_Speed"/>
+  </figure>
+  <figure xml:id="fig_temp_scales" >
+    <caption>The three most common temperature scales, compared. On the right is the familiar Fahrenheit scale, on which water freezes at <m>32 ^{\circ}F</m> and boils at <m>212 ^{\circ}F</m>. In the middle is the Celsius scale, on which water freezes at <m>\SI{0}{\degreeCelsius}</m> and boils at <m>\SI{0}{\degreeCelsius}</m>. The same temperature change (between boiling and freezing) has <m>180 ^{\circ}F</m>, but only <m>\SI{100}{\degreeCelsius}</m>: a <m>\SI{1}{\degreeCelsius}</m> is 1.8 times bigger than a <m>1 ^{\circ}F</m>. On the left is the Kelvin scale, which uses the same size degree as the Celsius scale, but starts at absolute zero, the lowest possible temperature. The absolute Kelvin scale is required in most calculations, but can be cumbersome to use in daily life, even for scientists. The Celsius scale is more convenient, but can be cumbersome for non-scientists. Unfortunately, Fahrenheit's scale isn't used by anyone, except in the United States. Understanding climate and climate change requires we use all three.</caption>
+    <image width="92.5%" source="Temperature_scales.pdf"/>
+  </figure>
+  <figure xml:id="fig_sun_earth_sys_temps" >
+    <caption>Heat naturally flows from warmer to cooler parts of a system. So Earth must have a temperature between that of the Sun's surface (<m>\SI{5780}{\kelvin}</m>) and
+    <q>space</q>
+    (<m>\SI{2.7}{\kelvin}</m>). As we'll see later in this Chapter, calculating this temperature is straightforward. The result is a chilly <m>\SI{255}{\kelvin}</m></caption>
+    <image width="92.5%" source="Sun_Earth_Space_temps.pdf"/>
+  </figure>
+  <figure xml:id="fig_Hand_IR" >
+    <caption>All objects emit radiation, even if we can't see it with our eyes. On the left is a visible light photograph, taken with light reflected by the objects. To the right is an image taken in the infra-red light emitted by the objects themselves. Colors in the infra-red image correspond to temperatures (given on the scale at the far right, in <m>^{\circ}F</m>. The background is dark because the relatively cool walls are at room temperature. Note that the bag is opaque to visible radiation, but transparent to infra-red radiation. Greenhouse gasses are just the opposite: transparent to visible, but decidedly opaque to infra-red. Courtesy of
+    <url href="http://coolcosmos.ipac.caltech.edu/cosmic_kids/learn_ir/">NASA/IPAC</url>
+    </caption>
+    <image width="92.5%" source="Hand_in_bag_IR.jpg"/>
+  </figure>
+  <figure xml:id="fig_convection_final" >
+    <caption>Convection in action. Upper panel shows a fluid (which on Earth could be air in the atmosphere, water in the oceans, or rock in the mantle) gains energy and temperature from a hotter lower surface (the dark red areas on the bottom of the figure). The fluid expands as it warms, which reduces its density, and it rises buoyantly through the cooler material to form columns, or plumes, or warm material (the red towers). As the material reaches the colder upper surface, it loses heat, becomes more dense, and sinks in downdrafts of cold (blue) anti-plumes. Although simplified, this is exactly what is going on, now, in the atmosphere above you and the geosphere below you. Lower Panel: A more realistic model for the look of convection in Earth's mantle. The mushroom-shaped towers model the likely look of
+    <q>hot spot</q>
+    plumes in the mantle below, for example, Hawai'i. Both models assume Pe=700, Gr=100/7, and temperatures of 25-70 (top) and 25-35 (bottom).The models were generated from Rayleigh Benard Convection, written by Suraj Shankar for MATLAB</caption>
+    <image width="92.5%" source="convection_final.pdf"/>
+  </figure>
+  <figure xml:id="fig_convection_in_a_cup" >
+    <caption>Three different example of convective heat transport, at three different physical scales. In panel a (upper left) cloud
+    <q>streets</q>
+    form off the Atlantic coast of North America. The long rows of cummulus clouds mark the tops of the warm leg of a convection cell (the red areas seen in <xref ref="fig_convection_final">Figure</xref>, panel c). These cloud streets formed when frigid air migrated over the relatively warm Atlantic Ocean, providing the neccessary conditions for convection. The image is about 350 km across, so individual convection cells are only a few kilometers wide. The image is courtesy
+    <url href="https://earthobservatory.nasa.gov/NaturalHazards/view.php?id=82800">NASA's Earth Observatory</url>
+    accessed 20 June 2017. In panel b. (upper right) is a wonderful example of closed cell convection in the atmosphere. The hexagonal clouds mark areas of convective upwelling, again as shown by the red areas in <xref ref="fig_convection_final">Figure</xref>, panel c, but here the
+    <q>rolls</q>
+    seen in panel a have broken up into discrete cells. The edges of the clouds<mdash/>marked by the thin clear lanes between them<mdash/>mark the down-going leg of the convection. Each of these cells is 100 km across, more than 10 times the size of the rolls seen in panel a! Image is courtesy
+    <url href="https://visibleearth.nasa.gov/view.php?id=59758">NASA Visible Earth</url>
+    accessed 20 June 2017. In panel c (lower right) look carefully at the subtle variation of temperatures of the coffee in the cup, revealed by the infra-red image. Note the same closed cell hexagonal structure shown in panel b. The same heat transport mechanism, but at a scale 10,000,000 times smaller! Image is courtesy
+    <url href="http://coolcosmos.ipac.caltech.edu/cosmic_kids/learn_ir/">NASA/IPAC</url>
+    </caption>
+    <image width="92.5%" source="convection_in_a_cup.jpg"/>
+  </figure>
+  <figure xml:id="fig_dust_africa" >
+    <caption>Advective transport in action. The brown air-mass (highlighted by green dashed lines) is a plume of warm, dry, dusty air blowing off Africa and into the Atlantic Ocean. At the time this image was taken, the plume was about three days old, having originated on the African coast due east of Cape Verde islands. Image is courtesy
+    <url href="https://earthobservatory.nasa.gov/IOTD/view.php?id=85423">NASA Earth Observatory</url>,
+    and has been modified slightly from the original to increase visibility of the dust. Accessed 21 June 2017.</caption>
+    <image width="92.5%" source="dust_africa.jpg"/>
+  </figure>
+  <figure xml:id="fig_light" >
+    <caption>Electromagnetic radiation is a coupled wave of electrical (in red) and magnetic (in green) fields. These waves have a wavelength, the distance from one part of a wave to the same part of the next.  Regardless of wavelength, light travels at a constant speed in a vacuum, termed
+    <q>c</q>, equal to <m>\SI{3d8}{\metre\per\sec}</m> or about 1 foot in a billionth of a second. EMR ranges from radio waves with wavelengths larges than some countries, to gamma rays with wavelengths smaller than the nuclei of atoms (right-hand scale). EMR carries energy, which is inversely proportional to the wavelength: EMR of longer wavelength have <em>less</em> energy than shorter wavelength EMR (left-hand scale). Our eyes have evolved to see only a tiny portion of the electromagnetic spectrum,the
+    <q>visible light</q>
+    band, with wavelengths between <m>\SIrange{390}{750}{\nano\metre}</m>, or billionths of a meter. The infra-red band, at longer wavelength, and hence lower energy, lies just below the visible band. These two types of EMR are crucial for understanding Earth's climate.</caption>
+    <image width="92.5%" source="light.pdf"/>
+  </figure>
+  <figure xml:id="fig_weins_law" >
+    <caption>The perceived color of an object is related to its color. Cooler objects emit more red than blue light, so we see them as reddish. Hot objects are the opposite, emitting more blue than red light, so we perceive them as bluish. Interestingly, our eyes have evolved to see light emitted by objects at the temperature of the Sun's surface as white! Given that, what temperature do you predict for the Sun's surface?</caption>
+    <image width="92.5%" source="weins_law.eps"/>
+  </figure>
+  <figure xml:id="fig_Orion" >
+    <caption>The stars, dust and gas of the constellation Orion, as revealed in this spectacular photograph by Rogelio Bernal Andreo. (The original photograph is available at
+    <url href="http://deepskycolors.com/astro/JPEG/RBA_Orion_HeadToToes.jpg">this link</url>.
+    Individual stars are easy to see, each glowing in a color according to their effective temperature. The supergiant Betelgeuse (upper left) is a bright orange, while supergiants Rigel and giant(ess) Bellatrix glow blue-white. The purple-pink areas are glowing emission nebulae of hydrogen gas. Their color is <em>not</em> due to their temperature, because they are insufficiently dense to behave as black-body radiators. Rather, their color is due to their composition: this purple-pink in unique to H-rich nebulae. The gigantic clouds are areas of on-going star formation. The blueish-white area (a particularly good example is just to the right of Rigel) are reflection nebulae, formed of small
+    <q>dust</q>
+    particles of minerals and ices suspended between the stars. Their color is <em>not</em>  due to their temperature, either. Instead, they simply reflect he blue light of nearby stars. You can easily determine the effective temperatures of black-body radiators Betelgeuse, Rigel and Belltrix by comparing their colors to those given in <xref ref="fig_weins_law">Figure</xref>. This photograph was NASA's Astronomy Picture of the Day in 23 October 2010, and is in the public domain, via CC BY-SA 3.0.</caption>
+    <image width="92.5%" source="Orion.jpg"/>
+  </figure>
+  <figure xml:id="fig_energybbr" >
+    <caption>The energy emitted by a black body radiator rises strongly with increasing temperature, due to the fourth-power relationship. A small temperature change leads to a large energy emission change, but a large energy change will lead to a small temperature change.</caption>
+    <image width="92.5%" source="energybbr.pdf"/>
+  </figure>
+  <figure xml:id="fig_planks" >
+    <caption>Blackbody radiators emit electromagnetic of a wide range of energies. The variation of energy emitted at each wavelength is the spectrum of an object. Plank explained that the blackbody spectrum always has the same fundamental shape, with a sharp rise at the high energy, short wavelength end of the spectrum, rising to a peak at exactly the wavelength predicted by Wein's Law (the circles on each curve) and then a long, slow decline at the low-energy, long-wavelength end of the spectrum.</caption>
+    <image width="92.5%" source="plank2.pdf"/>
+  </figure>
+  <figure xml:id="fig_solar" >
+    <caption>The Sun's spectrum (measured at the top of Earth's atmosphere) compared to the blackbody spectra of objects at \SIlist{5730;5780;5830}{\kelvin}. The best match is \SI{5780}{\kelvin}, and we'll call this the Sun's effective equilibrium temperature, <m>T_{eq}</m>.</caption>
+    <image width="92.5%" source="solar.pdf"/>
+  </figure>
+  <figure xml:id="fig_saturnearth" >
+    <caption>A spectacular photograph of Saturn, taken from the orbiting Cassini spacecraft on November 12, 2013. The Sun is occulted by Saturn, so the picture looks oddly lit. The small yellow box highlights a pale blue dot, which is Earth, shining from the 30% of the Sun's light Earth reflects back into space. The larger yellow box is an enlargement of Earth and (barely visible) the Moon, here blurred together because of the resolution of the camera. The smaller red box highlights our home, and the large red box shows the disposition of Earth (to the left) and Moon (to the right) about the time the main photograph was taken. No one in the history of our species has ever made it farther from Earth than the Moon...our entire domain as a species is contained in the fuzzy little blob within the red box. The original photograph (http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17172) shows Mars and Venus as well, here somewhat hard to see at about the 11 o'clock position relative to Saturn. Original photograph courtesy of NASA/JPL-Caltech.</caption>
+    <image width="92.5%" source="saturnearth.png"/>
+  </figure>
+  <figure xml:id="fig_sunsphere" >
+    <caption>The Sun's energy warms a sphere (on the left), but is received by an apparent disk (as shown by the shadowed area on the right). A sphere has four times the area of a disk, so each part of the planet receives, on average, only one quarter of the arriving energy.</caption>
+    <image width="92.5%" source="sunsphere"/>
+  </figure>
+  <figure xml:id="fig_teqsensativity" >
+    <caption>The relationship between changes in insolation (upper panel), albedo (lower panel) and Earth's equilibrium temperature. Current values for all three parameters are marked by the small circle. Note that large changes in the incoming solar radiation are needed to produce moderate temperature changes.</caption>
+    <image width="92.5%" source="teqsensativity"/>
+  </figure>
+  <figure xml:id="fig_teqderivation" >
+    <caption>Derivation of the equilibrium surface temperature of Earth. The mathematics in the left hand column is explained in the text on the right hand column</caption>
+    <image width="92.5%" source="derivation.png"/>
+  </figure>
+</section>

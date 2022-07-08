@@ -1,0 +1,273 @@
+<section xml:id="Earth_s_Internal_Structure">
+  <title>Earth's contemporary internal structure</title>
+  <subsection>
+    <title>Introduction</title>
+    <p>
+      Earth's ferocious formation has left its mark on our planet.
+      We concluded in the previous section that Earth is layered,
+      with denser metals in the core,
+      less dense rock in the mantle and crust,
+      and quite light water and gasses in the atmosphere and hydrosphere.
+      Even 4.567 billion years later, Earth's structure reflects the way,
+      and the what, of which it formed.
+      Of course those 4.567 billion years have seen significant cooling and chemical changes in all parts of Earth,
+      changes we will examine in this and subsequent chapters.
+      The remainder of this chapter is devoted to understanding the surprisingly dynamic rocky part of our planet,
+      the Geosphere.
+      To fully understand and appreciate Earth's behavior,
+      you have to realize that Earth's interior is at enormous pressures and high temperatures,
+      and that at these extreme conditions rocks will flow like honey,
+      metal will flow like water,
+      and water is a chemically vicious substance more like gas than liquid.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Density and Bulk Composition</title>
+    <p>
+      The simplest and most important question we can about Earth is
+      <q>What is it made of?</q>
+      Although Earth accreted from a variety of different types of differentiated meteorites,
+      a good estimate for Earth's composition is provided by a particular type of primitive meteorites called
+      <em>enstatite chondrites</em>.
+      These meteorites give the best match of both the chemical and isotopic composition of the planet.
+      Despite its size and magnificent complexity, Table 3 shows that 99.5% of Earth is made up of just 7 elements!
+      To first order, Earth will behave like a ball of these elements.
+      This is a profound constraint of Earth's behavior:
+      it will not act like an all water planet, nor a planet of gold.
+      Earth behaves like a planet made of rock (a mixture of Si, O and other elements) with a metallic (Fe and Ni and other elements) core.
+    </p>
+    <table xml:id="tab_ebc">
+      <title>Earth's Bulk Elemental Composition</title>
+      \begin{threeparttable}
+      <tabular>
+        {@llll@} \toprule
+        Element    &amp;Symbol    &amp;Composition   &amp;Cumulative \\
+        &amp;          &amp;Weight %    &amp;Weight % \\ \midrule
+        Oxygen    &amp;O        &amp;33            &amp;33\\
+        Iron      &amp;Fe        &amp;28            &amp;62\\
+        Silicon    &amp;Si        &amp;20            &amp;82\\
+        Magnesium &amp;Mg        &amp;14            &amp;96\\
+        Nickel    &amp;Ni        &amp; 2            &amp;98\\
+        Calcium   &amp;Ca        &amp; 1            &amp;99\\
+        Aluminum  &amp;Al        &amp; 1            &amp;99.5\\ \bottomrule
+      </tabular>
+      \begin{tablenotes}
+      \item[1] See <xref ref="fig_pt-be">Figure</xref> for the location of these elements on the periodic table.
+      \item[2] The bulk compositions here are from Javoy, M., Kaminski, E., Guyot, F., Andrault, D., Sanloup, C., Moreira, M., ... &amp; Jaupart, C. (2010). The chemical composition of the Earth: Enstatite chondrite models. Earth and Planetary Science Letters, 293(3), 259-268. They differ from McDonough's values by less than 10% of the values.
+      \item[3] Rounding errors account for the small discrepancies between composition and cumulative weights.
+      \end{tablenotes}
+      \end{threeparttable}
+    </table>
+    <p>
+      We have already seen that the cores of differentiated planets are mostly metals like Fe and Ni.
+      If we make the simple
+      (and wrong)
+      guess that all the Fe and Ni separated into the core,
+      we'd expect the core to make up 28%+2%=30% of Earth.
+      The actual mass of the core is about 32% of Earth's total mass,
+      so there must be more than just Fe and Ni in the core,
+      including sulphur (S) and silicon (Si),
+      and perhaps some other light elements like H and O
+    </p>
+    <p>
+      A different and powerful approach to estimating Earth's bulk composition is to use density,
+      the ratio of mass to volume of an object.
+      Earth has a well determined mass of <m>M=\SI{5.9726e24}{\kilo\gram}</m>.
+      The average radius <m>r</m> of the planet is \SI{6.371e6}{\metre}. Earth's density <m>\rho_{Earth}</m> is
+      <men>
+        \rho_{Earth}=\frac{Mass_{Earth}}{Volume_{Earth}}=\frac{Mass_{Earth}}{\frac{4}{3} \pi r^3}=\frac{\SI{5.9726e24}{\kilo\gram}}{\frac{4}{3} \pi (\SI{6.371e6}{\metre})^3}=\SI{5515}{\kilo\gram\per\metre^3}
+      </men>
+    </p>
+    <p>
+      Earth has an average density about 5.5 times the density of water,
+      or about twice the average density of rocks at the surface.
+      This high density is partly due to Earth's tremendous internal pressures,
+      which compress rocks and metals in the interior to high densities.
+      Even accounting for this, Earth is far too dense to be made only of rock,
+      so much of Earth's interior must be made of metal.
+      But just how much?
+      <xref ref="fig_bulkdensity">Figure</xref>
+      shows the expected bulk density for planets of Earth mass,
+      but composed of different mixtures of metal to rock . A pure rock planet would be much less dense
+      (and hence of larger radius)
+      than Earth, while a planet made from mostly iron would be much more dense
+      (and hence far smaller).
+      Using reasonable models for the behavior of rocks and metals at high pressure, Earth should have about 32% metal,
+      in excellent agreement with observation.
+      The same process can be used to calculate the size and densities of planets over a wide range of compositions and masses.
+      Over the past 20 years astronomers have discovered thousands of planets around distant stars,
+      and for a small sub-set of these (roughly 850 planets<fn>
+      843 as of 23 June 2019 http://exoplanet.eu/ The Extrasolar Planets Encyclopaedia
+      </fn>) herculean efforts have provided both mass and radius of these far-distant worlds.
+      The same process we used above is providing the first hints of the composition of Earth-sized planets thousands of light years distant.
+      As we saw in Chapter 4, knowing the color of these planets' stars gives us their temperature,
+      from which we can infer the surface temperature of the planets.
+      Incredibly, we live in the first era in history where we can estimate the
+      <q>Earth-likeliness</q>
+      of distant worlds<fn>
+      de Fontenelle, M. (1686).
+      Conversations on the Plurality of Worlds
+      </fn>.
+    </p>
+  </subsection>
+  <subsection>
+    <title>How do we know?</title>
+    <p>
+      Before we dig into the Geosphere,
+      a brief interlude on how we know the remarkably precise details of Earth's internal structure,
+      composition and temperature.
+      Earth's radius is on average 6370 km,
+      about the same distance as a drive from Juneau, AK to Jacksonville, Fl.
+      The deepest anyone has actually walked in Earth-the deepest mine-is slightly less than \SI{4}{\kilo\metre} below ground,
+      while the deepest hole ever drilled is only 12 km deep.
+      These are 0.06% and 0.2% of Earth's radius-vanishingly small depths into the Geosphere.
+      By happy coincidence,
+      these are exactly the same proportion as the thickness of the skin of an apple is to the apple itself<fn>
+      Fortunately, Homutova, I., &amp; Blazek, J. [in (2006) Differences in fruit skin thickness between selected apple (Malus domestica Borkh.) cultivars assessed by histological and sensory methods.
+      Hort.
+      Sci.(Prague), 33(3), 108-113] measured typical skin thicknesses of European apple cultivars to be 33 to 73 um.
+      According to the Washington Apple Council [http://bestapples.com/trade-and-export-marketing/grades-sizing/, accessed 17 January 2016]
+      <q>Washington crops traditionally peak on sizes 100 and 113</q>
+      apples per 48 pound box,
+      which translates into diameters of 72.1 to 77.5 mm.
+      </fn>.
+      Our knowledge of the deep Earth comes from less direct means than in-person observation.
+    </p>
+    <p>
+      Three important lines of evidence reveal Earth's internal structure.
+      The most important is through the use of seismic waves,
+      sound waves generated in earthquakes.
+      The velocity of the various forms of seismic waves depend upon the composition,
+      density and temperature of Earth's innards.
+      Over the past 30 years,
+      seismologist have used increasingly sophisticated mathematical tools on increasingly many earthquake records to precisely determine Earth's internal structure
+      (<xref ref="fig_seismic">Figure</xref>).
+      Much like a CAT scan uses thousands of x-rays to build a detailed model of a patient's organs,
+      seismic studies are beginning to image detailed structures thousands of kilometers below the surface,
+      in a level of detail unimaginable just 30 years ago.
+      A second line of evidence comes from experiments done in laboratories that squeeze and heat rocks to the conditions expected in the deep Earth
+      (<xref ref="fig_anvil">Figure</xref>).
+      These experiments provide direct evidence for the behavior of Earth at the extraordinary temperatures and pressures in the interior.
+      Technological advances in recent years have led to a slew of new discoveries on the behavior or rocks and metals at the depth of the core-mantle boundary,
+      and of iron well into the outer core.
+    </p>
+    <p>
+      The third line of evidence comes from Earth itself:
+      mantle xenoliths
+      (from the Greek, <em>xenos</em>- foreign and <em>lith</em>- rock,
+      a rock that is foreign to the rock around it)
+      and inclusions.
+      Some volcanic eruptions begin hundreds of kilometers below the surface,
+      and gnaw at the surrounding rocks as they rise.
+      Occasionally the eruptions will carry pieces of the mantle to the surface,
+      where the observant geologist can grab a piece to study at her leisure.
+      One such sample is shown in <xref ref="fig_xenolith">Figure</xref>.
+      You may be closer to a similar piece of the mantle than you think:
+      all natural diamonds are from the mantle,
+      brought to the surface in ancient
+      (and explosive)
+      volcanic eruptions.
+      Some diamonds contain microscopic and scientifically priceless inclusions of rocks and minerals from the deep interior.
+      The study of these inclusions is revealing for example both the composition and the relative amount of oxygen in the deep mantle.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Earth's chemical layers</title>
+    <subsubsection>
+      <title>Core</title>
+      <p>
+        Anyone for calling Earth's Core?
+        Anyone with a modern smart phone can directly and personally probe Earth's core,
+        even though it lies \SI{4000}{\kilo\metre} below the surface.
+        Take out that phone and invoke the compass application
+        (<xref ref="fig_compass">Figure</xref>).
+        Spin the phone around,
+        and notice how the phone uses Earth's magnetic field to calculate the direction of the phone's pointing.
+        That magnetic field is generated in the molten and rapidly convecting outer core,
+        a part of Earth easily probed but not easily appreciated or understood.
+        Even less understood is the solid inner core within. \paragraphs{Composition} Seismic waves beautifully reveal the startling nature of the core.
+        As <xref ref="fig_interior">Figure</xref>
+        shows, Earth's density nearly doubles as one passes from the mantle to the core at depth of about 2890 km.
+        As early as 1952, studies had shown that seismic wave velocities in the core were close too,
+        but slightly less than, than those in pure Fe.
+        This led Francis Birch, one of the founders of geophysics,
+        to famously state that the core was iron with an
+        <q>uncertain mixture of all the elements<fn>
+        Birch, Francis. (1952).
+        Elasticity and constitution of the Earth's interior.
+        Journal of Geophysical Research, 57(2).
+        </fn>.</q>
+        Sixty years of research has added some precision to Birch's statement.
+        The core is predominantly
+        (<xref ref="tab_corecomp">Table</xref>)
+        an amalgam of Fe-Ni metal with 10% lighter elements,
+        most likely Si with O or S<fn>
+        Badro, J., Brodholt, J. P., Piet, H., Siebert, J., &amp; Ryerson, F. J. (2015).
+        Core formation and core composition from coupled geochemical and geophysical constraints.
+        Proceedings of the National Academy of Sciences, 112(40), 12310-12314.
+        <url href="https://doi.org/10.1073/pnas.1505672112">Link</url>
+        ; Hirose, K., Morard, G., Sinmyo, R., Umemoto, K., Hernlund, J., Helffrich, G., &amp; Labrosse, S. (2017).
+        Crystallization of silicon dioxide and compositional evolution of the Earth's core.
+        Nature, 543, 99.
+        </fn>.
+        Seismic wave velocities also reveal the mechanical state of the core.
+        Recall that P-waves can pass through both solids and fluids,
+        while S-waves can only propagate through solids.
+        S-wave velocities go to 0 km/s at the top of the outer core,
+        and stay at 0 km/s until the top of the inner core at a depth of 5150 km.
+        This behavior is expected of liquids,
+        which can't transmit S-waves.
+        This behavior is direct evidence that the outer core is a liquid,
+        while the inner core is solid.
+      </p>
+      <table xml:id="tab_ebc2">
+        <title>Earth's Bulk Elemental Composition</title>
+        \begin{threeparttable}
+        <tabular>
+          {@llll@} \toprule
+          Element    &amp;Symbol    &amp;Composition   &amp;Cumulative \\
+          &amp;          &amp;Weight %    &amp;Weight % \\ \midrule
+          Iron      &amp;Fe        &amp;85            &amp;87\\
+          Nickel    &amp;Ni        &amp;5            &amp;92\\
+          Oxygen    &amp;O        &amp;4            &amp;96\\
+          Silicon    &amp;Si        &amp;3            &amp;98\\
+          Sulphur    &amp;S        &amp;2            &amp;99\\
+          Carbon    &amp;C        &amp;2            &amp;100\\ \bottomrule
+        </tabular>
+        \begin{tablenotes}
+        \item[1] See <xref ref="fig_pt_core">Figure</xref> for the location of these elements on the periodic table.
+        \item[2] The compositions here are an amalgam of Hirose, K., Morard, G., Sinmyo, R., Umemoto, K., Hernlund, J., Helffrich, G., &amp; Labrosse, S. (2017). Crystallization of silicon dioxide and compositional evolution of the Earth's core. Nature, 543, 99 and Badro, J., Brodholt, J. P., Piet, H., Siebert, J., &amp; Ryerson, F. J. (2015). Core formation and core composition from coupled geochemical and geophysical constraints. Proceedings of the National Academy of Sciences, 112(40), 12310-12314. https://doi.org/10.1073/pnas.1505672112, constrained by a 1:1 wt/wt ratio for C and S, and 90 wt % for Fe+Ni.
+        \item[3] Rounding errors account for the small discrepancies between composition and cumulative weights.
+        \end{tablenotes}
+        \end{threeparttable}
+      </table>
+      <paragraphs>
+        <title>Inner</title>
+        <p>
+          At the very center of the planet
+          (<xref ref="fig_interior">Figure</xref>)
+          lies the inner core, the smallest, least massive,
+          hottest and youngest of all major parts of the planet,
+          and the last to be discovered.
+          The inner core makes up a little less than 1% of Earth by volume<fn>
+          According to both PREM and STW 105 models,
+          <m>V_{ic}/V_{Earth}=(1221.5/6371)^3=0.7\%</m>
+          </fn>,
+          and is so remote that it was only discovered in 1936 by<fn>
+          Ishii, M., &amp; Dziewonski, A. M. (2002).
+          The innermost inner core of the earth: Evidence for a change in anisotropic behavior at the radius of about 300 km.
+          Proceedings of the National Academy of Sciences, 99(22), 14026-14030.
+          </fn>.
+          Not until 1972 did seismologist conclusively demonstrate that the inner core is a mushy solid.
+          The inner core formed "only" <nbsp/>1 Ga and continues to grow about 1 mm/yr,
+          consuming the outer core as it goes.
+        </p>
+      </paragraphs>
+      <md>
+        <mrow>E_{reflected}=Albedo\cdot E_{SWR}</mrow>
+        <mrow>E_{reflected}=0.30\cdot \SI{340}{\watt\per\m^{2}}</mrow>
+        <mrow xml:id="eq_eref" number="yes">E_{reflected}=\SI{102}{\watt\per\m^{2}}</mrow>
+      </md>
+    </subsubsection>
+  </subsection>
+</section>

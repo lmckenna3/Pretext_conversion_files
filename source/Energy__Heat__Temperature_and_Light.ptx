@@ -1,0 +1,12 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="Energy__Heat__Temperature_and_Light">
+  <title>Energy, Heat, Temperature and Light</title>
+  <xi:include  href="EHTL_Epigraph.ptx"/>
+  <xi:include  href="EHTL_Core_Concepts.ptx"/>
+  <xi:include  href="EHTL_Opening_Problem.ptx"/>
+  <xi:include  href="Earth_is_a_closed_system.ptx"/>
+  <xi:include  href="Matter.ptx"/>
+  <xi:include  href="Energy__Heat_and_Temperature.ptx"/>
+  <xi:include  href="Blackbody_Radiation.ptx"/>
+  <xi:include  href="Earth_s_Equilibrium_Temperature.ptx"/>
+  <xi:include  href="EHTL_Figures.ptx"/>
+</chapter>

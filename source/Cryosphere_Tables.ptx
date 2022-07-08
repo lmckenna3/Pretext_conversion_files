@@ -1,0 +1,37 @@
+<section xml:id="Cryosphere_Tables">
+  <title>Tables</title>
+  <p>
+    \begin{sidewaystable} [pht] \begin{threeparttable}
+  </p>
+  <tabular>
+    {@lrrrrrrr@} \toprule
+    &amp;Extent  &amp;   Annual Change \\ \cmidrule(r){2-6} \cmidrule(r){7-8}
+    Perennial &amp; Area (%)&amp; Area (<m>Mkm^{2}</m>)  &amp; Volume (<m>Mkm^{3}</m>)&amp; Thickness (m)  &amp; SLE (m) &amp; Volume (<m>km^{3}</m>)&amp; SLE (mm) \\ \midrule
+    Antarctica  &amp;8.8  &amp;12   &amp;23    &amp;1892  &amp;58.3  &amp;0.001  &amp;0.6\\
+    Greenland    &amp;1.2  &amp;1.8  &amp;2.9  &amp;1652  &amp;7.4  &amp;0.01    &amp;0.5\\
+    Glaciers    &amp;0.5  &amp;0.74  &amp;0.16  &amp; 221  &amp;0.41  &amp;0.2    &amp;0.7\\
+    Permafrost  &amp;10.5  &amp;18    &amp;0.02  &amp;1    &amp;0.1  &amp;-      &amp;-  \\
+    <em>Total</em>&amp;21.0  &amp;33    &amp;26   &amp;-    &amp;66.2  &amp;-      &amp;1.8\\ \midrule
+    &amp;Extent  &amp;Annual Change \\ \cmidrule(r){2-6} \cmidrule(r){7-8}
+    Seasonal  &amp; Average (%) &amp; Average (<m>Mkm^{2}</m>)  &amp; Min (<m>Mkm^{2}</m>) &amp; Max (<m>Mkm^{2}</m>)  &amp; Thickness (m) &amp; Extent (<m>km^{2}</m>)&amp; Thickness (m) \\ \midrule
+    <m>\ \</m>Sea Ice     &amp; &amp; &amp;  &amp;  &amp;  &amp;  &amp;\\
+    <m>\ \ \</m>Northern  &amp;2.8  &amp;10  &amp;6.2  &amp;1.4E7  &amp;2  &amp;-0.4  &amp;-0.06\\
+    <m>\ \ \</m>Southern  &amp;3.0  &amp;11  &amp;2.9  &amp;1.9E7  &amp;1  &amp;0.2  &amp;-\\
+    <m>\ \</m>Snow        &amp; &amp; &amp;  &amp;  &amp;  &amp;  &amp;\\
+    <m>\ \ \</m>Northern  &amp;1-30  &amp;11    &amp;1.9  &amp;4.5E7  &amp;-  &amp;-0.4  &amp;-\\
+    <m>\ \ \</m>Southern  &amp;10   &amp;14.3  &amp;13.6  &amp;15  &amp;-  &amp;~0  &amp;-\\ \bottomrule
+  </tabular>
+  <p>
+    \begin{tablenotes} \item SLE is sea level equivalent,
+    the global average sea level rise from melting all the ice in each reservoir.
+    The total does <em>not</em> include floating ice. \item The
+    <q>M</q>
+    in <m>Mkm^{2}</m> and <m>Mkm^{3}</m> represents 1 million units. \item Snow cover in the Southern Hemisphere is largely on glacial and sea ice in Antarctica,
+    and doesn't substantially change Earth's albedo.
+    Ice in the Northern Hemisphere, on the other hand,
+    falls on seasonally ice-free areas. \end{tablenotes}
+  </p>
+  <p>
+    \end{threeparttable} \end{sidewaystable}
+  </p>
+</section>

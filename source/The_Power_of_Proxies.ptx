@@ -1,0 +1,268 @@
+<section xml:id="The_Power_of_Proxies">
+  <title>Measuring past climates: the power of proxies and programs</title>
+  <introduction>
+    <p>
+      Understanding recent climate changes requires precise and accurate estimates of surface temperature,
+      insolation,
+      albedo and atmospheric composition over those same times.
+      There are few to no such measurements at all until the beginning of the Enlightenment Period (<nbsp/>1650 CE), and only since 1900 CE or so has a global network of weather stations been measuring temperatures.
+      We need stand-ins,
+      something we can measure now that precisely and accurately records both the climatic conditions and the age of past environments.
+      These climate <em>proxies</em> are
+      <q>stand-ins</q>
+      for actual measurements of past climate.
+      A good climate proxy can be as seemingly simple as the width of tree rings.
+      Careful counting of tree rings establishes their age,
+      while their width is a proxy for temperature and precipitation at the time of growth.
+    </p>
+  </introduction>
+  <subsection xml:id="tab_proxies">
+    <title>How we know
+    <q>what:</q>
+    proxies</title>
+    <p>
+      A climate proxy<fn>
+      See Sam White's masterful 2013 paper, The Real Little Ice Age.
+      Journal of Interdisciplinary History, 44(3), 327-352.
+      <url href="https://doi.org/10.1162/JINH_a_00574">Link</url>.
+      </fn> is a physical, chemical and biological
+      <q>record that correlates reasonably well to a climate variable,
+      and that researchers can take reliable high-resolution measurements of that record and calibrate them against modern instrumental measurements.</q>
+      Paleo-climatologists use a wide variety of records as proxies,
+      including those as familiar as tree-rings;
+      as standard as isotopic ratios of stable elements in ice cores, corals,
+      speleothems<fn>
+      the general terms for stalagmites and stalactites,
+      deposits formed in caves from minerals dissolved in water
+      </fn>,
+      and as obscure as the relative proportion of fatty molecules containing 86 carbon atoms made by a particular marine prokaryote<fn>
+      Kim, Jung-Hyun,
+      et al., (2008), Global sediment core-top calibration of the TEX86 paleothermometer in the ocean, Geochimica et Cosmochimica Acta, 72 (4), 15 February 2008, Pages 1154-1173,
+      http://dx.doi.org/10.1016/j.gca.2007.12.010.
+      </fn>.
+      The most common proxies for paleoclimatology are listed in <xref ref="tab_proxies">table</xref>.
+      All of them share three components.
+      Each has a relatively tough physical substance that holds the record,
+      and might be sediment, ice, wood, or rock.
+      All proxies have some way of accumulating the substance in layers that allow the age of the substance to be calculated.
+      For example, in glaciers and trees,
+      annual variations in snow fall and tree growth lead to annual layering,
+      while in sediments variations in Earth's orbit might produce layers spanning hundreds of thousands of years<fn>
+      Hinnov, L. A. (2013).
+      Cyclostratigraphy and its revolutionizing applications in the earth and planetary sciences.
+      Geological Society of America Bulletin, 125(11-12), 1703-1734.
+      <url href="https://doi.org/10.1130/B30934.1">Link</url>
+      </fn>.
+      Finally, there must be something in the record that is sensitive to climatological aspects,
+      the proxy itself.
+      Glacial ice contains sulphate compounds,
+      which reflect the volume of volcanic eruptions,
+      while the relative abundance of different species of single-celled foraminifera reflect the temperature and salinity of the oceans in which they grew.
+      Stable isotope ratios in those same shells are also good proxies for water temperature and acidity,
+      and can even constrain the mass of ice on the continents.
+    </p>
+    <p>
+      \begin{sidewaystable}
+    </p>
+    <tabular>
+      {@llllllllll@} \\ \toprule
+      &amp;  &amp;Proxies \\ \cmidrule(l){3-10}
+      &amp;  &amp;Physical &amp;Biological&amp;Chemical \\ \cmidrule(lr){3-4}  \cmidrule(lr){5-8} \cmidrule(l){9-10}
+      Recorder &amp; Period (y)  &amp;Form  &amp;Dust &amp;Fossils  &amp;Charcoal  &amp;Pollen, spores  &amp;Biomarkers  &amp;Stable isotopes  &amp;Chemistry   \\ \midrule
+      Sediments    &amp; 1-0.5 Ma  &amp;Sed. character  &amp;\checkmark  &amp;\checkmark  &amp;\checkmark  &amp;\checkmark  &amp;\checkmark  &amp;\checkmark  &amp;\checkmark \\
+      Ice          &amp;1-100 y    &amp;  &amp;\checkmark  &amp;  &amp;  &amp;  &amp;  &amp;O, H, N &amp;Na, SO4\\
+      Speleothems  &amp;1-20 y    &amp;\checkmark  &amp;  &amp;  &amp;  &amp;  &amp;  &amp;O &amp;Th, U\\
+      Trees        &amp;1-10 y      &amp;Ring width  &amp;  &amp;  &amp;  &amp;  &amp;  &amp;O, C, N &amp;Zn, Pb\\
+      Corals      &amp;1-20 y      &amp;\checkmark  &amp;  &amp;  &amp;  &amp;  &amp;  &amp;O, C &amp;Th, U\\ \bottomrule
+    </tabular>
+    <p>
+      \end{sidewaystable}
+    </p>
+  </subsection>
+  <subsection>
+    <title>How we know
+    <q>when:</q>
+    chronology</title>
+    <p>
+      The power of proxies rests on their ability to constrain the climate at a certain point in the past.
+      For ice cores and rings from living trees,
+      finding the age of a proxy is as straightforward as counting annual layers,
+      although the inevitable complexities of nature lead to errors of 1-2% in the ages<fn>
+      Svensson, A., Andersen, K. K., Bigler, M., Clausen, H. B., Dahl-Jensen, D., Davies, S. M., ... &amp; Steffensen, J. P. (2006).
+      The Greenland ice core chronology 2005, 15-42 ka.
+      Part 2: comparison to other records.
+      Quaternary Science Reviews, 25(23-24), 3258-3267,
+      <url href="https://pdfs.semanticscholar.org/273c/c5454f8f3fef1e698bb3d1da55fff48ccc42.pdf">Link</url>
+      </fn>.
+      Sediments, speleothems and corals are typically dated radiometrically,
+      using the decay of radioactive isotopes measured in the samples to date a few key horizons,
+      and then assuming a constant rate of formation between the dated horizons<fn>
+      for one of thousands of examples of this,
+      see Zhang, P., Cheng, H., Edwards, R. L., Chen, F., Wang, Y., Yang, X., ... &amp; An, C. (2008).
+      A test of climate, sun,
+      and culture relationships from an 1810-year Chinese cave record. science, 322(5903), 940-942.
+      My nature requires that I mention Gould, S. J. (1965).
+      Is uniformitarianism necessary?. American journal of science, 263(3), 223-228 as a persuasive counter to such assumptions.
+      </fn> Regardless of how a record is dated,
+      the accuracy of the age is generally inversely proportional to the age,
+      so as the age increases, so too does the uncertainty in that age.
+      Natural processes tend to
+      <q>smear</q>
+      proxies across their record as well,
+      which essentially averages a proxy signal over many time periods.
+    </p>
+  </subsection>
+  <subsection>
+    <title>How we know
+    <q>where:</q>
+    field work</title>
+    <p>
+      The final facet of proxies we need to consider is their location,
+      their place.
+      For some proxy records, location is straight forward:
+      a tree ring clearly must be from the place the tree grew.
+      But in other cases, place is not so straightforward.
+      Most sediment cores are collected from the sea floor.
+      As we learned in Chapter 6, tectonic plates are constantly on the move,
+      so sediments even a few million years old have moved since they were deposited.
+      The climate signals recorded in speleothems reflect the average climate conditions over a large area proximate to the cave in which it is found,
+      not just at the cave itself.
+      Regardless of the area over which a proxy record records climate,
+      scientists still need to get into the field to collect it.
+      Field work is for many scientists a great joy of the job,
+      even though it's often exhausting,
+      filthy and occasionally dangerous work.
+      Despite the travails, being
+      <q>in the field</q>
+      allows scientists to determine the setting and regional context of the record they are extracting from nature.
+      Even cursory visual inspection in the field of an ice core,
+      coral sample, or tree section can reveal interruptions,
+      damage or alteration that reduce the sample's utility,
+      allowing collection of additional samples.
+    </p>
+  </subsection>
+  <subsection>
+    <title>How we test hypotheses: models</title>
+    <p>
+      Dr.
+      Wubbo Octels was a physicist,
+      astronaut and keen observer of our planet<fn>
+      http://www.esa.int/Our_Activities/Human_Spaceflight/Astronauts/Wubbo_J._Ockels,
+      assessed 10 December 2018
+      </fn> who once noted that
+      <q>There's only one earth.
+      And there's no spare.</q>
+      While Octels meant that statement to be a call to environmental action,
+      it is also a cause to pause for a moment and ask how climatologists can do hypothesis-driven science if we only have one climate.
+      You probably learned in high school or college classes that science good science involves studies with control runs and experimental runs,
+      all rigidly testing single hypotheses.
+      Real science doesn't run like that,
+      particularly in the sciences (geology, meteorology, astronomy,
+      evolution) that study enormous,
+      complicated, or extinct systems.
+      In these fields, we turn to <em>natural experiments</em>
+      provided by nature to test hypotheses<fn>
+      see the spectacular Understanding Science. 2018.
+      University of California Museum of Paleontology.
+      Accessed 10 December 2018; specifically
+      <url href="https://undsci.berkeley.edu/article/0_0_0/howscienceworks_08">page 8</url>
+      of their site.
+      This brilliant site is good reading for all undergraduate students
+      </fn>.
+      We have, fortunately, no way of generating tornadoes;
+      instead meteorologists use their natural occurrence over time and space to test hypotheses about their formation and behavior<fn>
+      Perkins, Sid, Extreme tornado outbreaks are getting worse, but why?
+      Dec. 1, 2016, Science Magazine doi:10.1126/science.aal0449
+      <url href="https://www.sciencemag.org/news/2016/12/extreme-tornado-outbreaks-are-getting-worse-why">link</url>,
+      accessed 10 December 2018
+      </fn>.
+      As we'll see below,
+      the last 65 My of Earth's history provides exactly these kinds of natural experiments,
+      which is why understanding Earth's past behavior is crucial to understanding soon-to-be climates.
+      After all, we <em>are</em> unintentionally running an experiment with climate:
+      for 250 years we've been pumping greenhouse gasses into the atmosphere,
+      and climate has in fact changed.
+      But how can we be sure this correlation involves cause,
+      and not coincidence?
+    </p>
+    <p>
+      Enter computer models, which attempt to approximate those enormous,
+      complicated systems with mathematics.
+      Some models are quite simple,
+      doable with pencil and paper.
+      Arguably the very first climate model was done in 1896 by Sweedish chemist Svante Arrhenius<fn>
+      Wearth, Spencer.
+      The Discovery of Global Warming, February 2018
+      <url href="shttps://history.aip.org/climate/co2.htm#S1">link</url>,
+      accessed 10 December 2018
+      </fn>,
+      who with pencil and paper correctly predicted that doubling the atmospheric concentration of <m>CO_2</m> would raise average surface temperatures by \SIrange{5}{6}{\celsius}
+      (<m>9-11 ^\circ\,F</m>).
+      Arrhenius's work demonstrated the key aspect of climate models:
+      use math to approximate the physics driving climate,
+      and then change some part of the system and watch what happens to the rest.
+      Energy balance models are a bit more complicated,
+      using incoming and outgoing radiation,
+      greenhouse gas concentrations and albedo to predict surface and atmospheric temperatures.
+      You used just such a model in Chapter 4 to calculate Earth's average surface temperature for a variety of conditions!
+      Intermediate complexity models add details<fn>
+      Harper, Lauren, 18 May 2018.
+      What Are Climate Models and How Accurate Are They?
+      Earth Institute at Columbia Unversity
+      <url href="https://blogs.ei.columbia.edu/2018/05/18/climate-models-accuracy">link</url>,
+      accessed 10 December 2018
+      </fn> of land, oceans,
+      atmosphere and cryosphere to the model.
+      More accurate are Atmosphere-Ocean General Circulation Models,
+      which can resolve movement in the ocean and atmosphere,
+      so provide insight into how the circulation of the spheres change over time.
+      These complex models divide the atmosphere and ocean into cells,
+      typically 100 km across and a few hundred meters thick
+      (<xref ref="modelgrid">Figure</xref>).
+      AOGCMs are accurate for seasonal to decadal time scales<fn>
+      IPCC AR5, Chapter 9, section 9.1.2.1
+      </fn>,
+      because they lack an important part of the climate:
+      feed backs between the spheres and the cycles of the elements,
+      particularly the carbon cycle.
+      Earth System Models do just this,
+      incorporating an array of feedback processes in the models.
+      If you or a friend have used gaming consoles,
+      you are aware how games' complexity and realism grows as computers get faster and more powerful.
+      So too with climate models,
+      the most complex of which require hours-long runs on supercomputers
+      (<xref ref="modelgrid">Figure</xref>).
+      Additional details are avialalbe at CarbonBrief (
+      <url href="https://www.carbonbrief.org/qa-how-do-climate-models-work">Link</url>
+      )
+    </p>
+    <p>
+      But the results are worth the effort:
+      they are the very experimental Earths we need.
+      A particularity important demonstration of the power of models is shown in <xref ref="fig_2models">Figure</xref>.
+      In the upper pane,
+      the actual average surface temperature is shown by the heavy black line.
+      Swarming around it are light yellow lines,
+      each showing the temperature produced by roughly 14 AOGCM models run 58 times,
+      driven by all natural and anthropogenic forcings,
+      including human-produced greenhouse gasses and pollutants.
+      The scattered results are due to slight differences between the models and the data input in to them.
+      One way to reduce this noise is to average the results,
+      shown by the red line,
+      which nicely matches the observed temperature trend,
+      including the episodic, sudden,
+      but brief drops in temperature caused by volcanic eruptions
+      (shown by the dashed vertical lines).
+      In the lower pane are 19 experiments from 5 models
+      (in light blue),
+      but here the anthropogenic forcings are omitted from the models.
+      Note how the modeled temperatures
+      (in dark blue)
+      veer from actual temperatures in the early 1960s,
+      with the differences increasing as the models approach the <m>21^{st}</m> Century.
+      This is the power of models:
+      to test hypotheses about climate's past, present and future,
+      and to attribute observed changes to actual causes.
+    </p>
+  </subsection>
+</section>

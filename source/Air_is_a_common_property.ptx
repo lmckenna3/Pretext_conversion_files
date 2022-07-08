@@ -1,0 +1,244 @@
+<section xml:id="Air_is_a_common_property">
+  <title>No one owns the air, but everybody can use it</title>
+  <introduction>
+    <p>
+      You've probably never lived through the type of killer smog that settled over Donora, Pennsylvania in October, 1948.
+      For a few days before Halloween,
+      an atmospheric temperature inversion created a
+      <q>lid</q>
+      over the valley,
+      trapping the exhaust from the mills lining the town's river.
+      Over 4 days the concentrated pollutants from those mills killed 20 mostly elderly people and sickened nearly half the residents<fn>
+      Hamill, S. D. (2008).
+      Unveiling a museum,
+      a Pennsylvania town remembers the smog that killed 20.
+      New York Times, page A22, November 1, 2008
+      </fn>.
+      A similar event in London in December of 1952 killed over 4000 people in just one week<fn>
+      The Great Smog of 1952, http://www.metoffice.gov.uk/learning/learn-about-the-weather/weather-phenomena/case-studies/great-smog,
+      accessed 05 September 2016
+      </fn>.
+      These disasters are essentially absent now in the United States and other developed nations because of laws,
+      such as the US <em>Clean Air Act</em><fn>
+      Title 42 U.S.C., ch. 85, subch.
+      I &#xa7;7401 <em>et seq.</em>
+      </fn>,
+      that limit the type and quantity of pollution emitted into the atmosphere.
+      Since its original passage in 1963,
+      and a visionary strengthening signed into law by President Richard Nixon in 1970,
+      the CAA has saved thousands of lives<fn>
+      Chay and Greenstone, M. (2003).
+      Air quality, infant mortality,
+      and the Clean Air Act of 1970.
+      Working Paper 10053, National Bureau of Economic Research
+      </fn> and billions of dollars in health care costs and even increased American's productivity to the tune of over $100 billion<fn>
+      Isen, A., Rossin-Slater, M., &amp; Walker, W. R. (2014).
+      Every Breath You Take-Every Dollar You'll Make: The Long-Term Consequences of the Clean Air Act of 1970 (No. w19858).
+      National Bureau of Economic Research, page 30
+      </fn>.
+      The US Environmental Protection Agency (EPA) has even devised an Air Quality Index (AQI), which indicates the relative unhealthiness of polluted air,
+      as determined from the concentrations of five pollutants regulated
+      (in the U.S.)
+      by the <em>Clean Air Act</em>.
+      An AQI of less than 50 is considered
+      <q>good</q>
+      quality air,
+      while a reading over 300 indicates that the air is harmful to everyone,
+      even healthy adults.
+      The US Environmental Protection Agency AQI scale ends at 500.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Air pollution in Eastern China</title>
+    <introduction>
+      <p>
+        The residents of developing nations aren't so lucky as those in wealthier countires.
+        Rohde and Muller report that
+        <q>Air pollution is a problem for much of the developing world and is believed to kill more people worldwide than AIDS, malaria,
+        breast cancer, or tuberculosis</q><fn>
+        Rohde, R. A., &amp; Muller, R. A. (2015).
+        Air pollution in China: Mapping of concentrations and sources.
+        PloS one, 10(8), e0135749
+        </fn>.
+        Residents of eastern China suffer from air pollution so thick and pervasive it is visible from Earth orbit
+        (<xref ref="fig_china_pollution_ab">Figure</xref>)
+        and can easily be mistaken for fog
+        (<xref ref="fig_china_pollution_c">Figure</xref>).
+        Just as in Donora and London,
+        the air in Beijing is filled with the byproducts of combustion and industrial production.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Local issues</title>
+      <p>
+        At the time <xref ref="fig_china_pollution_ab">Figure</xref> was taken,
+        the AQI in this part of China was 341.
+        Two days before, on January 12, 2013, AQI in Beijing was 775.
+        Air pollution in Beijing is literary off-scale awful.
+        Recall the London
+        <q>killer fog</q>
+        which contributed to the death of 4000 Londeners in just one week?
+        Over 4000 Chinese citizens die <em>every day</em>
+        from the pollution in Chinese skies<fn>
+        Rhode and Muller, <em>op cit.</em>
+        </fn>.
+        This is equivalent to roughly 1.6 million Chinese deaths per year,
+        at least during the period of Rhode and Muller's study in 2012.
+        This mortality is largely due to microscopic particulate matter,
+        less than \SI{10}{\micro\meter}
+        (approximately <m>\frac{4}{10000}</m> inches)
+        across
+        (see <xref ref="fig_EPA_pm">Figure</xref>).
+        Such particles,
+        common in the exhaust plumes emitted by accelerating diesel-powered buses or trucks,
+        lodge in the lungs and increase the risk of stroke,
+        heart disease, lung cancer and respiratory diseases<fn>
+        Rhode and Muller, <em>op cit.</em>
+        </fn>.
+        Over 80% of all Chinese people are exposed to particulate matter concentrations that exceed the levels healthy for
+        <q>sensitive groups</q>
+        in the population, such as the elderly and the young.
+        Almost 40% of Chinese people are subjected to air in which the concentration of particulate material is dangerous to all people.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Local causes</title>
+      <p>
+        The source of all this pollution is combustion of fuels,
+        largely coal and wood, in China.
+        The energy released by this burning is used to generate power for industrial production,
+        to generate electrical power,
+        to heat homes, and to provide transportation.
+        Coal burning alone is responsible for about 40% of all air pollution-related deaths in China,<fn>
+        Wong, Edward.
+        Burned Coal Is Deadliest Part of China's Polluted Air, Study Says.
+        The New York Times, Thursday August 18, 2016 Thursday,
+        page 8, 805 words.
+        LexisNexis Academic.
+        Web.
+        Date Accessed: 2016/09/13
+        </fn>,
+        and accounts for approximately one quarter of all the pollution-related premature deaths in China in recent years.
+        While the Chinese government has announced plans to strike
+        <q>heavy blows</q>
+        in the efforts to reduce air pollution<fn>
+        Liu, Qui. 13th Five-Year Plan is the first to include PM2.5 targets,ChinaDialogue,
+        <url href="https://www.chinadialogue.net/article/show/single/en/8696-13th-Five-Year-Plan-is-the-first-to-include-PM2-5-targets">link</url>,
+        accessed 2016/11/01.
+        </fn>, China still burns almost as much coal as th erest of the world combined.
+        Chinese industries are also far less efficient than their western counterparts,
+        emitting 6-30 <em>times</em> more pollution when accounting for the total value of goods made in each country<fn>
+        Lin, J., Pan, D., Davis, S. J., Zhang, Q., He, K., Wang, C., ... &amp; Guan, D. (2014).
+        China's international trade and air pollution in the United States.
+        Proceedings of the National Academy of Sciences, 111(5), 1736-1741.
+        Table S1.
+        </fn>.
+        This reflects a fundamental difference between the Chinese economy and that of the United States.
+        In the United States,
+        manufacturing creates only 12% of the country's annual wealth,
+        while in China this value is 3 times higher, approximately 38%<fn>
+        Lin et al. quote 43% in 2006.
+        The World Bank
+        <url href="http://databank.worldbank.org/data/reports.aspx?source=2&amp;series=NV.IND.MANF.ZS&amp;country=">Data Bank</url>
+        has substantially lower values of 33% in 2007.
+        I quote the average.
+        </fn> This dominance is hardly surprising.
+        China has become the largest manufacturer in the world,
+        surpassing the United States in 2009.
+        What might be surprising is that only 1/3 of all this manufacturing is actually consumed by the Chinese people:
+        the rest is exported across the world<fn>
+        Berger, B., &amp; Martin, R. F. (2011).
+        The growth of Chinese exports: An examination of the detailed trade data.
+        Board of Governors of the Federal Reserve System, International Finance discussion papers, 1033.
+        </fn>,
+        mostly to the well-developed countries of Europe and North America,
+        including the United States.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Transport to North America</title>
+    <introduction>
+      <p>
+        Manufactured goods aren't the only thing China exports to the United States.
+        Winds carry significant quantities of the pollution in Chinese skies to Western North America.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Local issues</title>
+      <p>
+        This pollution has measurably worsened air quality in the western United States,
+        and even forced cities in California to pay fines for violating the
+        <em>Clean Air Act</em><fn>
+        Hand, E. (2014).
+        China blamed for US ozone.
+        Science, 345(6202), 1233-1233.
+        </fn>!
+        The precise pollutant responsible for this was <em>not</em>
+        PM, but ozone, O$_{ 3 }$, generated by industrial activity in China.
+        The magnitude of this transport is remarkable.
+        In the 20 years from 1990 to 2010, O$_{ 3 }$ concentrations dropped extensively across rural areas of the Eastern United States,
+        reflecting the successful limitation of local O$_{ 3 }$ sources.
+        In the western United States, 5 <em>times</em>
+        fewer rural stations recorded decreases in O$_{ 3 }$.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Distant Causes</title>
+      <p>
+        Approximately 40% of the difference is due to O$_{ 3 }$ or its precursors produced in China and borne to the United States by westerly winds blowing across the Pacific.
+        These winds and their trajectories are nicely shown in <xref ref="fig_O3_pac_winds">Figure</xref>,
+        which traces particulate matter
+        (most of it natural)
+        being carried from eastern Asia to western North America.
+        Despite the indirect trajectory,
+        the illustration shows that air from China reaches the coast of North America in just days;
+        ozone and other pollutants produced in China can last weeks in the lower atmosphere<fn>
+        Monks, P. S., Archibald, A. T., Colette, A., Cooper, O., Coyle, M., Derwent, R., ... &amp; Stevenson, D. S. (2015).
+        Tropospheric ozone and its precursors from the urban to the global scale from air quality to short-lived climate forcer.
+        Atmospheric Chemistry and Physics, 15(15), 8889-8973.
+        </fn>.
+        Once they wash over North America,
+        those pollutants inflict some costs on the local residents,
+        both financial and personal.
+        Chinese pollution is a hemispheric problem,
+        an hypothesis well described as early as 2003<fn>
+        Akimoto, H.: Global air quality and pollution, Science, 302, 1716- 1719, 2003.
+        </fn>.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>
+      <q>Trade</q>
+      pollution and what local and distant now mean</title>
+      <p>
+        The residents of Donora, Pennsylvania suffered a terrible tragedy in 1948.
+        Both the immediate cause and suffering of that disaster were
+        <q>local</q>
+        by any standard:
+        emissions in one small town caused death and injury in that one small town.
+        By 1952, the scale of the problem had grown:
+        the entire city of London was bathed in smog,
+        but still the cause of the pollution was well within the affected area.
+        If you can order a phone charger on Monday,
+        and have it shipped to your house in a few days from China,
+        how is China
+        <q>distant?</q>
+        If the pollution generated by the manufacture of that charger reaches your house a few days later,
+        how is your
+        <q>local</q>
+        environment not affected?
+        Even as modern transportation and communication infrastructure allows inter-continental ordering,
+        manufacturing and shipping to flourish, we find that
+        <q>local</q>
+        and
+        <q>distant</q>
+        have become fuzzy concepts.
+        And so too have the ideas of harm and responsibility.
+        Who's to blame for pollution in your backyard caused by a Chinese manufacturing plant making a phone charger for you?
+        Can it be that anyone and everyone owns the atmosphere,
+        but no one is responsible for it?
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

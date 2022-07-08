@@ -1,0 +1,445 @@
+<section xml:id="The_Evolution_of_Morals">
+  <title>Altruism, Reciprocity and the Evolution of Morals</title>
+  <introduction>
+    <p>
+      The answer is that people <em>do</em> look out for each other.
+      This altruism is the social glue holding human
+      (and other primate)
+      groups together.
+      Altruism is the act of incurring some cost to the self,
+      so that another benefits<fn>
+      Buss, D. (2012).
+      Evolutionary psychology: The new science of the mind, 4th Edition Psychology Press,
+      page 238.
+      </fn>.
+      Altruistic behavior<mdash/>towards one's kin,
+      friends, fellow citizens, even probable enemies<fn>
+      Luke 10:25-37, the Parable of the Good Samaritan
+      </fn><mdash/>exists because it increases the fitness of societies.
+      Altruism makes societies more likely to succeed, survive and thrive.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Users and their frequency determine the fate of CPRs</title>
+    <p>
+      As we saw in <xref ref="collective_action">Section</xref>,
+      collective action problems often have no technical solution.
+      Instead, their solution lies in changing individuals' rational choice to benefit themselves on the short term to actions which avoid disaster for societies in the long-term.
+      Users of any CPR fall into four broad categories<fn>
+      Ostrom, E. (1999).
+      Revisiting the Commons: Local Lessons, Global Challenges.
+      Science, 284(5412), 278-282
+      <url href="https://doi.org/10.1126/science.284.5412.278">Link</url>
+      </fn>.
+      <em>Free-loaders</em> are those who never waiver from rational self-interest and never cooperate with others in solving the collective action dilemma.
+      <em>Conditional cooperators</em>
+      will only help if guaranteed there is no free-loading by others.
+      <em>Provisional Cooperators</em> cooperate willingly,
+      under the hope that others will reciprocate and cooperate as well.
+      Finally, true <em>altruists</em>
+      willingly cooperate to solve the collective action problem without any conditions at all.
+      <xref ref="fig_CPR_users">Figure</xref>
+      shows the spectrum of user behaviors,
+      and a rough estimate for the proportion of each user type in a society.
+    </p>
+    <p>
+      Societies solve the collective action dilemma when their rules and behaviors increase the proportion of conditional cooperators over time,
+      as shown by the blue,
+      solid line in <xref ref="fig_CPR_users">Figure</xref>.
+      Societies where free-loaders are too common,
+      or where rules and behaviors allow free-loaders to increase,
+      tend to spiral into the Tragedy of the Common (red dash-dot line)<fn>
+      Vollan, B., &amp; Ostrom, E. (2010).
+      Cooperation and the Commons.
+      Science, 330(6006), 923-924.
+      <url href="https://doi.org/10.1126/science.1198347">Link</url>
+      </fn>.
+      These fates are schematically shown on the right panel of <xref ref="fig_CPR_users">Figure</xref>
+      with more cooperation leading to long-term success,
+      and less leading to, well, less.
+      Note the similarity of these trajectories to those of lobster and cod in <xref ref="fig_cod_lobstah">Figure</xref>.
+      The small proportion of altruists plays a unique role in nucleating cooperation amongst others in a society.
+      Without them, cooperation is hard to initiate,
+      and collective action dilemma lead to catastrophe.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Why would anyone choose altruism?</title>
+    <p>
+      But being an altruist can be risky.
+      Perhaps you've been in a long line<mdash/>for a concert,
+      a new product,
+      or bus<mdash/>and someone jumped in to line in front of you.
+      Before you even decide how to react,
+      someone ahead of her calls the line jumper out.
+      This is a situation fraught with danger for that altruist who,
+      with no expectation that any of the strangers in line with him will ever help him out in a similar situation,
+      tries to prevent a free-loader from abusing the system.
+      The free-loader could simply walk away,
+      fight back, or just ignore the altruist.
+      You and all the others in line are in that crucial middle group of potential
+      <q>cooperators,</q>
+      whose reaction may determine the situation's outcome.
+      Regardless, the altruist has little to gain,
+      and much to loose from his actions.
+      Altruism is a human trait,
+      witnessed across cultures and across our history<fn>
+      Buss, D. (2012).
+      Evolutionary psychology: The new science of the mind, 4th Edition Psychology Press,
+      page 269.
+      </fn>,
+      and yet the altruist's actions lead to no direct gains.
+      Firefighters rush in to a burning building to save a child they've never met;
+      strangers jump into rivers to rescue strangers;
+      a soldier risks death to protect fellow citizens who will never hear of the sacrifice.
+      How can altruism exist in human societies if it carries such risks?
+    </p>
+    <p>
+      Because it is evolutionarily helpful, not to the individual,
+      but to the altruist's kin (relatives) and the rest of their society.
+      Altruism makes societies more fit,
+      and more likely to continue.
+      Altruism evolved and remains part of human behavior because it's good for human societies.
+      People don't choose to be altruistic.
+      People <em>are</em> altruistic.
+      It's n their genes.
+    </p>
+  </subsection>
+  <subsection xml:id="moral_science">
+    <title>The Science of Morality</title>
+    <introduction>
+      <p>
+        Charles Darwin himself thought morals were simply a response to evolutionary pressures.
+        In The Descent of Man<fn>
+        Darwin, Charles (1871).
+        The Descent of Man, and Selection in Relation to Sex.
+        London: John Murray. 1st ed., pg 93.
+        Facsimile available at
+        <url href="http://darwin-online.org.uk/EditorialIntroductions/Freeman_TheDescentofMan.html">Darwin Online</url>,
+        accessed 15 March 2017
+        </fn>, Darwin realized that
+        <q>No tribe could hold together if murder, robbery,
+        treachery, &amp;c., were common;
+        consequently such crimes within the limits of the same tribe 'are branded with everlasting infamy'....</q>
+        But it isn't just altruism that evolved in this way.
+        So too have morals,
+        the very foundation of how humans decide between right and wrong.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Evolutionary Moral Psychology</title>
+      <p>
+        Contemplate your brain for a moment.
+        One organ among six or seven dozen,
+        but it consumes 20% of all the energy
+        (and oxygen)
+        you consume in a day<fn>
+        Swaminathan, N. (2008).
+        Why does the brain need so much power.
+        Scientific American, 29(04), 2998.
+        </fn>.
+        The human brain is a remarkable thing,
+        but it isn't wholly human.
+        Deep in the brain's interio (<xref ref="fig_brain_affec_cog">Figure</xref>
+        lie the midbrain and the hindbrain.
+        These are (evolutionarily speaking) the most ancient parts of the brain,
+        as mammals,
+        birds and most reptiles all have them.
+        The fore brain<mdash/>the part of your brain that did all that thinking about your brain is evolutionarily recent.
+        As you just demonstrated, the forebrain is all about cognition:
+        the act of making conscious, deliberative choices.
+        The mid- and hind-brains are all about emotions,
+        about the ingrained and hard-to-control <em>feelings</em>
+        we get when confronted with danger,
+        injustice, or moral violations<fn>
+        Haidt, J. (2007).
+        The new synthesis in moral psychology.
+        Science, 316(5827), 998-1002.
+        </fn>.
+        The fore brain is the thoughtful, cognitive brain part.
+        The mid- and hind-brain are the intuitive,
+        affective part of our brains,
+        the part that handles moods, feelings and attitudes.
+        A raft of research since the 1980s<fn>
+        Reviewed in Haidt, Op.
+        Cit.
+        </fn> indicates that our affective brains automatically,
+        quickly, and intuitively interpret the world around us.
+        Morals<mdash/>our deeply held beliefs of what is fundamentally good or bad,
+        what actions are just and which are not<mdash/>emerge unconsciously from the affective brain,
+        where they are thoughtfully shaped into actions by the cognitive part.
+      </p>
+      <p>
+        Evolution selects for traits,
+        including actions, that make an individual more likely to reproduce.
+        But our actions are driven by our moral beliefs,
+        which are ultimately built and shaped by the affective brain.
+        As the brain evolves, so too must our morals.
+        Morality emerges in humans because it increases reproductive success,
+        just as Darwin suggested.
+        Altruism, the moral choice of putting others before self,
+        exists because,
+        it increases the chance that the altruists' genes will be reproduced.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Not the altruist, just their genes!</title>
+      <p>
+        Altruism increases reproductive success in three different ways,
+        each less direct than the other.
+        The most direct way is through <em>kin selection</em>.
+        Your kin, or family, share many of the same genes.
+        So altruistically sacrificing self for a child, sibling,
+        or parent propagates <m>1/2</m> of one's own genes,
+        if they benefit at least twice as much as you sacrifice.
+        Cousins?
+        Not so much<mdash/>they share only <m>1/8</m> of your genes,
+        so they'll need a benefit 8 times your cost.
+        Acting altruistically to kin makes evolutionary sense,
+        and does much to explain why all human societies have complicated rules for deciding who's kin,
+        and how close those kin are.
+        But kin selection doesn't explain why anyone would help a non-relative within their group,
+        let alone a complete stranger.
+      </p>
+      <p>
+        Reciprocity<mdash/>you scratch my back,
+        and I'll scratch yours<mdash/>is a basic component of the social glue that binds societies together.
+        And not just human societies!
+        Many primate species
+        (including chimpanzees, bonobos, capuchins, tamarins)
+        also share reciprocally with non-related others in their group.
+        The best example is food sharing<fn>
+        Jaeggi, A. V., &amp; Gurven, M. (2013).
+        Reciprocity explains food sharing in humans and other primates independent of kin selection and tolerated scrounging:
+        a phylogenetic meta-analysis.
+        Proceedings of the Royal Society B: Biological Sciences, 280(1768), 20131615-20131615. https://doi.org/10.1098/rspb.2013.1615
+        </fn> (<xref ref="fig_bonobos_food_sharing">Figure</xref>),
+        where individuals share food when they have a surplus,
+        on the condition that such sharing is reciprocated in the future.
+        This <em>reciprocal altruism</em>
+        increases the fitness and health of all group members,
+        if every individual shares.
+        Free-loaders could
+        <q>game</q>
+        this system by taking, but not giving, food or other resources.
+        But human (and other primate) brains are hard-wired,
+        probably in the affective portion, do detect,
+        remember and punish free-loaders<fn>
+        Jaeggi, A. V., &amp; Gurven, M. Op.
+        Cit.
+        </fn>.
+        You are familiar with this if you have an aquantance who is happy to share your pizza,
+        but never seems to offer any of hers.
+        Reciprocal altruism increases the fitness of large groups because it leads to effective punishment of free-loaders,
+        reducing their frequency in a population,
+        and making the entire group more successful.
+      </p>
+      <p>
+        The third, and most controversial,
+        of the three evolutionary forces shaping morality is
+        <em>group selection</em>.
+        Kin selection and reciprocal altruism don't explain all aspects of human cooperation<fn>
+        Bowles, S., &amp; Gintis, H. (2011).
+        A cooperative species: Human reciprocity and its evolution.
+        Princeton University Press, pg 198-9, as quoted in Callicott, J. B. (2014).
+        Thinking like a planet: The land ethic and the earth ethic.
+        Oxford University Press.
+        </fn>.
+        Members of the armed forces, for example,
+        suffer extraordinary sacrifices with little hope of reciprocal benefit from to benefit their fellow citizens,
+        their extended
+        <q>group</q>. Shared morals allow individuals to identify their
+        <q>group,</q>
+        and allows that group to prosper in the future.
+        As Haidt noted,
+        <q>morality binds and builds;
+        it constrains individuals and ties them to each other to create groups that are emergent entities with new properties.... Humans attain their extreme group solidarity by forming moral communities within which selfishness is punished and virtue rewarded.</q>
+        Examples of this group selection are currently prominent in many areas of the world,
+        where residents are objecting,
+        sometimes violently, to the immigration of
+        <q>other</q>
+        people into their country<fn>
+        See, for example,
+        <url href="http://www.desmoinesregister.com/story/news/politics/2017/03/13/iowa-gop-chair-jeff-kaufmann-condemns-steve-king-our-civilization-tweet/99116748/">this article</url>
+        from the Des Moines Register
+        </fn>.
+        In 2017 CE,
+        <q>other</q>
+        has been defined by religion<fn>
+        <url href="http://www.bbc.com/news/world-europe-39287689">BBC</url>
+        Dutch election: Wilders defeat celebrated by PM Rutte,
+        accessed 17 March 2017
+        </fn>,
+        nationality<fn>
+        <url href="http://www.foxnews.com/politics/2017/01/25/trump-to-order-construction-us-mexican-border-wall-reportedly-to-suspend-refugee-program.html">Fox News</url>
+        Trump to order construction of US-Mexico border wall;
+        expected to suspend refugee program, accessed 17 March 2017
+        </fn>,
+        ethnic background<fn>
+        <url href="http://www.newsweek.com/2016/10/07/why-ethiopian-jews-israel-face-discrimination-racism-police-brutality-502697.html">US News and World Report</url>
+        Why Ethiopian Jews Face Increasing Discrimination and Police Brutality in Israel,
+        accessed 17 March 2017
+        </fn>,
+        and socio-economic class.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Reciprocity requires trust that others will, well, reciprocate</title>
+      <p>
+        The previous sections demonstrated that altruism is an inherent moral imperative,
+        practiced intimately with one's kin,
+        directly with one's friends and acquaintances,
+        and indirectly in large groups with whom we have a common moral stance.
+        Reputation is the currency of all this altruism.
+        Reputation grants the promise of future reciprocity and benefit;
+        it fuels trust and hence altruism.
+        Humans spend a remarkable amount of time managing their reputations
+        (deleted anything from a social media account recently?),
+        and clearly it has played a role in shaping our views of morality<fn>
+        Haidt, Op.
+        Cit.
+        </fn> In a large group,
+        individuals with positive reputations can lead the group in sanctioning or punishing free-loaders.
+        Social reputation becomes increasingly important as a substitute for personal reputation as human groups grow.
+        In very large groups,
+        social reputation may be the only currency that matters,
+        as any one who has taken down a social media page applying for a job can attest.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Who is your neighbor? What are your responsibilities?</title>
+    <introduction>
+      <p>
+        Humans evolved in small groups,
+        where reputation was personal,
+        kin were close by, and group identity was easy to manage.
+        Our moral machinery evolved in exactly the same circumstances,
+        so our morals have evolved to be personal, direct and reciprocal.
+        Our
+        <q>standard moral calculus,</q>
+        the default ways our affective and cognitive brains
+        <q>see</q>
+        morality, reflects this small group upbringing.
+        Humans think harms and their causes are <em>individual</em>,
+        that cause and effect are close in space and time<fn>
+        Jamieson, D. (1992) Ethics, Public Policy,
+        and Global Warming, Science, Technology, &amp; Human Values, Vol. 17, No. 2 (Spring, 1992), pg. 148
+        </fn>.
+        If we return to our car and find a new dent in the fender (harm),
+        we immediately investigate to see who (cause) might have done it,
+        because we know the culprit was here since we parked the car
+        (close).
+      </p>
+    </introduction>
+    <subsubsection xml:id="groups_global">
+      <title>Groups and Globalization</title>
+      <p>
+        But the idea of close has changed substantially over human history,
+        and particularly in the past 30 years.
+        The
+        <q>groups</q>
+        of which we are all part have grown by a factor of at least a few million in the past ten thousand years of human history
+        (<xref ref="big_city_pop">Figure</xref>),
+        from small clans of perhaps 2 dozen individuals,
+        to cities and nations with tens or hundreds of million cohabitants.
+        This increase in population has been matched by the increase in the range over which humans travel.
+        For most of human history, travel was by foot,
+        at roughly 5 kph (roughly 3 mph), or by rivers and oceans.
+        Using a few aircraft, one can travel around the world in about 24 hours,
+        all be it 10 km (35,000 ft) above ground.
+        Communication, even to the once remotest parts of Earth,
+        is now trivially easy with satellite phones that work
+        <em>anywhere</em> on Earth's surface,
+        and cost less per day than many people spend on coffee.
+      </p>
+      <p>
+        What size is a
+        <q>group</q>
+        of humans now?
+        A reasonable model is to imagine yourself surrounded by hierarchy of groups,
+        from kin to everyone
+        (see <xref ref="groups">Figure</xref>).
+        Now add to this diagram the economic hierarchy centered about you,
+        the circular flow model of <xref ref="fig_circ_flow">Figure</xref>.
+        For most of us,
+        that circular flow model extends to the hinterlands and wastelands that now,
+        in our modern world,
+        extend across every part of Earth, geosphere,
+        biosphere, hydrosphere and atmosphere.
+        And if, as philosopher J. Baird Callicott observed,
+        <q>ethics exist to maintain the integrity of groups:
+        they evolved to hold human societies together, as Darwin first observed,
+        and as the work of... many other moral psychologists now confirms<fn>
+        Callicott, J. B. (2014).
+        Thinking like a planet: The land ethic and the earth ethic.
+        Oxford University Press, pg 147
+        </fn>,</q>
+        where's the boundary between you and the groups to whom you show moral behavior?
+        If your moral
+        <q>group</q>
+        extends as far as your economic reach does,
+        you may well be morally responsible for people on the other side of the planet.
+        For people you may never meet.
+        Even for people who aren't yet born.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection xml:id="values_morals">
+    <title>Values and morals belong in discussions about Climate Change</title>
+    <p>
+      Philosopher Dale Jameison has struggled for 25 years to understand the complicated morals of climate change.
+      In 1992 CE, when global surface temperatures were 0.6 K (<m>1^\circ F</m>) cooler than today<fn>
+      Based on five-year running smooth of
+      <url href="https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.csv">NOAA</url>
+      data, accessed 17 March 2017
+      </fn>,
+      he wrote that climate change
+    </p>
+    <blockquote>
+      is not a purely scientific problem that can be solved by the accumulation of scientific information. Science has altered us to [the] problem, but the problem also concerns our values. It is about how we ought to live, and how humans should relate to each other and to the rest of nature. These are problems of ethics and politics as well as problems of science.
+    </blockquote>
+    <p>
+      Few aspects of contemporary concern in the United States and Australia are as politically and culturally divisive as climate change.
+      Despite the fact that roughly <m>97\%</m> of practicing climate scientists think humans are causing global warming<fn>
+      Cook, J., Oreskes, N., Doran, P. T., Anderegg, W. R. L., Verheggen, B., Maibach, E. W., ... Rice, K. (2016).
+      Consensus on consensus:
+      a synthesis of consensus estimates on human-caused global warming.
+      Environmental Research Letters, 11(4), 048002.
+      <url href="https://doi.org/10.1088/1748-9326/11/4/048002">link</url>
+      </fn> only 65% of adults in the United States agree<fn>
+      Gallup Inc, G. (n.d.).
+      U.S. Concern About Global Warming at Eight-Year High.
+      Retrieved March 24, 2017, from
+      <url href="http://www.gallup.com/poll/190010/concern-global-warming-eight-year-high.aspx">Link</url>
+      </fn>,
+      with politically conservative people less likely,
+      and politically liberal people more likely,
+      to agree with the consensus view of scientists.
+      A growing literature suggests that people reject scientific information when it challenges their values.
+      In this situation, their affective brain turns on and essentially
+      <q>buries</q>
+      the threatening information in the cognitive background<fn>
+      Lewandowsky, S., &amp; Oberauer, K. (2016).
+      Motivated Rejection of Science.
+      Current Directions in Psychological Science, 25(4), 217-222.
+      <url href="https://doi.org/10.1177/0963721416654436">Link</url>
+      </fn>.
+      Our values can change the way we hear,
+      process, and react to information.
+      No amount of arguing about the facts changes our perceptions because we fear agreeing to the facts means disagreeing with our values.
+      As Thomas Dietz<fn>
+      Dietz, T. (2013).
+      Bringing values and deliberation to science communication.
+      Proceedings of the National Academy of Sciences, 110(Supplement 3), 14081-14087.
+      <url href="https://doi.org/10.1073/pnas.1212740110">Link</url>
+      </fn> notes, humans
+      <q>tend to argue about facts when values are at stake...our reluctance to [discuss] values may lead us astray.</q>
+      Throughout this book we'll deliberate what climate change means to individuals,
+      societies and humanity.
+      The values we bring to this discussion are paramount,
+      and determine how each of will choose to act in face of climate change.
+      For now, this choice is about how to resolve the collective action problem posed by the atmospheric CPR.
+    </p>
+  </subsection>
+</section>

@@ -1,0 +1,31 @@
+<section xml:id="Greenhouse_Core_Concepts">
+  <title>Core concepts</title>
+  <ul>
+    <li>
+      <p>
+        Greenhouse gasses in Earth's atmosphere absorb infra-red radiation emitted by Earth's surface.
+        The energy is re-emitted by the gasses, warming Earth's surface.
+        This is the greenhouse effect.
+      </p>
+    </li>
+    <li>
+      <p>
+        Naturally occurring greenhouse gasses warm Earth's surface by \SI{33}{\kelvin} or nearly
+        <m>{60}^{\circ}</m> F. This natural greenhouse effect is crucial to the maintenance of life-friendly conditions on the planet.
+      </p>
+    </li>
+    <li>
+      <p>
+        Feedback loops connect the concentration of greenhouse gasses in the atmosphere to processes in the geosphere,
+        hydrosphere and biosphere.
+        These feedback loops maintain Earth's climate on timescales from centuries to billions of years.
+      </p>
+    </li>
+    <li>
+      <p>
+        Changes in insolation and albedo with latitude influence the climate at each latitude.
+        Earth's orbital obliquity imposes seasonal changes on climate as well.
+      </p>
+    </li>
+  </ul>
+</section>

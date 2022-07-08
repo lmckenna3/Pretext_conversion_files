@@ -1,0 +1,11 @@
+<section xml:id="Earths_many_temperatures">
+  <title>Opening problem</title>
+  <p>
+    What happened?
+    At the conclusion of Chapter [[3]], we proudly declared that Earth's equilibrium temperature <m>T_{eq}</m>,
+    was \SI{255}{\kelvin}, \SI{-18}{\celsius} or
+    <m>{-1}^{\circ}</m> F, and then admitted that this temperature was \SI{33}{\kelvin} or
+    <m>{60}^{\circ}</m> F colder than the true average temperature of Earth's surface.
+    Why is Earth's surface temperature so much warmer than we expect?
+  </p>
+</section>

@@ -1,0 +1,195 @@
+<section xml:id="Hinterlands_and_Wastelands">
+  <title>Hinterlands and Wastelands</title>
+  <introduction>
+    <p>
+      Even the casual decisions we make have global implications because of the way the global economy works.
+      Few people have the time,
+      ability or interest to gather,
+      grow and hunt for all their needs.
+      Instead, the vast majority of people (OECD and non-OECD residents alike) are part of a global economic system,
+      with individuals devoting labor to a tiny part of the cycle that delivers food,
+      goods and services, and removes trash,
+      waste, and effluents to households.
+      All this activity takes place at or near Earth's surface,
+      and so inevitably affects all of Earth's natural spheres.
+      The next time you peel back and enjoy the fruit of a banana,
+      recall that growing, harvesting,
+      transporting and consuming that banana is possible only through contributions of the biosphere,
+      geosphere,
+      atmosphere and hydrosphere.
+      Oh, and a significant contribution from the economics of the Anthroposphere.
+    </p>
+  </introduction>
+  <subsection>
+    <title>The Circular Flow Model</title>
+    <introduction>
+      <p>
+        The
+        <q>circular flow</q>
+        model is a simple but insightful way of visualizing this economic activity (See <xref ref="fig_circ_flow">Figure</xref>).
+        Households and firms form the heart of the economy with individuals in the households providing labor to firms,
+        which in turn pay wages to the individuals
+        (as shown by the lower set of red and green arrows in the figure).
+        Households then purchase goods and services from firms
+        (as shown by the upper set of red and green arrows),
+        thus completing two intersecting flows of goods, cash and work.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Hinterlands Provide Resources</title>
+      <p>
+        But this model is insufficient:
+        the firms need material to build goods,
+        and households need food, not just wages, to live.
+        So another, outer circle is needed<fn>
+        Harris, J. M., &amp; Codur, A. M. (2004).
+        Macroeconomics and the Environment.
+        Global Development and Environment Institute: Boston, MA, USA.
+        <url href="http://www.ase.tufts.edu/gdae/education_materials/modules/Macroeconomics_and_the_Environment.pdf">link</url>,
+        accessed 22 February 2017
+        </fn>.
+        This circle illustrates the extraction of natural resources from the geosphere and biosphere that provides the raw materials for human culture.
+        Some of these products
+        (metal ores, coal)
+        are used to make other products
+        (automobiles and smart phones)
+        while some (fish) are used directly.
+      </p>
+      <p>
+        For millenia these natural resources were found near human settlements.
+        They had to be,
+        as travel was difficult and transport of large volumes of material impossible.
+        But the evolution of cities changed this.
+        The high population density and built environment in a city required that natural resources be extracted not from the city itself,
+        but from a more distant <em>hinterland</em>.
+        This hinterland (literally
+        <q>behind place</q>
+        ) had to be of sufficient size and accessibility to provide the urban areas with the raw materials, water,
+        food and energy needed to fuel the city.
+        Now, the
+        <q>hinterland</q>
+        is global: that banana you ate last paragraph was likely grown in Guatemala,
+        shipped in boats built in China,
+        and fueled with oil mined in Russia.
+      </p>
+      <p>
+        Hinterlands can be messy places;
+        extraction of even high grade resources generally requires enormous investments of energy and labor.
+        <xref ref="fig_hill_top">Figure</xref>
+        shows the results of over 30 years of mining coal in the Hobet-21 mine of West Virginia.
+        This is a
+        <q>hilltop removal</q>
+        mine; the valuable coal is exposed by scrapping off and dumping
+        (in stream valleys)
+        the overlying rock.
+        The yellow line indicates the total area of hilltop removed over the 30 year life-time of the mine.
+        The upper part of the image shows the island of Manhattan,
+        to the same scale.
+        The coal mined from Hebet-21 in 2007 CE alone would provide Manhattan with all its energy needs for less than 2 months.
+        The Anthroposphere requires extensive hinterlands!
+        This is made startlingly clear by <xref ref="fig_pipelines">Figure</xref>,
+        which shows that of all the raw materials provided by hinterlands,
+        water is by far the most important.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Households and Firms Convert Resources and Energy to Products and Wastes</title>
+      <p>
+        After these natural resources are extracted from Earth's spheres,
+        firms convert them to products and services consumed by other firms and households.
+        The coal mined at Hebet-21, for example, was cleaned,
+        crushed and transported by train cars to power plants,
+        where the coal was burned to provide energy for offices,
+        factories and homes.
+        You can imagine that an office worker is designing a new generation of smart phone,
+        destined to be manufactured at the factory,
+        and eventually sold to an individual householder.
+        All this activity is represented by the blue,
+        red and green arrows of <xref ref="fig_circ_flow">Figure</xref>.
+        While just about every OECD resident is part of this global circulation of economic activity,
+        just 5 countries (China,
+        the US, India, Brazil and Russia) consumed over 50% of all globally extracted natural resources in 2009 CE<fn>
+        Giljum, S., Dittrich, M., Lieber, M., &amp; Lutter, S. (2014).
+        Global patterns of material flows and their socio-economic and environmental implications:
+        a MFA study on all countries world-wide from 1980 to 2009.
+        Resources, 3(1), 319-339.
+        </fn>.
+        On average, every person on the globe consumed about 11 metric tonnes (23 tons,
+        about the weight of 4 full-grown elephants) of resources in 2017 CE<fn>
+        Giljum <em>et al., op. cit.</em>
+        </fn>
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Wastelands Receive Waste Products</title>
+      <p>
+        But all of this activity also generates wastes.
+        Some of this waste is a direct consequence of the activity,
+        such as the smoke of burning coal escaping from the narrow smokestack in <xref ref="fig_coal_powerplant">Figure</xref>.
+        By far though, the greatest waste produced by humans is sewage,
+        which you can think of as the natural result of
+        (and part of the need for)
+        all that water we use.<xref ref="fig_ins_and_outs">Figure</xref>
+        shows how all the inputs are used,
+        and where the waste products go.
+        About 96% of those wastes are emitted,
+        with various levels of pre-treatment,
+        into the hydrosphere and atmosphere<fn>
+        Baccini, P., &amp; Brunner, P. H. (2012).
+        Metabolism of the Anthroposphere:
+        analysis, evaluation, design.
+        MIT Press, page 45-46.
+        </fn> In parallel with the idea of
+        <q>hinterlands,</q>
+        we'll call these dumping areas
+        <q>wastelands.</q>
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Hinterlands and Wastelands are the 5 spheres</title>
+    <p>
+      Clearly the hinterlands that supply natural resources to our civilization,
+      and the wastelands in which we dilute the resulting waste products,
+      are just Earth's five natural spheres.
+      These spheres are clearly deeply ingrained in our global economy,
+      where they play essential and irreplaceable roles.
+      Resources are most valuable when they are highly concentrated.
+      This makes their extraction, refining,
+      and transport much easier to the firms or other entities which produce the resource.
+      So resources<mdash/>even those in the most remote hinterlands<mdash/>tend to be owned by private concerns,
+      or national or other governments.
+      These same entities will go through enormous efforts<mdash/>including removing entire hilltops
+      (see <xref ref="fig_hill_top">Figure</xref>),
+      to extract these concentrated resources.
+    </p>
+    <p>
+      But the whole the point of wastelands is to do just the opposite:
+      to dilute the concentrated waste stream and remove it from the Anthroposphere.
+      The least appealing of these waste streams<mdash/>sewage<mdash/>is an excellent
+      (if disgusting)
+      example.
+      The infrastructure involved with containing,
+      transporting, treating and diluting sewage is expensive:
+      in 2014 CE alone,
+      state and local governments in the United States spent approximately $50 billion,
+      roughly $200 per person,
+      on maintenance and construction of sewers and related infrastructure<fn>
+      Eskaf, Shadi (2015) Four Trends in Government Spending on Water and Wastewater Utilities Since 1956, University of North Caroline Environmental Finance Blog,
+      <url href="http://efc.web.unc.edu/2015/09/09/four-trends-government-spending-water/">link</url>
+      accessed 4 March 2017.
+      </fn> After being treated,
+      the sewage is dumped into rivers, lakes and oceans,
+      where currents both carry it away from the source and begin to dilute the sewage with cleaner water.
+    </p>
+    <p>
+      The same process happens to gaseous wastes,
+      for example the smoke escaping the smokestack in <xref ref="fig_coal_powerplant">Figure</xref>.
+      The waste products of combustion,
+      including <m>CO_2</m>, eventually make thier way in to the atmosphere.
+      This process is relatively inexpensive:
+      unlike the hinterlands, the cost of using the wastelands is nearly free.
+      After all, no one owns the air.
+    </p>
+  </subsection>
+</section>

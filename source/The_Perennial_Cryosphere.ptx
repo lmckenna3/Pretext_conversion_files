@@ -1,0 +1,389 @@
+<section xml:id="The_Perennial_Cryosphere">
+  <title>Perennial (non-seasonal) ice: glaciers, ice caps and the Antarctic and Greenland ice sheets</title>
+  <subsection>
+    <title>Introduction</title>
+    <p>
+      Humans<mdash/>despite our marvelous diversity<mdash/>are all about the same size physically.
+      When we first needed to measure things we used ourselves as rulers.
+      Some of those measures were pretty straight-forward:
+      the foot for example.
+      But other measures-the yard
+      (finger tip to nose)
+      and the inch (a thumb width, try it)<mdash/>derive from us as well<fn>
+      see Russ Rowlett's marvelous units of measure site,
+      <url href="http://www.ibiblio.org/units/custom.html">Link</url>
+      </fn>.
+      Understanding things that don't happen at human scales
+      (either in space or time)
+      is difficult for most of us.
+      So as we begin our study of perennial ice<mdash/>glaciers and ice sheets,
+      the part of the Cryosphere that lasts more than a few years<mdash/>we have to remember that some things happen so slowly that fully understanding them takes time.
+      After all, you've probably heard the expression
+      <q>glacially slow!</q>
+      Most perennial ice moves slowly under its own weight,
+      typically around \SIrange{10}{100}{\metre\per\year}, or about 0.5 inch per hour.
+      These slowly-moving ice masses range from tiny isolated glaciers trapped at the top of mountains to continent-spanning ice sheets of Antarctica and Greenland
+      (<xref ref="fig_perennial_ice_2">Figure</xref>).
+      The ice sheets are the last surviving remnants of ice sheets that over the past few million years repeatedly spanned most of the northern continents,
+      and may again in a few thousand years.
+      The perennial Crysophere is all about long term differnce between mass gain and mass loss,
+      so we begin our discussion there.
+    </p>
+    <p>
+      But as we saw with the seasonal cryosphere,
+      our real interest in perennial crysosphere is how it interacts with climate.
+      Ice sheets are so large their reflective surfaces change global albedo,
+      their cold surfaces steer atmospheric circulation,
+      and their mass stores 2% of all surface water.
+      All of these are changing quickly,
+      because this part of the cryosphere is also quickly melting as global temperatures rise.
+      Seasonal snow is too thin to hold much water,
+      and melting sea ice<mdash/>because it floats<mdash/>doesn't increase sea levels.
+      But glaciers and ice sheets are largely terrestrial. hen they melt,
+      their water raises sea level.
+      As we saw in Chapter 5 (The Hydrosphere) meting glaciers and ice sheets could raise sea levels as much as \SIrange{1}{2}{\metre} by the end of the century,
+      imperiling the homes of 2.5 to 3.5% of all humans<fn>
+      Rankin, Bill (2016)
+      <url href="http://www.radicalcartography.net/index.html?howhigh">Link</url>,
+      accessed 30 August 2018.
+      Bias in the underlying data sources concentrates population counts at 1 and 5*n meter intervals; I modeled populations at \SI{0}{\metre} and \SI{1}{\metre} with a second order polynomial fit to observed populations at [2, 3, ...40] m elevation.
+      Residuals were quite low,
+      except for \SI{0}{\metre} and \SI{1}{\metre}, reflecting the counting artifacts in the data.
+      </fn>.
+      This section focuses on the present and near future of glaciers and ice sheets;
+      the fascinating but different story of why and how the Ice Ages happened deserves close inspection,
+      which it receives in Chapter 12, Quaternary Glaciation.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Mass balance and movement of ice</title>
+    <introduction>
+      <p>
+        Perennial ice is all about gain <em>versus</em> loss.
+        Glaciers form when local snow fall during the winter exceeds melting in the summer.
+        The snow eventually compresses to form ice,
+        which flows downhill<mdash/>typically<fn>
+        Marshall, op cit., page 163
+        </fn> at \SIrange{10}{100}{\metre\per\year}
+        (or about half and inch per hour!)
+        under their own weight.
+        At the bottom of the glacier,
+        loss of ice by a variety of mechanisms just matches the forward speed of the glacier and it stops spreading downhill,
+        reaching a point of dynamic equilibrium.
+        If climatic conditions are stable,
+        so too will the glacier's position and shape.
+      </p>
+    </introduction>
+    <subsubsection xml:id="massgain">
+      <title>Mass gain</title>
+      <p>
+        Snow fall from the atmosphere is essentially the only source of material to the glacier,
+        so glaciers tend to gain mass at their higher elevations.
+        In Chapter 4 The Atmosphere we saw that air temperatures change by <m>\approx</m>\SI{-6}{\kelvin\per\kilo\metre}, the upper reaches of glaciers are thus colder and,
+        to first approximation, more likely
+        <em>accumulate</em> mass as snow.
+        During the summer,
+        the lower reaches of the glacier will be warmer and hence will lose more snow to <em>ablation</em>,
+        the summed melting of ice to water and sublimation of ice to vapor.
+        The line where last winter's snow remains at the end of the summer melt season separates the area where the glacier is gaining mass
+        (the accumulation zone),
+        from the areas of the glacier losing mass
+        (the ablation zone).
+        The altitude separating these two areas<mdash/>different for different glaciers<mdash/>is the equilibrium line altitude and represents a sort of
+        <q>pivot point</q>
+        around which the glacier grows and shrinks.
+        Over the course of a few centuries to millennia with relatively stable climate,
+        the glacier develops an equilibrium profile
+        (<xref ref="fig_ELA">Figure</xref>),
+        with ice flowing in arcuate paths on its way down hill.
+        At the glacier-rock interface,
+        the glacier can slide along the rock,
+        slip against a muddy layer, or even float along a layer of pressurized water.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Mass loss</title>
+      <p>
+        Mass gain in glaciers is pretty simple: snow from above.
+        Mass loss is more complicated because there are multiple routes through which water
+        (in any form)
+        can exit glaciers and ice sheets.
+        All glaciers lose ice through <em>ablation</em>, the sublimation
+        (see Figure 3.12)
+        of ice to vapor.
+        In areas where air temperatures are relatively warm,
+        such as on the Greenland Ice Sheet,
+        melting of surface ice to form liquid water is an important loss mechanism.
+        The impossibly sapphire water in <xref ref="fig_glacial_loss">Figure</xref>
+        are ponds of glacial melt perched atop the GIS. This water finds its way
+        (panel B),
+        both above and below the ice surface, to the ocean.
+        (One doesn't carry a water bottle when working on glaciers like this;
+        you carry a cup slung to your backpack,
+        dip it into a melt stream drink the coldest and most refreshing water on the planet.)
+        Most glaciers are thick enough<fn>
+        Marshall, op cit., page 154
+        </fn> to have a layer of melt water at their base,
+        thanks to heat flow from Earth.
+        This melt water (and water from other sources)<fn>
+        Qiu, J. (2017, November 27).
+        Why slow glaciers can sometimes surge as fast as a speeding train-wiping out people in their path.
+        Retrieved August 30, 2018, from
+        <url href="http://www.sciencemag.org/news/2017/11/why-slow-glaciers-can-sometimes-surge-fast-speeding-train-wiping-out-people-their-path">Link</url>
+        </fn> can lubricate a glacier,
+        allowing it to surge forward 10 to 100 times faster than its usual speed,
+        fast enough to actually engulf people and livestock.
+        About 60% of all the mass loss on the GIS is by melting<fn>
+        AR 5, Ch. 4
+        </fn>,
+        partly due to higher temperatures accompanying Arctic Amplification.
+      </p>
+      <p>
+        While melting is an important loss mechanism,
+        it isn't as splashy as the best-known way glaciers lose mass: by
+        <q>calfing</q>
+        icebergs.
+        While it rankles a book author to say,
+        no words or still pictures can adequately describe the awesome majesty of icebergs forming at the terminus of a glacier or ice shelve.
+        Fortunately the <em>Extreme Ice Survey</em>
+        has recorded such events as part of their survey of global glaciers<fn>
+        The reader is urged to view a spectualr example of this at https://vimeo.com/5415402.
+        </fn>.
+        <xref ref="fig_glacial_loss">Figure</xref>
+        (panel C)
+        shows recently-formed icebergs (the largest are about one half a kilometer across,
+        or about the size of a large city block.
+        These are <em>small</em> compared to the behemoths calved from Antarctic Ice Shelves,
+        as shown in <xref ref="fig_b15">Figure</xref>.
+        The largest iceberg (<xref ref="fig_b15A">Figure</xref>
+        recorded<mdash/>rather unimaginatively called
+        <q>B-15</q>
+        <mdash/>was about the area of Connecticut,
+        and drifted through the Southern Ocean for nearly 18 years before it melted into the South Atlantic<fn>
+        NASA Earth Observatory,
+        <url href="https://earthobservatory.nasa.gov/images/92238/end-of-the-journey-for-iceberg-b-15z">Link</url>,
+        accessed 31 August 2018
+        </fn>.
+        Because the Antarctic Ice Sheet is too cold to melt,
+        calving is primary mechanism by which Antarctica losses ice<fn>
+        AR5, op cit
+        </fn>.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Glaciers</title>
+    <introduction>
+      <p>
+        Mountain glaciers
+        (<xref ref="fig_mtn_glacier">Figure</xref>)
+        are found, for now, on every continent except Australia,
+        and even one right on the equator (Navado Cayembe, Ecuador).
+        A crowd-sourced<fn>
+        Arendt, A., et al., 2012: Randolph Glacier Inventory [v2.0]: A Dataset of Global Glacier Outlines.
+        Global Land Ice Measurements from Space, Boulder Colorado, USA. Digital Media 32 pp. [Available online at:
+        http://www.glims.org/RGI/RGI_Tech_Report_V2.0.pdf]
+        </fn> census of glaciers counted over 170,000 world-wide,
+        including the forlorn Humboldt Glacier of <xref ref="fig_perennial_ice_1">Figure</xref>,
+        and the impressive Aletsch Glacier in Switzerland (<xref ref="fig_mtn_glacier">Figure</xref>.
+        Mountain glaciers form, as we saw above,
+        where long-term mass gain exceeds long-term mass loss.
+        Once large enough,
+        glaciers flow downhill and up temperature until their flow is slower than their melt.
+        Glaciers and climate are intimately connected,
+        so the growth and retreat of glaciers provides an excellent monitor of long-term climate change.
+        If climate cools, glaciers will grow,
+        moving down-hill and inflating as colder conditions push the equilibrium line altitude downhill.
+        In a warming climate, the opposite happens:
+        the glacier melts, retreats up-hill and deflates<fn>
+        Again words and still pictures are insufficient.
+        The reader is urged to view time-lapse photography of this produced by the EIS, for example https://vimeo.com/5963395
+        </fn>.
+        Glaciers are fierce eroders of rock,
+        and a thick glacier rapidly and effectively carves its own valley with surprising ease,
+        stripping the surface of vegetation, soil,
+        and the smoothing the underlying bedrock.
+        The Aletsch Glacier has been retreating and melting since about 1860 CE<fn>
+        Anonymous, 2011.
+        <url href="http://archive.sciencewatch.com/dr/erf/2011/11feberf/11feberfHolz/">Link</url>,
+        accessed 31 August 2018
+        </fn>,
+        which you can see for yourself by looking for the
+        <q>trim lines</q>
+        the glacier left on its valley.
+        These trim lines record where the glaciers was at its maximum,
+        and are shown with yellow lines for convenience in the <xref ref="fig_mtn_glacier">Figure</xref>.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Mountain glacier melting and sea level rise</title>
+      <p>
+        The reason we had to understand mass balance of glaciers before we even looked at a picture of glaciers is straightforward:
+        global warming is melting glaciers all over the globe.
+        As surface temperatures increase,
+        the equilibrium line altitude of many glaciers is actually rising
+        <em>above the highest point on the glacier.</em>
+        Once this happens, the glacier is doomed.
+        The most recent Intergovernmental Panel on Climate Change (IPCC) report noted that that at least 600 glaciers world-wide,
+        have disappeared since record keeping began,
+        and many more glaciers are begin to disintegrate.
+        As we seen, glaciers grow or shrink unitl they reach equilibrium,
+        so the observation that most glaceiers global are melting faster with time means that even if warming stiopped now,
+        glaciers would continue to melt.
+        Equilibrium is a long way away.
+        Like the disappearance of sea ice, snow and permafrost,
+        the local and regional implications of these changes are severe.
+        For example, Glacier National Park in Montana is famous for its glaciers,
+        but not for much longer.
+        Only 17% of the glaciers in the Park present at the end of the <m>19^{th}</m> Century are left,
+        and even those are expected to disappear within a few decades<fn>
+        USGS (2017) Glacier margin time series (1966, 1998, 2005, 2015) of the named glaciers of Glacier National Park, MT, USA,
+        <url href="doi:10.5066/F7P26WB1">Link</url>,
+        as quoted in Milman, Oliver, (2017), US Glacier national park losing its glaciers with just 26 of 150 left, The Guardian, 11 May 2017
+        <url href="https://www.theguardian.com/environment/2017/may/11/us-glacier-national-park-is-losing-its-glaciers-with-just-26-of-150-left">Link</url>
+        accessed 31 August 2018
+        </fn>.
+        This will be a catastrophic loss to the local economy.
+        At a local level,
+        glaciers provide a significant portion of drinking water to many communities in the Andes and Himalaya,
+        and the loss of these glaciers threatens the very survival of dependent communities.
+        But at a regional level,
+        glaciers in these areas provide the water used to grow food.
+        Melting glaciers might seem like a good thing<mdash/>more water<mdash/>but the glaciers are <em>shrinking</em>,
+        so in the long run less water is available for growing crops.
+        The changes in just two river basins in south Asia the Brahmaputra and Indus<mdash/>threaten the food security of 60 million people<fn>
+        Immerzeel, W. W., van Beek, L. P. H., &amp; Bierkens, M. F. P. (2010).
+        Climate Change Will Affect the Asian Water Towers.
+        Science, 328(5984), 1382. https://doi.org/10.1126/science.1183188
+        </fn>,
+        the equivalent of the populations of California and Texas combined.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Ice sheets: Antarctica and Greenland</title>
+    <subsubsection>
+      <title>Remnants of the Ice Ages</title>
+      <p>
+        Both Antarctica and Greenland are covered by extensive ice sheets<mdash/>continent-spanning glaciers so thick they cover topography and depress their continents into Earth's mantle.
+        <xref ref="fig_south_pole">Figure</xref>
+        shows the tiniest bit of the Antarctic Ice Sheet,
+        viewed from the South Pole.
+        Here the ice is \SI{2800}{\metre} (1.8 miles!) thick<fn>
+        The average of all BEDMAP 2 (Fretwell, P., Pritchard, H. D., Vaughan, D. G., Bamber, J. L., Barrand, N. E., Bell, R., ... Zirizzotti, A. (2013).
+        Bedmap2: improved ice bed, surface and thickness datasets for Antarctica.
+        The Cryosphere, 7(1), 375-393. https://doi.org/10.5194/tc-7-375-2013;
+        data set version of 5th March 2013,
+        accessed 4 September 2018) point estimates of ice thickness within 20 km of the Pole.
+        </fn>,
+        and is so massive bedrock has sank to sea level.
+        These ice sheets are remnants of once vast sheets of ice that covered Antarctica,
+        much of the Northern Hemisphere and parts of South America.
+        The most recent of these Ice Ages began 34 Mya,
+        and is but the latest episode of a global glaciation,
+        a subject we'll cover in more detail in Chapter 12.
+        Both the Greenland and Antarctica retain ice sheets because they are high,
+        dry and cold, except at their edges.
+        Here we'll examine the contemporary and near future of these great ice sheets,
+        and the implications they hold for contemporary climate change.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>AIS</title>
+      <p>
+        Like the kid picked last for a team, Antarctica always seems to get regulated to the sidelines of maps,
+        so <xref ref="fig_rel_size">Figure</xref>
+        shows Antarctica, Greenland and North America overlaid and at the same scale.
+        Appreciating the volume of ice in Antarctica requires multiple superlatives.
+        At twice the size of the contiguous United States, Antarctica is 99% ice covered
+        (<xref ref="fig_antarc_map">Figure</xref>, panel A).
+        The Transantarctic Mountains separate East and West Antarctica,
+        which each have their own ice sheets,
+        with the majority of the ice lying in the Eastern Antarctic Ice Sheet.
+        The Antarctic Peninsula has its own
+        (relatively small)
+        ice sheet, but the northern extremes of the Pennisula lack extensive ice sheets.
+        As you can see from the cross section in <xref ref="fig_AISXC">Figure</xref>
+        and <xref ref="tab_wti">Table</xref>,
+        the average thickness of the AIS is an astonishing \SI{1900}{\metre} (6200 feet),
+        five times the height of the Empire State Building.
+        The deepest ice is more than \SI{4900}{\metre} (3 miles) deep and was most likely deposited in a snow storm more than a million years ago.
+        Driving a snowmobile, sometimes for hours, across the ice sheet
+        (<xref ref="fig_ice_driving">Figure</xref>)
+        while doing research reminds one of traveling across a trackless ocean,
+        so vast are areas covered by ice.
+        Oceans, indeed:
+        melting the AIS would on average raise sea level by \SI{58.3}{\metre} (190 feet);
+        this would raise sea levels to the top of the 10th floor of the Empire State Building (<xref ref="fig_ESP_SLR">Figure</xref>
+      </p>
+      <paragraphs>
+        <title>Ice shelves</title>
+        <p>
+          The edges of Antarctica includes hundreds of floating <em>ice shelves</em>
+          (<xref ref="fig_antarc_map">Figures</xref>
+          and <xref ref="fig_AISXC"></xref>),
+          which are the ultimate outlet for glaciers
+          (shown by the purple and red colorings in Panel B of <xref ref="fig_antarc_map">Figure</xref>)
+          draining the ice sheets<fn>
+          Shepherd, A., Fricker, H. A., &amp; Farrell, S. L. (2018).
+          Trends and connections across the Antarctic cryosphere.
+          Nature, 558(7709), 223-232.
+          <url href="https://doi.org/10.1038/s41586-018-0171-6">Link</url>.
+          </fn>.
+          As it flows from outlet glaciers, ice spreads out,
+          thins, and after a millenia for the Ross Ice Shelf<fn>
+          Fahnestock, M. A., Scambos, T. A., Bindschadler, R. A., &amp; Kvaran, G. (2000).
+          A millennium of variable ice flow recorded by the Ross Ice Shelf, Antarctica.
+          Journal of Glaciology, 46(155), 652-664.
+          </fn>,
+          reaches the sea.
+          Despite their relatively small size,
+          these floating shelves play an out-sized role in the response of the ice sheet to climate changes,
+          because they hold back,
+          or buttress, the ice shelves from rolling into the oceans.
+        </p>
+      </paragraphs>
+    </subsubsection>
+    <subsubsection>
+      <title>GIS</title>
+      <p>
+        Greenland<mdash/>the world's largest island<mdash/> is 80% covered by ice sheet and glaciers,
+        with an average depth of \SI{1650}{\metre} (5500 feet).
+        The Greenland Ice Sheet,
+        like its larger Antarctic cousin,
+        mantles bedrock topography over most of the island,
+        (see <xref ref="fig_GISxsection">Figure</xref>),
+        sinking the bedrock below sea level in the island's center.
+        The high point of the ice sheet
+        (somewhat unimaginatively named
+        <q>Summit</q>
+        )
+        is near the deepest ice,
+        one of the reasons international teams of glaciologists have drilled and recovered ice cores all the way to bedrock,
+        over 3050 m deep.
+        Like Antarctica,
+        the Greenland Ice Sheet is drained by rapidly-moving outlet glaciers,
+        shown by the red to purple colors in Panel B of <xref ref="fig_gis_physical">Figure</xref>.
+        Greenland's largest glacier, Jakobshavn,
+        is also the world's fastest glacier,
+        in summertime moving as much as \SI{45}{\metre} (150 feet) <em>per day</em><fn>
+        Joughin, I., Smith, B. E., Shean, D. E., &amp; Floricioiu, D. (2014).
+        Brief Communication: Further summer speedup of Jakobshavn Isbrae.
+        The Cryosphere, 8(1), 209-214.
+        <url href="https://doi.org/10.5194/tc-8-209-2014">Link</url>.
+        </fn>.
+        This motion drives frequent iceberg calving at the front of the glacier,
+        which eventually make their way into the Atlantic Ocean.
+        Until recently, ice loss from the GIS was dominated by calving,
+        as shown in <xref ref="fig_glacial_loss">Figure</xref>;
+        but with Arctic Amplification
+        (<xref ref="aa">see</xref>),
+        ice loss from surface melting has begun to dominate loss in the GIS, which we'll discuss further below.
+        This mass loss is important,
+        as the sea level equivalent of the GIS is an astonishing \SI{7.4}{\metre} (24 feet),
+        equivalent to <nbsp/>2 stories of the Empire State Building
+        (<xref ref="fig_esb">Figure</xref>).
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

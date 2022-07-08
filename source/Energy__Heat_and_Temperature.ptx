@@ -1,0 +1,614 @@
+<section xml:id="Energy__Heat_and_Temperature">
+  <title>Energy, Heat and Temperature</title>
+  <introduction>
+    <p>
+      Energy is a surprisingly new concept in science,
+      with connections to Victorian literature
+      (think Frankenstein's monster)
+      and the Industrial Revolution (think steam engines)<fn>
+      Gold, B. J. (2012).
+      <em>ThermoPoetics: energy in Victorian literature and science</em>.
+      Cambridge, MIT Press.
+      </fn>.
+      Newton dismissed energy as unimportant
+      (he was wrong),
+      Albert Einstein immortalized energy as <m>E=mc^2</m>
+      (he was right),
+      but Nobel-prize winning physicist Richard Feynman said it best:
+      <q>we have no knowledge [of what] energy is.
+      Energy is a very subtle concept<fn>
+      <em>The Feynman Lectures on Physics</em>, 1964, Volume I; lecture 4,
+      <q>Conservation of Energy</q>
+      section 4-1.
+      </fn>.
+      It is very, very difficult to get right<fn>
+      <q>What is Science?</q>
+      The Physics Teacher, 7(6), 1969, p. 313-320
+      </fn>.</q>
+      We need to get right with what energy is
+      (<xref ref="fig_turner_cute_little_bunny">Figure</xref>)
+      before we can discuss how it moves and subsequently changes Earth's temperature.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Energy</title>
+    <subsubsection>
+      <title>Energy is the ability to do work</title>
+      <p>
+        Energy is ability to do things,
+        to raise a mass against gravity,
+        to slide rocks against friction,
+        to expand gasses against the weight of the overlying atmosphere,
+        to warm an object.
+        A formal definition is that <em>energy is what allows work to be done</em>,
+        where work is the action of moving an object against an opposing force.
+        For us a simpler definition can work:
+        <em>energy is ultimately what causes one part of Earth to move relative to another</em>.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>The Size of Energy</title>
+      <p>
+        Get accustomed to energy by finding a filled one-liter bottle of water.
+        Lift it <m>\SI{10}{\centi\metre}</m> (about 4 inches), pause,
+        and then lower the bottle gently to its initial location.
+        That action requires energy, because you were moving the water against gravity.
+        The amount of energy you used
+        (in each direction)
+        was <m>1</m> Joule, symbolized as <m>\SI{1}{\joule}</m>.
+        This is the same amount of energy consumed in one heartbeat.
+        An average college-aged person walking at average speed on level ground uses <m>\SI{100}{\joule/second}</m> as they walk<fn>
+        V. Smil, <em>Energy in Nature and Society</em>, 2008, Cambridge, MIT Press, pg. 135
+        </fn>.
+        That same person should consume<fn>
+        HHS/USDA Dietary Guidelines for Americans, 2010
+        </fn> about 2400
+        <q>Calories</q>
+        per day, which is equivalent to <m>\SI{1d7}{\joule/day}</m>.
+      </p>
+      <p>
+        Understanding climate requires understanding energy,
+        and that means we need a scale,
+        a <em>joulestick</em>, for energy.
+        <xref ref="tab_joulestick">Table</xref>
+        lists the energy of various natural and man-made events.
+        The energies range from the relatively small
+        (the solar energy hitting <m>\SI{1}{\meter\squared}</m> of area at the top of Earth's atmosphere)
+        to the almost incomprehensibly large
+        (the total solar energy absorbed by Earth in one year).
+        Values of this magnitude and range are difficult to understand,
+        let alone use,
+        so the third column of <xref ref="tab_joulestick">Table</xref>
+        provides a useful way of scaling these numbers.
+        As noted above,
+        the average young adult consumes about <m>\SI{1d7}{\joule/day}</m> of energy each day.
+        Assume that in an instant of maniacal effort you expend that amount of energy in 1 second of time.
+        Then the energy in a ton of crude oil would represent 1 hour,
+        and the total energy in all easily extractable fossil fuels represents <m>\SI{130}{\mega\year}</m>.
+        While using this book, use <xref ref="tab_joulestick">Table</xref>
+        to put energy into a context that you can use.
+        For example, the next time you sit down to dinner, think about
+        (but do not try!)
+        to eat a day's worth of food in 1 second.
+        If you did that,
+        the annual amount of solar energy absorbed by Earth represents 12 billion years,
+        or roughly the age of the Universe.
+        The sheer magnitude of this values indicates that energy flow between Earth's spheres is dominated by solar energy.
+      </p>
+      <table xml:id="tab_joulestick">
+        <title>The joulestick: a scale for measuring energy</title>
+        <tabular>
+          {@lll@} \toprule
+          Event or Action &amp; Energy (\si{joule}) &amp; Analogous Time\\ \midrule
+          Global Annual Absorbed Solar Energy                &amp; \num{4d24}  &amp;\SI{12}{\giga\year}\\
+          Global Proven Fossil Fuel Reserves                &amp; \num{4d22}  &amp;\SI{130}{\mega\year}\\
+          Global Annual Net Energy Production                &amp; \num{3d21}  &amp;\SI{11}{\mega\year}\\
+          Global Annual Energy Consumption                  &amp; \num{5d20}  &amp;\SI{1.7}{\mega\year}\\
+          US Annual Energy Consumption                      &amp; \num{1d20}  &amp;\SI{330}{\kilo\year}\\
+          Strongest recorded earthquake (Chile 1960 05 22)  &amp; \num{1d19}  &amp;\SI{36}{\kilo\year}\\
+          US Daily Energy Consumption                        &amp; \num{3d17}  &amp;\SI{900}{\year}\\
+          US Hourly Energy Consumption                      &amp; \num{1d16}  &amp;\SI{37}{\year}\\
+          US Minutely Energy Consumption                    &amp; \num{2d14}  &amp;\SI{7}{\month}\\
+          Atomic bomb dropped on Hiroshima                  &amp; \num{6d13}  &amp;\SI{2}{\month}\\
+          Coal in a 100 ton railroad car                    &amp; \num{3d12}  &amp;\SI{3}{\day}\\
+          1 ton of oil                                      &amp; \num{4d10}  &amp;\SI{1}{\hour}\\
+          1 ton TNT                                          &amp; \num{4d09}  &amp;\SI{7}{\minute}\\
+          1 Person's Daily Food Consumption                  &amp; \num{1d07}  &amp;\SI{1}{\second}\\
+          Sunlight on <m>\SI{1}{\meter\squared}</m> in 1 second, top of atmosphere    &amp; \num{1d03}  &amp;\SI{0.1}{\milli\second}\\
+          \bottomrule
+        </tabular>
+      </table>
+    </subsubsection>
+    <subsubsection>
+      <title>Potential and Kinetic Energy</title>
+      <p>
+        For our purposes,
+        all energy can be classified as either potential or kinetic energy.
+        <em>Kinetic energy is that contained in the motion of an object</em>,
+        and is proportional to the square of the object's speed.
+        Any object at rest has zero kinetic energy,
+        a detail that will become important when we discuss temperature.
+        Objects that vibrate,
+        such as the bob of a pendulum or an atom in a molecule,
+        have kinetic energy, too.
+        <em>Potential energy is that stored in an object</em>,
+        by virtue of its position (a rock perched high above a valley floor) or chemical structure
+        (the energy stored in the bonds of a sugar molecule).
+        Unlike kinetic energy, potential energy has no
+        <q>zero</q>
+        point.
+        There's always somewhere lower a system can fall.
+        Motion of water, air,
+        rock and ice on Earth typically involves the exchange of one form of energy into another:
+        as a raindrop <m>\SI{100}{\meter}</m> above Earth's surface falls ground-ward,
+        its potential energy is converted into kinetic energy,
+        some of which is passed to molecules within the atmosphere,
+        raising their temperature ever so slightly.
+        And for us, this connection between kinetic energy and temperature is crucial.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Temperature</title>
+    <subsubsection>
+      <title>Temperature is the average kinetic energy of particles in a system</title>
+      <p>
+        Humans have a curious relationship with temperature, and always have.
+        Perhaps the relationship is in our very DNA. Evolutionary biologist Daniel Liberman<fn>
+        Lieberman, D. E. (2014).
+        Human Locomotion and Heat Loss: An Evolutionary Perspective.
+        In R. Terjung (Ed.), Comprehensive Physiology
+        (pp. 99-117).
+        Hoboken, NJ, USA: John Wiley &amp; Sons, Inc. https://doi.org/10.1002/cphy.c140011
+        </fn> has hypothesized that the earliest human's behaviors of
+        <q>long distance walking and running created a selective advantage for [early humans] to dump heat effectively in hot,
+        arid conditions....Humans are the sole species of mammal that excels at long distance trekking and running in extremely hot conditions.
+        No horse or dog could possibly run a marathon in <m>\SI{30}{\degreeCelsius}</m></q>
+        (<m>90^{\circ}</m> F).
+        Even though toleration of high temperatures is in our genetic structure,
+        humans ability to sense temperature is not particularly good.
+        When we touch something that we think feels
+        <q>cold</q>
+        we are actually sensing energy flowing from our fingers to the object,
+        what we feel as
+        <q>hot</q>
+        is just our skin sensing energy flowing,
+        perhaps too quickly, into the body.
+        So most humans have a somewhat muddled understanding of temperature.
+      </p>
+      <p>
+        <em>Temperature is a measure of the average kinetic energy of the molecules or atoms in a system of interest</em>.
+        This kinetic energy is contained in both translational
+        (straight line)
+        motion and vibrational motion (shaking) of the particles.
+        Picture a tall glass of ice water,
+        slowly being stirred to keep it well mixed.
+        Both ice and water will be at the same temperature,
+        and so water molecules in the liquid will have, on average,
+        the same kinetic energy as the water molecules bonded together in the ice.
+        Molecules in the liquid water will be translating and vibrating,
+        while water molecules in the ice will just be vibrating.
+        Many students incorrectly associate temperature with some concept of the amount or concentration of heat in an object.
+        A simple thought experiment shows this interpretation must be wrong.
+        Take an object with a uniform temperature and split it in two.
+        Both halves will still have the same temperature as the original object,
+        even though splitting the object should have
+        <q>split the heat</q>
+        in the objects as well.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Temperature scales and temperature changes</title>
+      <p>
+        Recognition of temperature as kinetic energy brings a startling revelation.
+        An object whose particles are moving at high velocity will have a high temperature,
+        which is simple enough.
+        But now conduct a thought-experiment:
+        what happens to the temperature of the object as the particles slow down?
+        As the particles begin to slow,
+        the system's temperature must decrease.
+        But there is a lower limit to velocity: 0.
+        Particles can't go slower than stopped,
+        which means there must be a point at which temperatures can go no lower:
+        absolute 0.
+        On the Fahrenheit scale used in the United States,
+        absolute 0 comes in at approximately <m>-459.7^{\circ}</m> F.
+      </p>
+      <paragraphs>
+        <title>Temperature Scales</title>
+        <p>
+          Unfortunately, that Fahrenheit scale is a problem.
+          Fahrenheit's genius was building the first accurate mercury thermometer;
+          his failure was choosing odd things to calibrate it.
+          On the Fahrenheit scale,
+          water at Earth's surface freezes at
+          <m>32^{\circ}</m> F and boils at <m>212^{\circ} F</m>,
+          for a range of <m>180^{\circ} F</m> between the two points.
+          The metric system uses a more rational and reproducible scale for measuring temperature,
+          defining the freezing point of water as
+          <m>\SI{0}{\degreeCelsius}</m> and boiling at <m>\SI{100}{\degreeCelsius}</m>,
+          for a range of <m>\SI{100}{\degreeCelsius}</m>.
+          One degree on the Celsius scale is thus equivalent to 1.8 degrees on the Fahrenheit scale.
+          As shown in <xref ref="fig_temp_scales">Figure</xref>
+          and <xref ref="eqn_c2f">Equation</xref>, the oft
+          (but unfairly!)
+          loathed conversion formula between Fahrenheit and Celsius scales simply reflects these scale choices.
+          That formula is
+        </p>
+      </paragraphs>
+      <men xml:id="eqn_c2f">
+        F=\frac{180}{100}\cdot  C+ 32=\frac{9}{5}\cdot C+ 32=1.8\cdot C+ 32
+      </men>
+      <p>
+        On the Celsius scale,
+        absolute 0 comes in at approximately <m>\SI{-273}{\degreeCelsius}</m>,
+        which is still an arbitrary value.
+        The Kelvin temperature scale fixes this problem,
+        calling absolute zero <m>\SI{0}{\kelvin}</m>.
+        (Note the lack of a degree sign in the Kelvin scale.)
+        The Kelvin scale uses the same
+        <q>size</q>
+        of a degree as the Celsius scale,
+        it just starts at absolute zero.
+        Temperatures on the Kelvin scale are
+        <q>natural</q>
+        in the sense that they measure the temperature from a physically real 0.
+        We will use both the Kelvin and Celsius scales in this book,
+        and the ability to convert between them,
+        and to the more familiar Fahrenheit scale is important.
+        <xref ref="tab_t_conversions">Table</xref>
+        gives the precise conversions,
+        and a handy scale of equivalent temperatures.
+      </p>
+      <table xml:id="tab_t_conversions">
+        <title>Temperature Conversions</title>
+        <tabular>
+          {@lccc@} \toprule
+          From/To &amp; Fahrenheit (<m>^{\circ} F</m>) &amp; Celsius (<m>^{\circ} C</m>) &amp; Kelvin (<m>K</m>)\\ \midrule \addlinespace[.4em]
+          Fahrenheit (<m>^{\circ} F</m>) &amp; - &amp; <m>C=\frac{5}{9}\cdot\left(F-32\right)</m> &amp; <m>K=\frac{5}{9}\cdot F+255</m>\\ \addlinespace[.4em]
+          Celsius (<m>^{\circ} C</m>) &amp; <m>F=\frac{9}{5}\cdot C+32</m> &amp; - &amp; <m>K=C+273</m>\\ \addlinespace[.4em]
+          Kelvin (<m>K</m>) &amp; <m>F=\frac{9}{5}\cdot K-460</m> &amp; <m>C=K-273</m> &amp; -\\ \midrule
+          Examples of Representative Temperatures \\ \midrule
+          Sun's Surface
+          <url href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html">NASA</url>
+          &amp; 9945  &amp;  5507  &amp;  5780\\
+          Global Record High
+          <url href="http://wmo.asu.edu/world-highest-temperature">WMO</url>
+          &amp; 134    &amp; 56.7  &amp; 330\\
+          US Average Summer High
+          <url href="http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tmax/1/08/1895-2015?base_prd=true&amp;firstbaseyear=1901&amp;lastbaseyear=2000">NCDC/NOAA</url>
+          &amp; 87    &amp; 31    &amp; 304\\
+          Global Average Surface    &amp; 59          &amp; 15    &amp;  288\\
+          US Average Winter Low
+          <url href="http://wmo.asu.edu/world-lowest-temperature">WMO</url>
+          &amp; 20    &amp; -7    &amp; 266\\
+          Global Record Low
+          <url href="http://www.ncdc.noaa.gov/cag/time-series/us/110/00/tmin/1/01/1895-2015?base_prd=true&amp;firstbaseyear=1901&amp;lastbaseyear=2000">NCDC/NOAA</url>
+          &amp; -129  &amp;  -89.2  &amp; 184\\
+          \bottomrule
+        </tabular>
+      </table>
+      <p>
+        A convenient and reasonably accurate approximate formula for quickly converting from Celsius to Fahrenheit is
+        <men xml:id="eqn_c2f_appx">
+          F\approx 2 \cdot  C+ 30
+        </men>
+      </p>
+      <p>
+        This approximation is an easy way of converting temperatures
+        <q>on the fly,</q>
+        and is never off by more than
+        <m>7^{\circ} F</m> for temperatures typical of Earth's surface.
+      </p>
+      <paragraphs>
+        <title>Temperature Changes</title>
+        <p>
+          One last peculiarity of temperature conversions.
+          The majority of climate studies involve changes or differences in temperatures,
+          so much so that climatologists
+          (and we)
+          will use the Greek letter delta
+          <q><m>\Delta</m></q>
+          to mean a change or difference in a quantity.
+          For example, global surface temperatures have, on average,
+          changed by <m>\SI{0.8}{\degreeCelsius}</m> between 1880 and 2018 CE. What is this temperature change expressed in Fahrenheit?
+          Many students will na&#xef;vely use the formula in <xref ref="tab_t_conversions">Table</xref>,
+          or the shorthand <xref ref="eqn_c2f_appx">Equation</xref>,
+          and confidently but incorrectly state that the difference is
+        </p>
+      </paragraphs>
+      <md>
+        <mrow xml:id="eqn_wrong_dT" number="yes">\begin{split}
+        \Delta F\amp =\frac{9}{5}\cdot  \Delta C+ 32</mrow>
+        <mrow>\Delta F\amp =\frac{9}{5}\cdot  \Delta 0.8+ 32</mrow>
+        <mrow>\Delta F\amp =33.2^{\circ} F
+        \end{split}</mrow>
+      </md>
+      <p>
+        The actual procedure is
+        <md>
+          <mrow xml:id="eqn_correct_dT" number="yes">\begin{split} \Delta F\amp =\frac{9}{5}\cdot  \Delta C</mrow>
+          <mrow>\Delta F\amp =\frac{9}{5}\cdot  \Delta 0.8</mrow>
+          <mrow>\Delta F\amp =1.4^{\circ} F \end{split}</mrow>
+        </md>
+      </p>
+      <p>
+        The correct conversions of <m>\Delta T</m>
+        (between any scales)
+        omits any addition or subtraction term.
+        Only multiplicative terms, which reflect differences in the
+        <q>size</q>
+        of the degree, matter.
+        An analogy helps explain why.
+        Imagine paying $10 for a $9 item, and $100 for a $99 item.
+        The difference in either case is $1.
+        Had you paid the bills with quarters,
+        you would have received 4 quarters back in each case.
+        Figure 3.07 shows another explanation of the concept,
+        and <xref ref="tab_t_change_conversions">Table</xref>
+        gives the conversion formulas.
+        The importance of temperature changes in the study of climate change,
+        and of converting such changes to more comfortable units,
+        will prove important throughout the book.
+      </p>
+      <table xml:id="tab_t_change_conversions">
+        <title>Temperature Change Conversions</title>
+        <tabular>
+          {@lccc@} \toprule
+          From/To &amp;  <m>\Delta ^{\circ} F</m> &amp; <m>\Delta ^{\circ} C</m> &amp; <m>\Delta K</m>\\ \midrule \addlinespace[.4em]
+          <m>\Delta ^{\circ} F</m> &amp; - &amp; <m>\Delta C=\frac{5}{9}\cdot\Delta F</m> &amp; <m>\Delta K=\frac{5}{9}\cdot\Delta F</m>\\ \addlinespace[.4em]
+          <m>\Delta ^{\circ} C</m> &amp; <m>\Delta F=\frac{9}{5}\cdot \Delta C</m> &amp; - &amp; <m>\Delta K=\Delta C</m>\\ \addlinespace[.4em]
+          <m>\Delta K</m> &amp; <m>\Delta F=\frac{9}{5}\cdot \Delta K</m> &amp; <m>\Delta C=\Delta K</m> &amp; -\\ \midrule
+          \bottomrule
+        </tabular>
+      </table>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Heat</title>
+    <subsubsection>
+      <title>Heat is energy flowing from here to there</title>
+      <p>
+        Rid yourself of all preconceptions you have about heat.
+        Heat is a tough concept,
+        and the history of the study of heat has filled many a book.
+        Fortunately, a modern understanding of heat is straightforward:
+        <em>heat is energy moving from one place to another</em>.
+        A fundamental observed regularity of nature is that heat naturally moves from an area of higher temperature to an area of lower temperature,
+        never the other way around<fn>
+        A small technicality: the <em>net</em>
+        heat flow is always from hotter to colder.
+        </fn>.
+        Refrigerators and air conditioners can break this law only because they are plugged in to an electrical outlet.
+        The substantial energy they consume is required to move heat the
+        <q>wrong</q>
+        way.
+        Nature is easier.
+        Heat moving naturally into a system will do work on the system,
+        increase its temperature, or both.
+        Either way, the natural movement of heat will always be to average the temperature of all objects in a system.
+        <xref ref="fig_sun_earth_sys">Figure</xref>
+        now has increased meaning: Earth's average temperature must be between that of the Sun and space,
+        as shown in <xref ref="fig_sun_earth_sys_temps">Figure</xref>.
+        The same rule of natural heat flow will apply on Earth as well.
+        A reasonable hypothesis is that Earth is warmer at the equator and colder at the poles.
+        So we expect heat will naturally flow poleward,
+        and this correct supposition will end up explaining the vast majority of Earth's climatic behavior.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>How does energy get from here to there?</title>
+      <p>
+        Heat flows through one of four mechanisms,
+        all of which you have experienced directly.
+        All four mechanisms are important to some part of the Earth system,
+        but two of them are crucial to every aspect of Earth's operations.
+        A ranked list of the four heat flow mechanisms would be <em>radiation,
+        convection, advection and conduction</em>.
+        We'll explore each below.
+      </p>
+      <paragraphs>
+        <title>Radiation</title>
+        <p>
+          Temperature, as we learned above,
+          is just the average kinetic energy of the particles in a system or object.
+          In most objects, these particles are just molecules,
+          all of which are vibrating rapidly.
+          The vibration of electrons in these molecules causes them to emit energy as electromagnetic radiation.
+          All objects emit electromagnetic radiation,
+          but objects hotter than roughly
+          <m>\SI{1000}{\kelvin}</m> emit light visible to the naked eye.
+          This is easy to demonstrate: Find an incandescent light bulb with a visible filament,
+          and turn the light on for a minute.
+          Then turn off the light bulb,
+          and watch the filament turn from bright yellow to a dull red and then finally appear to stop glowing.
+          The filament is still hot and glowing,
+          but in light of wavelengths humans can't see.
+          Even your body emits radiation,
+          as an infrared camera will easily demonstrate
+          (<xref ref="fig_Hand_IR">Figure</xref>).
+          Examples of heat flow by radiation are easy to find:
+          sunlight falling on your face,
+          the warmth on your hands from a fire,
+          and fast-food tacos bathed in heat lamps are all examples of radiative heating in action.
+          Open a Thermos or any insulated container and you'll notice the inner container is coated with a silvery metallic paint,
+          which is designed to reflect the radiation from the liquid back in to the liquid to keep it warm or cold.
+          Given that all objects with temperatures above <m>\SI{0}{\kelvin}</m> radiate some energy,
+          and that all objects in the Universe <em>are</em>
+          above <m>\SI{0}{\kelvin}</m>,
+          all objects must radiate some energy.
+          Go outside on a clear evening and look at the stars.
+          What you see is the light radiated by the hot surfaces of those astronomically-distant suns.
+          Dense hot objects, like stars and Earth,
+          radiate and absorb energy perfectly,
+          and so are called <em>black body radiators</em>.
+          Their radiation not only contains heat;
+          it contains information on their temperature as well.
+          We'll investigate this important type of radiator further in the next section.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Convection</title>
+        <p>
+          Hot air balloons rise through the atmosphere because the density of the warmer air in the balloon is less than the density of the cooler air outside the balloon.
+          This buoyancy force drives the balloon upward against the force of gravity.
+          Convective heat transport happens in much the same way.
+          <em>Convection occurs when a layer of fluid is heated from below or cooled from above.</em> The lower,
+          warmer fluid is less dense than the overlying cooler fluid,
+          and like the hot air balloon,
+          the warmer fluid will rise through the colder material.
+          As it rises, it cools, until it reaches the top of the layer,
+          where it cools enough to sink and subsequently be replaced by warmer fluid continually rising from below.
+          This process continues until the temperature difference between the upper and lower boundaries becomes small.
+          The circulation of fluids during convection transports heat effectively,
+          often in large,
+          circulation loops as shown in <xref ref="fig_convection_final">Figure</xref>,
+          panel C. These loops can form long rolls
+          (<xref ref="fig_convection_in_a_cup">Figure</xref>.A)
+          or cells (<xref ref="fig_convection_in_a_cup">Figure</xref>.B), and can even be found in a good,
+          strong cup of coffee
+          (<xref ref="fig_convection_in_a_cup">Figure</xref>.C).
+          Even the apparently solid Earth undergoes convection.
+          Over a time scale of millions to billions of years, Earth's mantle convects,
+          exactly like a stiff liquid
+          (<xref ref="fig_convection_final">Figure</xref>.D).
+          As we'll see in Chapter 5, convection in the mantle is responsible for plate tectonics,
+          which drives much of the Geosphere.
+          Convection drives much of the motion in the atmosphere and oceans as well.
+          Within Earth,
+          convection is the predominant and most important mode of heat transport.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Advection</title>
+        <p>
+          <em>Advection is heat transport by the bulk movement of objects.</em>
+          Think ice dropped in to a glass,
+          or a cold air mass moving into an area behind a cold front.
+          <xref ref="fig_dust_africa">Figure</xref>
+          shows a plume of hot dry air blowing from northwest Africa out into the North Atlantic Ocean.
+          This movement is not due to buoyancy,
+          nor does the flow form a continuous,
+          closed loop, which distinguishes advection from convection.
+          Instead movement of material during advection is driven by a variety of other forces,
+          often external to the moving material.
+          Another important distinction is that convection always involves vertical motion,
+          either against or with gravity.
+          Advection isn't driven by buoyancy,
+          and so advection can happen in any direction,
+          most importantly in the horizontal.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Conduction</title>
+        <p>
+          <em>Conduction is heat transferred by the vibration of,
+          or collisions between, atoms and molecules in an object</em>.
+          Imagine a line of balls connected by springs,
+          and begin shaking one end of the line.
+          This shaking represents an increase in the kinetic energy of that portion of the material.
+          Bonds between the particles, represented by the springs,
+          will slowly spread the kinetic energy down the line.
+          Slowly is the operative word:
+          conduction is a slow way of moving heat,
+          and is most important in solid materials.
+          This means that conduction is of lesser importance in the atmosphere and oceans than the other mechanisms we've discussed.
+          In fact, conduction is really only important for our understanding of the role of the lithosphere in plate tectonics.
+        </p>
+      </paragraphs>
+      <p>
+        Ironically, conduction is probably the best-known form of heat flow,
+        because it is important on human time and spatial scales.
+        Take a look back at <xref ref="fig_convection_in_a_cup">Figure</xref>.
+        Note the temperature of the spoon
+        (at the 12 o'clock position)
+        changes from warmer
+        (represented by the green colors)
+        to cooler
+        (represented by the purple colors)
+        along the length of the spoon.
+        This is due to the conduction of heat along the spoon from the hot coffee into the cooler spoon.
+        Different materials have different abilities to conduct heat,
+        as anyone who has installed that annoying pink insulation in a house can attest.
+        Insulation is designed to be a poor conductor,
+        which is why installing it in a house is worth the annoyance.
+        Window glass is an excellent heat conductor,
+        and can be the single largest source of heat loss
+        (or gain)
+        in a building.
+        Most modern building windows contain multiple layers of glass separated by a gas-filled gap.
+        The gas is a poor conductor of heat,
+        and reduces the heat lost or gained through the window.
+        Such double- or tripled-paned glass is expensive to install,
+        but drastically reduces long-term heating and cooling costs for the building.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="obs_1">
+      <title>Three fundamental observations integrate energy, heat and temperature</title>
+      <paragraphs>
+        <title>Observation 1: Heat flows naturally from warmer to cooler areas</title>
+        <p>
+          This simple idea is profoundly important to all of science,
+          so much so that is enshrined as the Second Law of Thermodynamics.
+          A physical
+          <q>law</q>
+          is just an observed regularity of nature,
+          an actual exception to which has not been observed.
+          There is no other physical law so often misunderstood and abused as this one.
+          The Second Law states that the <em>net flow of heat is from warmer to cooler areas</em>.
+          It does not mean that no heat flows from a cooler reservoir to a warmer one.
+          Earth radiates a small amount of energy in all directions,
+          some of which is intercepted by the Sun.
+          But the Sun radiates far more heat to Earth,
+          and so the net flow of heat is from the Sun and to Earth,
+          by a factor of about 270,000!<fn>
+          After much canceling of common factors,
+          the ratio is the ratio of the equilibrium temperatures,
+          <m>T</m>, of the bodies as
+          <me>
+            \left(\frac{T_{Sun}}{T_{Earth}}\right)^4
+          </me>
+          </fn>
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Observation 2: An object or system at constant temperature has equal incoming and outgoing heat flow</title>
+        <p>
+          This corollary to Observation 1 is clear to anyone who has tried to find a comfortable temperature while a passenger in a car or bus.
+          The driver has the heat on high,
+          so heat flow into the system is high.
+          You in turn open a window to the colder exterior,
+          allowing heat to flow out of the system,
+          and maybe even allow some colder air to advect into the vehicle.
+          The human body provides another example,
+          although in this case some of the
+          <q>incoming</q>
+          heat is produced by the body.
+          On a cloudy day you might be comfortably walking outside until the Sun pops from behind one of those clouds.
+          The incoming solar energy warms your skin,
+          and suddenly you are less comfortable.
+          But this observation has global implications.
+          Ignoring for the moment recent global warming, Earth has had roughly constant surface temperature for some time,
+          which means Earth gets as much energy from the Sun as it emits into the vast cold of deep space,
+          averaged over the long term.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Observation 3: Anything that interrupts the flow of heat from a warmer object to a colder object will keep the warmer object warmer, longer</title>
+        <p>
+          Anyone who has used a blanket or sweatshirt can attest to this statement.
+          That comforter you use on a cold night doesn't warm you<mdash/>it has no source of energy.
+          What that comforter does is reduce the rate at which heat radiates from your body into the surrounding colder air.
+          That comforter is a poorly conducting layer between you and the cold air,
+          which slows the loss of heat.
+          The aluminized blankets one sees on marathon runners do essentially the same thing,
+          although they prevent radiative loss as well.
+          Fortunately for the well-being of life on Earth,
+          our atmosphere acts the same way,
+          slowing the rate of heat loss at the surface lie an invisible blanket.
+          This is the origin of the Greenhouse Effect.
+        </p>
+      </paragraphs>
+    </subsubsection>
+  </subsection>
+</section>

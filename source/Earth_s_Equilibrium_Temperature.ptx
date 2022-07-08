@@ -1,0 +1,271 @@
+<section xml:id="Earth_s_Equilibrium_Temperature">
+  <title>Putting it all together: Earth's equilibrium temperature</title>
+  <subsection>
+    <title>An equilibrium temperature for Earth</title>
+    <p>
+      You don't need to precisely know Earth's temperature to realize the Sun's surface is far hotter than that of our planet.
+      So, Observation 1 from <xref ref="obs_1">Section</xref>
+      tells us that the Sun will radiate energy to Earth,
+      an unsurprising but now understood result.
+      But Observation 2
+      (<xref ref="obs_2">Section</xref>)
+      has a role to play as well:
+      to first order, Earth's surface temperature changes
+      (until recently)
+      very slowly,
+      so we must be in thermal equilibrium with the Universe.
+      We must emit as much energy into space as we absorb from the Sun.
+      Here's a thought experiment: How much warmer would Earth's surface become if,
+      for just one day, Earth were to absorb,
+      but not emit one day's worth of solar energy?
+      If that energy penetrates just \SI{1}{\metre} into the surface,
+      the answer<fn>
+      Roughly, assume one day's solar irradiation is uniformly spread over a \SI{1}{\metre} deep layer of 75% water and 25% rock.
+      Then <m>\Delta T=\Delta H/(c_p*mass)=\SI{1361}{\watt}\cdot \SI{86400}{\second}\cdot .3/(\SI{0.75}{\metre^3}\cdot\SI{4000}{\joule\kilo\gram^{-1}\kelvin^{-1}}\cdot \SI{1000}{\kilo\gram\metre^3} + \SI{0.25}{\metre^3}\cdot\SI{850}{\joule\kilo\gram^{-1}\kelvin^{-1}}\cdot \SI{2650}{\kilo\gram\metre^3})=2.5 K</m> See page 48 of notebook #1.
+      </fn> is an astonishing
+      <m>\SI{2.5}{\kelvin}</m>, or <m>4.5\ ^{\circ}F</m>!
+      In one day!
+      Clearly Earth is near thermal equilibrium.
+    </p>
+    <p>
+      Near, but not at, which is why global warming is happening.
+      The rate of global warming is roughly 0.1 K per decade.
+      So you can already guess that the imbalance between incoming and outgoing heat can be tiny and yet still have an important climatological effect.
+    </p>
+  </subsection>
+  <subsection>
+    <title>The factors that matter</title>
+    <introduction>
+      <p>
+        Before we derive Earth's equilibrium temperature,
+        let us sketch out our plan of action.
+        We know from Observation 1 that heat radiated from the Sun to Earth warms our planet.
+        We know from Observation 2 that Earth must emit just as much heat back into space.
+        The only heat flow mechanism capable of removing heat from Earth to space is radiation,
+        which means Earth will behave like a blackbody radiator,
+        warming until its temperature is hot enough to radiate into space the same amount energy as it receives from the Sun.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Insolation and the Solar Constant</title>
+      <p>
+        The <em>in</em>coming <em>sol</em>ar radia<em>tion</em>
+        is given the lovely term insolation.
+        At this time in the Sun's history,
+        and at our distance from the Sun,
+        the insolation we receive at the top of our atmosphere averages about \SI{1361} {\watt\per\metre^2} (W stands for a Watt,
+        a unit of power, or rate at which energy is produced or consumed.
+        A typical college student running up a flight of stairs in 2 seconds produces about 1361 W).
+        This value is important enough to warrant its own term,
+        the <em>Solar Constant</em>,
+        its own symbol, <m>S_0</m>, and a nod towards memorization.
+        To visualize this amount of energy,
+        take a large LED flood light,
+        say one equivalent to a 90 W incandescent bulb.
+        Plug it in, turn it on, close your eyes,
+        and stare at it from about 10 inches away.
+        Now imagine that kind of bulb covering the entire side of the Earth facing the Sun.
+        That's how much energy the Sun provides the Earth.
+      </p>
+      <p>
+        The Solar Constant applies only to Earth and only to now.
+        As we will see later, the Sun is slowly getting brighter,
+        by about 7% per <em>billion</em> years.
+        The insolation a planet receives depends inversely upon the squared distance between the planet and the Sun,
+        so Mercury, which is only 0.7 times as far from the Sun as Earth,
+        receives almost twice the insolation Earth receives.
+        The minor planet Pluto, over 50 times farther from the Sun than Earth,
+        receives a paltry 1/2500th of the energy we receive.
+        The otherwise scientifically-accurate movie
+        <em>The Martian</em> missed this point.
+        On Mars, the Sun is less than half as bright as on Earth.
+        The intrepid Matt Damon should have been walking around in what we would consider a semi-dark landscape.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Albedo, and why Peruvians are painting the Andes white</title>
+      <p>
+        The story was oddly popular, and would be funny if it weren't so sad.
+        In June of 2010 CE, the BBC published<fn>
+        http://www.bbc.com/news/10333304,
+        published June 17,2010, accessed June 17, 2015
+        </fn> pictures of Peruvian Eduardo Gold painting a mountainside white,
+        in an attempt to bring back the glaciers that supplied drinking water to his town's residents.
+        Although his actions were widely derided, he was no crackpot:
+        he had just won a $200,000 prize from the World Bank for his proposal to return glaciers to that part of the Andes.
+        His idea was rooted in the physics we have just been studying.
+        The white paint, he reasoned,
+        would reflect solar energy back into the atmosphere,
+        thus reducing the temperature of the ground,
+        and perhaps encouraging glacial regrowth.
+        While his intervention will have only local effects on climate,
+        the larger idea,
+        that reflecting heat lowers temperature,
+        is crucial to Earth's climate.
+      </p>
+      <p>
+        Take Gold's experiment with paint and make it global.
+        Imagine two planets, equidistant from the Sun.
+        One planet is perfectly white,
+        reflecting all energy falling on it.
+        The other is perfectly black,
+        absorbing all energy incident upon it.
+        It makes sense that the highly reflective white planet would be colder than the highly absorbing black body,
+        even though they receive the same insolation,
+        because they don't absorb that energy equally.
+        The proportion of energy hitting a planet that is reflected back into space is the planet's <em>albedo</em>,
+        from Latin <em>albus</em> 'white'. Fans of the Harry Potter novels will have no trouble remembering that something white,
+        like Albus Dumbledore's beard and hair,
+        reflects all of the light hitting it.
+        <men>
+          Albedo \equiv\frac{Reflected Energy}{Incident Energy}
+        </men>
+      </p>
+      <p>
+        Albedo is the proportion of energy hitting a planet that the planet doesn't absorb.
+        Earth's average albedo is about 0.30,
+        which means Earth reflects about 30% of the sun light falling on it.
+        You must distinguish this reflected light from light Earth emits itself!
+        This reflected sunlight is what makes Earth visible to the naked eye,
+        or to camera in orbit around Earth or other planets
+        (<xref ref="fig_saturnearth">Figure</xref>).
+        A planet absorbs the proportion (1-A) of the light incident upon it.
+        Venus has an albedo of about 0.9, so it reflects 90% and absorbs the remaining 10% of sun light falling upon it.
+        The Moon has just the opposite behavior,
+        with an albedo of 0.11, it is as dark as charcoal.
+        It looks bright hanging in the night sky only because it is so much brighter than the surrounding blackness of space.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Your Algebra teacher was right: it does help to know the formula for the area of a sphere</title>
+      <p>
+        Finally we need to recognize one odd twist of geometry about how the Sun warms Earth's surface.
+        The Earth is of course a sphere,
+        but the Sun's light falls on a disk of the same radius.
+        Figure 3.19 shows a planet warmed by the Sun,
+        which is off the edge of the figure to the left.
+        That heat has to warm the entire planet,
+        as shown by the dull red coloring of the planet facing away from the Sun.
+        But light falls only on the apparent disk of the planet,
+        as shown by the shadow of the planet in black on the right of the figure.
+        A sphere has four times the surface area of a disk of the same radius,
+        so on average a planet's surface receives only <m>1/4</m> of the insolation at the top of the atmosphere.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Steven Hawkins be damned</title>
+    <introduction>
+      <p>
+        Public speaking and doing math:
+        two of the least favorite activities of college students.
+        Alas, ability at public speaking and math also top the list of skills required by employers and graduate schools.
+        So in <xref ref="fig_teqderivation">figure</xref>
+        we derive the equilibrium temperature of Earth,
+        using all of the information presented in the chapter.
+        The math is on the left; a verbal description is on the right.
+        Throughout E stands for energy,
+        and all values refer to those for Earth,
+        except for the insolation, <m>S_0</m>.
+        So after a long pursuit,
+        we have it: Earth's equilibrium surface temperature, <m>T_{eq}</m>,
+        is \SI{255}K, \SI{-18}{\celsius}, or
+        <m>-1^{\circ}</m>F. The more general result,
+        applicable to any just about any object warmed by the light of a star, is
+        <men xml:id="eq_teq">
+          T_{eq}=\left[\frac{S_0 \cdot (1-A)}{4 \sigma}\right]^{\frac{1}{4}}
+        </men>
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>What does it mean?</title>
+      <p>
+        Understanding the relationship between insolation (<m>S_0</m>),
+        albedo (A) and equilibrium temperature (<m>T_{eq}</m>) is crucial,
+        and a brief look at how each term on the right of <xref ref="eq_teq">Equation</xref>
+        contributes to the results is helpful.
+        The quarter power in the equation means that large changes in insolation or albedo result in substantially smaller changes in equilibrium temperature.
+        A whopping 1% change in insolation or albedo will cause only <m>1/4</m>% change in temperature.
+        The surface temperature of a planet is resistant to change.
+        Clearly an increase in insolation will tend to increase the surface temperature of a planet's surface
+        (<xref ref="fig_teqsensativity">Figure</xref>, panel A).
+        This makes sense:
+        more energy received should lead to warming, and vice versa.
+        The Sun's output has varied less than 0.1% in recent times (<m>\pm \SI{1}{W/m^2}</m>),
+        leading to essentially 0 direct change in Earth's temperature from changes in the Sun's output.
+        Higher albedo leads to lower temperatures,
+        because more energy is reflected back to space and hence less is available to heat the planet.
+        As shown in <xref ref="fig_teqsensativity">Figure</xref>, Panel B, changes in albedo can produce significant changes in temperature,
+        which is why Eduardo Gold's painting project had at least a little scientific credence.
+        At least twice in Earth's history our planet has plunged into a
+        <q>snowball</q>
+        state, with glaciers covering the continents and even the oceans almost to sea level,
+        even at the equator!
+        Ice has a high albedo (0.7 if fresh) and so Earth's surface may have been cold indeed.
+      </p>
+      <p>
+        Calculating the equilibrium surface temperatures of all of the terrestrial planets is both good practice and another instructive way of understanding <xref ref="eq_teq">Equation</xref>.
+        A table (Table {tab:teq}) helps to organize the analysis.
+        The albedos of Mercury and the Moon are quite low,
+        reflecting their lack of atmosphere and dark, basaltic crust.
+        Both Mars and Earth have polar ice caps,
+        clouds and varied surface types,
+        which gives them intermediate albedos.
+        Venus's thick layer of clouds,
+        consisting of sulfur dioxide and droplets of sulfuric acid , reflect an astonishing 90% of sunlight back to space.
+        The high albedo and Venus' proximity to the Sun cause it to shine splendidly in Earth's twilight sky.
+      </p>
+      <table xml:id="tab_teq">
+        <title>Calculating the equilibrium temperatures of the Terrestrial planetss</title>
+        <tabular>
+          {@lccccccc@} \toprule
+          Parameter                 &amp;Symbol   &amp;Units  &amp;Mercury  &amp;Venus  &amp;Earth  &amp;Moon  &amp;Mars \\ \midrule
+          Albedo                   &amp;A       &amp;-        &amp;0.07      &amp;0.90    &amp;0.30    &amp;0.11  &amp;0.25\\
+          Insolation               &amp;S       &amp;W/m2    &amp;9130      &amp;2610    &amp;1361    &amp;1361  &amp;590\\
+          Equilibrium Temperature   &amp;<m>T_{eq}</m>&amp;K      &amp;440      &amp;184    &amp;255    &amp;270  &amp;211\\
+          Average Temperature      &amp;<m>T_{avg}</m>&amp;K      &amp;440      &amp;737    &amp;288    &amp;270  &amp;210\\
+          Greenhouse Effect,<m>T_{avg}-T_{eq}</m>&amp;<m>\Delta T_{GHE}</m>&amp;K  &amp;0 &amp;553  &amp;33    &amp;0    &amp;1\\
+          Atmospheric Pressure &amp;<m>P_{atm}</m>&amp;bar  &amp;0  &amp;92  &amp;1  &amp;0  &amp;0.01\\ \bottomrule
+        </tabular>
+      </table>
+      <p>
+        The Moon and Earth receive identical insolation,
+        but have starkly different albedos.
+        The Moon's darker surface and lower albedo means it absorbs 25% more energy from the Sun than Earth does<m>\frac{E_{moon}^{abs}}{E_{earth}^{abs}}=\frac{(1-A_{moon})}{(1-A_{earth})}=\frac{0.89}{0.7}=1.27</m>.
+        Accordingly,
+        the Moon's <m>T_{eq}</m> is \SI{270}{\kelvin}, about \SI{15}{\kelvin} warmer than Earth's equilibrium temperature.
+        Mars and Earth have roughly the same albedos,
+        but drastically different insolations.
+        Mars receives about half the sunlight Earth does,
+        and so its <m>T_{eq}</m> is only \SI{210}{\kelvin}, \SI{45}{\kelvin} less than Earth's and colder than any temperature ever recorded on Earth's surface
+        (see Table 3.02).
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>And why is it so wrong?</title>
+      <p>
+        Let's make a final comparison and see how well our derived equilibrium surface temperatures compare to actual measured surface temperatures.
+        Our calculated <m>T_{eq}</m> are identical to measured average surface temperatures for some bodies (Mercury,
+        the Moon),
+        compare well for others (Mars) and are down-right terrible for the remainder (Earth, Venus).
+        Clearly something is wrong:
+        the equilibrium temperatures we so laboriously explored don't predict actual surface temperatures of all planets.
+        For Earth, the disagreement is significant.
+        The calculated <m>T_{eq}</m> is \SI{255}{\kelvin}, or
+        <m>-1^{\circ}</m>F. At this temperature, Earth should
+        <em>always</em> be a snowball,
+        its surface permanently shrouded in a thick layer of snow and ice.
+        The actual measured average surface temperature of Earth is \SI{288}{\kelvin}, equivalent to \SI{15}{\degreeCelsius} or a comfortable <m>59^{\circ}</m>F, a whopping
+        <m>60^{\circ}</m>F warmer than <m>T_{eq}</m>.
+        We haven't wasted our time;
+        the equilibrium temperatures we now understand so well are a fundamental part of understanding Earth's climate.
+        But it is just that: a part.
+        We need to recall observation 3 from above,
+        that anything that slows the radiation of heat from a warm object will keep the object warmer, longer.
+        Things that can slow the loss of heat include a sweatshirt on a student,
+        a blanket on a sleeping person,
+        or <em>the atmosphere of a planet</em>.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

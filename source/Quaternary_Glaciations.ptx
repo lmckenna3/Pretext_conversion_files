@@ -1,0 +1,216 @@
+<section xml:id="Quaternary_Glaciations">
+  <title>Quaternary Glaciation: the (harsh) cradle of human culture</title>
+  <introduction>
+    <p>
+      One way that scientists measure the quality of their work is through citations,
+      the number of times one of their papers is cited by authors' of other papers.
+      By that index,
+      a 2005 CE paper by Lorraine E. Lisiecki and Maureen Raymo ranks as one of the more important papers published this century,
+      having been cited
+      (according to a Google Scholar search in December 2018)
+      an astonishing 4301 times,
+      an average of nearly <em>once per day</em> for 13 years.
+      Their seminal contribution was using the
+      <m>\delta O^{18}</m> proxy to build a precise chronology of climate change for the past \textasciitilde 5 Ma.
+      Their <em>stack</em>, and the proxy behind it,
+      are sufficiently important to deserve a careful explanation.
+      Only after that can we fully appreciate the insights the proxy provides to us.
+    </p>
+  </introduction>
+  <subsection>
+    <title>The <m>\delta O^{18}</m> proxy</title>
+    <p>
+      Most of the oxygen atoms
+      (see Chapter 3)
+      in the Solar System are the \isotope[16][8]O isotope: 8 protons
+      (like all oxygen atoms, by definition)
+      and 8 neutrons.
+      But two other isotopes are also stable, \isotope[17][8]O and \isotope[18][8]O, as shown in <xref ref="tab_oxisos">Table</xref>.
+      The vast majority of water molecules have \isotope[16][]O(we'll drop the
+      <q>8</q>
+      from now on), which is considered
+      <q>normal</q>
+      water.
+      But roughly 0.2% of water molecules have \isotope[18]O, making
+      <q>heavy</q>
+      water.
+      Generally, different isotopes of the same element are chemically identical,
+      because all isotopes of an element have the same electron configuration,
+      which mediates chemical reactions.
+      But relatively light isotopes,
+      like those near the top of the periodic table
+      (including oxygen)
+      have substantially different masses.
+      Note in <xref ref="tab_oxisos">Table</xref>
+      that \isotope[18]]O is 16% heavier than the more common \isotope[16][]O, so heavy water is about 11% heavier than its normal cousin,
+      and its physical behavior is ever-so-slightly different.
+      Heavy water evaporates from the oceans less readily,
+      and precipitates out of the atmosphere more readily, than normal water.
+      The net effect of all this is to enrich the world's oceans with heavier water,
+      and enrich the cryosphere in the normal isotope.
+      This <em>fractionation</em> effect is greater in warmer climate,
+      less in cooler ones
+      (<xref ref="fig_isoexplainer">Figure</xref>).
+      The ratio of light to heavy water is measured by the <m>\delta O^{18}</m>,
+      with more positive numbers indicating relatively more \isotope[18]O, and more negative numbers representing relatively less \isotope[18]O. Fortunately for climatology,
+      single-celled shell-building foraminifera are plentiful in the oceans,
+      and their <m>CaCO_3</m> shells contain O atoms stripped from sea water.
+      Foram shells record the ocean's <m>\delta O^{18}</m>,
+      and provide an excellent proxy for sea temperature and the amount of continental glaciation.
+      Because ice sheets preferentially store light O, in colder climate the oceans have more positive <m>\delta O^{18}</m>,
+      and so too will forams growing in the that ocean.
+      (Most people tend to think of colder temperatures as being lower than higher temperatures,
+      which is why <m>\delta O^{18}</m> is plotted in reverse on all the graphs in this book:
+      higher ratios represent colder, icier conditions.)
+    </p>
+    <table xml:id="tab_oxisos">
+      <title>Oxygen Isotopes</title>
+      <tabular>
+        {@llllll@} \toprule
+        Symbol             &amp;Number  &amp;Neutrons      &amp;Mass (amu)   &amp;Mass diff. from 16 (%)&amp;Abundance(%)  \\ \midrule
+        \isotope[16][8]O &amp;16      &amp;8            &amp;15.99491464  &amp;0                           &amp;99.759        \\
+        \isotope[17][8]O &amp;17      &amp;9            &amp;16.99913060  &amp;6                           &amp;0.037         \\
+        \isotope[18][8]O &amp;18      &amp;10            &amp;17.99915939  &amp;13                           &amp;0.037        \\ \bottomrule
+      </tabular>
+    </table>
+  </subsection>
+  <subsection xml:id="GIGC_intro">
+    <title>Description of the ice ages/glacial-interglacial cycles (GIGC)</title>
+    <subsubsection>
+      <title>Three climate patterns over the past 5 Mya</title>
+      <p>
+        The <m>\delta O^{18}</m> record
+        (<xref ref="fig_raymostack">Figure</xref>)
+        shows three important climate trends over the past 5 My.
+        The first is nicely demonstrated by the long, slow,
+        downward curve in <m>\delta O^{18}</m>,
+        indicating an increasingly cooler and icier Earth.
+        The relative warmth of mid-Pliocene Warm Period stands out
+        (as we saw above)
+        as a distinctly warm pulse in the overall cooling trend,
+        which accelerated after the MPWP. The Southern Hemisphere cooled first,
+        with pulses of glacial growth and retreat around the edges of Antarctica<fn>
+        Raymo, M. E., Lisiecki, L. E., &amp; Nisancioglu, K. H. (2006).
+        Plio-Pleistocene Ice Volume, Antarctic Climate,
+        and the Global <m>\delta</m> 18O Record.
+        Science, 313(5786), 492-495. https://doi.org/10.1126/science.1123296
+        </fn>.
+        Not until 2.5 Ma did glaciers spread across the Northern Hemisphere continents.
+        Temperatures continued to fall
+        (and ice cover increased)
+        on average to the present day.
+        But this decrease was ragged,
+        which is the second climate pattern, evident as the
+        <q>saw-tooth</q>
+        pattern in the data.
+        At the top of each oscillation, Earth was in an <em>inter-glacial</em>
+        period, with temperatures,
+        ice cover and sea level all similar to our contemporary climate.
+        But for the remainder of each oscillation, Earth was colder,
+        ice more abundant, and sea level lower:
+        these are <em>glacial</em> intervals
+        (more colloquially known as
+        <q>Ice Ages</q>),
+        the standard state for Earth over much of the past 2.5 My.
+        From 2.5 Ma to roughly 1.5 Ma, these oscillations have periods averaging <nbsp/>41 ky,
+        the same period as Earth's obliquity oscilations.
+        Around ear 1.5 Ma, the period changes to a much longer <nbsp/>100 Ky, about the period of eccentricity oscillations in Earth's orbit.
+        Clearly Earth's climate over the past 2.5 Ma is responsive to changes in insolation driven by changes in Earth's orbit,
+        which was Milankovich's original hypothesis.
+        The third and final pattern is the increasing magnitude of the glacial-interglacial cycles,
+        which are now about 4 times larger than at 2.5 Ma.
+      </p>
+      <p>
+        The lower panel on <xref ref="fig_RaymoStack">Figure</xref>
+        shows the past 800 ky in more detail.
+        Glacial and interglacial periods are shown by the blue and pink shading at the top of the panel.
+        Note the similarity in each cycle:
+        a slow, bumpy descent to colder and icier conditions,
+        punctuated by a rapid termination and entry to a new interglacial period.
+        Larger bumps in the the descent are separated by <nbsp/>41 ky
+        (the obliquity period),
+        and super-imposed on these are smaller,
+        briefer bumplets separated by 23 ky, the precession period.
+        For the past <nbsp/>11.5 ky, Earth has sat firmly in an interglacial period,
+        but this is rare.
+        Over the past 800 kyr, Earth is in interglacials only 20% of the time,
+        with the other 80% dominated by glacial cycles.
+        The climate in which our culture has thrived is rather rare.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Geographic distribution and climatic of glacial periods</title>
+    <p>
+      More common are times when half-mile thick sheets of ice covered half of North America and portions of Europe and Asia,
+      as shown in <xref ref="fig_LGMmap">Figure</xref>.
+      At glacial maximum, The Laurentide Ice Sheet covered most of North America above 45\textdegree N latitude
+      (with the curious exception of Alaska),
+      and merged with the much expanded Greenland Ice Sheet.
+      The Eurasian ice sheet stretched from the the British Isles,
+      through fenno-scandanavia and into the far northern limits of Siberia,
+      largely sparing the vast continent from ice.
+      In the Southern Hemisphere,
+      the relatively small ice sheet in the southern Andes was dwarfed by the extensive Antarctic Ice Sheet,
+      most of which still remains today.
+    </p>
+    <p>
+      All that additional ice cover had a profound effect on global climate.
+      The ice's high albedo drove Earth's average albedo up as well,
+      reducing average surface temperatures across the globe.
+      As we'll explore in detail below,
+      atmospheric concentration of <m>CO_2</m> plummeted during glacial episodes as well,
+      roughly doubling the cooling effects of the reflective ice.
+      Global temperatures during the most recent glacial periods were roughly \SI{8}{\celsius} (14\textdegree F) colder than pre-industrial times.
+      Lower insolation, colder temperatures, the
+      <q>blocking</q>
+      effects of large glaciers all lead to significant changes in atmospheric circulation and precipitation across the globe<fn>
+      Ludwig, P., Schaffernicht, E. J., Shao, Y., &amp; Pinto, J. G. (2016).
+      Regional atmospheric circulation over Europe during the Last Glacial Maximum and its links to precipitation.
+      Journal of Geophysical Research: Atmospheres, 121(5), 2130-2145;
+      <url href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015JD024444">Link</url>.
+      </fn> Colder air is drier air (Chapter 5),
+      and so global precipitation was also lower,
+      altering the global hydrosphere.
+      The hydrosphere was noticeably smaller during glacial maxima.
+      All the water locked in the ice sheets ultimately had to come from the oceans,
+      and so glacial-interglacioal cycles drove changes in sea level as well (<xref ref="fig_GISealevel">Figure</xref>.
+      Sea levels at hte last Glacial Maximum were an astonishing \SI{130(10)}{\metre} lower than currently, exposing
+      (<xref ref="fig_LGMmap">Figure</xref>)
+      wide swaths of the continental shelves.
+      One of these formed a natural land bridge between Asia and North America,
+      allowing multiple species,
+      including <em>H. sapiens</em> to migrate into North America.
+      During the previous interglacial period, sea levels were<fn>
+      Dutton, A., &amp; Lambeck, K. (2012).
+      Ice volume and sea level during the last interglacial.
+      Science, 337(6091), 216-219, /href{http://science.sciencemag.org/content/337/6091/216}{Link}
+      </fn> \SIrange{6}{9}{\metre} (18 to 30 feet) higher than contemporary sea levels.
+      That is far more than frozen in the mountain glaciers and continental ice sheets,
+      and requires that substantial portions of the Greenland and Antarctic ice sheets melted as well.
+      That interglacial period was about as warm as Earth is now,
+      roughly \SI{1}{\kelvin} warmer than pre-industrial times,
+      so it provides a natural experiment on how much sea level rise we can expect in the next few centuries.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Humans evolved during this icy stage of Earth's history</title>
+    <subsubsection>
+      <title>We are inextricably linked to glacial Earth</title>
+      <p>
+        By any accurate measure,
+        humans evolved physically and socially in a climate defined by repeated and sometimes rapid climate change:
+        the Quaternary Period,
+        one dominated by cold but also cyclical often rapid climate change.
+        In some ways,
+        our species' global success reflects our ability to thrive under change.
+        But as we'll see,
+        the speed with which our activities are driving new climate change<mdash/>to conditions not seen on earth since long-before we evolved<mdash/>far exceed those that we've experienced in our evolutionary past.
+      </p>
+      <blockquote>
+        From AR 4 , Ch 6.4.1.1: "The present atmospheric concentrations of CO2, CH4 and nitrous oxide (N2O) are higher than ever measured in the ice core record of the past 650 kyr (Figures 6.3 and 6.4). The measured concentrations of the three greenhouse gases fluctuated only slightly (within 4% for CO2 and N2O and within 7% for CH4) over the past millennium prior to the industrial era, and also varied within a restricted range over the late Quaternary. Within the last 200 years, the late Quaternary natural range has been exceeded by at least 25% for CO2, 120% for CH4 and 9% for N2O. All three records show effects of the large and increasing growth in anthropogenic emissions during the industrial era.''
+        <q>Variations in atmospheric CO2 dominate the radiative forcing by all three gases (Figure 6.4). The industrial era increase in CO2, and in the radiative forcing (Section 2.3) by all three gases, is similar in magnitude to the increase over the transitions from glacial to interglacial periods, but started from an interglacial level and occurred one to two orders of magnitude faster (Stocker and Monnin, 2003). There is no indication in the ice core record that an increase comparable in magnitude and rate to the industrial era has occurred in the past 650 kyr.</q>
+      </blockquote>
+    </subsubsection>
+  </subsection>
+</section>

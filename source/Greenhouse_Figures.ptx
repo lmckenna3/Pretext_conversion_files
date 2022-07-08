@@ -1,0 +1,192 @@
+<section xml:id="Greenhouse_Figures">
+  <title>Figures</title>
+  <figure xml:id="fig_tghe_P">
+    <caption>The cause of the greenhouse effect, revealed by the relationship between atmospheric pressure (on the horizontal axis) and the difference between actual surface temperature and the blackbody equilibrium temperature (vertical axis). On the left is a graph with standard arithmetic axes: each tick mark is a fixed amount greater than the previous. This type of graph can't show the often enormous range of values typical in studying climate. The log-log graph on the right has a constant factor between tick marks. Each one is 10 times larger than the previous. These axes expand the lower left corner of a typical graph, and reveal that pressure and temperature difference are closely related.</caption>
+    <image width="92.5%" source="ghe_pressure"/>
+  </figure>
+  <figure xml:id="fig_iodine">
+    <caption>Iodine (from the Greek, <em>ioeides</em>, violet colored) gas has a beautiful purple color, because the electrons in this molecule absorb much of the red through green light, allowing the blue and purple wavelengths to pass through. Do not try this at home: <m>I_2</m> is a noxious and potentially toxic gas. This image is courtesy of and by Matias Molnar - Laboratorio Quimica Inorganica II UBA, Argentina. Licensed under CC BY-SA 3.0 via Wikimedia Commons,  https://commons.wikimedia.org/wiki/File:IodoAtomico.JPG#/media/File:IodoAtomico.JPG.</caption>
+    <image width="92.5%" source="IodoAtomico.JPG"/>
+  </figure>
+  <figure xml:id="fig_bending_modes">
+    <caption>Molecules with three or more atoms can vibrate and bend in ways that absorb infrared light. The light's energy causes bonds to stretch or rotate, as shown above. The three gasses making up 99% of the (dry) atmosphere (Nitrogen gas, <m>N_2</m>; oxygen gas, <m>O_2</m>, and argon <m>Ar</m>) have one or two atoms. They do not absorb infrared energy in any significant way.</caption>
+    <image width="92.5%" source="Bending_modes_GHG.jpg"/>
+  </figure>
+  <figure xml:id="fig_erb_a">
+    <caption>Earth's energy balance in three easy pieces. Piece 1: Over the long term, Earth must emit as much energy as it receives from the Sun. On average, each square meter of Earth's surface receives energy at a rate of \SI{340}{\watt}. Some of this energy is reflected back to space, a proportion called Earth's albedo, A. Earth must emit the rest of the energy, \SI{340}{\watt}, back to space. This amount of energy corresponds to a <m>T_{eq} = \SI{255}{\kelvin}=\SI{-18}{\celsius}=-1^{\circ}</m>F.</caption>
+    <image width="92.5%" source="ERB_a"/>
+  </figure>
+  <figure xml:id="fig_erb_b">
+    <caption>Piece 2: Earth's actual surface temperature is <m>T_{av} = \SI{288}{\kelvin}=\SI{15}{\celsius}=60^{\circ}</m>F, \SI{33}{\kelvin} hotter than <m>T_{eq}</m>. Hotter objects emit more energy than cooler ones, so Earth's surface must emit more energy than it receives from the Sun alone! How is this possible? The Greenhouse Effect.</caption>
+    <image width="92.5%" source="ERB_b"/>
+  </figure>
+  <figure xml:id="fig_erb_c">
+    <caption>Step 3: The solution is that each square meter of Earth's surface receives \SI{326}{\watt} of energy re-emitted from the atmosphere (the large red arrow on the right of the diagram). This energy comes from energy absorbed by the clouds and atmosphere directly from the Sun (the yellow arrow labeled
+    <q>absorbed</q>),
+    from energy contained in thermals of rising air (think cumulus clouds) and from water evaporation and plant growth (evapotranspiration, in green), and from the surface itself. Earth's surface absorbs more energy from the atmosphere than from the Sun!</caption>
+    <image width="92.5%" source="ERB_c"/>
+  </figure>
+  <figure xml:id="fig_sun_earth_spectrum">
+    <caption>The Sun's and Earth's spectra and the origin of the greenhouse effect. The lowest panel shows the important bands of the electromagnetic spectrum, with short wavelength ultra-violet to the left, visible in teh middle, and long-wavelength infra-red on the right. Note the log scale on the wavelength axis. The middle panel shows the relative amount of energy emitted at each wavelength by the Sun (in yellow) and Earth (in red). The gray shading indicates how effectively Earth's atmosphere absorbs or scatters light of each wavelength. The lower the gray line, the more transparent the atmosphere is to that color of light. Portions of the spectrum (for example, most of the infra-red with wavelengths above \SI{10,000}{\nano\metre}) where the gray fill extends to
+    <q>0 transmission</q>
+    indicates total absorption by the atmosphere. Light of that wavelength never makes it through the atmosphere, in <em>or</em> out. Portions (such as the visible band) where the atmosphere is transparent to light are called
+    <q>windows</q>. By cosmic coincidence, the Sun's peak insolation exactly overlaps a big, wide window in the atmosphere. Earth, on the other hand, emits infra-red radiation that is largely absorbed, except for the narrow window right at \SI{10,000}{\nano\metre}. The upper panel identifies the greenhouse gasses responsible for absorption features. Note that water vapor is a strong absorber of infra-red radiation, and causes the spikes of absorbance all through the infra-red. Note how water and carbon dioxide conspire to make the atmosphere around Earth's peak emission relatively opaque. This traps the light and its energy in in the atmosphere, warming it and causing the greenhouse effect.</caption>
+    <image width="92.5%" source="sun_earth_spectrum"/>
+  </figure>
+  <figure xml:id="fig_forest_trees">
+    <caption>Seeing the sky for the trees and emission heights in the atmosphere. In Panel A (upper), you stand within a dense forest, and the trunks effectively block your ability to see the horizon. Greenhouse gas molecules in the atmosphere act like trees in a forest, preventing infra-red light from
+    <q>seeing</q>
+    space. But in Panel B (lower) you are standing at the edge of the forest, and there are so few tree trunks between you and the forest's edge you can see the horizon. Analogously, in Earth's atmosphere infra-red light can only escape when there relatively few greenhouse gas molecules left left to run into. This is the emission height of the atmosphere.</caption>
+    <image width="73%" source="forest_trees"/>
+  </figure>
+  <figure xml:id="fig_emission_heights">
+    <caption>Seeing through the forest, as applied to Earth's atmosphere. The line shows the typical height at which light (of the wavelength given on the horizontal axis, on a log scale to easily compare with <xref ref="fig_sun_earth_spectrum">Figure</xref>) reaches space without further absorption in Earth's atmosphere. The global average for all infra-red light is around \SI{5.5}{\kilo\metre}, although for the atmosphere modeled here, this height is closer to \SI{6.6}{\kilo\metre}, about 22,000 feet. This is about half the typical flight level of a large passenger jet. The peak at \SI{15,000}{\nano\metre} is due to <m>CO_2</m>, and the height of this emission (\SI{11}{\kilo\metre}, about 36,000 feet) is at the flight level of that same jet. Note how the emission height shown here is qualitatively the same as the transmission of the atmosphere depicted in the central panel of <xref ref="fig_sun_earth_spectrum">Figure</xref>.</caption>
+    <image width="92.5%" source="emission_heights.jpg"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}
+  </p>
+  <p>
+    <image width="92.5%" source="ann_ghg"/> \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_wv_vis">
+    <caption>Water vapor dissolved in the air is not the same as visible clouds. In Panel A (on the left), is a water vapor image of North America, taken at 11:15 AM EDT on 30 June, 2015 using infra-red light emitted by water dissolved in the atmosphere. Brown to black areas are quite dry, with low concentrations of water vapor, while areas colored white to blue have increasingly higher concentrations of water vapor. In Panel B (on the right) is a visible light image taken at the same time, showing just clouds. Note how water vapor is present in areas where clouds are not, indicating the water vapor really is dissolved in the air, and not (in most places) forming clouds. For example, North Carolina, Kansas, and Massachusetts (outlined in green) have high concentrations of water vapor, but are cloud free. Images are courtesy of the National Weather Service.</caption>
+    <image width="92.5%" source="wv_vis.jpg"/>
+  </figure>
+  <figure xml:id="fig_feedback_loops_intro">
+    <caption>Systems can act in complicated ways when their parts interact. One important class of interactions are feedbacks, where change in one part of a system produces change in another. Panel A (upper left) shows a competitive collegiate wrestler whose weight must stay within a narrow target range. If the wrestler's weight increases or decreases, the wrestler decreases or increases respectively their calorie intake. Such <em>negative</em> signals, shown by the red dashed line connecting the two parts of the system, reflect the opposite signs of the changes. An increase or decrease in caloric intake leads to weight increase of decrease respectively, a positive signal (shown by the solid green line). Systems, such as the wrestler, with an odd number of negative signals are negative feedback systems: over time, small changes in the system get squashed and the system tends to stay in steady state (Panel C, green solid line). Systems with no or an even number of negative signals are positive loops (Panel B, upper right). Over time, small changes in the system get amplified and the system tends to diverge (sometimes catastrophically) from steady state. Earth's climate, stable for billions of years, is a negative feedback system. But anthropogenic signals, from greenhouse gas emissions to use of fertilizers to land use change, are pushing the climate into new realms.</caption>
+    <image width="92.5%" source="feedback_loops_intro.png"/>
+  </figure>
+  <figure xml:id="fig_schmidt_hills">
+    <caption>This view of the Schmidt Hills of Antarctica, shows the frozen Polar Plateau leading
+    off to the Ronne Ice Shelf in the background. All that ice is nothing more than compacted snow, but
+    to the surprise of most people, snow in Antarctica is actually pretty rare, simply because the Antarctic air
+    is too cold to hold much water. Antarctica is a unique and spectacular part of planet Earth, but
+    much of the planet's surface would look like the landscape there if it weren't for the effects
+    of carbon dioxide as a non-condensable gas: a gas that doesn't freeze to a solid on the surface.</caption>
+    <image width="92.5%" source="schmidt_hills.jpg"/>
+  </figure>
+  <figure xml:id="fig_relative_humidity">
+    <caption>Water vapor is the dominant greenhouse gas in our atmosphere, but the amount of water in the atmosphere is a strong function of temperature. Humidity, which measures the amount of water in air, increases by about 6% for every \SI{1}{\kelvin} increase in temperature, as shown by the solid blue line. As air cools, the humidity drops so fast that substantial snow falls are essentially impossible. The blue solid line gives the maximum humidity possible, while the red dashed line and orange dotted lines show relative humidities (RH) of 50% and 25%. Typical relative humidities [Citation here] in Hawai'i are 70% to 50%, in Arizona 50% to 25%. Most people feel pretty comfortable at of 50% RH, but uncomfortably wet at 75% RH and uncomfortably dry at 25% RH. Since 1750 AD, average surface temperatures have increased by about \SI{1}{\kelvin}, increasing water vapor concentrations by <m>\sim 6%</m>. In one of the most graphic signs of climate change, this has increased the likelihood of heavy rains in both tropical [Donat, M. G. Ang&#xe9;lil and Ukkola, A. M. (2019) Intensification of precipitation extremes in the world's humid and water-limited regions. Environmental Research Letters 14(6), 14 065003] and temperature areas, exclusive of dry areas like deserts, where the data are sparse.</caption>
+    <image width="92.5%" source="relative_humidity.pdf"/>
+  </figure>
+  <figure xml:id="fig_wvco2">
+    <caption>The positive feedback loop involving carbon dioxide, water vapor and the greenhouse effect plays a key role in moderating Earth's climate. Even at Earth's cold equilibrium temperature, the three greenhouse gasses other than water vapor<mdash/>carbon dioxide, methane and nitrous oxide<mdash/>all remain gasses in the atmosphere. These non-condensable gasses (Box 1) increase the greenhouse effect (Box 2) which in turn increases the surface temperature of the planet (Box 3). This leads to an increase in the maximum humidity of the atmosphere (Box 4), and hence the evaporation of water (Box 5), and hence more water vapor in the atmosphere (Box 6). This, finally, leads to another increase in the greenhouse effect (back to Box 2), and the loop repeats. Because there are only positive signals in this system, this is a positive feedback loop.</caption>
+    <image width="92.5%" source="watervapor_co2.pdf"/>
+  </figure>
+  <figure xml:id="fig_noco2earth">
+    <caption>The results of a computer model demonstrates how carbon dioxide and other
+    <q>non-condensable</q>
+    gasses control Earth's greenhouse effect. Colors indicate (see the scale on the bottom of the image) the average annual mean surface temperature for each latitude. The researchers removed all the <m>CO_2,\ CH_4\ and\ N_2O</m> from the modeled atmosphere at year
+    <q>0,</q>
+    and then ran the model forward. Within 10 years of the digital removal, the model predicts drastic changes in climate. Without <m>CO_2</m> and other non-condensable gasses, the atmosphere cools so much that little water vapor remains in the atmosphere. Due to the water vapor<mdash/>carbon dioxide feedback loop (<xref ref="fig_wvco2">Figure</xref>), this lowers the greenhouse effect, lowers the surface temperature and lowers the humidity even father. Only 50 years after the experiment begins, average surface temperatures have dropped \SI{35}{\kelvin}, almost half the ocean is covered in ice, and Earth has an albedo of 0.42 (which acts to coll the planet even more). Ice occurs at sea level in the oceans except the narrow band (indicated in yellow) north of the equator. Figure is courtesy of NASA.</caption>
+    <image width="92.5%" source="noco2climate"/>
+  </figure>
+  <figure xml:id="fig_globe">
+    <caption>You can't tell the planet without a program, so this figure shows the important geographical features and boundaries of our fair planet. Blue latitude and red longitude lines are shown every <m>\ang{30}</m> and <m>\ang{60}</m> respectively. Places associated with climate are shown in <em><sc>Bold</sc></em>, while those features associated with positions of the Sun are shown in <em>italic</em> lettering. The two arrows show meridional and zonal directions. The four hemispheres are shown in the margins. Robinson projection.</caption>
+    <image width="92.5%" source="globe"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}
+  </p>
+  <p>
+    <image width="92.5%" source="Apollo_17"/> \caption{Earth,
+    in all its splendor,
+    as seen from the Apollo 17 spacecraft a few hours after leaving Earth for the Moon on December 7, 1972.
+    About the original photograph (Panel B, on the right) Ben Cosgrove noted that this <em>Blue Marble</em>
+    image wasn't the first picture of Earth from space,
+    <q>but no other photograph ever made of planet Earth has ever felt at-once so momentous and somehow so manageable,
+    so companionable.</q>
+    Note the enormous range in albedo across the globe:
+    the highly reflective ice covering polar Antarctica,
+    equally reflecting swirls of clouds forming storm systems in the Southern Hemisphere Temperate zone,
+    the unreflective Atlantic
+    (on the left)
+    and Indian (right) oceans, the dark rainforests of Tropical Africa,
+    and the surprisingly bright and reflective Sahara Desert.
+    Note the discontinuous band of clouds near the equator,
+    a sign of the Inter-tropical Convergence Zone.
+    As Carl Sagan famously pointed out,
+    there's very little evidence of humans visible on this photograph.
+    But since this photograph was taken,
+    the human population on the planet has nearly doubled.
+    Panel A (on the left) gives place names and important parallels of latitude. (Photograph courtesy of NASA: http:\/\/www.nasa.gov/topics/earth/earthday/gall_whole_earth.html)} \end{sidewaysfigure}
+  </p>
+  <p>
+    \begin{sidewaysfigure}
+  </p>
+  <p>
+    <image width="92.5%" source="AlbedoMap"/> \caption{Earth's average annual albedo,
+    or reflectivity.
+    Panel A (left) shows the average in map view,
+    while Panel B (right) shows the zonal averages.
+    In Panel A the the highly reflective polar regions (with albedo ranging from 55% to 75% stand out,
+    but they actually cover relatively little of the surface.
+    Instead, look at the vast tropical oceans,
+    with albedo of 10% to 15%, which dominate Earth's average albedo.
+    The thin light blue areas around the equator
+    (noticeable as the
+    <q>bulge</q>
+    in Panel B at <m>\ang{5}</m> N)
+    is due to the clouds associated with the Inter-tropical Convergence Zone,
+    about which we'll see more in Chapter 7.
+    Note how the albedos displayed on this map reflect the conditions shown in the photograph from Apollo 17, Figure{fig:Apollo17}. The map in Panel A is in Robinson projection;
+    the ordinate in Panel B is weighted by the sine of latitude to reduce } \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_season1">
+    <caption>A schematic diagram of the orientation of Earth, the Sun, and Polaris (the North Star). The orientation is correct for the first day in the Northern Hemisphere Summer, June 21.
+    <q>Schematic</q>
+    in this sense means
+    <q>a diagram showing general arrangement, but without a consistent scale,</q>
+    and that certainly applies to this diagram. At the scale of the Earth shown in the diagram, the Sun would be 25 feet across and almost 3800 feet away from the model Earth! Polaris-the North Star-is about 430 light years away.To put Polaris at the correct distance from our model Earth, we'd need a sheet of paper that extends beyond the orbit of Pluto! Let's accept these distortions for now. Earth spins a full <m>\ang{360}</m> relative to the Sun on it's axis once every 24 hours. Over the course of a year, Earth orbits the sun in our
+    <q>orbital plane</q>
+    shown by the dashed green line. Earth's axis is titled <m>\ang{23.4}</m> relative to its orbital plane; this <em>obliquity</em> is why Earth has seasons. Because Earth is a sphere, some portions of the Earth face the Sun directly during some part of the day; others face away from the Sun for the entire day. The solid blue lines show equal amounts of solar energy (think of them as
+    <q>tubes</q>
+    ) from the Sun hitting Earth. The tube of energy falling on Africa is concentrated over a small area, shown by the blue rectangle, and hence leads to higher temperatures. The same energy is spread over a much larger area in the lower tube, leading to cooler temperatures. This is one of the reasons the Tropics are warm and the Poles cold.</caption>
+    <image width="92.5%" source="season1"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}
+  </p>
+  <p>
+    <image width="92.5%" source="Startrails"/> \caption{A spectacular time lapse photograph of the northern polar region of the sky.
+    The circular star trails record Earth's rotation (counter-clockwise is this orientation),
+    with stars rise on the eastern horizon
+    (right hand side)
+    rotating about the north celestial pole
+    (in the center)
+    and setting in the west.
+    The inset shows Polaris, the North Star, in the center;
+    note the tiny trail, indicating that Earth's North Pole
+    <q>points</q>
+    close to Polaris. http://apod.nasa.gov/apod/ap140818.html Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0).
+    (http://mydarksky.org/).
+    This is a placeholder only; I do not yet have rights to use this picture. } \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_season2">
+    <caption>Another schematic image of the relationships between Earth, Sun and stars. The upper panel shows earth orbiting counter-clockwise around the sun. The arrow shows the orientation of Earth's rotation, spinning around the North Pole and pointing toward Polaris. As in Figure {fig:season1}, the scale here is wildly wrong. The constant direction of the arrow reminds us that Earth's orientation in space is effectively fixed over the year. The lower panel shows that Earth's obliquity causes seasonal differences in the directness of insolation from the Sun. Summer happens when a hemisphere is tilted toward the Sun, increasing the intensity and duration of solar radiation. The increased heating leads to warmer temperatures. Note that the northern hemisphere summer happens when Earth is farthest from the Sun in its orbit.</caption>
+    <image width="92.5%" source="season2"/>
+  </figure>
+  <figure xml:id="fig_insolat">
+    <caption>Annual variations and averages of the insolation received in each latitude on Earth. The solid black line gives the annual average, roughly symmetric about the equator. The blue dotted line shows the insolation on the northern hemisphere's Winter Solstice. Note the area north of the Arctic Circle (light gray line at \ang{66.6} N) is perpetually dark at this time, while the areas south of the Antarctic Circle (light gray line at \ang{66.6} S) is perpetually light. This situation is reversed at the Northern Hemisphere's Summer Solstice.</caption>
+    <image width="92.5%" source="insolation_lat_good"/>
+  </figure>
+  <figure xml:id="fig_avgsurftemp">
+    <caption>The many temperatures of Earth. The two horizontal gray lines give the equilibrium <m>T_{eq}</m> and global average <m>T_{av}</m> temperatures: their only difference is the greenhouse effect. These are global averages, so their value doesn't change with latitude. The solid green line is the observed average surface temperature, <m>T_{observed}</m>, which clearly changes with latitude, colder at the poles, warmer in the tropics, as we'd expect. The blue dot-dash line, <m>T_{calculated}</m>, is the zonal average temperature one calculates from zonal insolation and albedo, as shown in <xref ref="eq_Tlat1">Equation</xref>, and is clearly does a terrible job estimating Earth's actual surface temperatures (green). Adding the greenhouse effect in helps, this is shown by the dashed red line labeled <m>T_{observed, GHE}</m>. This is a pretty good model, a little too warm in the tropics and a little too cool in the poles, but the overall agreement is good. We clearly understand the basic forces controlling Earth's average surface temperatures. But our model doesn't include a crucial element, the flow of heat from the warm tropics to the cooler pole. This heat flow cools the tropics and warms the poles, explaining the discrepancies in our model.</caption>
+    <image width="92.5%" source="avgsurftemp"/>
+  </figure>
+  <figure xml:id="fig_erbe">
+    <caption>NASA's
+    <q>Earth Radiation Budget Experiment</q>
+    measured the incoming energy from the Sun, and the total outgoing energy leaving, each part of the Earth's surface. The measured incoming shortwave radiation (from the Sun, shown by the blue dot-dashed lines) and outgoing longwave radiation (emitted by Earth's atmosphere, shown by the red dashed line). The line marked
+    <q>net</q>
+    represents the difference between the two. Latitudes with net<m>>0</m>(areas between of \ang{39}N and \ang{39}S) receive more energy than they emit; areas with net<m>\lt 0</m> (poleward of \ang{39}) emit more energy than they receive. Note that these boundaries are the same as those we saw in <xref ref="fig_avgsurftemp">Figure</xref>. How can this be? What does this imply?</caption>
+    <image width="92.5%" source="ERBE"/>
+  </figure>
+  <figure xml:id="fig_heatflow">
+    <caption>Advective heat transport from the equator to the poles moderates surface temperatures across the planet. Lines indicate the net heat flow from the equator towards the poles at each latitude; areas above the \SI{0}{\peta\watt} heat flow line have heat moving northward, while areas below have heat flowing southward . The units of heat flow at petawatts, or \SI{10e15}{\watt}. One \si{\peta\watt} is the equivalent energy of 16 of the atomic bombs that destroyed Hiroshima exploding every second. [The explosion had a yield of 15 kton, or approximately \SI{63}{\tera\joule}, thus <m>\SI{1000}{\tera\joule\sec}/\SI{63}{\tera\joule}\approx \SI{16}{\sec}</m>]The atmosphere accounts for the vast majority of this transport, and the ramifications of this are felt globally as
+    <q>weather.</q>
+    Weather is the result of large scale heat flow on Earth, and climate is the long term average of weather.</caption>
+    <image width="92.5%" source="heat_flow"/>
+  </figure>
+</section>

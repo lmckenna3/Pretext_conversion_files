@@ -1,0 +1,506 @@
+<section xml:id="The_Contemporary_Ocean">
+  <title>Contemporary composition and structure of the oceans</title>
+  <subsection>
+    <title>Introduction</title>
+    <p>
+      Most readers have at glanced up at the night sky,
+      lingering for a few moments to stare at a bright star or the moon.
+      Even though most citizens of industrialized countries no longer have truly dark skies<fn>
+      Falchi, F., Cinzano, P., Duriscoe, D., Kyba, C. C. M., Elvidge, C. D., Baugh, K., ... Furgoni, R. (2016).
+      The new world atlas of artificial night sky brightness.
+      Science Advances, 2(6), e1600377-e1600377.
+      <url href="https://doi.org/10.1126/sciadv.1600377">Link</url>.
+      </fn>,
+      they have a far better familiarity with the face of the moon than the bottom of Earth's oceans.
+      Covered by thousands of meters of water and perpetually dark,
+      the ocean floor is less precisely mapped than the surface of Venus (a factor of 50 times worse) and the Moon's far side (a factor of 700 worse!)<fn>
+      Copley, Jon (2014), Just how little do we know about the ocean floor?
+      <url href="https://theconversation.com/just-how-little-do-we-know-about-the-ocean-floor-32751">Link</url>.
+      Accessed 15 September 2017
+      </fn>.
+      Over the past decade, fleets of automated buoys, satellites,
+      and crewed research vessels have greatly increased our understanding of the ocean's composition,
+      temperature and even the shape of the ocean floor.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Contemporary Composition</title>
+    <subsubsection>
+      <title>Introduction: Normal now is generally not normal then</title>
+      <p>
+        Having examined the long-term evolution of the atmosphere in Chapter 6, you should not be surprised to discover that the composition of the oceans also changes over time.
+        Our conception of ''normal'' oceans just isn't applicable to most of the ocean's history!
+        But before we examine those changes,
+        we need a firm foundation of the current composition and state of the world's oceans.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Water and
+      <q>salts</q>
+      </title>
+      <p>
+        Put as simply as possible,
+        the oceans are 96.8% water and 3.2% dissolved solids,
+        or ''salts.'' The salinity
+        (or total concentration of dissolved solids)
+        of a volume of sea water is one of two factors that control the behavior of sea water.
+        Together with temperature, salinity determines sea water's density,
+        and hence how the oceans transport both mass and energy across Earth. \paragraphs{Salts and salinity} While salinity and temperature both vary widely through the oceans,
+        the actual composition of the dissolved solids is surprisingly invariable<fn>
+        Alexander Marcet, M. D. F. R. S. &amp;c.
+        XII. On the specific gravity,
+        and temperature of sea waters,
+        in different parts of the ocean, and in particular seas;
+        with some account of their saline contents, Phil.
+        Trans.
+        R. Soc.
+        Lond. 1819 109 161-208;
+        <url href="doi:10.1098/rstl.1819.0014 2053-9223">Link</url>
+        Accessed 16 January, 2018, as quoted (p. 339) in Wallace, W. J. (1980).
+        The development of marine chemistry until 1900.
+        In Oceanography: The Past
+        (pp. 336-343).
+        Springer, New York, NY.
+        </fn>.
+        This observation has profound implications:
+        most of the dissolved solids are thoroughly mixed during their residence in the oceans.
+        These
+        <q>conserved</q>
+        elements take little or no part in the biological processes in the oceans,
+        and so make great indicators of processes affecting the oceans.
+        <xref ref="tab_salinity">Table</xref>
+        indicates that the components of table salt,
+        sodium (<m>Na^+</m>) and chlorine (<m>Cl^-</m>) ions make up the vast majority of the dissolved solids in sea water,
+        but sulphate ions (<m>SO_4^{2-}</m>) and three cations common in rocks (<m>Mg^+,\ Ca^+,\ and\ K^+,\</m>) are abundant as well.
+        We are so accustomed to thinking that salt water has <em>only</em>
+        sodium chloride dissolved in it that you might find the data in <xref ref="tab_salinity">Table</xref> unsurprising.
+        But everything on
+        (and not on)
+        table <em>should</em> surprise you!
+        The composition of seawater is the result of a dynamic balance,
+        or steady state,
+        between sources and sinks of dissolved material to the oceans.
+        Surrounded above by the atmosphere, below by the sea floor,
+        and to the sides by the continents and their rivers,
+        the oceans' composition is the product of the interactions between all of Earth's sphere.
+        Even, recently, the Anthroposphere
+      </p>
+      <p>
+        The most important source of solids to the oceans is rivers.
+        Aristotle postulated in 350 BCE that rivers were the ultimate source of dissolved solids to the sea,
+        and successive generations of scientists have quantified that contribution,
+        including Urey.
+        We saw in the Urey reaction ( <xref ref="eq_urey"></xref>,
+        <xref ref="eq_urey">page</xref>) that weathering of rocks produced calcium (<m>Ca^{2+}</m>),
+        silica (<m>SiO_2</m>) and bicarbonate ions (<m>CO_3^-</m>) which are washed in to rivers by rain,
+        and then to the oceans by rivers.
+        Weathering also produces the sodium (<m>Na^+</m>) and the three cations (<m>Mg^+,\ Ca^+,\ and\ K^+,\</m>),
+        which commonly substitute for Ca in minerals and rocks.
+        If rivers were the only source of salts to the oceans,
+        we'd expect that the relative proportions of ions in rivers and sea water would be the same.
+        As shown in <xref ref="tab_river_ocean_comp">table</xref>
+        and <xref ref="fig_or_ions">Figure</xref> this is clearly not so.
+        Rivers alone cannot be the only source of ions to the oceans,
+        as rivers have distinctly different relative concentrations of ions than seawater does.
+      </p>
+      <p>
+        The absence of silica and bicarbonate in seawater is easily explained:
+        the biosphere effectively removes the silica (<m>SiO_2</m>),
+        bicarbonate ions (<m>CO_3^-</m>) and (<m>Ca^{2+}</m>) produced by weathering from the oceans.
+        All three compounds are used by organisms as the framework for their shells.
+        Once the organisms die,
+        much of this skeletal material falls to the ocean floor as marine sediments,
+        and eventually sedimentary rock.
+      </p>
+      <table xml:id="tab_salinity">
+        <title>Typical composition of dissolved solids in the oceans</title>
+        <tabular>
+          {@llrrr@} \toprule
+          Name      &amp; Formula      &amp;Concentration  &amp; Mass Proportion (%)\\ \cmidrule(r){4-5}
+          &amp;               &amp; (g/kg water)&amp; Individual            &amp;Cumulative     \\  \midrule
+          Chloride  &amp;<m>Cl^-</m>        &amp;<m>19.4</m>  &amp;<m>55.0</m>  &amp;<m>55.0</m>\\
+          Sodium    &amp;<m>Na^+</m>        &amp;<m>10.8</m>  &amp;<m>30.7</m>  &amp;<m>85.7</m>\\
+          Sulphate  &amp;<m>SO_{4}^{2-}</m> &amp;<m>2.7</m> &amp;<m>7.7</m>  &amp;<m>93.4</m>\\
+          Magnesium  &amp;<m>Mg^{2+}</m> &amp;<m>1.3</m> &amp;<m>3.6</m>  &amp;<m>97.0</m>\\
+          Calcium   &amp;<m>Ca^{2+}</m>     &amp;<m>0.4</m> &amp;<m>1.2</m>  &amp;<m>98.2</m>\\
+          Potassium &amp;<m>K^+</m>         &amp;<m>0.4</m> &amp;<m>1.1</m>  &amp;<m>99.4</m>\\ \bottomrule
+        </tabular>
+      </table>
+      <table xml:id="tab_river_ocean_comp">
+        <title>The oceans are not concentrated river water</title>
+        <tabular>
+          {@llrr@} \toprule
+          Name      &amp; Formula       &amp; Mass Proportion (%)\\ \cmidrule(r){3-4}
+          &amp;               &amp; Sea Water  &amp; River Water \\  \midrule
+          Chloride  &amp;<m>Cl^-</m>        &amp;<m>41.9</m>  &amp;<m>12.4</m>\\
+          Sodium    &amp;<m>Na^+</m>        &amp;<m>10.8</m>  &amp;<m>30.7</m>\\
+          Sulphate  &amp;<m>SO_{4}^{2-}</m> &amp;<m>2.7</m> &amp;<m>7.7</m>\\
+          Magnesium  &amp;<m>Mg^{2+}</m> &amp;<m>1.3</m> &amp;<m>3.6</m>\\
+          Calcium   &amp;<m>Ca^{2+}</m>     &amp;<m>0.4</m> &amp;<m>1.2</m>\\
+          Potassium &amp;<m>K^+</m>         &amp;<m>0.4</m> &amp;<m>1.1</m>\\ \bottomrule
+        </tabular>
+      </table>
+      <p>
+        And that just leaves the chloride ion (<m>Cl^-</m>),
+        only the most abundant of the ions, to explain.
+        Chloride is a large,
+        negatively charged ion that fits poorly in the structure of minerals and rocks.
+        It dissolves readily in water and other fluids,
+        and being volatile is easily lost from magma.
+        Because of this,
+        <m>Cl^-</m> is continually concentrated into Earth's crust and oceans.
+        To fully understand how, we need to turn to the geosphere,
+        and in particular to volcanic rocks at mid-ocean ridges along divergent plate boundaries
+        (red lines on <xref ref="fig_global_bathy">Figure</xref>).
+        The most spectacular display of this interaction are the occasional hydrothermal vents
+        (<xref ref="fig_smokers">Figure</xref>)
+        which pepper the ridges.
+        Discovered only in 1977<fn>
+        Corliss, J. B., Dymond, J., Gordon, L. I., Edmond, J. M., von Herzen, R. P., Ballard, R. D., ... &amp;
+        van Andel, T. H. (1979).
+        Submarine thermal springs on the Galapagos rift.
+        Science, 203(4385), 1073-1083.
+        </fn>,
+        the plumes of super-heated,
+        mineral-rich water are the result cold seawater infiltrating hot,
+        newly-formed volcanic rocks along the mid-ocean ridge.
+        The newly heated seawater reacts with the rocks, losing calcium,
+        sulphate,
+        magnesium and chloride to the rocks,
+        while picking up iron, manganese, copper, zinc and sulfur.
+        Once these altered rocks arrive at subduction zones,
+        much of the chloride is returned to the oceans through melting and volcanism,
+        complete the chloride cycle.
+      </p>
+      <p>
+        The connection between seawater salinity and the composition of the geosphere is a spectacular example of interactions between the spheres acting as a buffer to rapid environmental changes.
+        In effect, the ocean floor acts as a planet-sized pump,
+        drawing seawater of one composition and temperature and ejecting seawater of a different composition and temperature.
+        The initial chemical composition of the pump<mdash/>the volcanic rocks of the seafloor<mdash/>is for the most part fixed by Earth's internal composition,
+        so the net effect of the pump is to stabilize the sea's composition over time.
+        The pump is surprisingly efficient,
+        with the entire volume of the oceans passing though the sea floor in about \SI{4}{\ma}<fn>
+        Wolery, T. J., &amp; Sleep, N. H. (1976).
+        Hydrothermal circulation and geochemical flux at mid-ocean ridges.
+        The Journal of Geology, 84(3), 249-275.
+        They estimate fluxes of \SIrange{1.3e14}{9e14}{\kg\per\year}; the mass of the oceans is on the order of \SI{1.3e21}{\kg}
+        </fn>.
+      </p>
+      <paragraphs>
+        <title>Gasses</title>
+        <p>
+          For our purposes, only two gasses are important in the oceans:
+          oxygen (<m>O_2</m>) and the various forms of carbon dioxide. \paragraphs{Minor components}
+        </p>
+      </paragraphs>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Contemporary Structure</title>
+    <subsubsection>
+      <title>Introduction: Bathymetry of ocean floor</title>
+      <p>
+        The first accurate maps of the ocean floors were painstakingly assembled by Marie Tharp,
+        a geologist and mathematician who laboriously assembled data collected by others
+        (at the time,
+        women were not allowed on oceanographic research vessels)
+        to create the first global maps of the ocean floor in 1977.
+        The maps, painted by hand with a beautiful but exaggerated perspective,
+        were so popular they were featured in popular magazines,
+        and remain today some of the more beautiful maps ever created<fn>
+        Hall, Stephen S. "The Contrary Map Maker." New York: Times Magazine, December 31 (2006): 45-47.
+        Her maps are available as overlays on Google's
+        <q>Earth</q>
+        application.
+        </fn>.
+        More modern maps
+        (<xref ref="fig_global_bathy">Figure</xref>)
+        lack the artistic beauty of Tharp's map,
+        but show additional detail that reveals the dynamic forces shaping the sea floor.
+      </p>
+      <p>
+        The sea floor reveled by <xref ref="fig_global_bathy">Figure</xref> seems counter-intuitive,
+        until you recall that plate tectonics is the primary force shaping our planet.
+        These details are shown in <xref ref="fig_bathy_detail">Figures</xref>
+        and <xref ref="fig_hypso"></xref>.
+        In the central portions of most ocean basins are shallow,
+        narrow and world-circling mountain ranges.
+        These Mid-ocean ridges are the sites of constructive plate boundaries,
+        where new oceanic crust forms from melting of Earth's mantle.
+        This young, hot,
+        and relatively less dense crust floats high in the mantle,
+        making shallow ridges.
+        As this new crust cools and grows denser,
+        the ocean floor sinks, forming the deep ocean basins.
+        Sea floor far from its natal ridge is oldest, coolest and densest,
+        hence the deepest parts of the ocean floor-the abyssal plains-are nearest the continents!
+        In a few places,
+        deep oceanic trenches mark destructive plates boundaries,
+        where plates dive back into the mantle,
+        to be melted and eventually recycled at the mid-ocean ridges.
+        Gigantic submarine plateaus,
+        shallow parts of the sea floor formed from massive outpourings of melted mantle,
+        cover 5% of the ocean floor the ocean floor,
+        particularly in the western Pacific basin<fn>
+        Harris, P. T., Macmillan-Lawler, M., Rupp, J., &amp; Baker, E. K. (2014).
+        Geomorphology of the oceans.
+        Marine Geology, 352, 4-24.
+        <url href="https://doi.org/10.1016/j.margeo.2014.01.011">Link</url>
+        </fn>.
+        Hot-spot volcanoes,
+        formed from upwelling plumes from the deepest mantle<fn>
+        French, S. W., &amp; Romanowicz, B. (2015).
+        Broad plumes rooted at the base of the Earth's mantle beneath major hotspots.
+        Nature, 525(7567), 95-99.
+        <url href="https://doi.org/10.1038/nature14876">Link</url>
+        </fn>,
+        dot the sea floor.
+        Although they are submerged beneath the oceans, the broad,
+        shallow continental shelves are actually parts of the continents.
+        Stretching in some cases for hundreds of kilometers from the current coastlines,
+        the shelves are amongst the most biologically productive parts of the oceans.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Salinity</title>
+      <p>
+        In Chapter 6 we saw that atmospheric circulation and particularly the difference between evaporation and precipitation over the oceans controlled the salinity of the surface oceans.
+        <xref ref="fig_surf_salinity">Figure</xref>
+        shows that salinities are highest below the large atmospheric high pressure systems near latitudes of <m>25 \deg</m> N and S, where evaporation is greater than precipitation.<fn>
+        Dai, A., &amp; Trenberth, K. E. (2002).
+        Estimates of freshwater discharge from continents: Latitudinal and seasonal variations.
+        Journal of hydrometeorology, 3(6), 660-687.
+        </fn>These pools of high salinity are visible within the first few hundreds of meters in the oceans.
+      </p>
+      <p>
+        The large horizontal variations in salinity hides a far more uniform picture at depth.
+        Thanks to research stretching over a century,
+        we have a reasonable idea of the variation of salinity with depth,
+        as shown in <xref ref="fig_Salinity_section">Figure</xref> for the Atlantic Ocean.
+        The extraordinary homogeneity of the deep oceans' salinity is illustrated by the tiny variation in salinity below a few hundred meters depth.
+        This lack of variation is due to the conserved nature of both <m>Na^+</m> and <m>Cl^-</m> ions.
+        No organism consumes or emits these ions,
+        and there are few non-biologic sources or sinks for them in the deep ocean.
+        So their concentration changes only through mixing of water with initially different salinities.
+        But this mixing averages out the salinity differences,
+        leading to the interior heterogeneity seen in the figure.
+        In a famous paper, Val Worthington<fn>
+        Worthington, L. V. 1980.
+        The water masses of the world ocean:
+        some results of a fine-scale census,
+        in Evolution of Physical Oceanography, Scientific Surveys in Honor of Henry Stommel, Bruce A. Warren and Carl Wunsch,
+        eds., the MIT Press, Cambridge, Mass., 42-69, copyright 1981, Figure 2.2
+        </fn> compiled all the then-available data on salinity in the deep oceans and inferred that the vast majority of the oceans have salinities in the exceptionally narrow range of <m>34.75\pm 0.25</m> \textperthousand.
+        The interiors of the oceans are surprisingly uniform.
+      </p>
+      <p>
+        Due to both natural processes and man-made pollution,
+        the salinity of Earth's oceans is very slowly increasing.
+        The anthropogenic component of salinity entering the oceans is now about 40%<fn>
+        Berner, E. K., &amp; Berner, R. A. (2012).
+        Global environment: water,
+        air, and geochemical cycles, <m>2^{nd}</m> edition.
+        Princeton University Press.
+        Tables 8.11 and 8.12
+        </fn> of the natural input rate from rivers.
+        Because of the enormous quantity of <m>Na^+</m> and <m>Cl^-</m> in the oceans,
+        changes to oceanic salinity are small and unlikely to have any significant effect to Earth's systems.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="modern_sst">
+      <title>Temperature</title>
+      <p>
+        As we noted in <xref ref="water_emp">section</xref>,
+        water has a high heat capacity,
+        which means water must absorb or emit significant heat in order to change temperature.
+        Sunlight (or air warmed by sunlight) is essentially the only source of heat to the oceans,
+        so as you might expect the ocean surface is warmest at the equator.
+        In the polar regions, where sunlight is weak and the air cold,
+        water loses heat to the atmosphere and so is coldest at the poles.
+        <xref ref="fig_zonal_sst">Figure</xref>
+        shows that our first-order hypothesis is good.
+        Annual average sea surface temperatures fall below \SI{0}{\celsius} poleward of <m>60 \deg</m> latitude (sea water,
+        due to its high salinity, does not typically freeze<fn>
+        National Snow and Ice Data Center,
+        <url href="https://nsidc.org/cryosphere/seaice/characteristics/brine_salinity.html">This link</url>
+        accessed Pi day, 2018
+        </fn> until \SI{-1.8}{\celsius} (<m>26^{\circ}</m>F)).
+        Temperatures increase uniformly and symmetrically toward the equator,
+        although the small
+        <q>dimple</q>
+        at the equator hints of interesting details to explore.
+      </p>
+      <p>
+        A global map
+        (<xref ref="fig_sst_map">Figure</xref>, left panel)
+        of sea surface temperatures
+        (universally called
+        <q>SST</q>),
+        shows abundant details to explore.
+        The dominant cold-warm-cold variation from pole to equator to pole is quite evident.
+        The equatorial western Pacific and Indian Oceans together form an enormous
+        <q>pool</q>
+        of warm water stretching a third the way around the globe.
+        In the eastern Pacific,
+        a thin band of cold water along the equator is the source of the equatorial
+        <q>dimple</q>
+        seen in <xref ref="fig_zonal_sst">Figure</xref>.
+        Both of these features are the result of circulation of surface waters,
+        which we'll examine in detail below.
+        Other features in the SST map are obscured by the pole-to-pole variation.
+        We will frequently want to visualize and discuss <em>differences</em>
+        between average and actual values,
+        rather than the actual values themselves.
+        In this case, removing the zonal average at every latitude
+        (displayed in <xref ref="fig_zonal_sst">Figure</xref>)
+        from every point in the SST map gives <xref ref="fig_sst_map">Figure</xref>
+        (right panel).
+        Areas that are colder than average for the their latitude are colored blue,
+        and warmer areas in brown, as shown by the scale.
+        Clearly present is an east-west dichotomy in all the oceans:
+        eastern portions are cooler than the western portions.
+        Although most strongly developed in the Pacific Ocean,
+        the large
+        <q>plumes</q>
+        of cold SST on the <em>western</em>edges of the continents is quite striking in the Americas, Africa and even Australia.
+        As we'll see below,
+        this is due to the upwelling of cold water from the deep ocean to the surface along the eastern edges of the oceans,
+        and then their transport by surface currents toward the equator.
+        The other striking feature on the difference map is in the northwestern Atlantic Ocean,
+        where a narrow stream of relatively hot water forms near Florida,
+        then snakes along the eastern continental edge of North America,
+        finally spreading out into the seas off of Europe.
+        This is the Gulf Stream,
+        and forms an essential parts of one of the most important pacemakers of Earth's climate,
+        the Meridional Overturning Circulation.
+        All of these circulation systems,
+        which clearly cause the movement of warm and cool ocean masses,
+        transport heat from Equator to pole,
+        a process we'll examine in detail below.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="fig_arag_map">
+      <title>pH, acidity and saturation states</title>
+      <p>
+        The acidity of a solution is measured by the
+        <em>pH</em>, a short-hand for the
+        <q>power of Hydrogen.</q>
+        Neutral solutions
+        (think pure water)
+        have a <m>pH=7</m>, acidic solutions
+        (think black coffee)
+        have <m>pH\lt 7</m>, while alkaline solutions
+        (think soapy water)
+        have <m>pH>7</m>.
+        The pH scale,
+        like so many other tools used in this book, is a logarithmic.
+        A decreases of just 0.1 pH unit indicates a 25% increase in acidity.
+        The pH of the contemporary shallow ocean varies regionally and seasonally from 7.9 to 8.2 pH units<fn>
+        Takahashi, T., Sutherland, S. C., Chipman, D. W., Goddard, J. G., Ho, C., Newberger, T., ... &amp; Munro, D. R. (2014).
+        Climatological distributions of pH, pCO2, total CO2, alkalinity,
+        and CaCO3 saturation in the global surface ocean,
+        and temporal changes at selected locations.
+        Marine Chemistry, 164, 95-125.
+        </fn>,
+        making it slightly alkaline.
+        In general, places with less light
+        (the winter-time pole and the deep ocean)
+        have <em>lower</em> pH, because of their lower biological productivity.
+        Actually, we don't much care about the contemporary pH distribution on the oceans
+        (<xref ref="fig_ph_map">Figure</xref>)
+        as much as we care about its change over time.
+        Prior to industrialization, oceans had an average pH of roughly 8.25;
+        contemporary oceans have a pH closer to 8.14,
+        an acidity increase of nearly 30%.
+      </p>
+      <p>
+        One big, wet sponge:
+        that's what the oceans look like to the atmosphere.
+        About a quarter of all the <m>CO_2</m> humans have pumped in to the atmosphere has been soaked up by the oceans<fn>
+        Le Qu'er'e, and 67 co-authors: Global Carbon Budget 2016, Earth Syst.
+        Sci.
+        Data, 8, 605-649, doi:10.5194/essd-8-605-2016, 2016. http://www.earth-syst-sci-data.net/8/605/2016/, accessed 27 March 2017
+        </fn>.
+        Once in the oceans,
+        that <m>CO_2</m> reacts with water in a series of steps to form a weak acid,
+        a process we saw way back in <xref ref="eq_carbonic">Equations</xref>.
+        The increasing acidity of the oceans is just one more side effect of <m>CO_2</m> emissions.
+        But another of the reactions between <m>CO_2</m> and sea water is both more surprising and more disturbing.
+        Coral reefs are the best known examples,
+        but many marine creatures beside those making spectacular reefs build shells from the mineral aragonite{footnote{McCulloch, M. T., D'Olivo, J. P., Falter, J., Holcomb, M., &amp; Trotter, J. A. (2017).
+        Coral calcification in a changing World and the interactive dynamics of pH and DIC upregulation.
+        Nature communications, 8, 15686.}, <m>CaCO_3</m> These organisms manufacture their skeletons by combining calcium ions and bicarbonate ions
+        (both liberated from the weathering or rocks on the continents,
+        see <xref ref="eq_urey">the</xref>
+        equation in <xref ref="swrwl">Section</xref>)
+        dissolved in the oceans:
+        <md>
+          <mrow xml:id="eq_caco3" number="yes">HCO_3^{1-} \amp  + \amp  Ca^{2+} \rightleftharpoons \amp  CaCO_3 + \amp  H_2O + \amp  CO_2</mrow>
+          <mrow>Bicarbonate \ ion \amp  + \amp  Calcium \ ion \rightleftharpoons \amp  Aragonite \ Shells + \amp  Water+ \amp  Carbon \ Dioxide</mrow>
+        </md>
+      </p>
+      <p>
+        All of the materials on the right hand side are found in sea water:
+        that <m>CO_2</m> is gas dissolved in the oceans.
+        Unlike many of the reactions you may have seen in Chemistry or Biology classes,
+        <xref ref="eq_caco3">equation</xref> goes both ways,
+        that is the equation runs both direction, as indicated by the
+        <q>double ended harpoon</q>
+        symbol (<m>\rightleftharpoons</m>) in the equation.
+        As the big wet sponge of the ocean soaks up <m>CO_2</m> from the atmosphere,
+        <xref ref="eq_caco3">equation</xref> runs to the <em>left</em>:
+        water and dissolved <m>CO_2</m> spontaneously combine with the shells of marine organisms
+        (living or dead)
+        and return to dissolved calcium and bicarbonate ions.
+        Increasing ocean acidity is decreasing the chemical stability of a vast array of marine creatures,
+        from the spectacular corals of the Great Barrier Reef to the more mundane but equally important aragonite muds formed from broken-down shells.
+        The relative stability of aragonite shells in sea water is given by the
+        <q>saturation index,</q>
+        which must be greater than 2.9 for aragonite to remain solid and not dissolve back in to sea water.
+        As shown in Figure , this condition is already present in some of the colder parts of the oceans;
+        recent research unfortunately suggests that the mundane muds making up much of coral reefs may begin dissolving back into the increasingly acidic oceans by 2050-2080 CE.
+      </p>
+      <p>
+        Across the world,
+        the ocean's pH and aragonate saturation index are decreasing<fn>
+        Takahashi, et al., op cit.
+        </fn>.
+        The best evidence for these decreases comes from research sites in the oceans repeatedly occupied by ships or buoys.
+        Three of these records are shown in <xref ref="fig_oa">Figure</xref>
+        (Note that the graphs for the Canary Islands and Bermuda are displaced 0.15 and 0.30 units downward for clarity).
+        All three stations show natural annual cycles superimposed on a gradual but obvious long-term decrease.
+        At each of the stations,
+        pH is changing by <m>-0.02</m> pH units per decade,
+        or roughly a 7% increase in acidity every 10 years.
+        Aragonite saturation states have also decreased,
+        at about 0.08 units per decade.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Light</title>
+      <p>
+        We denizens of Earth's surface take light for granted.
+        Not so for life in the oceans:
+        the vast majority of the oceans are darker than the night where you live.
+        Sea water absorbs sunlight efficiently,
+        the red end of the spectrum more readily than the blue,
+        which is why water
+        <q>looks</q>
+        blue.
+        On average, light intensity decreases by half for every depth increase of \SIrange{10}{15}{metre}. At \SI{100}{metre}, the total light is less than 0.5% of that at the surface (equivalent to the brightness of the sky just after sunset<fn>
+        Kishida, Y. (1989).
+        Changes in light intensity at twilight and estimation of the biological photoperiod.
+        JARQ (Japan).
+        </fn>), and photosynthesis is no longer possible (<xref ref="light_in_seas">Figure</xref>.
+        Below this euphotic layer,
+        the oceans remain in perpetually twilight to a depth of roughly \SI{1000}{metre}, where the last vestiges of light disappear,
+        and eternal darkness reigns supreme.
+        Roughly 65% of Earth's entire surface area,
+        and 90% of the ocean's volume,
+        lies deeper than \SI{1000}{metre} below the ocean surface,
+        and all of it perpetually dark.
+        <m>\</m>
+      </p>
+    </subsubsection>
+  </subsection>
+</section>
