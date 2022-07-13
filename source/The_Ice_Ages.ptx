@@ -1,0 +1,14 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="The_Ice_Ages">
+  <title>Quaternary Glaciations</title>
+  <xi:include  href="Ice_AgesEpigraph.ptx"/>
+  <xi:include  href="Ice_Ages_Core_Concepts.ptx"/>
+  <xi:include  href="Ice_Ages_Opening_Problem.ptx"/>
+  <xi:include  href="Ice_Ages_Introduction.ptx"/>
+  <xi:include  href="The_Power_of_Proxies.ptx"/>
+  <xi:include  href="Cenozoic_Climate.ptx"/>
+  <xi:include  href="Quaternary_Glaciations.ptx"/>
+  <xi:include  href="Causes.ptx"/>
+  <xi:include  href="Our_Current_Interglacial.ptx"/>
+  <xi:include  href="Ice_Ages_Figures.ptx"/>
+  <xi:include  href="Ice_Ages_Tables.ptx"/>
+</chapter>

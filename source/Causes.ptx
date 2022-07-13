@@ -1,0 +1,389 @@
+<section xml:id="Causes">
+  <title>Causes</title>
+  <subsection>
+    <title>Introduction: Only three ways to change <m>\overline{T}_{surf}</m></title>
+    <p>
+      The glacial climate Earth's experienced over the past 2.8 Ma<mdash/>the climate our species knows and loves<mdash/>turns out to be unusually cool compared to climates of the past.
+      How?
+      What causes these cycles of global climate?
+      Fortunately,
+      we already know that changing global average surface temperature involves relatively few players:
+      <md>
+        <mrow xml:id="eqTsa" number="yes">\overline{T}_{surf}\amp =\left(\frac{S(1-A)}{4\sigma}\right)^{1/4}+\Delta T_{GHE}</mrow>
+        <mrow xml:id="eqTsb" number="yes">\overline{T}_{surf}\amp =\left(\frac{S(1-A)}{4\sigma}\right)^{1/4}+ f([GHG]_{atm})</mrow>
+      </md>
+      where <m>\overline{T}_{surf}</m> is the global average surface temperature,
+      <m>S</m> is the global average insolation
+      (the short wave radiation arriving from the Sun),
+      <m>A</m> is the global average albedo,
+      and <m>\Delta T_{GHE}</m> is the temperature increase from the greenhouse effect,
+      which in turn is a function of the concentration of green house gasses in the atmosphere,
+      <m>f([GHG]_{atm})</m>.
+      So making Earth cold enough to grow glaciers must involve changes to one or more of the three variables in <xref ref="eqTsb"></xref>.
+      Insolation can change from internal variations of the Sun,
+      as well as changes to Earth's distance from Sun or orientation relative to the Sun.
+      Albedo, which controls the reflected short wave radiation,
+      can vary due to changes in surface type
+      (replacing low-albedo ocean with more reflective land),
+      the atmosphere's cloudiness, even from volcanic eruptions.
+      Finally changing the concentration of greenhouse gasses in the atmosphere changes the outgoing long wave
+      (or infra-red)
+      radiation, which also changes the surface temperature.
+      Of course all these factors may change,
+      and many of them will, through feedbacks, affect each other.
+      We need to examine the influence of each factor in turn.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Milankovich's insightful hypothesis: Orbital variations and insolation changes</title>
+    <introduction>
+      <p>
+        In Chapter 3 we noted that,
+        <q>with few exceptions,</q>
+        our Earth System included only Earth and the Sun.
+        Understanding GIGC cycles is one of those few exceptions.
+        To fully understand the driving forces responsible behind GIGC, we need to broaden our system to other objects in our Solar System.
+        Jupiter, Saturn, Venus and the Moon all exert tiny gravitational torques on Earth,
+        subtly swaying Earth's orbital path and orientation relative to the Sun.
+        Planetary orbits were human's original clocks:
+        the year is one orbit of Earth about the Sum,
+        a month one orbit of the moon about Earth,
+        and a day one rotation of Earth relative to the Sun.
+        The clock-like regularity of GIGC suggest that orbital variations driven by graviatational perturbations are the pace-makers of the Ice Ages<fn>
+        Hays, J. D., Imbrie, J., &amp; Shackleton, N. J. (1976, December).
+        Variations in the Earth's orbit:
+        pacemaker of the ice ages.
+        Science Magazine, 194(4270):1121-32.
+        </fn>.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>The shape of orbits</title>
+      <p>
+        Take a piece of string, tie a light weight to it, and start twirling.
+        Eventually you'll reach a point where the string exerts a noticeable force on your hand<mdash/>you'll feel it pulling at your skin.
+        Relax your grip for a moment and the weight will fly across the room;
+        slow the twirling and the object will droop to a lower position.
+        Keeping that weight moving consistently requires a perfect balance between the force you exert on the string and the weight's velocity.
+        This applies to the orbits of objects in the Universe:
+        a stable orbit requires a perfect balance between two forces<fn>
+        Ignoring relativistic effects!
+        </fn>.
+        The mutual gravitational attractive force between objects is perfectly balanced by the tendency of an object to move in straight line.
+        These forces are universal,
+        and so all orbits of all objects in the Universe follow the same fundamental rules,
+        first worked out
+        (through decades of exhausting effort)
+        by Johannes Kepler in the <m>17^{th}</m> century CE<fn>
+        see, for example, Dreyer, J. L. E. A History of Astronomy from Thales to Kepler, 1905,
+        reprinted Dover Publications Inc, 1953.
+        ISBN 0-486-60079-3
+        </fn>.
+        For convenience, we'll focus on orbits of planets around the Sun,
+        but the rules below are generally applicable to all orbits.
+      </p>
+      <p>
+        Kepler's first discovery was that orbits are ellipses lying in a plane with the Sun at one focus
+        (<xref ref="fig_ellipse">Figure</xref>, Panel A)
+        of the ellipse.
+        Drawing a circle with a loop of string is easy:
+        place a finger at one end of the loop and a pencil in the other,
+        and drag the pencil around the finger keeping the loop taut.
+        To make an ellipse, place two fingers in the loop,
+        and have a friend hold the pencil.
+        Now separate your fingers and have your friend draw while holding the loop taut.
+        Each finger is a focus of the ellipse;
+        moving the fingers farther apart makes a skinnier ellipse,
+        moving them closer together makes a more circular ellipse.
+        The Sun occupies one focus of the orbit, while the other is empty.
+        The average distance between a planet and the Sun is the
+        <em>semi-major axis</em>,
+        the distance from the long end of the ellipse to the center
+        (<xref ref="fig_ellipse">Figure</xref>, Panel A).
+        This distance is a fundamental factor determining a planet's average temperature,
+        as the amount of sunlight hitting a planet changes inversely as the square of the distance:
+        planets closer to the Sun receive far more insolation than more distant planets
+        (recall Table 4.1).
+        While the size of an orbit is given by the semi-major axis,
+        the shape is given by the flattening of the ellipse,
+        termed the <em>eccentricity</em>.
+        A circle has an eccentricity of 0
+        (more or less a circular character!),
+        while a cigar-thin ellipse has an eccentricity of 0.9
+        (<xref ref="fig_ellipse">Figure</xref>, Panel B).
+        Most planets in our Solar System have low eccentricity orbits<mdash/>Earth's orbital eccentricity is currently 0.017<fn>
+        From NASA/JPL Horizons ephemeris,
+        https://ssd.jpl.nasa.gov/horizons.cgi#top,
+        accessed 25 September 2018
+        </fn>,
+        so small that you wouldn't be able to distinguish from 0.
+        The ellipse in <xref ref="fig_ellipse">figure</xref> has an eccentricity of 0.76,
+        some 40 times larger than Earth's orbit.
+        As planets orbit the Sun on their eccentric orbits,
+        their distance from the Sun continuously changes.
+        At <em>perihelion</em>, the planet is closest to the Sun,
+        while at <em>aphelion</em>, the planet is farthest from the Sun.
+      </p>
+      <p>
+        The time for a planet to complete one orbit about the Sun is the planet's period.
+        Kepler's third discovery was that a planet's period depends only on the semi-major axis.
+        Surprisingly the eccentricity plays no role setting a planet's period.
+        But eccentricity does change how fast the planet moves in various parts of its orbit.
+        This is nicely shown by the filled dots on <xref ref="fig_ellipse">Figure</xref>, Panel A, which shows the location of a planet with a 1 year period at two-week intervals.
+        Planets move faster than average at perihelion,
+        and more slowly near aphelion.
+        The reasons for this are easier to understand if you consider the orbit as a roller-coaster ride.
+        As a planet approaches aphelion,
+        it is moving farther from sun,
+        working against gravity, essentially traveling uphill on the tracks.
+        Conservation of energy requires that this gain in orbital potential energy is balanced by a loss of orbital kinetic energy:
+        the planet moves more slowly along the orbit.
+        This just what happens on a roller-coaster ride, with the cart slowing
+        (but not stopping)
+        as it reaches the crest of a hill.
+        After passing the top, the cart accelerates downhill,
+        converting potential to kinetic energy and speeding up until it reaches the bottom
+        (<xref ref="fig_ellipse">Figure</xref>, Panel C).
+        Planets on eccentric orbits spend more time farther from the Sun than nearer.
+        While changing distance from the Sun isn't the cause of seasons,
+        it does produce insolation changes during the year,
+        the magnitude of which is proportional to the eccentricity.
+        At perihelion, Earth is 1.7% closer to the Sun than on average,
+        while at aphelion Earth is 1.7% farther from the Sun.
+        Because energy goes as the square of distance, Earth receives only 97% of the average insolation at aphelion,
+        but 103% at perihelion.
+        Oddly enough,
+        perihelion falls on January 4, in the middle of northern hemisphere winter.
+      </p>
+      <p>
+        Earth's seasons are caused by our planet's orientation in space,
+        not our location on the orbit:
+        this is a fundamental point and deserves careful description.
+        As we saw above, Earth's orbit around the Sun is an ellipse lying in a plane.
+        Earth's rotational axis is tilted from the perpendicular to this plane by \ang{23.4}. This <em>obliquity</em>
+        is the ultimate cause of the seasons.
+        The northern axis points
+        (for now)
+        near the North Star, Polaris,
+        and remains pointed there as Earth trundles around the Sun during the year.
+        Because of the obliquity, Earth displays different aspects to the Sun throughout the year.
+        For example, at the northern hemisphere
+        <em>summer solstice</em> typically on June 21,
+        the entire northern hemisphere is tilted toward the Sun.
+        During this time,
+        the Sun appears high in the northern hemisphere sky,
+        leading to intense insolation and longer daylight,
+        both of which contribute to the higher temperatures we associate with summer.
+        At the same time,
+        areas in the southern hemisphere experience exactly the opposite conditions,
+        with the Sun low in the sky, leading to low insolation,
+        shorter daylight, and the colder temperatures of winter.
+        Just three months later,
+        at the <em>autumnal equinox</em> on September 23,
+        both hemispheres receive roughly equal insolation,
+        beginning the fall and spring seasons in the northern and southern hemispheres respectively.
+        At the <em>winter solstice</em> on December 21,
+        the northern hemisphere is tilted away from the sun,
+        and we begin our long trudge into winter,
+        finally emerging on the <em>vernal equinox</em>
+        on March 20 into a much-needed springtime.
+        The annual variation of directness of insolation is the ultimate cause of the seasons.
+        Planets with near-0 obliquity (Mercury,
+        for example) don't have seasons,
+        while planets with high obliquities
+        (such as Uranus)
+        have more extreme seasons than we do.
+      </p>
+      <p>
+        To fully understand GIGC, we have to superpose Earth's orientation onto Earth's orbit,
+        as in <xref ref="fig_dummy">Figure</xref>.
+        Currently, Earth is near perihelion during the northern hemisphere winter,
+        and at aphelion during summer
+        (the relationship is revered in the southern hemisphere),
+        and demonstrate nicely that the seasons are about obliquity,
+        not distance!
+        But recall that distance does produce <m>\pm 3\%</m> changes in the intensity of sunlight.
+        So northern hemisphere winters are moderated by our closeness to the Sun,
+        while at the same time southern hemisphere summers are amplified.
+        Likewise, temperatures in northern hemisphere summer are moderated by our greater distance from the Sun,
+        but southern hemisphere winters are amplified,
+        nudged a little colder than otherwise by the attenuated sunlight way out at aphelion.
+        The combination of eccentricity and obliquity controls the magnitude of <em>seasonality</em>,
+        the variation in insolation during a year.
+        The global annual average insolation depends only on the fixed semi-major axis of our orbit,
+        and doesn't change as obliquity and eccentricity change.
+        And they do change, slowly, as does the direction of Earth's axis.
+        These changes are the pace-makers of the ice ages.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Orbital mechanics and changes to earth's orbit</title>
+      <p>
+        Due to periodic alignments of Earth with Venus, Jupiter and Mars<fn>
+        Hinnov, L. A. Cyclostratigraphy and Its Revolutionizing Applications in the Earth and Planetary Sciences.
+        Geological Society of America Bulletin 125,
+        no. 11-12 (November 1, 2013): 1703-34.
+        <url href="https://doi.org/10.1130/B30934.1">Link</url>.
+        </fn>, Earth's eccentricity varies smoothly with periods of roughly 100 and 405 kya,
+        changing the orbit from circular to noticeably elliptical
+        (as shown in <xref ref="tab_milank_values">Table</xref>
+        and <xref ref="fig_milank_draw">Figure</xref>).
+        At times of low eccentricity, Earth's seasonality is low,
+        and <em>vice versa</em>.
+        Different gravitational interactions between Earth,
+        the Moon and Mars drive faster variations in obliquity,
+        with a period of 41 ky and an amplitude of only \ang{2}. Currently Earth's orbit is near the middle of these ranges,
+        so our climate has only moderate seasonality.
+        We saw above that Earth's axis points near the star Polaris,
+        but this direction is only temporary.
+        Gravitational forces from the Moon and Sun slowly torque the Earth,
+        causing the direction of the North Pole to swing in a grand circle over a period of <nbsp/>23 ky.
+        Imagine we could extend Earth's poles to the stars.
+        Over 23 ky, precession sweeps out a cone in space.
+        This means that our current North Star, Polaris, is only a temporary one.
+        About 12,000 years ago Vega, a bright star in the constellation Lyra,
+        was the pole star, and it will be again 11,000 years hence.
+        At that time,
+        the relationship between seasons and perihelion was exactly reversed,
+        with northern hemisphere summer at perihelion
+        (leading to amplified summer heat)
+        and winters at aphelion
+        (and thus cold and long winters).
+        All three of these cycles<mdash/>in eccentricity, obliquity,
+        and precession<mdash/>happen simultaneously,
+        but at different periods and amplitudes.
+        And all of them affect seasonality and the distribution of insolation over Earth's surface.
+        Fortunately,
+        the gravitational forces at work here are well known,
+        and computer models of Earth's all three are both precise and accurate,
+        even as far back
+        (or forward)
+        as 50 My, so we can actually calculate the affect of all these variations on seasonality and Earth's climate with great precision.
+        <xref ref="fig_milank_wide">Figure</xref>
+        shows the past 1 My of orbital parameters and Oxygen isotope ratio,
+        our proxy for iceiness.
+        The orbital data are from a modern model<fn>
+        Laskar, J., Fienga, A., Gastineau, M., &amp; Manche, H. (2011).
+        La2010: a new orbital solution for the long-term motion of the Earth.
+        Astronomy &amp; Astrophysics, 532, A89.
+        </fn>,
+        and the proxy data from studies all done within the past 30 years.
+        Note how the subtle variations in eccentricity time the start of the ice ages,
+        which start when eccentricity is high.
+        It is remarkable that long before the invention of modern computers, Milutin Milankovitch had worked out the mathematics of how orbital changes and insolation variation,
+        and predicted how these variations drive the ice ages.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Milankovich's hypothesis</title>
+      <p>
+        Milankovich hypothesized in 1941 CE that ice ages begin when eccentricity,
+        obliquity and precession all conspire to produce cool summers and intensely cold winters in the northern hemisphere.
+        He correctly predicted that the cool summers would allow at least some of the previous winter's snow to remain unmelted,
+        thus allowing the sudden build up of continental glaciers.
+        Like many visionary scientists,
+        he lacked the precise data he needed to adequately test his hypotheses at the time he made them,
+        but we have that data now, and his explanation is fundamentally correct.
+        Ice ages begin when high eccentricity happens about the same time precession aligns northern hemisphere summer with aphelion.
+        The vagaries of geography are to blame for the northern hemisphere's predominate role in starting the ice ages.
+        Look at a map
+        (or better a globe)
+        of Earth, and note that the band around \ang{60}-\ang{70}N latitude is largely dry land,
+        a perfect place for snow and ice to grow.
+        This is the core of the
+        <q>Milankovich</q>
+        hypothesis, and explains the clear periodic timing of glaciation revealed in <xref ref="fig_o18_stack">Figure</xref>: Quarterany ice ages are initiated by the rhythmic oscillations of Earth's orbit in response to gravitational nudges of other objects in the Solar System.
+        Two examples show this well.
+        <xref ref="fig_milank_closeup">Figure</xref>
+        shows two glacial-interglacial cycles,
+        the most recent in blue solid lines,
+        and the sixth-most recent in red dashed lines.
+        Note that the peaks in eccentricity correspond to the origination of each Ice Ages.
+        In both cases, the precession is high,
+        indicating that northern hemisphere summer occurs near aphelion,
+        as Milankovich predicted,
+        although obliquities are not in terribly good agreement. (Few hypotheses are perfect!)
+      </p>
+      <p>
+        What Milankovich could not have predicted is that these changes in insolation are not enough to drive Earth into ice ages<fn>
+        AR 4 Ch 6.4.1.6; Abe-Ouchi, Ayako, Fuyuki Saito, Kenji Kawamura, Maureen E. Raymo, Jun'ichi Okuno, Kunio Takahashi,
+        and Heinz Blatter.
+        Insolation-Driven 100,000-Year Glacial Cycles and Hysteresis of Ice-Sheet Volume.
+        Nature 500, no. 7461 (August 2013): 190-93.
+        <url href="https://doi.org/10.1038/nature12374">Link</url>
+        and references therein.
+        </fn>,
+        even after accounting for the expected ice/snow albedo feedbacks.
+        Sophisticated climate models clearly show that the insolation changes produced by Milankovich cycles are responsible for only <em>half</em>
+        of the temperature changes during glacial cycle.
+        Other factors are needed,
+        factors which amplify the climatological muscle of orbital changes to insolation.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Albedo changes and other immediate feedbacks from growing ice sheets</title>
+    <p>
+      As we saw in Chapter 8, adding ice and snow to the planet lowers Earth's global albedo,
+      which then positively feeds back to lower temperatures and contributes to more snow.
+      Once ice sheets start forming in the polar northern hemisphere,
+      this feedback contributes to rapid thickening and spreading of glaciers across the continents.
+      All that water falling as snow and ice on the continents lowers sea level,
+      replacing dark oceans with relatively reflective dry land and further raising albedo.
+      All of these changes typically add up to an increase of 0.01 in albedo<fn>
+      AR4, Chapter 6
+      </fn>,
+      a remarkable 3% increase during glacial periods.
+      Just the albedo change alone is enough to drop the global <m>T_e</m> by a full \SI{1}K. As ice sheets thicken and spread,
+      they get higher and colder, which again accelerates their growth.
+      Finally, all that ice changes ocean and atmospheric circulation,
+      which ends up providing additional ocean-derived moisture to the ice sheets,
+      nudging Earth toward a new glacial cycle.
+    </p>
+  </subsection>
+  <subsection>
+    <title>C cycle feedbacks</title>
+    <p>
+      Nudge, but perhaps not push.
+      All of the direct changes associated with insolation changes we disucssed above aren't enough to get Earth into a full glacial stage.
+      Perhaps you aren't surprised to learn that the concentration of <m>CO_2</m> changes in time with insolation changes,
+      but scientists were:
+      how could the carbon cycle and insolation be connected?
+      The connection is excellent, too.
+      Note how carefully (<xref ref="fig_milank_wide">Figure</xref>)the concentration of <m>CO_2</m> parallels insolation during GIGC Contribute about half the forcing, But not really understood how!
+      Probably involves changes in deep ocean,
+      due to (1) Biology changes and/or (2) Solubility of CO2 in oceans from T decrease and salinity increase
+    </p>
+    <blockquote>
+      AR4 FAQ 6.1: "Although it is not their primary cause, atmospheric carbon dioxide (CO2) also plays an important role in the ice ages. Antarctic ice core data show that CO2 concentration is low in the cold glacial times (<nbsp/>190 ppm), and high in the warm interglacials (<nbsp/>280 ppm); atmospheric CO2 follows temperature changes in Antarctica with a lag of some hundreds of years. Because the climate changes at the beginning and end of ice ages take several thousand years, most of these changes are affected by a positive CO2 feedback; that is, a small initial cooling due to the Milankovitch cycles is subsequently amplified as the CO2 concentration falls. Model simulations of ice age climate (see discussion in Section 6.4.1) yield realistic results only if the role of CO2 is accounted for. "
+    </blockquote>
+    <blockquote>
+      AR 4, FAQ 6.2.  "Most explanations propose changes in oceanic processes as the cause for low glacial CO2 concentrations. The ocean is by far the largest of the relatively fast-exchanging (<m>\lt  1 kyr</m>) carbon reservoirs, and terrestrial changes cannot explain the low glacial values because terrestrial storage was also low at the Last Glacial Maximum (see Section 6.4.1). On glacial-interglacial time scales, atmospheric CO2 is mainly governed by the interplay between ocean circulation, marine biological activity, ocean-sediment interactions, seawater carbonate chemistry and air-sea exchange. Upon dissolution in seawater, CO2 maintains an acid/base equilibrium with bicarbonate and carbonate ions that depends on the acid-titrating capacity of seawater (i.e., alkalinity). Atmospheric CO2 would be higher if the ocean lacked biological activity. CO2 is more soluble in colder than in warmer waters; therefore, changes in surface and deep ocean temperature have the potential to alter atmospheric CO2. Most hypotheses focus on the Southern Ocean, where large volume- fractions of the cold deep-water masses of the world ocean are currently formed, and large amounts of biological nutrients (phosphate and nitrate) upwelling to the surface remain unused. A strong argument for the importance of SH processes is the co-evolution of antarctic temperature and atmospheric CO2.
+      One family of hypotheses regarding low glacial atmospheric CO2 values invokes an increase or redistribution in the ocean alkalinity as a primary cause. Potential mechanisms are (i) the increase of calcium carbonate (CaCO3) weathering on land, (ii) a decrease of coral reef growth in the shallow ocean, or (iii) a change in the export ratio of CaCO3 and organic material to the deep ocean. These mechanisms require large changes in the deposition pattern of CaCO3 to explain the full amplitude of the glacial-interglacial CO2 difference through a mechanism called carbonate compensation (Archer et al., 2000). The available sediment data do not support a dominant role for carbonate compensation in explaining low glacial CO2 levels. Furthermore, carbonate compensation may only explain slow CO2 variation, as its time scale is multi-millennial.
+      Another family of hypotheses invokes changes in the sinking of marine plankton. Possible mechanisms include (iv) fertilization of phytoplankton growth in the Southern Ocean by increased deposition of iron-containing dust from the atmosphere after being carried by winds from colder, drier continental areas, and a subsequent redistribution of limiting nutrients; (v) an increase in the whole ocean nutrient content (e.g., through input of material exposed on shelves or nitrogen fixation); and (vi) an increase in the ratio between carbon and other nutrients assimilated in organic material, resulting in a higher carbon export per unit of limiting nutrient exported. As with the first family of hypotheses, this family of mechanisms also suffers from the inability to account for the full amplitude of the reconstructed CO2 variations when constrained by the available information. For example, periods of enhanced biological production and increased dustiness (iron supply) are coincident with CO2 concentration changes of 20 to 50 ppm (see Section 6.4.2, Figure 6.7). Model simulations consistently suggest a limited role for iron in regulating past atmospheric CO2 concentration (Bopp et al., 2002).
+      Physical processes also likely contributed to the observed CO2 variations. Possible mechanisms include (vii) changes in ocean temperature (and salinity), (viii) suppression of air-sea gas exchange by sea ice, and (ix) increased stratification in the Southern Ocean. The combined changes in temperature and salinity increased the solubility of CO2, causing a depletion in atmospheric CO2 of perhaps 30 ppm. Simulations with general circulation ocean models do not fully support the gas exchange-sea ice hypothesis. One explanation (ix) conceived in the 1980s invokes more stratification, less upwelling of carbon and nutrient-rich waters to the surface of the Southern Ocean and increased carbon storage at depth during glacial times. The stratification may have caused a depletion of nutrients and carbon at the surface, but proxy evidence for surface nutrient utilisation is controversial. Qualitatively, the slow ventilation is consistent with very saline and very cold deep waters reconstructed for the last glacial maximum (Adkins et al., 2002), as well as low glacial stable carbon isotope ratios (13C/12C) in the deep South Atlantic.
+      In conclusion, the explanation of glacial-interglacial CO2 variations remains a difficult attribution problem. It appears likely that a range of mechanisms have acted in concert (e.g., K"ohler et al., 2005). The future challenge is not only to explain the amplitude of glacial-interglacial CO2 variations, but the complex temporal evolution of atmospheric CO2 and climate consistently."
+    </blockquote>
+  </subsection>
+  <subsection>
+    <title>Variations in Solar Luminosity</title>
+    <introduction>
+      <p>
+        Long term changes from Sun's core not applicable here (too long,
+        plus only one direction!)
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>But the sun undergoes shorter-term cycles</title>
+      <p>
+        Very short term cycles as measured by satellites. (Too short to matter for GIG cycles!)
+      </p>
+      <p>
+        The 11-year magnetic cycle revealed by sunspot cycle Too short!
+      </p>
+      <p>
+        Centennial to millennial cycles as measured by B and C isotopes still too short
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

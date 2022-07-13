@@ -1,0 +1,215 @@
+<section xml:id="Changes_to_perennial_ice">
+  <title>Changes to perennial ice</title>
+  <introduction>
+    <p>
+      Despite the local and regional effects of melting perennial ice,
+      we focus in this book on global-scale issues,
+      and that means sea level rise.
+      As you can see in <xref ref="tab_wti">Table</xref>,
+      the sea level equivalents (SLE) of the perennial Cryosphere ranges from \SI{0.41}{\metre} (16 inches) in mountain glaciers to \SI{58.3}{\metre} (190 feet) for the Antarctic Ice Sheet.
+      Between 1990 and 2020 CE, the equivalent of \SI{55}{\milli\metre} (2.1 inches) of sea level rise has melted from the Cryosphere,
+      as shown in <xref ref="fig_SLR">Figure</xref>.
+      The rate of melting is slowly accelerating,
+      as you can see from the slightly upward parabolic sweep to the curves in <xref ref="fig_SLR">Figure</xref>,
+      reflecting increasing melting over time.
+      But it isn't just the volume of water stored in the reservoir that matters,
+      at least on human time scales.
+      <xref ref="fig_SLR_vs_SLE">Figure</xref> shows
+      (in blue)
+      the proportion of SLE in each reservoir,
+      and in orange the proportion of measured sea level rise due to each reservoir<fn>
+      The SLE proportions are from <xref ref="tab_wti">Table</xref>;
+      the SLR data are for 2020 CE projections from Figure
+      </fn>.
+      While mountian glaciers only hold 1% of the SLE, they have contributed 50% of the sea level rise from the entire Cryosphere.
+      This seemingly odd result reflects the more significant and rapid heating of mountain glaciers relative to polar ice sheets in the past few decades.
+      As of 2014 CE, glaciers are melting enough to add \SI{1.5}{\milli\metre\per\year} (about 0.06 inches) to global sea level.
+      By 2020 CE this rate should double,
+      and sea level rise from melting ice will reach an inch per decade.
+      Seems miniscule, until you realize that this tiny amount adds up,
+      year after year, as that new ocean water has no where else to go.
+      Other factors contribute to sea level rise (Chapter 6) but melting ice sheets in Greenland and Antarctica are unique:
+      mass loss in these ice sheets has the potential to raise sea levels suddenly and globally.
+    </p>
+    <p>
+      \subsubsection{Melting of the GIS: Arctic Amplification and Albedo Changes} The Greenland Ice Sheet loses mass through both calving and melting,
+      but since 2003 CE the rate of melting has increased markedly,
+      and now dominates losses there<fn>
+      Kjeldsen, K. K., Korsgaard, N. J., Bjork, A. A., Khan, S. A., Box, J. E., Funder, S., ... &amp; Siggaard-Andersen, M. L. (2015).
+      Spatial and temporal distribution of mass loss from the Greenland Ice Sheet since AD 1900.
+      Nature, 528(7582), 396; Eli Kintisch (2017, February 21).
+      The great Greenland meltdown.
+      Retrieved February 24, 2017,
+      from http://www.sciencemag.org/news/2017/02/great-greenland-meltdown
+      </fn>.
+      Thanks to innovative research techniques,
+      including satellites that precisely measure changes in ice mass and thickness,
+      it is clear that most of Greenland is losing mass,
+      losses equivalent on average to \SI{2.3}{\metre} (7.5 feet) of the Greenland,
+      just since 2003 CE! The combined losses from calving and melting are not uniform:
+      <xref ref="fig_GIS_melt">Figure</xref>
+      shows the loss is concentrated at the ice sheet's margins,
+      particularly near the three large outlet glaciers.
+      Only the highest parts of the ice sheet (shown in white in <xref ref="fig_GIS_melt">Figure</xref>
+      still has a positive mass balance,
+      partly due to orographicly-induced snows on the high part of the sheet.
+    </p>
+    <p>
+      Surface melting is responsible for 70% of the mass loss in Greenland since 2003 CE, and the cause of this melting is two-fold.
+      The first effect is heating driven by atmospheric circulation changes,
+      ultimately driven by Arctic Amplification and its consequences.
+      Changing jet stream behavior tends to drive relatively brief (a month or two), local,
+      but intense melting episodes as warm air floods into typically cold areas<fn>
+      Tedesco, M., Mote, T., Fettweis, X., Hanna, E., Jeyaratnam, J., Booth, J. F., ... Briggs, K. (2016).
+      Arctic cut-off high drives the poleward shift of a new Greenland melting record.
+      Nature Communications, 7, 11723.
+      <url href="https://doi.org/10.1038/ncomms11723">Link</url>.
+      </fn> Of more regional and longer-lasting concern are albedo changes driving ice melt,
+      changes caused by at least three factors<fn>
+      Kintisch, ibid.
+      </fn>.
+      One is naturally occurring dust distributed through the ice;
+      as ice melts this dark dust concentrates on the surface,
+      decreasing the ice's albedo and increasing melt rates.
+      As the Arctic has warmed and regional wind patterns have shifted,
+      soot (fine-grained and very dark fluffs of carbon from the incomplete combustion of wood) from forest fires has collected on the ice sheet,
+      further reducing the albedo and accelerating melting.
+      Finally, in one of the least expected feedback mechanisms you'll find in this book,
+      the warming ice of Greenland has become the home to curious communities of bacteria and algae that live in and on the ice sheets themselves<fn>
+      Kintisch, ibid., Tedstone, A, Bamber, J, Cook, JM, Williamson, C, Fettweis, X, Hodson, A &amp; Tranter, M, 2017, 'Dark ice dynamics of the south-west Greenland Ice Sheet'. Cryosphere,
+      vol 11., pp. 2491-2506
+      </fn>.
+      Pigments in the algae stain the ice,
+      increasing the albedo and inducing additional melting.
+      This additional melting induces more growth of algae,
+      and yet another positive feedback loop enters the Cryosphere,
+      magnifying change.
+      Expect both the area of Greenland Ice Sheet melting,
+      and the total amount of melt,
+      to increase into the future<fn>
+      AR5, Ch 4.4.2
+      </fn>.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Antarctic Ice Shelves and Collapse of the West Antarctic Ice Sheet</title>
+    <introduction>
+      <p>
+        Antarctica is ringed by floating ice shelves,
+        where outlet glaciers draining the continent reach the ocean.
+        The outer portions of the shelves float on the ocean,
+        even though they are hundreds of meters thick.
+        Despite their thickness,
+        the floating shelves are eroded by melting at both their upper and lower surfaces.
+        Eventually, cracks propagate through the shelves,
+        cleaving off massive tabular ice bergs(<xref ref="fig_B15">Figure</xref>),
+        which can drift through the southern ocean for years.
+        In recent years, ice shelves in Antarctica,
+        and particularly in the northern reaches of the Antarctic Peninsula,
+        have rapidly retreated,
+        occasionally showing catastrophic and rapid disintegration (<xref ref="fig_LarsenB">Figure</xref>.
+        The ice shelves' disintegration does not in itself contribute to sea level rise.
+        All floating objects displace their own weight of fluid,
+        in this case water in the oceans.
+        So when the ice melts, the water essentially occupies the
+        <q>hole</q>
+        the ice made in the ocean.
+        But ice shelves act as
+        <q>buttress,</q>
+        slowing the flow of outlet glaciers into the ocean.
+        Outlet glaciers <em>do</em> contribute to sea level rise when they melt.
+        Disappearing ice shelves may allow rapid and catastrophic increases in sea level.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Marine ice sheet instability</title>
+      <p>
+        <xref ref="fig_buttress">Figure</xref>
+        shows an outlet glacier and its fringing ice shelf.
+        The shelf melts from both above and below,
+        and both of these sources of melting are accelerating because of climate change.
+        Air temperatures in the Antarctic Peninsula have increased four to six times faster than the global average<fn>
+        AR 5, Ch. 4
+        </fn>,
+        which leads to increased surface melting.
+        This melted water runs into cracks in the shelf
+        (<xref ref="LarsenB">Figure</xref>, panel A),
+        and wedges the ice apart, hastening its disintegration<fn>
+        Shepherd, op cit.
+        </fn>.
+        But climate change is also warming the oceans,
+        which melt the ice shelves from below
+        (<xref ref="fig_buttress">Figure</xref>).
+        The relatively warm and fresh water created by this melting rises along the edge of the shelf,
+        contributing to more melting.
+        As this process continues the grounding line<mdash/>where the ice shelf and underlying bedrock last touch<mdash/>retreats inland.
+        Unfortunately,
+        the weight of the grounded ice depresses the bedrock,
+        which gets <em>deeper</em> inland,
+        allowing the melting and retreating to accelerate.
+        As the grounding line moves inland,
+        the glacier gets thicker and moves faster,
+        accelerating ice loss from the outlet glaciers.
+        This process is at least partly responsible for the loss of one fifth of all ice shelves in the Antarctica since 1950 CE<fn>
+        Shepherd et al. op cit.
+        </fn>.
+        Loss of ice shelves has allowed some outlet glaciers in Antarctica to surge forward,
+        accelerating loss of Antarctic Ice Sheet and increasing sea levels.
+        This marine ice sheet instability (MISI) hypothesis<fn>
+        Bamber, J. L., Riva, R. E. M., Vermeersen, B. L. A., &amp; LeBrocq, A. M. (2009).
+        Reassessment of the Potential Sea-Level Rise from a Collapse of the West Antarctic Ice Sheet.
+        Science, 324(5929), 901-903.
+        <url href="https://doi.org/10.1126/science.1169335">Link</url>
+        </fn> has profound implications for sea level rise this century.
+      </p>
+      <p>
+        So far, most of the photogenic ice shelf losses has been on the Antarctic Peninsula,
+        which (fortunately) has a SLE<fn>
+        Pritchard, H. D., &amp; Vaughan, D. G. (2007).
+        Widespread acceleration of tidewater glaciers on the Antarctic Peninsula.
+        Journal of Geophysical Research: Earth Surface, 112(F3).
+        </fn> of only \SI{0.24}{\metre} (9.5 inches),
+        far less than mountain glaciers.
+        In West Antarctica, on the other hand,
+        about half the ice is susceptible to MISI, and all that ice is buttressed by the three large and dozens of smaller ice shelves,
+        the later of which are particularly susceptible to disintegration because of their exposed location.
+        These shelves hold back ice with a SLE of \SI{3.4}{\metre} (11 feet),
+        enough to flood the homes of 230 million people<mdash/>4% of all people on the planet.
+        The IPCC concluded that there is medium confidence that West Antarctic Ice Sheet is losing mass<fn>
+        AR 5, Ch. 4, pg. 357
+        </fn>,
+        but the chances that it will catastrophically disintegrate in the next 200 years is extremely unlikely<mdash/>perhaps 5%. This is a classic example of the ethical and practical difficulties associated with climate change.
+        Recall that we define risk as the product of consequence and probability.
+        An outcome with zero consequence clearly carries little risk:
+        an example might be clicking on the wrong link on a web page.
+        In the same way,
+        an event with zero probability also has no risk associated with it.
+        But WAIS collapse and attendant sea level rise are different.
+        The probability is low,
+        but the consequences would clearly be catastrophic to the 4% of humans whose lives were destroyed by flooding.
+        Oc course the lowest elevation areas are near the ocean,
+        which in developed countries are typically occupied by expensive dwellings and residents who want to live at the ocean's edge.
+        How would you explain to such a resident the risk of WAIS collapse and the flooding of their home?
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Gravitational bulges and identifying glaciers threatening <em>your</em> hometown</title>
+      <p>
+        One quirk of ice loss from either Antarctica or Greenland is un-even way that sea levels rise across the globe.
+        All that ice in the AIS and GIS has substantial mass,
+        and so exerts gravitational force on its surroundings.
+        This force is enough to raise local sea levels by as much as a few meters:
+        both Antarctica and Greenland are surrounded by bulges of ocean water attracted by their ice sheets.
+        If the ice were to melt and the water flow away,
+        so too would the ocean bulges.
+        Ironically, the disappearance of the bulges just about cancels out the sea level rise from the melting,
+        which means that sea level rise is amplified in areas far from the melting ice.
+        For example, were the entire WAIS to melt,
+        the resulting sea level increase would <em>average</em>
+        \SI{3.3}{\metre}, but would be negative close to West Antarctica and more than 25% greater along the US coast,
+        which would see \SI{4}{\metre} of sea level increases!
+        A remarkable study released in 2017 CE allows users to enter a sea-side city and identify precisely which glaciers present the greatest risk to flooding.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

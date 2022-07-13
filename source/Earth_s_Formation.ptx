@@ -1,0 +1,436 @@
+<section xml:id="Earth_s_Formation">
+  <title>Earth's Formation</title>
+  <subsection>
+    <title>Origins</title>
+    <introduction>
+      <p>
+        <q>Where did you grow up?</q>
+        is the first question most of us ask of a new acquaintance.
+        Origins tell much about a person,
+        and even more about planets.
+        The origin of our Solar System in general,
+        and of Earth in particular,
+        places important constraints on the composition,
+        structure and behavior of the planet.
+        The manner and speed of Earth's formation largely determined its gross structure and fate.
+        The place of formation, our orbit about the Sun,
+        determines the heat we receive from the Sun and hence our climate;
+        oscillations in this orbit produce everything from the day-night cycle every 24 hours to Ice Ages every 100,000 years.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Earth is old: Deep time and its implications</title>
+      <p>
+        A time span like 100,000 years is incredible by human standards.
+        But Earth and the Solar System are old.
+        That incredible-sounding 100,000 years is the same proportion of the age of Earth as 12 minutes is to a year.
+        Before we can appreciate Earth's formation and structure,
+        we need to understand deep time and the age of Earth.
+        As we will see in the following sections,
+        meteorites contain mineral grains that define the age of Earth and the Solar System.
+        Painstakingly precise measurements of naturally occurring U and Pb in these grains shows they formed 4.567 billion years ago,
+        with an uncertainty of just 0.0005 billion years.
+        This age comes from the same meteorite pictured in <xref ref="allende">Figure</xref>.
+        Holding this meteorite in one's hand is a heady experience:
+        one is holding a rock that reaches beyond the foundation of our planet.
+        The same careful research that gives the age of these earliest mineral grains clearly indicate that most of the planets
+        (the exception being Earth)
+        had formed within a few million years of the Solar System's birth.
+        A few million years seems like a long time to those of us with lifespans measured in decades,
+        but in the realm of geology, a few million years is quite brief.
+      </p>
+      <p>
+        Time so important that an analogy is warranted.
+        One year is 365 days, 8760 hours,
+        roughly half a million minutes, and so on.
+        Imagine squeezing those 4.567 billion years of Earth history into one calendar year.
+        <xref ref="tab_timeanalogy">Table</xref>
+        gives the result of this analogy.
+        For example,
+        a time span of 100 million years is to Earth's age as 8 days is to a calendar year.
+        Most Spring Breaks are about 8 days long,
+        and chances are most students find that week to be fleeting.
+        So, too, with 100 million years for the Earth.
+        Memorable, yes, but all too brief.
+        The Earth is old,
+        and processes we short-lived humans think glacially slow can re-shape our planet in the blink of an eye.
+        (The blink of an eye, the duration of that single event,
+        is equivalent to 10 years in our analogy.
+        For most college students two eye blinks are a lifetime.)
+      </p>
+      <table xml:id="tab_timeanalogy">
+        <title>Analogies for deep time</title>
+        <tabular>
+          {@rrcccccccc@} \toprule
+          Time        &amp;Age  &amp;Span  &amp;Analogous Period Relative to 1 Year\\ \cmidrule(r){1-2} \cmidrule(c){3-4} \cmidrule(l){5-10}
+          Years  &amp; &amp;     &amp;Years  &amp;Days  &amp;Hours  &amp;Minutes  &amp;Seconds&amp; Eye blinks\\ \midrule
+          4567000000&amp;\num{4.567e9}&amp;&amp;&amp;1&amp;&amp;&amp;&amp;&amp;\\
+          1000000000&amp;\num{1e9}&amp;1 Ga&amp;1 Gyr&amp;0.2&amp;80&amp;&amp;&amp;&amp;\\
+          100000000&amp;\num{1e8}&amp;&amp;&amp;&amp;8&amp;&amp;&amp;&amp;\\
+          10000000&amp;\num{1e7}&amp;&amp;&amp;&amp;0.8&amp;19&amp;&amp;&amp;\\
+          1000000&amp;\num{1e6}&amp;1 Ma&amp;1 My&amp;&amp;&amp;1.9&amp;120&amp;&amp;\\
+          100000&amp;\num{1e5}&amp;&amp;&amp;&amp;&amp;&amp;12&amp;&amp;\\
+          10000&amp;\num{1e4}&amp;&amp;&amp;&amp;&amp;&amp;1.2&amp;70&amp;\\
+          1000&amp;\num{1e3}&amp;1 ka&amp;1 kyr&amp;&amp;&amp;&amp;&amp;7&amp;\\
+          100&amp;\num{1e2}&amp;&amp;&amp;&amp;&amp;&amp;&amp;0.7&amp;10\\
+          10&amp;\num{1e1}&amp;&amp;&amp;&amp;&amp;&amp;&amp;0.07&amp;1\\
+          1&amp;\num{1e0}&amp;1 a&amp;1 yr&amp;&amp;&amp;&amp;&amp;&amp;0.1\\ \bottomrule
+        </tabular>
+      </table>
+      <p>
+        We need to take time for one other matter before continuing.
+        Earth scientists routinely discuss both <em>when</em>
+        some event happened in Earth's history,
+        and the duration of that event.
+        The age of event, the time when something happened,
+        will always be given in units of years ago,
+        or <em>annum</em>, abbreviated <em>a</em>.
+        The deep history of Earth requires we have handy abbreviations for old ages,
+        so we will use giga-annums (Ga),
+        mega-annums (Ma) and kilo-arnnums (ka) for dates in billions, million,
+        or thousands of years, respectively.
+        Earth's age is thus 4.567 Ga, while most dinosaurs went extinct 66.04 Ma, roughly 66 million years ago.
+        Durations get a different unit:
+        <em>years</em>, abbreviated <em>yr</em>,
+        but use the same pre-fixes.
+        We will see below that most of the planets in our Solar System formed in just 4 to 6 million years,
+        or 4-6 Myr.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>The current Solar System</title>
+    <subsubsection>
+      <title>Cosmography</title>
+      <p>
+        Earth is one of eight planets,
+        a handful of dwarf planets,
+        and millions of asteroids and other minor bodies orbiting our Sun.
+        <xref ref="fig_solsys1">Figure</xref> shows an accurate image
+        (not a photograph)
+        of the architecture of the Solar System,
+        while a schematic view is given in <xref ref="fig_solsys2">Figure</xref>.
+        Closest to the Sun are the four Earth-like,
+        or <em>terrestrial planets</em>, Mercury, Venus, Earth and Mars.
+        All are small spheres of rock and metal,
+        with little or no atmosphere and few or no moons.
+        Farther from the Sun are the <em>gas and ice giants planets</em>, Jupiter, Saturn, Uranus and Neptune.
+        As their name implies,
+        these planets are massive planets (Jupiter has 300 times the Earth's mass) with enormous atmospheres of hydrogen,
+        helium and ices, and have dozens of moons
+        (<xref ref="fig_sizes">Figure</xref>).
+      </p>
+      <p>
+        Three,or maybe four,
+        belts of tiny bodies are scattered throughout the Solar System.
+        These small planetesimals are remnants from the formation of the Solar System at 4.567 Ga.
+        The <em>Main Asteroid Belt</em>
+        between Mars and Jupiter contains over half a million planetesimals,
+        ranging in size from the minor planet Ceres
+        (<xref ref="fig_ceres">Figure</xref>, lower left)
+        to boulders a meter across
+        (<xref ref="fig_MBA">Figure</xref>).
+        Meteors glimpsed in Earth's atmosphere are largely chunks of these asteroids;
+        meteorites (such as those shown in Figures {fig:allende}) are meteor fragments that survive the fiery,
+        brief passage through our atmosphere.
+        Thousands of these fragments have been collected and analyzed,
+        and provide detailed data on the very materials from which Earth formed.
+        The Edgeworth Kuiper Belt is the next belt of tiny bodies,
+        and lies just outside the orbit of Neptune.
+        Pluto, that favorite minor planet,
+        is one of the larger and the best-known object in this EKB. Finally,
+        the Solar System is surrounded by the \:O\:{o}rt Cloud,
+        a belt of icy objects so far from the Sun that the occasional passage of a distant star can perturb one of the \:O\:{o}rt objects into the inner Solar System,
+        where it warms, evaporates, and fleetingly becomes a comet.
+        Recent discoveries have begun to reveal a fourth potential belt of objects between the Edgeworth Kuiper Belt and the \:O\:{o}rt Cloud<fn>
+        Sheppard, S., Trujillo, C., Tholen, D., &amp; Kaib, N. (2018).
+        A New High Perihelion Inner Oort Cloud Object. arXiv preprint arXiv:1810.00013.
+        </fn>.
+        These
+        <q>Extreme Kuiper Belt Objects</q>
+        may include a massive, Neptune-sized planet lurking at the edge of the Solar System,
+        a planet so far from the Sun that no one has ever seen it.
+        This exciting idea will remain the focus of intensive research for decades.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Geometry</title>
+      <p>
+        Three aspects of the planets' orbital geometry provide important evidence for the Solar System's formation.
+        First, as Figure {fig:solsys2} shows,
+        the planets' orbits all lie in a plane,
+        rather than being randomly distributed around the Sun.
+        Second, all the planets,
+        minor planets and asteroids orbit counterclockwise around the Sun,
+        and the vast majority rotate counterclockwise about their axes.
+        Finally, the size and compositional differences between the Terrestrial and Gas/Ice Giants indicates that not all planets are created equally.
+        This hints that the Solar System formed from a counterclockwise-spinning cloud of gas and dust.
+        This much was hypothesized in the <m>18^{th}</m> Century by three different
+        <q>natural philosophers,</q>
+        what we would call `scientists.
+        But confirmation and precise development of the details of this Nebular Hypothesis really only happened in the past two decades,
+        with the development of new technologies
+        (particularly the Hubble Space Telescope)
+        which provided the first striking evidence of the formation of other solar systems.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Formation of the Solar System</title>
+    <subsubsection>
+      <title>Molecular clouds: the birth places of stars</title>
+      <p>
+        <xref ref="fig_pillars">Figure</xref>
+        is Hubble Space Telescope photograph of stars and their associated planetary systems in the throes of formation within a giant molecular cloud.
+        The pillar is a nebula composed of molecules of
+        <em>hydrogen and helium gas</em>,
+        miniscule fragments of minerals called <em>dust</em>,
+        and frozen water and other volatile compounds
+        (all called <em>ices</em>, regardless of composition).
+        Hot, newly formed stars
+        (the pinkish objects with
+        <q>spikes</q>
+        )
+        are evaporating the gas, dust and ices into the whitish tendrils.
+        The gravity of still-forming stars creates a dense cocoon of material resistant to this evaporation,
+        and produce the dozens of knots seen in the photograph.
+        These are other solar systems forming in real time,
+        in front of our very eyes.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Proto-Planetary Disk: the birth places of planets</title>
+      <p>
+        Within each knot is a still-forming proto-star.
+        As the proto-star's gravity pulls gas,
+        dust and ice toward it, the material naturally forms a flattened disk
+        (<xref ref="fig_ppdisk1">Figures</xref>
+        and <xref ref="fig_ppdisk2"></xref>),
+        with abundant material in the middle central plane, and less above and below.
+        This proto-planetary disk is the birthplace of planets<fn>
+        Williams, J. P., &amp; Cieza, L. A. (2011).
+        Protoplanetary disks and their evolution. arXiv preprint arXiv:1103.0556
+        </fn>.
+        As the dust and gas are pulled to the central plane of the disk and the proto-star,
+        they naturally begin to spin faster all in one direction.
+        This affect of the conservation of angular momentum is spun on a chair and retracted one's arms,
+        or watched an ice skater spin faster as they draw their hands in to their body.
+        This is why all the planets in our Solar System have counter-clockwise orbits in the same plane,
+        and why most spin counter-clockwise on their axes.
+        The material also warms as it approaches the proto-star.
+        Proto-stars are volatile and energetic,
+        blowing away the gasses and melting the ices from the area near the star.
+        This leaves dust as the only stable material in the central plane close to the star
+        (the red-shaded areas in <xref ref="fig_ppdisk2">Figure</xref>).
+        The location where the disk goes from gas and ice poor to gas and ice rich has the wonderful name of the
+        <q>snow line.</q>
+        Dust makes up only about 2% of the nebula
+        (<xref ref="tab_ppneb">Table</xref>),
+        so inside the snow line,
+        planets will tend to be rocky and small,
+        like the terrestrial planets.
+        Beyond the snow line, planets can make use of the gas and ice,
+        so they grow to massive gas and ice giants.
+        The snow line was originally near the current position of the Main Asteroid Belt<fn>
+        Morbidelli, A., Bitsch, B., Crida, A., Gounelle, M., Guillot, T., Jacobson, S., &amp; Lega, E. (2015).
+        Fossilized condensation lines in the Solar System protoplanetary disk.
+        Icarus. (arXiv:1511.06556v1 20 Nov 2015)
+        </fn>.
+        To first order,
+        these observations explain the large scale structure of the Solar System.
+        The exclusion of ice and gas inside the snow line wasn't perfect,
+        as you attest to.
+        Ices were the primary source of water,
+        carbon and nitrogen to the Earth, and that water,
+        carbon and nitrogen is crucial to the development of life.
+        The sources of Earth's water and other ices remains a mystery,
+        which we'll examine in more detail below.
+      </p>
+      <table xml:id="tab_ppneb">
+        <title>Composition of the Proto-planetary Nebula</title>
+        \begin{threeparttable}
+        <tabular>
+          {@llll@} \toprule
+          Phase    &amp;Abundance  &amp;Components          &amp;Abundance\\ \toprule
+          Gas      &amp;97-98%    &amp;Hydrogen (<m>H_2</m>)    &amp;73%      \\
+          &amp;            &amp;Helium (<m>He</m>)      &amp;25%      \\ \midrule
+          Dust    &amp;2%        &amp;Small, Si-rich mineral grains  &amp;1.75%  \\
+          &amp;            &amp;Metal      &amp;0.25%     \\ \midrule
+          Ice      &amp;<m>\lt 1</m>%      &amp;Water (<m>H_2O</m>)     &amp;<m>\lt 0.5</m>%  \\
+          &amp;            &amp;Methane (<m>CH_4</m>)   &amp;<m>\lt 0.1</m>%  \\
+          &amp;            &amp;Carbon Dioxide (<m>CO_2</m>)  &amp;<m>\lt 0.1</m>%  \\
+          &amp;            &amp;Ammonia (<m>NH_3</m>)    &amp;<m>\lt 0.1</m>%     \\ \bottomrule
+        </tabular>
+        \begin{tablenotes}
+        \item[1] The average of H and L type ordinary chondrites' metal abundance.
+        \end{tablenotes}
+        \end{threeparttable}
+      </table>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Accretion and Formation of Earth and the other planets: Fast, hot and melty</title>
+    <p>
+      Soon after the first dust grains in the Solar System formed (at 4.567 Ga, these grains make up much of the Allende meteorite seen in <xref ref="fig_allende">Figure</xref>),
+      they began to coagulate together.
+      Throughout the Solar System these grains grew from microscopic sizes into pebble-sized objects,
+      which collided and merged to form planetesimals 10 to 100s km across
+      (<xref ref="fig_jakob1">Figure</xref>
+      and <xref ref="fig_jakob2"></xref>).
+      All this colliding was an energetic affair,
+      with millions of collisions and impacts
+      (<xref ref="fig_hfm">Figure</xref>)
+      necessary to build an average planetesimal.
+      During an impact,
+      a portion of the collision's kinetic energy would be converted to heat (Chapter 3) raising the temperature of the newly-enlarged planetesimal.
+    </p>
+    <p>
+      Combined with the decay of radioactive material in the planetesimals,
+      this collisional heating began to melt the small and still growing objects.
+      With more collisions came more heating, and more melting,
+      and soon the objects began to segregate into distinct layers,
+      or shells.
+      This <em>differentiation</em> began 1-3 Myr after the initial formation of the Solar System.
+      The rock particles in the dust had a far higher melting point than metal<fn>
+      Rubie, D. C., &amp; Jacobson, S. A. (2015).
+      Mechanisms and Geochemical Models of Core Formation. arXiv preprint:1504.05417.
+      </fn> so the metals melted first,
+      and being denser they slowly fell to the planetesimals' center.
+      Eventually the rock in the mantle melted too,
+      forming a planet-wide layer of molten rock,
+      a magma ocean, which grew deeper as the object grew.
+      At the surface, the magma cooled to form hardy rocky crust
+      (<xref ref="fig_hfm">Figure</xref>).
+      The resulting differentiated body had a thin, cold rocky crust;
+      a warm magma ocean, a warm, rocky mantle;
+      and a hot, molten iron core.
+      (The structure has a passing relationship to the peanut version of a popular chocolate with a brightly colored candy shell.)
+      All those minor objects orbiting the Sun in the Main Asteroid Belt, Kuiper Belt and \:O\:{o} cloud are all relics of this period of our Solar System's formation.
+      Meteorites are so scientifically valuable because they are fragments of these ancient objects<mdash/>they contain abundant evidence for the earliest differentiation and melting of planetesimals.
+      We don't have to guess about the formation and differentiation of planetesimals:
+      we have pieces of them!
+    </p>
+    <p>
+      About 5% of all observed meteorite falls are metallic meteorites
+      (<xref ref="fig_ironmets">Figure</xref>).
+      These represent the cores of layered planetesimals fragmented by a later collision.
+      Less than 0.5% of falls are pallasite meteorites.
+      These spectacular rocks consist
+      (<xref ref="fig_pallasite">Figure</xref>)
+      of the common mantle mineral olivine
+      (the unsurprisingly green material in <xref ref="fig_pallasite">Figure</xref>)
+      floating in a matrix of now hardened metal.
+      These meteorites may preserve the core-mantle boundaries from planetesimals,
+      but may also record mantle olivines from a large body mixed with the sinking core<fn>
+      Tarduno, J. A., Cottrell, R. D., Nimmo, F., Hopkins, J., Voronov, J., Erickson, A., ... &amp; McKinley, R. (2012).
+      Evidence for a dynamo in the main group pallasite parent body.
+      Science, 338(6109), 939-942.
+      </fn> of a smaller planetesimal,
+      as shown in the lower right quadrant of <xref ref="fig_hfm">Figure</xref>.
+      Regardless, pallasitic meteorites show that differentiation was early and common.
+      This process determined that the fate of all the Terrestrial planets was to be layered.
+      Earth was born of embryos that had differentiated into layered bodies,
+      and so Earth is, too.
+      Earth still has this core-mantle-crust structure.
+    </p>
+    <p>
+      As shown in <xref ref="fig_jakob1">Figures</xref>
+      and <xref ref="fig_jakob2"></xref>,
+      the already differentiated planetesimals collided and merged into ever larger
+      (and differentiated)
+      embryos up \SI{4000}{\kilo\metre} (2500 miles) across,
+      objects roughly the size of Mars.
+      Good evidence suggests that embryos that large had formed within 3 Myr of the start of accretion!
+      The embryo that would become Earth grew quickly within the inner Solar System,
+      reaching about 90% of its present mass in \SI{40}{100} Myr.
+      (Remember that 70 Myr in Earth's history is equivalent to 5.5 days in one year.)
+      At about this time, an embryo about the size of Mars struck Earth,
+      perhaps with a glancing blow.
+      The collision was catastrophic for the embryo, Theia, and nearly so for Earth.
+      Based on detailed computer modeling of the event,
+      the collision disrupted Theia,
+      vaporizing much of the mantle of both planets<fn>
+      Cuk, M., &amp; Stewart, S. T. (2012).
+      Making the Moon from a Fast-Spinning Earth: A Giant Impact Followed by Resonant Despinning.
+      Science, 338(6110), 1047-1052. https://doi.org/10.1126/science.1225542; Lock, S. J., Stewart, S. T., Petaev, M. I., Leinhardt, Z. M., Mace, M. T., Jacobsen, S. B., &amp; 'Cuk, M. (2018).
+      The origin of the Moon within a terrestrial synestia.
+      Journal of Geophysical Research: Planets. https://doi.org/10.1002/2017JE005333
+      </fn> Theia's core sank into Earth's core,
+      and its mantle mixed intimately with proto-Earth's mantle.
+      Some mixture of the two gained sufficient energy to orbit Earth,
+      with a portion of the resulting debris cloud orbiting Earth before coalescing to form the Moon.
+      The impact melted <em>at least</em>
+      the upper \SI{700}{\kilo\metre} (430 miles) of Earth's mantle<fn>
+      Rumble, D. et al.
+      The oxygen isotope composition of Earth's oldest rocks and evidence of a terrestrial magma ocean.
+      Geochem.
+      Geophys.
+      Geosyst. 14, 1929-1939 (2013).
+      </fn>,
+      forming a planet-wide <em>magma ocean</em>
+      that would have boiled off any water lucky enough to have made it to the surface.
+      Earth was knocked to its side during the collision,
+      giving rise to the obliquity
+      (axial tilt)
+      that gives us our seasons.
+      After this collision, Earth's formation was largely done.
+      Except for the volatiles.
+    </p>
+    <p>
+      Volatile elements are those that have low boiling points,
+      so they have a proprensity to
+      <q>fly away</q>
+      as gasses.
+      After the Theia collision,
+      a slow but violent rain of planetesimals to Earth's surface<fn>
+      Marchi, S., Bottke, W. F., Elkins-Tanton, L. T., Bierhaus, M., Wuennemann, K., Morbidelli, A., &amp; Kring, D. A. (2014).
+      Widespread mixing and burial of Earth's Hadean crust by asteroid impacts.
+      Nature, 511(7511), 578-582
+      </fn> brought water and other volatile elements to Earth.
+      This was no gentle summer's shower.
+      Millions of undifferentiated objects crashed into the Earth,
+      delivering water and other biologically important elements to Earth's surface.
+      The impacts were sufficiently large and energetic enough to till Earth's surface,
+      repeatedly folding,
+      melting, and mixing the upper 20 to 30 km of the crust.
+      Over the next few hundred million years, Earth gained volatile gasses and liquids from this late veneer of meteorites.
+      A few samples of the Earth,
+      tiny crystals of a mineral called zircon, survive from this time.
+      These fragments provide good evidence that oceans
+      (the primary component of the hydrosphere)
+      existed, at least episodically,
+      within <nbsp/>200 Myr of Earth's formation.
+      For the next few 100 Myr,
+      the occasional large impact would boil off part of the ocean,
+      and perhaps the entire ocean,
+      into the atmosphere, but Earth's formation was largely done.
+      Earth had an atmosphere, a hydrosphere,
+      and a differentiated geosphere.
+    </p>
+    <p>
+      What about the biosphere?
+      All those meteorite impacts and their after-effects would have sterilized any nascent biosphere on the early Earth.
+      The biosphere probably hadn't developed when,
+      about 400 Myr after formation, Earth was once again pelted by large meteorites,
+      ones jostled out of the Asteroid Belt by a roving Jupiter.
+      You can see the scars from this
+      <q>Late Heavy Bombardment</q>
+      tonight, if the Moon is out.
+      Look (<xref ref="fig_moon">Figure</xref>) for the dark maria on the surface;
+      these plains of volcanic rocks are the scars of impacts on the moon from the same period.
+      Earth sufered the same intense bombardment,
+      but nearly 4 billion years of energetic weathering and tectonics have erased any record of those impacts on the planet.
+      This last blasting of Earth's surface again frustrated development of the biosphere.
+      When the LHB finally petered out 3.7 to 3.8 Ga<fn>
+      Bottke, W. F., Vokrouhlick&#xfd;, D., Minton, D., Nesvorn&#xfd;, D., Morbidelli, A., Brasser, R., ... &amp; Levison, H. F. (2012).
+      An Archaean heavy bombardment from a destabilized extension of the asteroid belt.
+      Nature, 485(7396), 78-81. [The article does argue differently,
+      but their figure 3 suggests that flux was <nbsp/>10% of initial intensity by 3.7 Ga.
+      Close enough for our needs here.]
+      </fn>,
+      life appears to have evolved quickly,
+      within a few 100 Myr of the end of the bombardment.
+      Earth's complement of spheres is complete.
+    </p>
+  </subsection>
+</section>

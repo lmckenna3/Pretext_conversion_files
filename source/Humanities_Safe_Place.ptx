@@ -1,0 +1,372 @@
+<section xml:id="Humanities_Safe_Place">
+  <title>A Safe Operating Space for Humanity</title>
+  <introduction>
+    <p>
+      All complex systems, natural or artificial, have a
+      <q>safe operating space,<fn>
+      Rockstr\''{o}m, J., Steffen, W., Noone, K., Persson, A., Chapin, F. S. I., Lambin, E., ... Foley, J. (2009).
+      Planetary Boundaries: Exploring the Safe Operating Space for Humanity.
+      Ecology and Society, 14(2). https://doi.org/10.5751/ES-03180-140232
+      </fn></q>
+      a realm where the machine runs predictably and with a low risk of sudden failure.
+      A car, for example,
+      can't be driven too fast for too long without damaging the engine;
+      the human heart can't function well if the arteries are blocked by fatty deposits.
+      Earth's climate is an especially complex system,
+      and so we'd expect it too has boundaries.
+      We are particularly interested in the boundaries that keep the climate operating in a way that is safe for humanity<mdash/>resistant to sudden changes or failures that would endanger the Anthroposphere's continuing existence.
+      Just like running a car too hard,
+      running the Earth through those boundaries risks moving climate out of a safe space for humanity.
+      If virtue is the practice of moral excellence,
+      then the first step to solving the collective action dilemma posed by climate change is to avoid crossing planetary boundaries,
+      and leaving Earth in a safe operating space for humanity.
+    </p>
+  </introduction>
+  <subsection xml:id="pbs">
+    <title>Planetary Boundaries</title>
+    <introduction>
+      <p>
+        Societies and the humans in them need water, food,
+        energy and raw materials to thrive.
+        This requires healthy and well-functioning hinterlands.
+        When human populations were small, so too were their needs.
+        Over the course of the Holocene<mdash/>the climatic period extending over the past 11,700 years<mdash/>human population has increased by a factor of around 1400<fn>
+        Amongst other sources, Zahid, H. J., Robinson, E., &amp; Kelly, R. L. (2016).
+        Agriculture, population growth,
+        and statistical analysis of the radiocarbon record.
+        Proceedings of the National Academy of Sciences, 113(4), 931-935.
+        <url href="https://doi.org/10.1073/pnas.1517650112">link</url>
+        note that human population growth rates prior to the modern era
+        <m>\approx1650</m> CE averaged <m>0.04\pm0.01\%/yr</m>.
+        Given population at <m>1650\:CE\:(P_{1650})\approx0.5x10^9</m>,
+        then <m>P_{9700\:BCE}=5x10^6</m> with a factor of 3 uncertainty.
+        So the ratio <m>P_{2018}/P_{9700\:BCE}=1.4x10^{3\pm0.5}</m>
+        </fn>.
+        Each modern person, on average,
+        consumes about 15 times<fn>
+        Baccini and Brewer, op. cit.
+        </fn> the raw materials as our early Holocene ancestors.
+        Our hinterlands and wastelands are now 20,000 times larger than they were at the beginning of the Holocene Period!
+        Our ancient ancestors couldn't possibly push the boundaries of the planet's ability to provide key services to us.
+        We are.
+      </p>
+      <p>
+        A large international group of scientists proposed the planetary boundary idea<fn>
+        Rockstr&#xf6;m, J., Steffen, W., Noone, K., Persson, A., Chapin, F. S. I., Lambin, E., ... Foley, J. (2009).
+        Planetary Boundaries: Exploring the Safe Operating Space for Humanity.
+        Ecology and Society, 14(2).
+        <url href="https://doi.org/10.5751/ES-03180-140232">link</url>
+        </fn> in 2009.
+        Their idea was to identify conditions in Earth's various spheres the crossing of which might initiate rapid and even dangerous planet-wide environmental change,
+        challenging human societies' survival.
+        Think of each boundary as the edge of a hill leading to an unknown,
+        but dangerous, chasm.
+        Because changing behaviors is difficult,
+        and systems can have inertia,
+        it is best to draw the boundary before the steep downward sloping portion of the hill.
+        <xref ref="fig_planet_bound_pot_surf">Figure</xref> sketches the idea,
+        with safe operating spaces shown in green, a
+        <q>warning area</q>
+        in yellow, and a
+        <q>danger area</q>
+        in red.
+        The planetary boundary itself is the boundary between the yellow and red areas.
+        Rockstr&#xf6;m and his colleagues originally defined nine boundaries.
+        Subsequent research and 8 more years of data indicates that only 7 of those original boundaries are essential for our purposes,
+        and one new one is needed.
+        Each boundary has a associated quantitative value attached to it,
+        but only some of these are crucial for our story.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Climate Change</title>
+      <p>
+        Of course climate change is one of the boundaries!
+        The
+        <q>warning</q>
+        and
+        <q>danger</q>
+        boundaries are drawn at <m>350\: ppm</m> and
+        <m>500\pm50\:ppm\: CO_2</m> in the atmosphere respectively.
+        October of 1988 CE was the last time carbon dioxide concentration in the atmosphere was
+        <m>\lt 350\: ppm</m>; 30 years later concentrations have increased to 408 ppm.
+        We are deep in the
+        <q>warning zone</q>
+        on this boundary,
+        and we'll spend the remainder of this book examining the causes and solutions of this.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Ocean Acidification</title>
+      <p>
+        All that <m>CO_2</m> in the atmosphere leads to increased acidity in the world's oceans,
+        as we noted above in <xref ref="sl_acid">section</xref>.
+        <xref ref="fig_ocean_acidity">Figure</xref>
+        shows this increase as measured in one representative area near Bermuda,
+        where acidity is increasing by about 4% per decade.
+        Increased ocean acidity makes shell-secretion harder for marine organisms,
+        and so the warning boundary is 125% more difficulty in shell secretion than in 1750CE. We are current near 120% more difficult,
+        and so are still in the green part of the boundary.
+        At current rates of carbon dioxide emission,
+        we will cross the boundary in about 60 years.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Net Plant Production</title>
+      <p>
+        At the base of all food webs lie plants.
+        Terrestrial, or land-based,
+        plants are particularly important in this regard,
+        because they combine through photosynthesis water,
+        <m>CO_2</m> and light from the Sun to form carbohydrates.
+        <q>Net Plant Production,</q>
+        or NPP, measures the net mass of new plant material growing each year.
+        Although it may vary locally over the year (See <xref ref="fig_npp">Figure</xref>),
+        the annual total varies by <m>\leq2\%</m> around <m>54x10^{12}</m> kg.
+        To put that number in perspective,
+        the mass of plant growth every year is about 100 times greater than the mass of
+        <em>all</em> humans on the planet!
+        Despite this enormous value, there's little variation in it,
+        meaning that Earth's ability to produce plant mass is limited.
+        And we, as a species, already appropriate<fn>
+        Smith, W. K., Zhao, M., &amp; Running, S. W. (2012).
+        Global bioenergy capacity as constrained by observed biospheric productivity rates.
+        BioScience, 62(10), 911-922
+        </fn> an astonishing 81% of all available plant production on the globe.
+        As noted by many authors<fn>
+        Running, S. W. (2012).
+        A measurable planetary boundary for the biosphere.
+        Science, 337(6101), 1458-1459.
+        </fn>, NPP is
+        <q>the source of food,fiber, and fuel for humanity,</q>
+        so the exceeding this boundary would be significant.
+        While we are firmly in the
+        <q>warning zone,</q>
+        the proportion of NPP we use has been constant for the past 30 years,
+        largely because of industrial-scale agricultural.
+        This most fundamental of planetary boundaries will be threatened by all other boundaries,
+        in ways that may be complex and unexpected.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Chemical Cycles</title>
+      <p>
+        Evidence for life on Earth is found in the oldest rocks geologist can find<fn>
+        Reviewed beautifully in Knoll, A. H., &amp; Nowak, M. A. (2017).
+        The timetable of evolution.
+        Science Advances, 3(5), e1603076.
+        </fn>.
+        Excellent fossil evidence demonstrates that microbial live existed as early as <m>3400\pm 50 Ma</m>,
+        and somewhat more controversial evidence pushes the age back to <m>\approx 3700 Ma</m>.
+        Whatever the precise date of its origin,
+        life has thrived on our planet for nearly 4 billion years.
+        All that life needs energy and chemical building blocks,
+        most importantly the elements C, H, N, O, S and P<fn>
+        Falkowski, P. G., Fenchel, T., &amp; Delong, E. F. (2008).
+        The microbial engines that drive Earth's biogeochemical cycles.
+        Science, 320(5879), 1034-1039.
+        </fn> Life's long history on Earth is possible because those elements are continually cycled from the biosphere,
+        into the geosphere, and then back into the biosphere.
+      </p>
+      <p>
+        These various cycles are energized by solar energy and the internal heat of the Earth.
+        But small,unicellular microbes are the
+        <q>machines</q>
+        actually doing the cycling, converting the waste products of one life form
+        (such as <m>O_2</m> from photosynthesis in plants)
+        to reactants for another form (such as <m>)_2</m> for respiration in humans).
+        Over the past 150 years,
+        humans have collected vast quantities of N and P to use as fertilizers.
+        These fertilizers have made it possible to feed billions of people,
+        but at the cost of upsetting the delicate microbial machinery driving chemical cycles.
+        Run-off from agricultural fields delivers N and P to the ocean,
+        where the nutrients create
+        <q>dead zones</q>
+        in the oceans,
+        potentially affecting the health of the very microbial life forms necessary to drive the cycles.
+        Warning areas for release of P and N are the natural release rates.
+        Danger areas are 180% and 130% of natural release rates respectively.
+        As shown in <xref ref="fig_planet_bound">Figure</xref>,
+        we have already pushed beyond the danger boundary,
+        at roughly 225% for P and nearly 250% for N. This boundary is a particularly troubling one:
+        growing sufficient food for 7.5 billion inhabitants seemingly requires N and P-containing fertilizers,
+        but continued use of them may threaten the ecosystem's ability to provide those services.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection xml:id="eco_servs">
+    <title>Ecosystem Services</title>
+    <p>
+      <q>Ecosystem services</q>
+      describes the various natural cycles and resources Earth processes provide to human societies.
+      <xref ref="fig_circ_flow">Figure</xref>
+      shows these services as the natural resources that underlie all human societies,
+      and the natural recycling that converts human waste products back into resources.
+      Without these services,
+      human societies would lack the inputs we need not only to drive a healthy economy,
+      but also to provide the very food and water we need for survival.
+      The intimate relationship human societies have with ecosystem services suggests that once again we need to expand our concept of
+      <q>group</q>
+      to include those ecosystem services fundamental to our group's survival.
+      Just as we argued in <xref ref="groups_global">Section</xref>
+      that even distant peoples have
+      <q>standing</q>
+      as being members of
+      <q>our</q>
+      group, we now face the realization that we depend upon Earth systems for a functioning society.
+      The idea that land, and even Earth itself, has moral standing,
+      was first formulated by at least if one agrees that a functioning economy is important to society.
+      The idea that land, perhaps even the Earth itself,
+      has moral standing began in 1948,
+      with the publication of <em>A Sand County Almanac</em>
+      by the American author Aldo Leopold,
+      and has continued to develop since then<fn>
+      As examined by Callicott, J. B. (2014).
+      Thinking like a planet: The land ethic and the earth ethic.
+      Oxford University Press.
+      </fn>.
+    </p>
+    <p>
+      This moral standing sprouts from a spectrum of <xref ref="fig_eco_values">viewpoints</xref>.
+      For example, many people may find an
+      <em>instrumental value</em>
+      in the Earth and its ecosystem services:
+      there's monetary value in the resources one extracts in the hinterlands,
+      and in services provided by wastelands.
+      This viewpoint might be characterized as
+      <q>Nature <em>for</em> me</q>
+      Others may find <em>relational value</em><fn>
+      Chan, K. M., Balvanera, P., Benessaiah, K., Chapman, M., Diaz, S., G'omez-Baggethun, E., ... &amp; Luck, G. W. (2016).
+      Opinion: Why protect nature?
+      Rethinking values and the environment.
+      Proceedings of the National Academy of Sciences, 113(6), 1462-1465.
+      </fn> in Earth and its ecosystems: Earth provides personally- and culturally-important meaning to them.
+      Think of this viewpoint as
+      <q>Nature <em>and</em> me</q>
+      Finally, some people think that Earth has
+      <em>intrinsic value</em>: Earth itself has inherent worth.
+      Think of this perspective as
+      <q>Nature <em>for</em> Nature.</q>
+      These various ways of finding value in Earth and its services are not mutually incompatible,
+      and most people probably have a mixture of all three,
+      as shown in <xref ref="fig_eco_values">Figure</xref>.
+    </p>
+  </subsection>
+  <subsection xml:id="breach">
+    <title>Cost of breaching Planetary Boundaries</title>
+    <p>
+      Regardless of which value
+      (or values!)
+      you place on Earth and the ecosystem services it provides,
+      everyone has them.
+      At the very least, if you eat food or drive a car,
+      you associate instrumental values with Earth.
+      So now our circle of
+      <q>ethical behavior</q>
+      (<xref ref="fig_groups">Figure</xref>) has to expand again,
+      to include the Earth and the ecosystem services it provides,
+      as shown on <xref ref="fig_groups_and_circ">Figure</xref>.
+      Planetary boundaries
+      (<xref ref="pbs">Section</xref>and <xref ref="fig_planet_bound">Figure</xref>)
+      guard the gates of the a purely instrumental view of ecosystem services provided by Earth.
+      If human civilization breaks through these gates,
+      we are likely<mdash/>in a few generations<mdash/>to find ourselves in a radically different environment than the Holocene one in which we have thrived for nearly 12 millennia.
+    </p>
+    <p>
+      As noted by Gretchen Daily<fn>
+      Daily, Gretchen, 1997, Introduction: What are Ecosystem Services.
+      In Daily, Gretchen, (Ed.), 1997.
+      Nature's Services: Societal Dependence On Natural Ecosystems 4th ed.
+      Edition, Island Press, Washington, D.C.
+      </fn>
+      <q>assigning a value to</q>
+      something as huge,
+      complicated and un-physical as 12,000 years of climate
+      <q>may arouse great suspicion, and for good reason.
+      Valuation involves resolving fundamental philosophical issues,</q>
+      such as what's more important:
+      the instrumental, relational or intrinsic value of Earth's climate.
+      Climate change is a planetary issue,
+      but its seriousness and solutions are inevitably deeply intertwined in how we<mdash/>as individuals,
+      societies, nations and a species<mdash/>value nature<fn>
+      Hulme, M. (2009).
+      Why we disagree about climate change: Understanding controversy,
+      inaction and opportunity.
+      Cambridge University Press
+      </fn>.
+      What a mess!
+      No wonder no progress has been made on such a
+      <q>wicked</q>
+      problem<fn>
+      Jenkins, W. (2016).
+      The Turn to Virtue in Climate Ethics: Wickedness and Goodness in the Anthropocene.
+      Environmental Ethics, 38(1), 77-96.
+      </fn>!
+      Is there a path forward a majority of us can agree to?
+    </p>
+  </subsection>
+  <subsection>
+    <title>The virtue of not breaching global boundaries</title>
+    <subsubsection>
+      <title>A brief review of where we have been</title>
+      <p>
+        In <xref ref="values_morals">Section</xref>
+        we noted the necessity of discussing morals when discussing climate change.
+        To fully understand why, we examined common pool resources
+        (<xref ref="cprs">Section</xref>),
+        collective action problems
+        (<xref ref="collective_action">Section</xref>),
+        how reputation in a
+        <q>group</q>
+        (<xref ref="moral_science">Section</xref>) leads to altruism by a small minorty of individuals in the group,
+        and a potentially successful solution to the Tragedy of the Common
+        (<xref ref="no_toc">Section</xref>).
+        Then we examined planetary boundaries
+        (<xref ref="pbs">Section</xref>),
+        and found that climate change is but one of many changes altering the services Earth's ecosystem provides us
+        (<xref ref="eco_servs">Section</xref>)
+        regardless of the value(s) we have for those services
+        (<xref ref="fig_eco_values">Figure</xref>).
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>And a suggestion on how to move forward</title>
+      <p>
+        Virtue is an old concept in both Western and Eastern civilizations,
+        and essentially means an
+        <q>excellent trait of character,
+        coupled with a moral wisdom of understanding not only what is good,
+        but how to achieve that good thing effectively<fn>
+        Hursthouse, Rosalind and Pettigrove, Glen,
+        <q>Virtue Ethics</q>, The Stanford Encyclopedia of Philosophy (Winter 2016 Edition), Edward N. Zalta (ed.),
+        <url href="https://plato.stanford.edu/archives/win2016/entries/ethics-virtue/">Link</url>.
+        </fn>.</q>
+        Most humans would agree that maintaining a
+        <q>safe operating space</q>
+        for humanity of the planet is a virtuous idea:
+        the outcome itself is a
+        <q>good thing,</q>
+        and the way to do that effectively is to not blow through the planetary boundaries that allow continued ecosystem services.
+        This idea might be called
+        <q>planetary stewardship<fn>
+        Jenkins, W. (2016).
+        The Turn to Virtue in Climate Ethics: Wickedness and Goodness in the Anthropocene.
+        Environmental Ethics, 38(1), pg 89, and references therein.
+        </fn>.</q>
+        As Jenkins notes,
+        <q>stewardship shifts attention from protecting what nature <em>would be</em>
+        without human interference to maintaining what is required for the long-term flourishing of humanity</q>. We noted in <xref ref="GCC_diff">Section</xref>
+        that global change is a different sort of problem because each of our small contributions to the problem seem so inconsequential.
+        But the virtue of
+        <q>planetary stewardship</q>
+        rescues each of us from that depressing fate.
+        Virtue is about doing good in an effective way.
+        And so we each get to choose how to contribute to the virtue of not
+        <q>blowing through the boundaries.</q>
+        Interestingly,
+        virtuous behavior is an effective way of building reputation,
+        which of course is needed to solve collective action problems.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

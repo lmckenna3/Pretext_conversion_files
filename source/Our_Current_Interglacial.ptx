@@ -1,0 +1,911 @@
+<section xml:id="Our_Current_Interglacial">
+  <title>The current interglacial</title>
+  <introduction>
+    <p>
+      Humans have been busy since the end of the last glacial cycle.
+      At the end of the most recent
+      (it won't be the last)
+      glacial interval 12 kya, there were 1-10 million humans on the planet.
+      To put this in perspective,
+      more people live today in Los Angeles, California than lived on the entire planet 12,000 years ago.
+      But as ice retreated, the globe warmed,
+      and the atmosphere grew wetter,
+      small bands of humans around the world invented agriculture<fn>
+      Ruddiman, W. F., Fuller, D. Q., Kutzbach, J. E., Tzedakis, P. C., Kaplan, J. O., Ellis, E. C., ... &amp; Lemmen, C. (2016).
+      Late Holocene climate: Natural or anthropogenic?. Reviews of Geophysics, 54(1), 93-118.
+      </fn>.
+      Modern humans<mdash/>accustomed to the seemingly abundant food provided by modern industrial agriculture<mdash/>take it for granted that the invention of agriculture was a natural and beneficial progression of human societies,
+      but little evidence suggests this.
+      Instead, before agriculture and after,
+      human population crept upward,
+      doubling every 2000 years or so from 12 to 2 kya<fn>
+      Zahid, H. J., Robinson, E., &amp; Kelly, R. L. (2016).
+      Agriculture, population growth,
+      and statistical analysis of the radiocarbon record.
+      Proceedings of the National Academy of Sciences, 113(4), 931-935.
+      </fn>.
+      By the dawn of the common era, 2 kya,
+      global population had grown to 200 to 400 million souls,
+      or about the population of the U. S. Global population is now approximately 7.6 billion and increasing at 1% per year.
+      All of this growth has happened over the current interglacial period,
+      a brief respite from the usual glacial conditions which have dominated the Northern Hemisphere for the past 1 My.
+      In this section,
+      we examine how the climate of this interglacial has affected human culture,
+      and perhaps equally important,
+      how has human culture affected climate of the interglacial.
+    </p>
+    <p>
+      And then there is us, Homo sapiens sapiens,
+      and the remarkable way we have powered our global influence through our unique ability to use energy.
+      Energy not just to run our bodies, but our societies.
+      As of 2013, the average global per capita energy consumption was over 25 times the daily nutritional requirement of 2000 kcal/day;
+      for the United States this ratio is closer to 100.
+      We are the only species that can accomplish this remarkable trait:
+      use more energy than the body can consume to do work upon the environment.
+      This work has changed all five spheres of the planet.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Temperatures variations</title>
+    <p>
+      The end of the most recent glaciation was marked by a rapid rise in average surface temperatures,
+      driven by increasing <m>CO_2</m> concentrations and
+      (in yet another instance of the ice-albedo feedback)
+      decreasing extent of ice in the northern hemisphere.
+      Extensive research and collection of proxy records allows us to construct a accurate temperature record for the past 12 ky,
+      as shown in <xref ref="fig_HTR">Figure</xref> (Panel A).
+      Temperatures rose by over \SI{4}{\kelvin} (<m>7\circ F</m>) during two long periods from 15,000 BCE to about 2000 BCE. After this,
+      temperatures began a slow but steady fall.
+      From 500 CE to the present ( <xref ref="fig_HTR"></xref>, Panel B) the density of proxy records increases,
+      allowing us to see shorter and smaller temperature changes,
+      reflected in the increased
+      <q>bumpiness</q>
+      in the record.
+      Three features in that graph are important to our story,
+      and we'll examine them in detail in following sections and chapters.
+      The <em>Medieval Climate Anomaly</em>,
+      from roughly 950 CE to roughly 1250 CE, was a period of generally stable climate with warm winters,
+      shown with orange highlighting in <xref ref="fig_HTR">Figure</xref>, Panel B. The
+      <q>MCA</q>
+      was followed by a cool period of highly variable weather and cold winters,
+      the Little Ice Age,
+      that had profound and generally negative effect on European culture in particular.
+    </p>
+    <p>
+      The third trend is unprecedented increase in temperatures since 1850 CE, a feature famously called the
+      <q>hockey stick,</q>
+      following its first publication in 1998 CE<fn>
+      Mann, M. E., Bradley, R. S., &amp; Hughes, M. K. (1998).
+      Global-scale temperature patterns and climate forcing over the past six centuries.
+      Nature, 392(6678), 779.
+      </fn>.
+      The graph, the data behind it,
+      and the climatologists who first published it have all been the subject of extra-ordinary and extra-unjust controversy,
+      including death threats and congressional inquiries<fn>
+      See Robin McKie Sat 3 Mar 2012,
+      <em>Death threats, intimidation and abuse:
+      climate change scientist Michael E. Mann counts the cost of honesty</em>, The Guardian,
+      <url href="https://www.theguardian.com/science/2012/mar/03/michael-mann-climate-change-deniers">This The Guardian article</url>.
+      </fn> In the 20 years since its first publication,
+      the trends demonstrated by <xref ref="fig_HTR">Figure</xref>
+      have been repeatedly confirmed<fn>
+      National Research Council. (2007).
+      Surface temperature reconstructions for the last 2,000 years.
+      National Academies Press;
+      <url href="https://www.nap.edu/read/11676/chapter/1">Link</url>
+      </fn>:
+      average surface temperatures have increased in an unprecedented way since roughly 1850 CE, due largely to emission of GHG, land use changes and the manufacture of cement by humans.
+      The remarkable way we have powered our global influence is through our unique ability to use energy.
+      Energy not just to run our bodies, but our societies.
+      As of 2014 (the most recent year for which data are available<fn>
+      World Bank Open Data Bank,
+      <url href="https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE">link</url>
+      accessed 18 October 2018
+      </fn>,
+      the average global per capita energy consumption was over 25 times the daily nutritional requirement of 2000 kcal/day;
+      for the United States this ratio is closer to 100.
+      We are the only species capable of this remarkable ability:
+      use more energy than the body can consume to do work upon the environment.
+      This work has changed all five spheres of the planet,
+      and may even have stalled the beginning of the next Ice Age.
+    </p>
+  </subsection>
+  <subsection>
+    <title>What might have been: natural progression w/o humans</title>
+    <p>
+      We saw in <xref ref="GIGC_causes">Section</xref>
+      that the primary drivers of GIGC<mdash/>insolation changes from orbital oscillations,
+      and variations in <m>[CO_2]_{atm}</m><mdash/>are both well constrained for the past 800 kya.
+      We also saw that most interglacial periods are pretty short,
+      geologically speaking, ranging from 7 to 30 ky,
+      with a median of about 14 ky.
+      Our interglacial is about 12 ky old,
+      and based on the recent past,
+      it would seem our interglacial might be almost over.
+      How much longer will it last?
+      A reasonable
+      (even hopeful)
+      question is whether the natural GIGC cycle might counteract global warming and usher in a new Ice Age.
+      The idea that Earth could be on the precipice of another ice age might seem ridiculous to people raised in an ever-warmer planet,
+      but the entire point of this book is to use the past as a guide for understanding the present and future.
+      <xref ref="fig_holo_temp">Figure</xref>
+      shows the Northern Hemisphere land temperatures changes since the Last Glacial Maximum.
+      Temperatures rise in two stages<fn>
+      Shakun, J. D., Clark, P. U., He, F., Marcott, S. A., Mix, A. C., Liu, Z., ... &amp; Bard, E. (2012).
+      Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation.
+      Nature, 484(7392), 49.
+      </fn> with a sudden and deep return to colder temperatures in between.
+      Over the past 11,000 years, temperatures peaked, and then begin a slow,
+      gradual decline until the beginning of the industrial Revolution,
+      around 1750 CE.
+    </p>
+    <p>
+      As we saw above,
+      high eccentricity and precession forcing northern hemisphere summer at aphelion are both necessary to kick off a glacial cycle.
+      Notice on <xref ref="fig_milank_wide">Figure</xref>
+      that our contemporary eccentricity (Panel B, blue line) is actually quite low compared to other initiations,
+      although precession is exactly right for initiation of a new glacial cycle.
+      According to some models<fn>
+      Ganopolski, A., Winkelmann, R., &amp; Schellnhuber, H. J. (2016).
+      Critical insolation-<m>CO_2</m> relation for diagnosing past and future glacial inception.
+      Nature, 529(7585), 200.
+      </fn>,
+      it was a close call:
+      we may have just missed falling in to a new glacial cycle 900 years ago<fn>
+      Ruddiman, W. F., Fuller, D. Q., Kutzbach, J. E., Tzedakis, P. C., Kaplan, J. O., Ellis, E. C., ... &amp; Lemmen, C. (2016).
+      Late Holocene climate: Natural or anthropogenic?. Reviews of Geophysics, 54(1), 93-118.
+      </fn> or so,
+      the result of a little too much insolation and relatively high <m>CO_2</m> concentrations in this interglacial
+      (see <xref ref="ag_GHG">Section</xref>).
+      The same models suggest that,
+      even without anthropogenic greenhouse gas emissions, Earth will spend the next 50 to 100 ky in the current inter-glacial,
+      the longest interval in the past 2.75 Ma.
+      A new glacial cycle will not save human societies from global warming.
+    </p>
+  </subsection>
+  <subsection xml:id="Ag_GHG">
+    <title>Agriculture and GHG forcings during the past 7 ky</title>
+    <p>
+      And we may very well have the foundation of modern society<mdash/>agriculture<mdash/>to thank for that near miss.
+      Some aspects of human behavior, like music,
+      counting, and story-telling<fn>
+      Brown, D.E. 1991.
+      Human universals.
+      New York: McGraw-Hill
+      </fn>,
+      are universal,
+      and appear in every society.
+      Agriculture is not a
+      <q>universal,</q>
+      but pretty close.
+      It was invented independently by dozens of different societies around the globe,
+      mostly after 12 kya<fn>
+      Price, T. D., &amp; Bar-Yosef, O. (2011).
+      The origins of agriculture: new data, new ideas:
+      an introduction to supplement 4.
+      Current Anthropology, 52(S4), S163-S174; Ruddiman et al. op cit. and references therein
+      </fn> as warmer,
+      wetter and more stable climates fostered easier domestication of plants and animals<fn>
+      Zahid, H. Jabran, Erick Robinson, and Robert L. Kelly.
+      Agriculture, Population Growth,
+      and Statistical Analysis of the Radiocarbon Record.
+      Proceedings of the National Academy of Sciences 113,
+      no. 4 (January 26, 2016): 931-35. https://doi.org/10.1073/pnas.1517650112
+      </fn>.
+      Prior to agriculture,
+      small bands of hunter-gatherers roamed freely over a home territory,
+      utilizing found resources in an area on the order of \SI{100}{\square\kilo\metre}<fn>
+      Tallavaara, M., Eronen, J. T., &amp; Luoto, M. (2017).
+      Productivity, biodiversity,
+      and pathogens influence the global hunter-gatherer population density.
+      Proceedings of the National Academy of Sciences, 201715638,
+      assuming a band size of <nbsp/>50 people,
+      and using the breakpoint on figure 2 as a
+      <q>typical</q>
+      population density.
+      </fn>.
+      Their use of resources, and the waste products they produced,
+      were no more than other non-human organisms produced.
+      But the spread of domesticated plants and animals changed both the nature and magnitude of waste production,
+      and the evidence for this comes from the same ice cores we've already used.
+    </p>
+    <p>
+      <em>Land use changes</em> required by agriculture include burning,
+      clearing,
+      and even submergence of natural plant cover to make land amenable to our needs.
+      Raising domesticated plants and animals fundamentally changes the way landscapes retain and cycle nutrients,
+      including carbon,
+      so we shouldn't be surprised that agriculture's early growth and spread affected the carbon cycle,
+      and thus changed the atmospheric concentrations of important greenhouse gasses,
+      such as <m>CO_2</m> and methane
+      (<m>CH_4</m>).
+      <xref ref="fig_ruddiman">Figure</xref> shows
+      (in blue and green)
+      the typical trajectory of GHG during the 8 previous times Earth moved from inter-glacial to glacial conditions,
+      lined up using the cyclical nature of the GIGC. In all cases,
+      both <m>CO_2</m> and <m>CH_4</m> steadily increase as ice ages end,
+      reaching a peak at the warmest and least-glacial time.
+      The most recent cycle
+      (in orange and red)
+      shows the same pattern,
+      as would be expected from the regular drum beat of glaciatial cycles.
+      After the peak, GHG concentrations in the previous 8 cycles all slowly decrease,
+      nudging Earth into the subsequent glacial cycle.
+      But the most recent cycle<mdash/>the one and only to include the development and spread of agriculture<mdash/>is different.
+      Notice in <xref ref="fig_ruddiman">Figure</xref>, Panel B that rather than falling,
+      <m>CO_2</m> concentrations begin to rise about 6 kya during the present cycle,
+      the same time agriculture began spreading across the planet.
+      Methane concentrations also rise beginning about 4 kya,
+      when rice cultivation began in southeastern China. (Rice paddies emit prodigious amounts of methane,
+      due to anaerobic respiration of bacteria in the muds of the flooded paddies).
+      In a decades-long series of studies<fn>
+      Ruddiman, William F. (2013).
+      <em>Earth Transformed</em> (1st ed.).
+      W.H. Freeman.
+      ISBN 978-1-4641-0776-4 is encyclopedic,
+      but Ruddiman, W. F., Fuller, D. Q., Kutzbach, J. E., Tzedakis, P. C., Kaplan, J. O., Ellis, E. C., ... &amp; Lemmen, C. (2016).
+      Late Holocene climate: Natural or anthropogenic?. Reviews of Geophysics, 54(1), 93-118 is briefer and equally compelling
+      </fn>, William Ruddiman has convincingly argued that human agriculture caused these changes,
+      and that our species has been actively modifying Earth's climate for 6000 years.
+      By the beginning of the Industrial Revolution around 1750 CE, <m>CO_2</m> concentrations were 25 ppm higher than would have been expected,
+      warming Earth by <nbsp/>\SI{0.3}{\kelvin} during the very time insolation reached a minimum.
+      Earth barely escaped descending into an ice age in the past 1000 years,
+      and our early<mdash/>and inadvertent<mdash/>climate manipulation through agriculture may be part of the reason for that escape.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Culture and Climate Collide: Climate Change in the Historic Period</title>
+    <introduction>
+      <p>
+        As we slowly approach the present day,
+        we should expect two facets of our study of climate to change.
+        One is that paleo-temperatures and other climatological features will have more precision and more accuracy.
+        Our proxies will be more numerous<fn>
+        For example, Figure 2
+        (bottom panel)
+        in Ahmed, M., Anchukaitis, K. J., Asrat, A., Borgaonkar, H. P., Braida, M., Buckley, B. M., ... &amp; Curran, M. A. (2013).
+        Continental-scale temperature variability during the past two millennia.
+        Nature Geoscience, 6(5), 339.
+        </fn> and so the records will have much better time resolution.
+        Both of these attributes are nicely displayed in <xref ref="fig_HTR">Figure</xref>
+        Panel A, where data from 500 CE onward is finely resolved on an annual basis,
+        and rather subtle temperature changes become apparent.
+        The second change is that finally we can <em>do</em>
+        something with all this data,
+        because in modern times we have cultural records,
+        actual written and physical objects which allow us to finally see how human societies reacted in the past to climate change.
+        After all, the real goal of this book is to help you decide if and what you want to do about Earth's changing climate.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Medieval Climate Anomaly</title>
+      <p>
+        Perhaps the most famous society that dealt with climate change in the past millennium are the Norse
+        (the ancestors of Vikings)
+        who settled islands (<xref ref="fig_norse_map">Figure</xref> in the North Atlantic Ocean,
+        including the Faroe Islands (around 800 CE)<fn>
+        Arge, S. V., Sveinbjarnard'ottir, G., Edwards, K. J., &amp; Buckland, P. C. (2005).
+        Viking and medieval settlement in the Faroes:
+        people, place and environment.
+        Human Ecology, 33(5), 597-620.
+        </fn>, Iceland (around 973 CE), and Greenland (around 985 CE)<fn>
+        for both Iceland and Greenland: Hartman, S., Ogilvie, A. E. J., Ingimundarson, J. H., Dugmore, A. J., Hambrecht, G., &amp; McGovern, T. H. (2017).
+        Medieval Iceland, Greenland,
+        and the New Human Condition: A case study in integrated environmental humanities.
+        Global and Planetary Change, 156, 123-139. https://doi.org/10.1016/j.gloplacha.2017.04.007
+        </fn>.
+        Yes, Greenland,
+        where a few thousand Norse men, women and children<fn>
+        Hartmen et al. op cit.
+        </fn> successfully farmed,
+        hunted and traded in two different colonies for 500 years.
+        What drove these settlers to journey in open boats across hundreds of miles of featureless ocean?
+        How could Greenland be a place where farming and animal husbandry was possible?
+        Drought and warmer winters seems to be the key.
+      </p>
+      <p>
+        The Norse began their settlement of the Atlantic at the start of the Medieval Climate Anomaly,
+        a period<fn>
+        Stine, S. (1994).
+        Extreme and persistent drought in California and Patagonia during mediaeval time.
+        Nature, 369(6481), 546.
+        </fn> where much of the northern hemisphere was relatively warm (particularly in the winter)<fn>
+        Trouet, V., Esper, J., Graham, N. E., Baker, A., Scourse, J. D., &amp; Frank, D. C. (2009).
+        Persistent Positive North Atlantic Oscillation Mode Dominated the Medieval Climate Anomaly.
+        Science, 324(5923), 78-80. https://doi.org/10.1126/science.1166349
+        </fn> but experienced
+        <q>frequent,
+        extensive and persistence summer time drought</q><fn>
+        Cook, E. R., Seager, R., Kushnir, Y., Briffa, K. R., B"untgen, U., Frank, D., ... &amp; Baillie, M. (2015).
+        Old World megadroughts and pluvials during the Common Era.
+        Science Advances, 1(10), e1500561.
+        </fn>,
+        but relatively mild winters<fn>
+        Diaz, H. F., Trigo, R., Hughes, M. K., Mann, M. E., Xoplaki, E., &amp; Barriopedro, D. (2011).
+        Spatial and temporal characteristics of climate in medieval times revisited.
+        Bulletin of the American Meteorological Society, 92(11), 1487-1500.
+        </fn> and unusually low climatic variability.
+        The MCA was<em>in some parts of the Northern Hemisphere</em>
+        the most recent period of warmth rivaling the 20th Century's warmest periods,
+        and thus provides a natural experiment for how societies react to climate change.
+        The Norse are interesting not because of who they were or their ancestry,
+        but because they illustrate the vulnerability of a society at the edge of sustainability to both changing climates,
+        and unchanging cultural practice<fn>
+        Hartman, S., Ogilvie, A. E. J., Ingimundarson, J. H., Dugmore, A. J., Hambrecht, G., &amp; McGovern, T. H. (2017).
+        Medieval Iceland, Greenland,
+        and the New Human Condition: A case study in integrated environmental humanities.
+        Global and Planetary Change, 156, 123-139. https://doi.org/10.1016/j.gloplacha.2017.04.007 , Nelson, M. C., Ingram, S. E., Dugmore, A. J., Streeter, R., Peeples, M. A., McGovern, T. H., ... Smiarowski, K. (2016).
+        Climate challenges, vulnerabilities, and food security.
+        Proceedings of the National Academy of Sciences, 113(2), 298-303. https://doi.org/10.1073/pnas.1506494113
+        </fn>.
+        Ultimately, the Norse abandoned their settlements in Greenland because climate and the world economy changed faster than their culture could.
+      </p>
+      <p>
+        The Norse were a sea-going people who farmed,
+        raised domesticated animals (including cattle, sheep and goats)<fn>
+        Dugmore et al. op cit.
+        </fn> and traded as a way of life.
+        The droughts accompanying the MCA were centered over their Scandinavian homeland (<xref ref="fig_drought">Figure</xref>,
+        and may have contributed to their westward expansion.
+        In Greenland the Norse lived in small, largely isolated farms,
+        where they spent summers growing food for themselves and their animals.
+        Growing fodder for their animals was an existential prblem:
+        despite the MCA's warmth, Greenlandian winters were long,
+        so animals were kept indoors,
+        and fed fodder by hand, for 9 months of the year<fn>
+        Hartman et al., op cit.
+        </fn>.
+        Theirs was a precarious existence,
+        so they supplemented their crops by hunting and collecting wild food,
+        most of land-based animals, such a reindeer, with the occasional seal.
+        By 1125 CE the Norse has started a new<mdash/>and lucrative<mdash/>way of making a living<fn>
+        Star, B., Barrett, J. H., Gondek, A. T., &amp; Boessenkool, S. (n.d.).
+        Ancient DNA reveals the chronology of walrus ivory trade from Norse Greenland, 9.
+        </fn>:
+        trading in walrus ivory.
+        Nearly every Norse farm have abundant fragments of walrus skulls.
+        No tusks, no bones of any other part of the animals, just the skulls.
+        These fragments are testaments to the communal hunts members of both the Eastern and Western settlements would conduct each summer,
+        as they rowed and sailed the 800 km or more in open boats from their settlements to the <em>nor\dh rsetur</em>
+        or Northern Hunting Ground near Disko Bay, Greenland.
+        There they harvested walrus ivory for later shipment to Norway and Europe,
+        where it was a luxury good and in demand in an increasingly urban and expanding populace<fn>
+        Star et al. op. cit
+        </fn>.
+        The walrus trade bought in enough money and goods to establish and outfit exquisite churches (Figure ) and may well subsidized the settlements pastoral economies.
+        But beginning around 1250 CE, as the MCA drew to a close,
+        the diet,
+        climate and culture of the Greenland Norse began to change.
+      </p>
+      <p>
+        We know this from another proxy:
+        the isotopic composition of C and N from the settler's remains.
+        Terrestrial and marine animals eat foods with distinctly different ratios of C and N isotopes.
+        Consumers of these animals<mdash/>the Norse,
+        in this case<mdash/>retain their food's isotopic composition even after their deaths.
+        Near 1250 CE isotopic signals indicate a sudden,
+        dramatic and permanent change from primarily land-based to marine-based food for the majority of Greenlanders.
+        Seals migrating south in the spring were hunted communally,
+        and these marine mammals became a staple for all classes and genders in the population.
+        The shift is good evidence of crop failure in an increasingly chilly and stormier climate.
+        Those same storms made seal hunting more dangerous, even fatal,
+        to the very people who were increasingly needed to work the farms<fn>
+        Hartman et al. op cit.
+        </fn>.
+        But the archaeological record indicates that the small,
+        outlying farms that predominated in the settlements were abandoned,
+        with their farmers taking up as tenants in large central farms as a way of concentrating the work force.
+        But other changes,
+        far outside the control of Greenlanders, were afoot.
+        Europe was changing, and walrus ivory dropped in value over the 1400s,
+        while fish and wool became important trading goods.
+        Greenlanders choose to provide neither, so trade dried up,
+        depriving them of much needed supplies from Europe at the very time their own environment was providing less and less.
+        The smaller Western Settlement was finally abandoned around 1360 CE<fn>
+        Young et al., op cit.
+        </fn>,
+        just before the last regular shipping between Greenland and Europe around 1370 CE. The last known voyage to or from the colony was made around 1420,
+        and by 1450 CE, the Eastern Settlement was also abandoned.
+        The Norse had lived successfully on the shores of Greenland for 450 years,
+        nearly twice as long as the US has been a country.
+        They successfully adapted much of their lifestyle to conditions imposed on them by the increasingly cold and harsh climate of the period from 1350-1145 CE, but these changes were too small and too late to prevent their society's collapse.
+        They were not the only society to suffer from the climate and cultural changes of the Little Ice Age,
+        but they may well have been the first.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Little Ice Age</title>
+      <paragraphs>
+        <title>Geographic extent and magnitude</title>
+        <p>
+          The relative warmth and stability of the MCA led to unparallelled growth of populations across the northern hemisphere.
+          Both slowly but profoundly eroded after 1250 CE, until by <nbsp/>1450 CE the Northern Hemisphere had entered a Little Ice Age.
+          This 4 century-long period of cold centered on the Northern Hemisphere,
+          and was strongest across the temperate and sub-polar land areas of the Northern Hemisphere (Figure AR 5. chapter 5 figure 5.9), from Japan,
+          across northern Asia, through Europe and onto most of North America.
+          All of the southern continents and much of southern Asia were largely spared the colder climates of the LIA<fn>
+          AR 5, Chapter 5, Figure 5.09, panels c, e
+          </fn>.
+          Average temperatures in the Northern Hemisphere were only \SI{0.5(2)}{\celsius} (0.9 <m>^\circ</m>F) colder than the <m>20^{th}</m> century average,
+          which doesn't sound terribly cold!
+          But even this moderate change was enough to cause glacier growth throughout Europe, Asia and North America,
+          bring snowier and longer winters, freeze rivers,
+          and to make farming impossible in many northern areas
+          (as we saw in Greenland)
+          and higher-elevation areas.
+          To see how the LIA really affected societies,
+          we should consider changes between the MCA and the LIA, as that was the transition that societies actually experienced.
+          Europe and North America both cooled by \SI{1(2)}{\celsius} (2 <m>^\circ</m>F) from the MCA to LIA, which stressed an already shaken continent.
+          The LIA to produced profound challenges and changes to societies throughout the hemisphere,
+          changes that led to colonization of North and South America by Europeans,
+          to global and long-lasting effect.
+        </p>
+      </paragraphs>
+    </subsubsection>
+    <subsubsection>
+      <title>Societal consequences</title>
+      <p>
+        A series of non-climate disasters shook Europe and China in the centuries between the end of the MCA in 1250 CE and the beginning of the LIA in 1450 CE<fn>
+        White, op cit.
+        </fn>.
+        Widespread crop failure led to equally-widespread famine across Europe in 1310 CE. The Black Death<mdash/>a plague caused by bacteria spread by rats<mdash/>raced across Europe between 1347 and 1351 CE, leaving 30 to 50% of the population dead.
+        So much of Europe was already suffering when temperatures dropped during the LIA. But the cold,
+        long winters nucleated a raft of cultural, political,
+        social and even artistic movements in Europe that,
+        as Sam White put so beautifully,<fn>
+        White, op cit, p 339
+        </fn>
+        <q>may reflect the direct or indirect influence of extreme weather and climate</q>
+        of the LIA. These included,
+        as incredible as it may seem to those of us accustomed to winter,
+        the development of architecture and clothing appropriate for colder weather,
+        <q>gloomy winter poetry</q>
+        and even art.
+      </p>
+      <paragraphs>
+        <title>Art</title>
+        <p>
+          Hannah Stamler<fn>
+          Stamler, Hannah (2018) How Curators Are Finding the Climate in Art History,
+          </fn> contends that
+          <q>All works of art contain... an environmental perspective... we need only retrain our eyes to look for them.</q>
+          Following that edict, The earliest known portrayal of snow in European art is Ambrogio Lorenzetti's
+          <em>Effects of Good Government in the City and Countryside</em> from 1337-1339 CE<fn>
+          Philip McCouat, "The emergence of the winter landscape: Bruegel and his predecessors", Journal of Art in Society,
+          href{http://www.artinsociety.com/the-emergence-of-the-winter-landscape.html#}{Link}, accessed 26 October 2018
+          </fn>.
+          Lorenzetti's painted in one small panel a rather dapper man standing in a heavy snowfall
+          (<xref ref="fig_winterart">Figure</xref>, Panel A)
+          and holding a well-made snowball.
+          From the look in his eyes,
+          and the quality of the snowball,
+          this isn't his first snowball fight.
+          But it is the oldest representation of snow in European painting.
+          Nearly a century latter, the wealthy of Europe were commissioning
+          <q>Book of Days,</q>
+          essentially private prayer books.
+          One of these is <em>the Tres Riches Heures du Duc de Berry</em> (
+          <q>The Very Rich Hours of the Duke of Berry</q>),
+          commisioned by the Duke himself between 1412 and 1416 CE but not finished until 1486 CE<fn>
+          Alexander, J. (1990).
+          Labeur and paresse: Ideological representations of Medieval peasant labor.
+          The Art Bulletin, 72(3), 436-452.
+          </fn> well into the LIA. The book is richly and beautifully illustrated,
+          with each month receiving an appropriate scene.
+          The February scene
+          (<xref ref="fig_winterart">Figure</xref>, Panel B)
+          is interesting to us,
+          as it shows how newly strong winters were experienced
+          (through the eyes of artists working for a greedy ruler)
+          by peasants.
+          The realistic image features snow above all else,
+          snow which covers the entire scene under leaden skies.
+          Although the farm seems to be a wealthy one
+          (note the pen full of sheep).
+          The three peasants
+          (two figures to the left;
+          the women in pink skirts on the right)
+          lack the clothes and shoes needed to keep them warm
+          (note the condensed breath of the woman in pink!).
+          In the right background,
+          a better-dressed man languidly chops wood for a fire, while another peasant
+          (upper right)
+          trudges through the heavy snow with a mule's load of wood.
+          All of the people depicted are singularly under-prepared for cold weather the artists clearly thought typical of the new European climate.
+        </p>
+      </paragraphs>
+      <p>
+        The best-known example of art inspired by the Little Ice age are winter landscapes,
+        a genre of painting apparently invented
+        (at least in Europe)
+        by Pieter Brueghel following the powerfully cold winter of 1564-1565 CE. Brueghel's
+        <em>Hunters in the Snow</em>
+        powerfully evokes the hardships and joys of wintertime in the LIA. Clearly Brueghel isn't painting a real scene
+        (he lived in what is now Northern Belgium,
+        which conspicuously lacks the mountains depicted in the painting).
+        But the painting is rich in carefully rendered details of winter living in the LIA. In the left foreground,
+        a trio of clearly tired,
+        cold and dejected hunters stump home, carrying only
+        (slung on the back of the central figure)
+        a pitifully small fox or rabbit,
+        hardly enough to feed the pack of hungry dogs behind them.
+        To the left, workers at an inn
+        (note the broken sign hanging above them)
+        are singeing the hairs from hogs prior to preparing a meal<fn>
+        McCouat op cit.
+        </fn> Despite the obvious cold and the threat it presents to the villagers,
+        not all of life at this time was toil.
+        In the background of the painting, Brueghel carefully depicts villagers enjoying the cold weather,
+        by skating, playing hockey, curling and even ice fishing.
+        But overall,
+        the turmoil created by the LIA was the greatest Europe had seen in a millennium,
+        inducing centuries of war, famine and migrations.
+      </p>
+      <paragraphs>
+        <title>Crop failure, war, and population contraction</title>
+        <p>
+          The coldest part of the LIA, from 1560 to 1660 CE, might be called The
+          <em>General Crisis of the <m>17^{th}</m> Century</em><fn>
+          Zhang, D. D., Lee, H. F., Wang, C., Li, B., Pei, Q., Zhang, J., &amp; An, Y. (2011).
+          The causality analysis of climate change and large-scale human crisis.
+          Proceedings of the National Academy of Sciences, 108(42), 17296-17301.
+          <url href="https://doi.org/10.1073/pnas.1104268108">link</url>
+          </fn>,
+          or <em>GCSC</em>.
+          In this period, economic distress, civil unrest,
+          war and population declines all spread across Europe.
+          (Other cultures were affected as well, including China<fn>
+          Zhang, op cit.
+          </fn>,
+          and Japan<fn>
+          White, op cit.
+          </fn>,
+          but we won't cover them for brevity.)
+          Particularly noteworthy is the dramatic increase in the number,
+          longevity and lethality of war during this period.
+          The <em>Thirty Year's War</em>,
+          fought across central Europe by powers of northern Europe against those in central Europe,
+          resulted in the death of 8 million people,
+          at a time when all of Europe had only 100 million people<fn>
+          Zhang, op cit.
+          </fn>. (One of these casualties was none other than Johanes Kepler,
+          the discoverer of Kepler's Laws,
+          which are so crucial to understanding the Ice Ages.
+          He was forced to move multiple times across central Europe to avoid the various armies waging the Thirty Years' War.
+          He died in 1630 CE, but his grave was desecrated and destroyed by members of the Swedish army.
+          Kepler's final resting place is unknown.).
+          Migration, both across the European continent and for the first time across ocean basins also peaked at his time.
+          <xref ref="fig_migration_rate">Figure</xref>
+          shows the rate of European emigration and colonization of North and South America,
+          an dth efirst peak in this corresponds exactly with the GCSC. The social and political changes caused by climate change in the LIA quite literally reshaped the world.
+        </p>
+      </paragraphs>
+      <p>
+        That's a pretty bold statement:
+        <em>caused</em> implies that climate change itself set in to motion social disturbance, war,
+        famine and migration and eventually significant population collapse throughout Europe.
+        And if climate change has done this in the past,
+        it seems reasonable to ask if current climate change might produce similar turmoil.
+        Fortunately, the GCSS has been well studied,
+        and the assertion of causality is well documented<fn>
+        Zhang et al,
+        op cit.; Zhang, D. D., Brecke, P., Lee, H. F., He, Y. Q., &amp; Zhang, J. (2007).
+        Global climate change,
+        war, and population decline in recent human history.
+        Proceedings of the National Academy of Sciences, 104(49), 19214-19219.
+        </fn> <xref ref="fig_zhang_cause">Figure</xref>
+        is one of our typical systems diagrams,
+        but this one focuses on human culture.
+        Climate change,
+        in this case far colder weather in the northern hemisphere,
+        starts the chain of causality.
+        In response to the shorter growing season and reduction in arable land,
+        plant growth goes down, which reduces agricultural production.
+        The vast majority of the population of Europe subsisted on grains grown on farms,
+        so as grain production fell,
+        costs went up,
+        and on average the amount of food per person plummeted.
+        These economic troubles degraded human health (yellow-filled boxes) including increased famine,
+        nutritional stress (adult heights dropped by an average of <nbsp/>\SI{2}{\centi\metre} (<m>3/4</m> inch) during the <m>16^{th}</m> century) and epidemics.
+        All this personal stress contributed to the growth of societal stress as well (gray-filled boxes),
+        including increased frequency of war,
+        migrations and other social disturbances.
+        All of these factors decimated Europe's population,
+        reducing the population by 15%<mdash/>20 million souls<mdash/>effectively delaying population growth in Europe by 50 years<mdash/>two generations.
+        The only question is why?
+        What caused the LIA?
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Causes (notice the plural) of the MCA and the LIA</title>
+      <p>
+        Slow, long-term changes in insolation clearly drive the initiation of Ice Ages.
+        But such changes can't be responsible for the relatively brief,
+        local and oscillatory changes in climate observed during the MCA and LIA. Instead,
+        other ephemeral forces may be driving brief changes in Earth's energy balance.
+        Or, perhaps the MCA and LIA were just the result of unusual
+        (but perfectly normal)
+        climatic variations possible in the complex climate system.
+        The first hypothesis is testable using proxies,
+        the second by understanding models of Earth's climate.
+        In this section,
+        we'll examine how proxies are constructed and used to constrain Earth's past climate. \paragraphs{Insolation} Could natural natural variations in the sun's output over decades to centuries contribute to the climatological variations of the MCA and LIA? <xref ref="fig_ssn_all">Figure</xref>
+        shows two data sets illustrating the relatively small variations in the Sun's output.
+        The total solar insolation
+        (or TSI)
+        is the energy output of the sun at all wavelengths,
+        and is shown on <xref ref="fig_ssn_all">Figure</xref>
+        (Panel A) for the period over which Earth-orbiting satellites have directly measured the output.
+        The original data
+        (in blue and orange)
+        are
+        <q>noisy,</q>
+        they vary rapidly over many time scales.
+        So the black line shows the
+        <q>smoothed</q>
+        values, by averaging the data over a 4 month time period.
+        Both the noise and the averaging are typically done with data,
+        to extract a real signal from the data. (The same process is used to determine you semester grade in classes.
+        By averaging over a few exams and homeworks,
+        you awarded a grade for your average accomplishments,
+        not that second exam when you had the flu!
+        The inset graph shows exactly the same data, but shown at true scale,
+        with \SI{0}{\watt\per\metre\squared} as the lower limit on the ordinate.
+        Clearly the sun's output varies,
+        but only by roughly \SI{\pm 0.5}{\watt\per\metre\squared} over the 45 years of measurement,
+        a whopping
+        <men>
+          proportional\ variation=\frac{variation}{mean}=\frac{\SI{0.5}{\watt\per\metre\squared}}{\SI{1361}{\watt\metre\squared}}\cdot100\%=0.037\
+        </men>
+      </p>
+      <p>
+        This is equivalent to varying the length of a typical 45 minute-long class by 1 second:
+        to tiny for anyone to notice.
+        Regardless of the magnitude,
+        the Sun's output clearly varies over a roughly 11-year cycle,
+        with peaks in 1980, 1991, 2002 and 2014 CE. This well-known pattern is most-likely due<fn>
+        Charbonneau, P. (2010).
+        Dynamo models of the solar cycle.
+        Living Reviews in Solar Physics, 7(1), 3;
+        the precise mechanism of the variations is one of the great unknowns in solar physics!
+        </fn> to the evolution of the Sun's internal magnetic field,
+        driven by changes deep in the interior of the Sun and largely irrelevant to our story.
+        Combined with their small size,
+        these rapid variations in the Sun's output couldn't have contributed to the centuries-long MCA or LIA.
+      </p>
+      <p>
+        What about variations in the Sun's output prior to the satellite era,
+        and over longer periods?
+        Fortunately,
+        changes in the Sun's magnetic field also change the number of <em>sunspots</em>
+        on the Sun's visible surface.
+        <xref ref="fig_sunspots">Figure</xref>
+        Panel A is a visible-light image of the sun,
+        taken from the SOHO satellite on January 23, 2014.
+        The large brown objects marring the surface are sunspots,
+        regions of relatively lower temperature
+        (and hence lower energy output)
+        on the photosphere of the Sun,
+        shown enlarged in Panels B and C. Panel D shows a spectacular view of the Sun's limb,
+        with arcing plasma tracing the magnetic fields stretching between the sunspot groups.
+        Given that total solar insolation <em>and</em>
+        the number of sunspots on the Sun's surface (SSN)are driven by the same process,
+        it seems reasonable to hypothesis that insolation and sunspot number should be correlated.
+        Take a minute to hypothesis about the relationship: Do you expect maxima in sunspot number to correlate with maxima or minima in insolatiuon?
+        Why?
+        <xref ref="fig_ssn_all">Figure</xref>
+        shows that the number of sunspots not only varies over time,
+        but does so in good synchronicity with the total solar insolation, but
+        (perhaps to your surprise)
+        insolation is <em>highest</em> at times of high sunspot number.
+        These solar maxima are marked by abundant sunspots,
+        but also by even more abundant <em>faculae</em>,
+        the bright areas surrounding sunspots.
+        These brighter
+        (and hence hotter)
+        areas release enough energy to counter the dark sunspots.
+        <xref ref="fig_ssn_all">Figure</xref>, Panel C shows that the number of sunspots and the Sun's total insolation are reasonably well correlated: Sunspots are a proxy for total solar insolation.
+      </p>
+      <p>
+        Sunspots have been observed and recorded since at least 165 BCE<fn>
+        Usoskin, I. G. (2017).
+        A history of solar activity over millennia.
+        Living Reviews in Solar Physics, 14(1).
+        <url href="https://doi.org/10.1007/s41116-017-0006-9">Link</url>
+        is a readable and thorough review.
+        </fn>,
+        when Chinese and Korean astronomers recording sunspots observed with the naked eye. (Warning:
+        <em>do not</em> look at the Sun with the naked eye,
+        except at sunset and sunrise,
+        or you will suffer permanent blindness).
+        For the past 400 years we have a good and nearly continuous record of telescopic observations and counts of sunspots.
+        The data are rich in detail and pattern,
+        as shown on <xref ref="fig_ssn_all2">Figure</xref>, Panel A. The horizontal lines in green show the likely total solar insolation,
+        based on the relationship we derived in <xref ref="fig_ssn_all">Figure</xref>.
+        The 11-year solar cycle is apparent,
+        but so too are <em>Grand Minima</em>,
+        periods of little or no sunspots.
+        These are nicely revealed by the smoothed count
+        (shown in black)
+        in the Figure.
+        The <em>Maunder Minimum</em> is particularly interesting as it occurred in the middle of the LIA, suggesting that low insolation may have contributed to colder temperatures.
+      </p>
+      <p>
+        Alas, our sunspot record only goes back to the middle of the LIA; we have no sunspot information before 1600 CE. Fortunately we have another insolation proxy.
+        The sun constantly emits a stream of charged particles,
+        delightfully named the solar wind, into space.
+        These particles induce aurorae in our atmosphere,
+        and inflate a bubble of plasma around the solar system,
+        extending to at least twice the orbital radius of Pluto
+        (<xref ref="fig_heliosphere">Figure</xref>).
+        The size of the heliosphere depends upon the strength of the solar wind,
+        which in turn depends directly upon the Sun's total insolation,
+        and so varies in the same way as the TSI. Think of the heliosphere as our solar system's part of space, a little
+        <q>island</q>
+        in the vast realm of inter-stellar space.
+        Cosmic rays
+        (mostly fast-moving protons and He nuclei)
+        are constantly traversing this inter-stellar space,
+        and the edge of the heliosphere<mdash/>the heliopause<mdash/>deflects most of these charged particles away from the solar system,
+        reducing the amount of radiation hitting Earth.
+        Earth's magnetic field also deflects cosmic rays,
+        so the flux of radiation hitting Earth's atmosphere is modulated by changes in both the sun and Earth.
+        The power of cosmic rays is impressive:
+        the most energetic particle yet measured, the "Oh my God" particle,
+        blasted into the atmosphere above Utah traveling 99.9999999995% the speed of light,
+        and had the same kinetic energy as a baseball traveling 100kph. (The particle has its own Wikipedia page:
+        http://en.wikipedia.org/wiki/Oh-My-God_particle).
+        Once in the atmosphere,
+        cosmic rays collide spectacularly with atmospheric molecules, creating
+        <q>showers</q>
+        of sub-atomic particles cascading through the sky.
+        These particles have enough energy to cause nuclear reactions,
+        and one of these reactions produces that most famous of all isotopes,
+        carbon 14, or \isotope[14][6]C
+        (<xref ref="eq_c14_prod">Equation</xref>).
+        Once produced,
+        the newly-minted \isotope[14][6]C is oxidized into carbon dioxide (<xref ref="eq_c14_ox">Equation</xref>)and enters the carbon cycle
+        (<xref ref="eq_c14_incorp">Equation</xref>).
+        Somewhat more than half is incorporated into the biosphere via photosynthesis.
+        The remainder enters the oceans on the inorganic part of the C cycle.
+        <md>
+          <mrow xml:id="eq_c14_prod" number="yes">Production: \amp  n+\isotope[14]{N} \amp  \rightarrow \amp  \isotope[14]{C}+p^+</mrow>
+          <mrow xml:id="eq_c14_ox" number="yes">Oxidation:  \amp  \isotope[14]{C}+O_2 \amp  \rightarrow \amp  \isotope[14]{C}O_2</mrow>
+          <mrow>Incorporation: \amp  \isotope[14]{C}O_2+H_2O \amp  \rightarrow \amp  \isotope[14]{C}H_2O+O_2 \label {eq:c14_incorp}</mrow>
+          <mrow>Decay: \amp  \isotope[14]{C}\amp \rightarrow\amp  \isotope[14]{N} + e^- +\bar{\nu}_{e^-}</mrow>
+        </md>
+      </p>
+      <p>
+        Precise dating of \isotope[14][6]C-containing samples
+        (counting annual growth rings in trees,
+        or annual layers in lake sediments or ice cores, for example)
+        permits construction of a record of \isotope[14][6]C production,
+        <m>\Delta\isotope[14]{C}</m> through time,
+        and is shown in <xref ref="fig_ssn_all2">Figure</xref>
+        Panel B. Before you examine the graph,
+        work through the physics and hypothesize: Will \isotope[14][6]C rise with total solar irradiation, or fall?
+        As the Figure shows,
+        <m>\Delta\isotope[14]{C}</m> is inversely correlated with insolation:
+        as insolation increases, the heliopause also strengthens,
+        so cosmic ray bombardment decreases and with it \isotope[14]C production.
+        So we now have a proxy for insolation that is useful for approximately 50,000 years into the past.
+        And at first glance the results are consistent with insolation changes contributing to both the LIA and thee MCA: insolation is lower in the LIA and (somewhat) higher than average during the MCA. But the changes are tiny-about \SI{1}{\watt\per\metre\squared}. Perhaps another force was at work?
+      </p>
+      <paragraphs>
+        <title>Volcanic Eruptions</title>
+        <p>
+          Large volcanic eruptions inject massive volumes of dust and gas into the atmosphere (<xref ref="fig_pinatubo">Figure</xref>.
+          While the dust can change the local weather for a few days,
+          and cause wide-spread damage for hundreds of kilometers,
+          the dust is relatively heavy and falls out of the atmosphere within minutes to weeks after the eruption<fn>
+          Robock, A. (2000).
+          Volcanic eruptions and climate.
+          Reviews of Geophysics, 38(2), 191-219.
+          <url href="https://doi.org/10.1029/1998RG000054">link</url>
+          </fn>.
+          But gasses emitted by the volcano can stay in the atmosphere far longer.
+          The more commom gasses emitted by volcanoes are our old friends <m>H_2O</m> and <m>CO_2</m>.
+          But the amount emitted is vanishingly small compared to the amounts already present in the atmosphere.
+          The real climate culprit in eruption is sulfur dioxide,
+          or <m>SO_2</m>.
+          Particularly large eruptions inject <m>SO_2</m> into the stratosphere,
+          where it reacts with water to form small drops of sulphuric acid,
+          <m>H_2SO_4</m>.
+          These drops are about the same size as the wavelength of visible light,
+          and so they are spectacularly efficient at reflecting sunlight back into space.
+          Withing two to three weeks,
+          these clouds can circle the globe,
+          and spread across a hemisphere.
+          Even in the stratosphere,
+          atmospheric circulation across the equator is weak,
+          so eruption tends to increase albedo,
+          decrease in-coming energy, and cool only one hemisphere,
+          and can do so for 1 to 2 <em>years</em> following an eruption.
+          Eruptions are powerful, if brief, drivers of climate.
+          The 1815 CE eruption of Tambora,
+          on Sulawesi island in Indonesia led to the infamous
+          <em>year without a summer</em>
+          in 1816 CE, a last swift cold spell in the LIA. Hard frosts every month of summer plagued New England<fn>
+          1816: The Year Without a Summer, New England Historical Society,
+          <url href="http://www.newenglandhistoricalsociety.com/1816-year-without-a-summer/">Link</url>
+          </fn>,
+          snow fell throughout Europe and North America,
+          and unusually frequent rainfall sequestered people indoors,
+          including who wrote a novel about a certain Dr.
+          Frakenstein and his monster<fn>
+          Robock, op cit.
+          </fn>.
+          Crop failures led to sever price increases,
+          with social unrest(<xref ref="fig_Zhang">Figure</xref>) famine,
+          illness and large scale unemployment following in its wake<fn>
+          Post, J. D. (1977).
+          The last great subsistence crisis in the Western World.
+          Johns Hopkins Univ Pr.
+          </fn>.
+          Fortunately,
+          the effects of even large eruptions, like Tambora, are brief.
+          Within a year or two the droplets suspended in the stratosphere either chemically degrade or fall to the surface.
+          Ice cores in particular can preserve this sulfur signal,
+          providing a convenient proxy for volcanic reduction of in coming solar energy.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Solar and volcanic affects on the MCA and LIA</title>
+        <p>
+          <xref ref="fig_forcings">Figure</xref>
+          shows the result of decades of research quantifying the driving fores of climate during the past millennium.
+          The ordinate shows annual <em>differences</em>
+          from average forcings for insolation (green),
+          volcanic eruption (red) and greenhouse gasses
+          (blue).
+          Positive differences lead to net warming,
+          while negative differences lead to net cooling.
+          Clearly our hypothesis that the MCA and LIA were caused by higher and lower insolation is <em>not</em> supported.
+          The insolation differences are negative for both periods,
+          and the magnitudes are too small to cause the roughly \SIrange{-0.5}{-1}{\kelvin} temperature changes during the LIA. Don't be disappointed
+          (or upset)
+          that all the work we did on insolation proxies was
+          <q>wasted.</q>
+          Negative findings, where an hypothesis is disproved,
+          is actually the most common result of good science,
+          it just isn't as flashy as positive results<fn>
+          PLOS Collection, Positively Negative: A New PLOS ONE Collection focusing on Negative, Null and Inconclusive Results, February 25, 2015,
+          <url href="https://blogs.plos.org/everyone/2015/02/25/positively-negative-new-plos-one-collection-focusing-negative-null-inconclusive-results/">Link</url>,
+          accessed 13 November 2018
+          </fn>.
+          And remember too that discovering insolation is <em>not</em>
+          a factor in recent climate change just means another factor is present.
+          That factor is not <m>CO_2</m> either.
+          Although the concentration of <m>CO_2</m> did fall in the coldest portions of the LIA, the change of roughly -8 ppm<fn>
+          J.M. Barnola, D. Raynaud, C. Lorius, N. I. Barkov, Historical CO2 Record from the Vostok Ice Core,
+          <url href="http://cdiac.ornl.gov/ftp/trends/co2/vostok.icecore.co2">Link</url>
+          accessed 13 November 2018
+          </fn> is not enough to cause substantial temperature changes<fn>
+          MacFarling Meure, C., Etheridge, D., Trudinger, C., Steele, P., Langenfelds, R., Van Ommen, T., ... &amp; Elkins, J. (2006).
+          Law Dome CO2, CH4 and N2O ice core records extended to 2000 years BP. Geophysical Research Letters, 33(14).
+          </fn>,
+          which you can confirm using the ERB, our simple climate model
+          (see the end of chapter problems).
+          Volcanic forcing, in contrast, is a potential factor.
+          Note that the MCA ends with a long series of eruptions,
+          and concludes in 1257 CE with the massive eruption of Samalas in Indonesia<fn>
+          Lavigne, F., Degeai, J.-P., Komorowski, J.-C., Guillet, S., Robert, V., Lahitte, P., ... Belizal, E. de. (2013).
+          Source of the great A.D. 1257 mystery eruption unveiled, Samalas volcano, Rinjani Volcanic Complex, Indonesia.
+          Proceedings of the National Academy of Sciences, 201307520.
+          <url href="https://doi.org/10.1073/pnas.1307520110">Link</url>
+          </fn>,
+          which brought a cold summer, heavy rains,
+          floods and crop failures across the northern hemisphere.
+          THe LIA begins with the substantial eruption of Kuwae volcano (also in Indonesia<fn>
+          Erik Klemetti 24 May 2012, Kuwae Eruption of the 1450s: Missing or Mythical Caldera?
+          <url href="https://www.wired.com/2012/05/kuwae-eruption-of-the-1450s-missing-or-mythical-caldera/">Link</url>,
+          accessed 13 November 2018
+          </fn>.
+          Large eruptions and the attendant decrease in solar energy reaching the surface are frequent during the LIA, particularly in the coldest
+          (and most strife-ridden)
+          portions coincident with the General Crises of the Seventeenth Century.
+        </p>
+      </paragraphs>
+    </subsubsection>
+  </subsection>
+</section>

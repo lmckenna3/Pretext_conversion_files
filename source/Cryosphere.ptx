@@ -1,0 +1,14 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="Cryosphere">
+  <title>The Cryosphere</title>
+  <xi:include  href="Cryosphere_Epigraph.ptx"/>
+  <xi:include  href="Cryosphere_Core_Concepts.ptx"/>
+  <xi:include  href="Cryosphere_Opening_Problem.ptx"/>
+  <xi:include  href="Feedbacks.ptx"/>
+  <xi:include  href="Arctic_Amplification.ptx"/>
+  <xi:include  href="The_Perennial_Cryosphere.ptx"/>
+  <xi:include  href="Changes_to_perennial_ice.ptx"/>
+  <xi:include  href="Snow-ball_Earth.ptx"/>
+  <xi:include  href="Our_Rapidly_Changing_Cryosphere.ptx"/>
+  <xi:include  href="Cryosphere_Figures.ptx"/>
+  <xi:include  href="Cryosphere_Tables.ptx"/>
+</chapter>

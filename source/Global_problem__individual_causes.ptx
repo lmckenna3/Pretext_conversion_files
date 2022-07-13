@@ -1,0 +1,548 @@
+<section xml:id="Global_problem__individual_causes">
+  <title>Global problem, individual causes</title>
+  <introduction>
+    <p>
+      The
+      <q>ozone dilemma</q>
+      of the previous section is one example of a global problem with local causes.
+      Pollution is something with which we have personal experience:
+      we can see, feel even feel threatened by pollutants in our environment.
+      But other significant global problems are more difficult for us to perceive.
+      Some changes in Earth's environment are so slow we simply can't find enough change in our lifetimes.
+      Other changes act over such enormous scales of Earth's surface that we can't see them all at once.
+      The ecologist Aldo Leopold noted that in dealing with Earth's environment,
+      humans needed to
+      <q>think like a mountain.</q>
+      To understand global problems with local causes,
+      we must understand that our wonderful ability to think and act have been honed over millions of years of evolution in small groups with limited geographic range.
+      Those thoughts and actions are no longer enough in our globally-connected planet.
+    </p>
+  </introduction>
+  <subsection xml:id="GCC_diff">
+    <title>Global climate change is different</title>
+    <p>
+      Global climate change unfortunately has all the characteristics that make personal perception of the problem difficult.
+      Climate change additionally suffers from the
+      <q>ozone dilemma,</q>
+      because linking causes and effects is difficult, even impossible.
+      This is a point made famous by Steven Gardiner,
+      in a series of papers and books all called a variation on
+      <em>Perfect Moral Storm:
+      the Ethical Tragedy of Climate Change</em>.
+      As we'll see in the next section,
+      recent changes to Earth's climate are largely due to anthropic (human-caused) release of greenhouse gasses.
+      People have been releasing these gasses as part of their daily practice of living for nearly 6000 years<fn>
+      Ruddiman, W. F., Fuller, D. Q., Kutzbach, J. E., Tzedakis, P. C., Kaplan, J. O., Ellis, E. C., ... &amp; Lemmen, C. (2016), Late Holocene climate: Natural or anthropogenic?, Rev.
+      Geophys., 54, doi:10.1002/2015RG000503.
+      </fn>
+    </p>
+  </subsection>
+  <subsection xml:id="Risk">
+    <title>What is and isn't at risk from Global Climate Change</title>
+    <subsubsection xml:id="sl_acid">
+      <title>The Holocene climate is ending</title>
+      <paragraphs>
+        <title>Climatic stability and human evolution</title>
+        <p>
+          Our species evolved in a climatically tumultuous period of Earth's history about 2 Ma.
+          So much so that many evolutionary biologists have argued that <em>Homo sapiens'</em>
+          success stems form our ability to adapt to changing climates<fn>
+          Stewart, J. R., &amp; Stringer, C. B. (2012).
+          Human evolution out of Africa:
+          the role of refugia and climate change.
+          Science, 335(6074), 1317-1321, deMenocal, P. B. (2011).
+          Climate and human evolution.
+          Science, 331, 540., deMenocal, P. B. (2004).
+          African climate change and faunal evolution during the Pliocene-Pleistocene.
+          Earth and Planetary Science Letters, 220(1-2), 3-24.
+          </fn>.
+          For the past 11,000 years however<fn>
+          Barnosky, A. D., Hadly, E. A., Bascompte, J., Berlow, E. L., Brown, J. H., Fortelius, M., ... &amp; Martinez, N. D. (2012).
+          Approaching a state shift in Earth/'s biosphere.
+          Nature, 486(7401), 52-58.
+          </fn> Earth's climate has only slowly oscillated over a narrow range of conditions,
+          in an epoch of Earth's history called <em>the Holocene</em>.
+          Our species' cultural evolution is intimately entwined with and largely conditioned by this consistent Holocene climate.
+          The invention of agriculture 12,000 years ago<mdash/>
+          <q>one of the most significant cultural and evolutionary transitions in the 200,000-y history of our species</q><fn>
+          Larson, G., Piperno, D. R., Allaby, R. G., Purugganan, M. D., Andersson, L., Arroyo-Kalin, M., ... &amp; Doust, A. N. (2014) Current perspectives and the future of domestication studies.
+          Proceedings of the National Academy of Sciences, 111(17), 6139-6146.
+          </fn><mdash/> was possible largely because of the stability of the Holocene climate.
+        </p>
+      </paragraphs>
+      <p>
+        But the Holocene and its comfortable climate are at an end,
+        largely because of our release of vast quantities of greenhouse gasses into Earth's atmosphere.
+        Earth is even now moving into a new epoch,
+        <em>the Anthropocene</em>,
+        when climate is changing rapidly and in one direction.
+        We will spend the remainder of the book understanding the causes, effects,
+        and implications of these changes.
+        But to understand the ethical issues produced by these changes-by the individual actions of the billions of people on the planet in the past 100 years,
+        those here now,
+        and by the billions yet to come-we need some idea of the changes Earth's climate is experiencing.
+      </p>
+      <paragraphs>
+        <title>Temperature changes</title>
+        <p>
+          Earth's surface temperature is increasing,
+          and on average has done so since at least 1880 CE. The Intergovernmental Panel on Climate Change (IPCC) noted in 2013 that
+          <q>almost the entire globe</q>
+          has warmed during this period,
+          by an average of \SI{0.78(7)}{\degreeCelsius} (Ref<fn>
+          IPCC, 2013: Summary for Policymakers.
+          In: Climate Change 2013: The Physical Science Basis.
+          Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA
+          </fn>).
+          During the remainder of this century,
+          temperatures will continue to rise in proportion to the mass of greenhouse gasses each of the billions of humans on the planet chooses to emit.
+          Predicting this future is difficult,
+          and in the past the IPCC has consistently
+          <em>underestimated</em> emissions,
+          but by the best estimates, Earth's surface will be <nbsp/>\SI{3(1)}{\degreeCelsius} degrees warmer in 2100 CE than it was in 1850-1900 CE.
+        </p>
+      </paragraphs>
+      <p>
+        Global maps
+        (<xref ref="fig_rcp_T">Figure</xref>)
+        of these predicted temperature changes are sobering.
+        For a business as usual trajectory of greenhouse gas emissions (the
+        <q>RCP 8.5</q>
+        model), global temperatures <em>increase</em>
+        by an average of \SI{5}{\degreeCelsius}
+        (about <m>9 \circ F</m>),
+        above the average temperatures during 1986-2005.
+        Much higher increases in the poles and over land are counterbalanced by smaller increases over the oceans.
+        For a future where greenhouse gasses emissions are limited through concerted international efforts (the
+        <q>RCP 4.5</q>
+        model), global average temperatures increase only by \SI{2.5}{\degreeCelsius}
+        (about <m>4.5 \circ F</m>),
+        again with higher increases in the poles and on land.
+      </p>
+      <p>
+        This increase is <em>virtually certain</em>
+        to produce fewer cold days and nights,
+        is <em>virtually certain</em> to produce more frequent hot days and nights,
+        and is <em>very likely</em> to produce more warm spells by the end of the century.
+        The scale of this heating is difficult to forecast without detailed modeling,
+        but one study published in 2015<fn>
+        Pal, J. S., &amp; Eltahir, E. A. (2015).
+        Future temperature in southwest Asia projected to exceed a threshold for human adaptability.
+        Nature Climate Change 6, 197-200 doi:10.1038/nclimate2833.
+        </fn> found that end-of-the century temperatures in coastal areas of the Persian Gulf may might be lethally hot and humid to people outdoors.
+        Parts of the planet's surface will literally become fatal to humans.
+        At the other extreme,
+        polar regions will experience widespread melting of ice and the permanently frozen ground (
+        <q>permafrost</q>
+        ) on which is built much of the infrastructure of the polar regions
+        (<xref ref="fig_impermafrost">Figure</xref>).
+        All of this infrastructure will need to be rebuilt.
+      </p>
+      <paragraphs>
+        <title>Precipitation changes</title>
+        <p>
+          Those temperature changes will in turn modify precipitation patterns
+          (<xref ref="fig_rcp_P">Figure</xref>).
+          Most importantly,
+          by the close of this century it is <em>very likely</em>
+          much of the globe will see an increase in the frequency and intensity of heavy precipitation.
+          The length and severity of drought will <em>likely</em>
+          increase over large regions of Earth,
+          even while it is <em>more likely than not</em>
+          that hurricanes threatening North America's eastern seaboard will become more intense.
+          There is some evidence that these changes have already begun,
+          contributing for example to the 2012-2017 Californian drought<fn>
+          Diffenbaugh, N. S., Swain, D. L., &amp; Touma, D. (2015).
+          Anthropogenic warming has increased drought risk in California.
+          Proceedings of the National Academy of Sciences, 112(13), 3931-3936.
+          </fn>.
+          The amount and quality of drinking water will also suffer.
+          A combination of climate change and migration to cities could lead<fn>
+          McDonald, R. I., Green, P., Balk, D., Fekete, B. M., Revenga, C., Todd, M., &amp; Montgomery, M. (2011).
+          Urban growth, climate change,
+          and freshwater availability.
+          Proceedings of the National Academy of Sciences, 108(15), 6312-6317.
+          </fn> to as many as 1.1 <em>billion</em>
+          more urbanites suffering from perennial water shortage by 2050 CE.
+        </p>
+      </paragraphs>
+      <paragraphs>
+        <title>Sea level increase and acidification</title>
+        <p>
+          The oceans will not escape change either.
+          Sea levels will increase across the globe
+          (<xref ref="fig_slr">Figure</xref>),
+          with average increases of \SIrange{0.4}{1.8}{\metre} (Ref.<fn>
+          Sweet, William V., et al., 2017, Global And Regional Sea Level Rise Scenarios For The United States, National Oceanic and Atmospheric Administration, NOAA Technical Report NOS CO-OPS 083, Silver Spring, Maryland;
+          and Oppenheimer, M., &amp; Alley, R. B. (2016).
+          How high will the seas rise?. Science, 354(6318), 1375-1377, and references therein.
+          </fn>).
+          While this rise may seem small (only 1-6 feet),
+          its effect on our society will be enormous.
+          Approximately 0.5% to 2.4% of the world's population lives at or below these elevations:
+          they will all have to move away,
+          or protect their dwellings, from the encroaching seas.
+          By 2100 CE, this will be the equivalent of moving the
+          <em>entire population</em>
+          of Spain or Mexico to higher ground!
+          In poor areas, such as Bangladesh<fn>
+          Gardiner, Harris. 2014.
+          As Seas Rise, Millions Cling to Borrowed Time and Dying Land, New York Times, March 29, 2014, page A1,
+          <url href="https://www.nytimes.com/2014/03/29/world/asia/facing-rising-seas-bangladesh-confronts-the-consequences-of-climate-change.html">New York Times</url>
+          </fn>and Louisiana<fn>
+          Davenport, Carol and Robertsonm Campbell, 2016.
+          Resettling the First American 'Climate Refugees', New York Times, May 3, 2016, page A1
+          <url href="https://www.nytimes.com/2016/05/03/us/resettling-the-first-american-climate-refugees.html">New York Times</url>
+          </fn>,
+          this migration has already begun,
+          to the notice of few.
+          In areas where coastal land is valuable, such as New York City,
+          migration inland will be more difficult,
+          more expensive, and less likely.
+          The experience of residents in the New York City after
+          <q>super-storm</q>
+          Sandy is instructive.
+          Despite the evidence of their recently destroyed houses,
+          people and businesses are rebuilding their city
+          <q>in place,</q>
+          by building walls, levees, and houses on 10 foot tall stilts<fn>
+          Feuerocy, Alan, 2014.
+          Building for the Next Big Storm After Hurricane Sandy, New York Rebuilds for the Future, New York Times, October 25, 2014, page MB1
+          <url href="https://www.nytimes.com/2014/10/26/nyregion/after-hurricane-sandy-new-york-rebuilds-for-the-future.html">New York Times</url>
+          </fn>.
+        </p>
+      </paragraphs>
+      <p>
+        The oceans will also become more acidic and warmer in the future.
+        By the end of the century,
+        ocean water will be from 40 to 100% more acidic than it is now.
+        Simultaneously the oceans, particularity the deep oceans,
+        will be warming,
+        by as much as \SI {3}{\kelvin}. Both of these changes will make life more difficult for marine organisms,
+        including corals and fin fish.
+        Corals are a foundation of the marine ecosystem.
+        But, as ocean acidity increases,
+        corals have increasingly more difficulty making and maintaining their limestone shells.
+        Already there is evidence of decreased coral growth around the world<fn>
+        Foster, T., Falter, J. L., McCulloch, M. T., &amp; Clode, P. L. (2016).
+        Ocean acidification causes structural deformities in juvenile coral skeletons.
+        Science advances, 2(2), e1501130.
+        </fn> and although coral extinction isn't imminent<fn>
+        Pandolfi, J. M., Connolly, S. R., Marshall, D. J., &amp; Cohen, A. L. (2011).
+        Projecting coral reef futures under global warming and ocean acidification.
+        Science, 333(6041), 418-422.
+        </fn> noticeable decrease in coral growth and stability will very likely be seen by 2035 CE<fn>
+        Mora, C., Frazier, A. G., Longman, R. J., Dacks, R. S., Walton, M. M., Tong, E. J., ... &amp; Ambrosino, C. M. (2013).
+        The projected timing of climate departure from recent variability.
+        Nature, 502(7470), 183-187.
+        </fn>.
+        Increases in ocean temperatures have already led to migration of valuable Cod in the Gulf of Maine<fn>
+        Pershing, A. J., Alexander, M. A., Hernandez, C. M., Kerr, L. A., Le Bris, A., Mills, K. E., ... &amp; Sherwood, G. D. (2015).
+        Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery.
+        Science, 350(6262), 809-812.
+        </fn>,
+        and this trend of local migration and extinction is very likely to continue in the future.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Mass extinctions will increase</title>
+      <p>
+        Ah, dinosaurs!
+        No other animals seem to inspire such delightful fear as these long-extinct cousins of birds.
+        Many readers will know that the dinosaurs were driven to extinction about 66 Ma through climate change brought about by simultaneous asteroid impact and enormous,
+        long-lived volcanic eruptions<fn>
+        Petersen, S. V., Dutton, A., &amp; Lohmann, K. C. (2016).
+        End-Cretaceous extinction in Antarctica linked to both Deccan volcanism and meteorite impact via climate change.
+        Nature Communications, 7.; Renne, P. R., Sprain, C. J., Richards, M. A., Self, S., Vanderkluysen, L., &amp; Pande, K. (2015).
+        State shift in Deccan volcanism at the Cretaceous-Paleogene boundary,
+        possibly induced by impact.
+        Science, 350(6256), 76-78.
+        </fn> These twin catastrophes caused a
+        <em>mass extinction</em>,
+        including not just the dinosaurs,
+        but also the spectacular mosasaurs
+        (think swimming dinosaurs),
+        the pterosaurs
+        (think flying dinosaurs)
+        and as many as 40% of the shell-producing animals in the oceans.
+        This mass extinction is not unique:
+        at least four others have happened in the past 450 My.
+        These
+        <q>Big Five</q>
+        extinctions
+        (<xref ref="fig_mass_ext">Figure</xref>)
+        shaped life on Earth,
+        paring and occasionally lopping off entire branches from the tree of life.
+        Each of the
+        <q>Big Five</q>
+        eliminated more than 75% of the larger animal species extant at the time.
+        While the primary cause(s) of these extinction are still being argued,
+        all eventually were due to changes to Earth's climate,
+        and all were due to natural events.
+      </p>
+      <p>
+        You live during the sixth mass extinction<fn>
+        Barnosky, A. D., Matzke, N., Tomiya, S., Wogan, G. O., Swartz, B., Quental, T. B., ... &amp; Mersey, B. (2011).
+        Has the Earth's sixth mass extinction already arrived?. Nature, 471(7336), 51-57.
+        </fn>.
+        This one is unique,
+        as it is driven by diverse human activities including logging,
+        mining, agriculture, conversion of forests to farmland, hunting,
+        emission of waste products, and even climate change.
+        In short, this mass extinction is caused by our use of the world to fuel human culture.
+        The scale of this extinction is similar to those of the past,
+        with the added
+        <q>luxury</q>
+        that we can measure the extinctions precisely and in real time.
+        Over the past 500 years 1-1.5% of vertebrate animals<fn>
+        Ceballos, G., Ehrlich, P. R., Barnosky, A. D., Garc'ia, A., Pringle, R. M., &amp; Palmer, T. M. (2015).
+        Accelerated modern human-induced species losses: Entering the sixth mass extinction.
+        Science advances, 1(5), e1400253.
+        </fn> (fish, amphibians, reptiles,
+        birds and mammals) have gone extinct,
+        a rate <em>800% to 1200% higher</em>
+        than the expected extinction rates.
+        As global climate change accelerates,
+        so too will extinction rates.
+        The actual rate depends on the total emissions of greenhouse gasses,
+        so again we need to estimate a range of conditions in the future.
+        A reasonable estimate<fn>
+        Urban, M. C. (2015).
+        Accelerating extinction risk from climate change.
+        Science, 348(6234), 571-573.
+        </fn> is that in the best case
+        (the RCP 4.5 model)
+        <m>5 \pm 1\%</m> of vertebrate animals will be extinct by 2100 CE, increasing to <m>15 \pm 4\%</m> in the
+        <q>business-as-usual</q>
+        model (RCP 8.5).
+        Unfortunately,
+        many of our closest evolutionary cousins-the primates-will be amongst the losers of this extinction lottery.
+        Of the 500 or so non-human primates,
+        <m>\approx 60\%</m> are currently
+        <q>threatened with extinction,</q>
+        and <m>\approx 75\%</m> have declining populations<fn>
+        A. Estrada, P. A. Garber, A. B. Rylands, C. Roos, E. Fernandez-Duque, A. Di Fiore, K. Anne-Isola Nekaris, V. Nijman, E. W. Heymann, J. E. Lambert, F. Rovero, C. Barelli, J. M. Setchell, T. R. Gillespie, R. A. Mittermeier, L. V. Arregoitia, M. de Guinea, S. Gouveia, R. Dobrovolski, S. Shanee, N. Shanee, S. A. Boyle, A. Fuentes, K. C. MacKinnon, K. R. Amato, A. L. S. Meyer, S. Wich, R. W. Sussman, R. Pan, I. Kone, B. Li, Impending extinction crisis of the world's primates: Why primates matter.
+        Sci.
+        Adv. 3, e1600946 (2017).
+        </fn>.
+        One primate not likely to be in either category is <em>Homo sapiens</em>.
+        Us.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Humans will survive</title>
+      <p>
+        Despite all of the changes Earth and its environment will face in the remainder of this century,
+        our species will undoubtedly survive these changes.
+        In fact, those scenarios we've been using in this section include population estimates of 9 to 12 billion humans at century's end,
+        equivalent to a 20% to 70% increase from 2017 CE population estimates.
+        Humans will definitely survive,
+        but our current cultural will not.
+        The combination of changes to climate, the oceans,
+        the cryosphere, population increases,
+        food production and mass extinctions will mean that human culture of 2100 CE will have to adapt to succeed.
+      </p>
+      <p>
+        The first societies to face necessary adaptation are all around us.
+        But they tend to be societies that are distant,
+        poor and unrelated to most citizens of wealthy countries like the United States, Canada and those of the European Union.
+        Thirty five of these more wealthy countries belong to the Organisation for Economic Co-operation and Development.
+        Together these countries are responsible for over 60% of the global economy<fn>
+        World Bank's
+        <q>GDP ranking (GDP)</q>
+        downloaded from http://datacatalog.worldbank.org/, accessed 08 February 2017
+        </fn>,
+        but they make up only 18% of the global population.
+        Since 1960 CE, OECD countries have released about half of all greenhouse gasses emitted by humanity,
+        with non-OECD countries making up the rest<fn>
+        Data for <m>CO_2</m> FROM http://www.globalcarbonatlas.org/en/CO2-emissions,
+        accessed 02 February 2017
+        </fn>.
+        On average, OECD residents have released about 4.5 times as much greenhouse gasses per-person as non-OECD residents.
+        And yet the consequences of those emissions are now and will in the future disproportionately affect the relatively poor people in relatively poor non-OECD countries.<fn>
+        Gardiner, S. M. (2011).
+        A perfect moral storm: The ethical tragedy of climate change.
+        New York: Oxford University Press; Nolt, J. (2011).
+        Greenhouse gas emission and the domination of posterity,
+        in <em>The Ethics of Climate Change</em>, ed.
+        Denis G. Arnold, 60-76, Cambridge, UK: Cambridge University Press.
+        </fn>.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Social dilemmas and the need for ethical awareness</title>
+    <introduction>
+      <paragraphs>
+        <title>Forty years of knowing</title>
+        <p>
+          Because no one really does own the air, individuals,
+          companies and countries have for millennia discharged waste products,
+          like greenhouse gasses, into the atmosphere.
+          For the vast majority of that time,
+          the consequences of those emissions were largely unknown.
+          But that convenient innocence ended at least in 1977 CE, when climatologist Wally Broecker published
+          <q>Are we on the Brink of a Pronounced Global Warming?</q>
+          in the journal <em>Science</em>.
+          In the article, he predicted that
+          <q>the exponential rise in the atmospheric carbon dioxide content will ...by early in the next century will have driven the mean planetary temperature beyond the limits experienced during the past 1000 years.</q>
+          Writing now in 2017 CE, it iss unavoidably true that for at least 40 years we've known that releasing greenhouse gasses into the atmosphere was bound to cause harm to someone,
+          somewhere,
+          somewhen.
+        </p>
+      </paragraphs>
+      <p>
+        But even now it is difficult to precisely determine how much damage global climate change has caused to specific people,
+        specific areas, or specific times.
+        Our
+        <q>standard moral calculus</q>
+        is that harms and their causes are personal, prompt and local.
+        If I hit your car, the damage was done by me, to you,
+        the damage happened as soon as I hit it,
+        and we were clearly in the same place at the same time!
+        But the
+        <q>standard moral calculus</q>
+        isn't obviously applicable to the causes and consequences of climate change.
+        Sure, residents of OECD countries have released 5 times the greenhouse gasses of non-OECD residents.
+        But how am I responsible for the harm to a person in another part of the world,
+        a person who perhaps won't be born until after I die?
+        If we have essentially no interaction with the people harmed by our actions,
+        how should we choose to act ethically?
+        Are we really morally responsible for the welfare of people we'll never meet,
+        for people born a generation after our own death?
+      </p>
+      <paragraphs>
+        <title>Morals and ethics</title>
+        <p>
+          Although often used inter-changeably,
+          morals and ethics are distinctly different and complimentary aspects of species.
+          Ethics is about the rules and practices individuals and societies invent to do the right thing.
+          Morals are the personal opinions and beliefs that define what the right thing is.
+          Ethics are how morals are put in to practice.
+          Ian Welsh once once wagged that
+          <q>Morals are how you treat people you know;
+          ethics are how you treat people you don't know.</q>
+          Even briefer:
+          <q>morals are about me, ethics are about everyone else</q>.
+        </p>
+      </paragraphs>
+      <p>
+        The ethical aspect is what distinguishes the study of climate change
+        (and this textbook)
+        from most other scientific pursuits
+        (and science textbooks).
+        Were you enrolled in a course on Solar System Astronomy,
+        for example,
+        the class would likely be devoid of the talk of ethics and morals.
+        You might touch on the affect of potential impacts on society,
+        or on the philosophical aspects of exoplanets and alien life,
+        but these are not moral problems.
+        In fact, just about about every science professor you will ever have or had as an instructor will consciously and fervently avoid the topic in her class.
+        Science, after all, is about the measurable and testable,
+        two topics apparently not applicable to ethics and morals.
+        But climate change is different.
+        Human agency is irrelevant in the study of Solar System Astronomy:
+        the planet Jupiter does not care how about your morals,
+        and Kepler's Laws are unchanged by the ethical choices of OECD residents.
+        The same is not true of climate.
+        In his influential and precisely-titled book
+        <em>The Perfect Moral Storm, The Ethical Tragedy of Climate Change</em>, Stephen Gardiner<fn>
+        Gardiner, S. M. (2011).
+        A perfect moral storm: The ethical tragedy of climate change.
+        Oxford University Press, page 398
+        </fn> notes
+      </p>
+      <blockquote>
+        <em>At the most general level, ... we cannot get very far in discussing why climate change is a problem without invoking ethical considerations. If we do not think that our own actions are open to moral assessment, or that various interests (our own, those of our kin and country, those of distant people, future people, animals and nature) matter, then it is hard to see why climate change (or much else) poses a problem. But once we see this, then we appear to need some account of moral responsibility, morally important interests and what to do about both. And this puts us squarely in the domain of ethics.</em>
+      </blockquote>
+    </introduction>
+    <subsubsection xml:id="Prisoners_D">
+      <title>The difference is the social dilemma</title>
+      <paragraphs>
+        <title>Me <em>vs.</em> You or Me <em>vs.</em> Me</title>
+        <p>
+          Ethical considerations are necessary when studying climate change because those changes are ultimately due to choices made by individuals.
+          Individuals never exist in a society of one:
+          we all interact with dozens,
+          hundreds, even millions of people in our daily lives.
+          Despite these social connections,
+          most people understandably act in a way which benefits themselves in the short term.
+          But often these choices lead to less good outcomes for others in the short term,
+          and in the long term to less good outcomes even for themselves.
+          This is the <em>social dilemma of climate change</em><fn>
+          Ostrom, Elinor (2009).
+          A Polycentric Approach for Coping with Climate Change (October 1, 2009).
+          World Bank Policy Research Working Paper Series, No. 5095. https://ssrn.com/abstract=1494833, accessed 9 February 2017
+          </fn>.
+          The classic illustration of this concept is the Prisoner's Dilemma.
+        </p>
+      </paragraphs>
+      <p>
+        Connie and Blythe rob a bank,
+        but are caught shortly afterward.
+        Although accomplices, the two had never worked together previously.
+        In jail they are placed in separate cells,
+        and are unable to communicate with each other.
+        The prosecutor visits each prisoner,
+        and offers each the same deal:
+      </p>
+      <p>
+        ''You have two choices: confess your actions or deny your guilt.
+        If you confess,
+        and your accomplice doesn't, you can go free and your accomplice will get a long sentence.
+        If they confess and you don't, you'll get the long sentence and they walk free.
+        If you both confess, you'll both do time,
+        but you'll be paroled after awhile.
+        If you both deny your guilt, you'll both be released with a fine.
+        What do you choose to do?''
+      </p>
+      <paragraphs>
+        <title>What would you do in this situation?</title>
+        <p>
+          To start, think about the <em>other</em> prisoner's choices.
+          If they confess, and you deny, they go free.
+          If they confess and you do too, they get some time.
+          The very worst outcome for them is if they deny guilt and you confess.
+          Then they do hard time.
+          Your accomplice doesn't know or particularly trust you
+          (you were robbing a bank, after all),
+          so they expect you will do what is in your best self-interest,
+          which is to confess.
+          So they choose to do so, too.
+          They make a perfectly rational self-interested decision which benefited them in the short-term,
+          but which is detrimental to both you and them in the long-run!
+          Had you both denied your guilt,
+          you'd both be walking free.
+          Apparently there are situations where being responsible for the welfare of others actually makes your situation better, too.
+        </p>
+      </paragraphs>
+      <p>
+        The difficulty so many scientists have with discussing ethical issues in the classroom is also well-illustrated by the Prisoner's Dilemma.
+        Your professor could easily explore with you the fascinating dynamics of the issue.
+        She might even explore the surprisingly deep mathematics of this and related
+        <q>public goods games,</q>
+        even to the point of doing an experiment with grades on an assignment.
+        She probably wouldn't even explicitly discuss the moral issues in the game,
+        because most scientists are trained to test hypotheses with objective data.
+        Few things are less objective than morals!
+        But whether you or your professor want to deal with it explicitly or not,
+        the choice you make in the prisoner's dilemma<mdash/>or any real social dilemma<mdash/>inevitably affects the welfare of others.
+      </p>
+      <p>
+        As this chapter demonstrates,
+        even casual decisions we make in our daily lives has implications for the welfare of others<mdash/>others who may live on the opposite side of the globe,
+        even those not yet born.
+        Our discussion of the deeply personal but important ethical issues involved in climate change is not to tell you what to do or how to think.
+        Instead, these discussions should catalyze self-consideration of the ethical implications of your moral choices.
+        As Matt Schlapp of the American Conservative Movement has noted<fn>
+        Interview of Matt Schlapp by Rachel Martin, 23 February 2017, 4:35 am EST.
+        <em>CPAC in the Trump Era</em>, Morning Edition, Washington, DC. National Public Radio.
+        <url href="http://www.npr.org/2017/02/23/516787809/cpac-in-the-trump-era">link</url>,
+        accessed 24 February 2017
+        </fn>,
+        citizens should
+        <q>get the ability to hear a vigorous debate that's raging across the country.... We think that helps us find the truth.</q>
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

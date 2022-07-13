@@ -1,0 +1,342 @@
+<section xml:id="Average_Temperatures">
+  <title>Global and Zonal Average Temperatures</title>
+  <introduction>
+    <p>
+      Although you may not have realized it when we first defined them,
+      <m>T_{eq}</m> and <m>T_{avg}</m> are both global annual average temperatures.
+      They have to be:
+      they lack any information about time of year or location.
+      They provide the least detailed,
+      but most broadly useful, measure of Earth's temperature.
+      But as our discussion of Parmenides' zonal climate belts suggested,
+      we expect that both insolation (S) and albedo (A) most likely vary with latitude.
+      If insolation and albedo are functions of latitude,
+      then Earth's surface temperature should vary with latitude as well.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Albedo variation across Earth</title>
+    <introduction>
+      <p>
+        <xref ref="fig_Apollo17">Figure</xref>
+        shows one of the more famous photographs ever taken: Earth viewed from NASA's Apollo 17 spacecraft on its way to the Moon.
+        The inset superimposes the climate zones from <xref ref="fig_globe">Figure</xref> on the photograph
+        (which is far too stunning to hide under unsightly labels!)
+        Particularly on the continents,
+        you can easily see how albedo varies with latitude.
+        Around <m>\ang{30}</m>N and S, bright reflective deserts dominate the land surface,
+        while in the Tropics dark rainforest predominate,
+        except where hidden by a broken band of clouds along the equator.
+        Farther south, in the Southern Hemisphere Temperate zone,
+        a merry-go-round of large,
+        comma-shaped high-albedo cloud systems rotate around highly reflective polar areas of Antarctica.
+      </p>
+      <p>
+        Thanks to another NASA mission,
+        we have excellent measurements of albedo for the globe.
+        The left-hand panel of <xref ref="fig_albedomap">Figure</xref> shows annual average albedos
+        (including the effect of clouds),
+        while the panel to the right shows zonal averages.
+        The zonal pattern of albedo variation glimpsed in <xref ref="fig_Apollo17">Figure</xref> is readily visible.
+        Where clouds are absent,
+        albedo is controlled by the type of material at Earth's surface.
+        Snow and ice have albedos of 0.4 to 0.95, depending on age;
+        water from 0.03 to 0.10;
+        and grasslands and forests around 0.25.
+        High albedos in the poles are<mdash/>or at least have been until recently<mdash/>the norm.
+        On the other hand, much of the equatorial region is ocean,
+        with relatively low albedos.
+        The band of slightly elevated albedo just north of the Equator is due to clouds associated with an important atmospheric region called the Inter Tropical Convergence Zone (ITCZ);
+        you can see clouds associated with the ITCZ in the photograph of <xref ref="fig_Apollo17">Figure</xref>.
+        Rapid transitions from low
+        (dark blue on <xref ref="fig_albedomap">Figure</xref>)
+        to moderate albedo
+        (aqua on <xref ref="fig_albedomap">Figure</xref>)
+        over the oceans at <m>\ang{30}</m>N and S mark the limits of high pressure systems in the atmosphere;
+        these systems and the ITCZ will play crucial roles in understanding the movement of heat in the atmosphere.
+      </p>
+    </introduction>
+    <subsubsection xml:id="distance_cite">
+      <title>The Reasons for Seasons</title>
+      <p>
+        All else being equal,
+        you'd expect that Earth's less reflective Tropics would be warmer than the Poles,
+        simply because the former reflect far less heat back to space than the latter.
+        Of course, all else here means insolation,
+        and insolation is not equal across Earth's surface, or over time.
+        Insolation varies by day,
+        as Earth spins around its axis each 24 hours, and annually,
+        as Earth orbits the Sun each year.
+        Earth's motions through space are fundamental to our understanding of Earth's spheres,
+        climate and weather.
+        This seems like a good as time as any to review them.
+        <xref ref="fig_season1">Figure</xref>
+        shows the schematic relationship between Earth and two points of reference in the sky:
+        our Sun, and the star Polaris.
+        Relative to the Sun, Earth completes one rotation around its axis every 24 hours,
+        or one day.
+        We can imagine Earth's rotation axis as pointing out of the North Pole and into space,
+        where it currently points near Polaris, or the North Star.
+        Visualizing this rotation is easier using a time lapse photograph of the night sky.
+        The spectacular result in <xref ref="fig_startrails">Figure</xref>
+        shows trails caused by the apparent motion of stars as Earth rotates beneath the vault of the heavens.
+        Look carefully at the bulls-eye of stars above and to the left of the volcano:
+        the star with the shortest trail is Polaris,
+        low on the horizon from tropical Indonesia,
+        where the photograph was taken.
+        Even as it rotates around its axis, Earth is orbiting around the Sun.
+        The plane of Earth's orbital motion is called the ecliptic plane,
+        and is shown by the blue dashed line in <xref ref="fig_season1">Figure</xref>.
+        On average, Earth moves about 66,000 mph along its orbit<fn>
+        The tropical year is 365.24 days long,
+        and Earth's average distance from the sun is roughly 1 AU. Thus,
+        skipping units,
+        <m>v_{orbit}=\frac{c_{orbit}}{t_{orbit}}=\frac{2\cdot\pi\cdot(150x10^6/1.62)}{365.24\cdot24}\sim 66400</m> mph.
+        The JPL Horizons server gives components of Earth's orbital velocity;
+        averaging daily values of these for 2019 CE gives  <m>v_{orbit}=\sim\SI{66628.1}{\kilo\metre\per\sec}</m>.
+        I note that the approximate value is within 0.3% of the actual value,
+        took a few seconds to calculate,
+        and doesn't return the velocity of the devil.
+        </fn>,
+        a little more in the northern hemisphere winter,
+        and little less in northern hemisphere summer.
+        Summer and winter exists, however,
+        only because Earth's rotational axis is tilted relative to the orbital plane.
+        This tilt<mdash/>Earth's <em>obliquity</em><mdash/>is currently <m>\ang{23.4}</m>,
+        and this angle is what defines the classic limits of Paramendies' climate zones in <xref ref="fig_globe">Figure</xref>.
+        Obliquity is also causes Earth's seasons.
+        Because Earth's axis is (currently) fixed in the direction of Polaris,
+        the relative relationship of Earth and Sun changes during the year,
+        as Earth rumbles along its orbit.
+        <xref ref="fig_season2">Figure</xref>
+        shows Earth's orbit around the sun from far above
+        (in the upper panel)
+        and from the side
+        (in the lower panel).
+        Again this is a schematic illustration,
+        with Earth's size wildly exaggerated relative to that of the orbit.
+        (At the scale of the orbit, Earth's diameter would be
+        <m>\frac{1}{8}^{th}</m> the width of a human hair.)
+        The arrows on the Earth represent the direction to Polaris.
+        The first day of Spring, technically called the Vernal Equinox,
+        occurs when the angle from the Sun,
+        to Earth, and then to Polaris,
+        is exactly \ang{90}. For various fascinating reasons<fn>
+        Steel, D. (2001).
+        Marking time: The epic quest to invent the perfect calendar.
+        John Wiley &amp; Sons.. pg. 16
+        </fn>,
+        this event occurs on March 20 in our civil calendar.
+      </p>
+      <p>
+        The first day of Northern Hemisphere Summer begins when Earth, Sun,
+        and Polaris lie in a straight line,
+        with Earth and Polaris are on opposite sides of the Sun.
+        As it happens, Earth is actually farthest from the Sun at about this time:
+        seasons have little to do with distance between Earth and Sun.
+        The real cause of seasons is of course heat flow!
+        Look back to Figure ??? Imagine two
+        <q>tubes</q>
+        of sunlight,
+        each carrying the exact same energy from Sun to Earth.
+        One tube happens to hit Earth near the Tropic of Cancer (the one coming directly from the sun image);
+        the other hits near the Antarctic Circle.
+        At this season, Earth's surface near the Tropics is more or less perpendicular to the Sun's rays:
+        the energy in the tube is thus concentrated over a small area
+        (the heavy blue line at the end of the tube),
+        and so temperatures will be higher.
+        Near the Antarctic Circle an equivalent energy
+        <q>tube</q>
+        hits nearly parallel to Earth's surface.
+        The energy is spread over a much wider area,
+        and so the area is colder.
+        Northern hemisphere autumn begins when the Sun-Earth-Polaris angle is <m>\ang{-90}</m>,
+        and finally winter rolls in when the Earth, Sun and Polaris are again in a straight line,
+        but with the Earth and Polaris on the same side of the Sun.
+        Here the arrangement of relative heating we saw in northern hemisphere summer is reversed,
+        with energy spread over smaller areas in the southern hemisphere and larger areas in the northern hemisphere.
+        Seasons on Earth are simply due to the way obliquity changes the location of maximum solar heating of Earth's surface.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Variation of Insolation with Latitude</title>
+    <introduction>
+      <p>
+        As <xref ref="fig_insolat">Figure</xref> shows,
+        the amount of sunlight hitting the top of Earth's atmosphere varies more strongly with latitude than albedo does,
+        but in the same sense.
+        The solid line gives the annual average,
+        with the other lines showing daily totals for the first day of summer
+        (summer solstice)
+        and winter
+        (winter solstice)
+        in the northern hemisphere.
+        Two features of the graph are particularly interesting.
+        One is the impressive symmetry of the annual average around the equator.
+        We expect from our understanding of the seasons that the average insolation should be about the same for each hemisphere.
+        The second feature is that<mdash/>to little surprise<mdash/>the Tropics receive more insolation than the Poles.
+        More energy mean, most likely, higher temperatures.
+        Measured at the top of the atmosphere,
+        far above the clouds and Earth's surface,
+        the Tropics receive over twice the solar energy as the Poles.
+        Combined with the Tropics lower albedo,
+        the reasons for the Tropics warmth relative to the Poles is becoming increasingly clear.
+        Another interesting feature is the minima in monthly insolation near the Arctic and Antarctic Circles.
+        These minima are due to the continuous summer daylight near the summer pole,
+        which adds to the annual totals for areas poleward of the Arctic and Antarctic circles
+        (an effect clearly visible in <xref ref="fig_Apollo17">Figure</xref>,
+        where you can see thta all of Antarctica,
+        on both sides of the South Pole, is bathed in sunlight).
+        Continuous winter darkness in the same zones explains the areas of 0 winter-time insolation as well.
+        The gray shading on the left-hand side of Earth represents the night-time hemisphere.
+        Note that Antarctica remains in darkness,
+        while all of the areas above the Arctic Circle are bathed in continuous sunlight.
+      </p>
+      <p>
+        We saw on <xref ref="distance_cite">page</xref>
+        that Earth's seasons are caused by Earth's obliquity,
+        and you read that the seasons have
+        <q>little</q>
+        to do with Earth's distance from the Sun.
+        Little, but not nothing.
+        Earth is closest to the sun
+        (the technical term is
+        <q>at perihelion</q>
+        )
+        on January 4 or so,
+        just after the southern hemisphere's summer solstice.
+        Earth is farthest from the sun (
+        <q>at aphelion</q>
+        ) on July 4 or so, just after northern hemisphere's summer solstice.
+        The distance difference is only 3.4%, but because energy decreases as the square of distance from the sun,
+        the northern hemisphere receives about 6.8% <em>less</em>
+        insolation during its summer than the southern hemisphere does,
+        despite the fact that northern hemisphere summer is 4.5 days longer.
+        The net result of this is that the Northern Hemisphere gets a little less insolation than the Southern Hemisphere,
+        as you can see on <xref ref="fig_insolat">Figure</xref>.
+        Changes in these subtle relationships between seasons and proximity to the Sun are the primary drivers of Ice Ages,
+        a subject we'll examine in chapter 13.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Earth's Predicted <em>versus</em> Actual Zonal Temperatures: Where's the Heat Going?</title>
+      <p>
+        So we now have a good understanding of how both insolation and albedo vary with latitude over Earth.
+        Using a variant of <xref ref="eq_ts">Equation</xref>,
+        we can find the expected zonal average temperatures,
+        that is the temperature at each latitude of Earth,
+        based on the insolation received at each latitude,
+        and the average albedo at each latitude:
+        <md>
+          <mrow>T_{lat,\ expected}\amp =T_{eq,\ zonal}+\Delta T_{GHE}</mrow>
+          <mrow xml:id="eq_Tlat1" number="yes">T_{lat,\ expected}\amp =\left[\frac{S_{lat}*\left(1-A_{lat}\right)}{4 \sigma}\right]^{\frac{1}{4}}+ 33\ K</mrow>
+        </md>
+      </p>
+      <p>
+        This equation isn't all that different than the form we've already used,
+        except here we're using multiple values for insolation (S) and albedo (A), each keyed to a different latitude,
+        as indicated by the
+        <q>lat</q>
+        subscripts.
+        <xref ref="fig_avgsurftemp">Figure</xref>
+        shows the resulting pattern of expected
+        (as calculated from <xref ref="eq_Tlat1">Equations</xref>)
+        and the actual annual average temperatures measured over Earth's latitudes.
+        The two horizontal dotted lines are old friends:
+        <m>T_{eq}</m> and <m>T_{av}</m>.
+        These are both global annual average temperatures.
+        They have to be:
+        they lack any information about time of year or location.
+        Both characteristic temperatures are horizontal lines because,
+        by definition,
+        they are independent of latitude.
+        Note that <m>T_{av}</m> is \SI{33}{\kelvin} greater than <m>T_{eq}</m> because of the GHE.
+      </p>
+      <p>
+        The zonal average temperatures <em>calculated</em>
+        using <xref ref="eq_Tlat1">Equation</xref>
+        are shown by the blue dot-dash line,
+        while the <em>measured</em><fn>
+        Actually this the cos(2*lat) model of measured surface temperatures of North, G. R., &amp; Coakley Jr, J. A. (1979).
+        Differences between seasonal and mean annual energy balance model calculations of climate and climate sensitivity.
+        Journal of the Atmospheric Sciences, 36(7), 1189-1204.
+        </fn> zonal average temperatures are shown by the solid green curve.
+        Yet again it seems we have done a great deal of work to little end.
+        Our calculated temperatures
+        (blue dashed-dot)
+        are far too cold compared to observed values.
+        But if we add in the greenhouse effect, <m>\Delta T_{GHE}</m>,
+        we get the model shown by the red dashed line,
+        <m>T_{calculated, GHE}</m>,
+        which does a great job predicting temperatures across Earth's surface.
+        This model, labeled <m>T_{calculated, GHE}</m> in the figure isn't perfect.
+        Compared to the actual temperature patterns the model is still too hot in the tropics and too cold in the poles, with a
+        <q>cross-over</q>
+        at about <m>\ang{39}</m>N and
+        <m>\ang{39}</m>S, near the boundary of the Temperate zones with the Tropics.
+        Fortunately we are now old hands at heat and temperature.
+        The calculated average temperatures don't account for heat <em>flowing</em>
+        from the warmer tropics to the cooler poles.
+        The heat pulled from the tropics lowers the temperatures there,
+        while raising temperature at the poles.
+        So all our calculations were helpful:
+        they allow us to hypothesize that heat is flowing from the Tropics toward the Poles.
+        This thermal imbalance between the Poles and the tropics,
+        set up by differences in albedo and insolation,
+        is the primary driver of weather,
+        and hence climate, on the planet.
+      </p>
+      <p>
+        This hypothesis is beautifully confirmed by NASA's Earth Radiation and Budget Experiment satellite.
+        This mission measured both incoming short-wave radiation (SWR) from the Sun,
+        and the long-wave radiation (LWR) emitted from Earth for most of the globe.
+        <xref ref="fig_erb">Figure</xref>
+        shows that the tropics receive more SWR from the Sun then they emit as LWR. Were such an imbalance to continue,
+        the tropics would be steadily warming
+        (which they are not).
+        The reverse observation happens in both the temperate and polar areas:
+        they actually emit more LWR energy than they receive as SWR. Were such an imbalance to continue,
+        the polar regions would be cooling
+        (which they are not).
+        The green, solid line in Figure 22 is the difference in net radiation.
+        The
+        <q>excess</q>
+        energy between <m>\ang{30}</m> N and
+        <m>\ang{30}</m>S does what heat naturally does:
+        flows to cooler areas, the temperate and polar zones.
+        Imagine the
+        <q>hill</q>
+        of positive net energy in the Tropics oozing out to fill in the
+        <q>valleys</q>
+        on either side.
+        Figure 23 shows the enormous scale of this heat flow.
+        Energy flow peaks at \SI{6}{\peta\watt}, the equivalent energy of 100 Hiroshima-sized bombs exploding <em>every second</em>.
+      </p>
+      <p>
+        This meridional (north-south) movement of heat is the primary driver of weather on Earth's surface.
+        Most of this heat moves by advection, some by convection,
+        primarily through motions of the atmosphere,
+        a little by motions of the oceans.
+        We will have much more to say about this energy flow,
+        eventually using it to explain such disparate facts as the European
+        <q>discovery</q>
+        of the Americas,
+        why Canada is the largest supplier of lumber to the United States<fn>
+        All timber products,
+        as reported by the Foreign Agricultural Service http://apps.fas.usda.gov/gats/default.aspxm accessed February 04, 2016.
+        </fn>,
+        and why 21 Bostonians died in the early afternoon of January 15, 1919,
+        drowned in a flood of molasses<fn>
+        Park, Edwards (November 1983).
+        <em>Without Warning, Molasses in January Surged Over Boston</em>.
+        Smithsonian 14 (8): 213-230
+        </fn>.
+        But before we do that,
+        we need to understand each of Earth's natural spheres,
+        how they formed, how the move,
+        and how they have evolved over the long 4.567 billion years of Earth's history.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

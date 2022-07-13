@@ -1,0 +1,113 @@
+<section xml:id="Earth_is_a_closed_system">
+  <title>Isolated, closed, and open: A brief description of Earth's place in the Universe</title>
+  <subsection>
+    <title>EHTL_Systems</title>
+    <p>
+      The Universe is a pretty big place;
+      fortunately understanding Earth's climate requires us to understand only our miniscule corner of the Universe,
+      a corner we'll call the Sun-Earth system.
+      <em>A system is a set of interacting parts,
+      separated from the rest of the universe by boundaries in space or time.</em>
+      Systems can have sub-systems,
+      which in turn can have sub-sub-systems, and so on.
+      Perhaps you have read of the little ditty by Augustus De Morgan<fn>
+      De Morgan, A. (2015).
+      A budget of paradoxes.
+      Cambridge University Press.
+      See
+      <url href="http://articles.latimes.com/1987-03-25/news/vw-191_1_fleast">link</url>,
+      accessed 16 January 2016
+      </fn>
+    </p>
+    <blockquote>
+      <em>Great fleas have little fleas upon their backs to bite 'em,
+      And little fleas have lesser fleas, and so ad infinitum.
+      And the great fleas themselves, in turn, have greater fleas to go on,
+      While these again have greater still, and greater still, and so on.</em>
+    </blockquote>
+    <p>
+      For the Sun-Earth system, the
+      <q>greater fleas</q>
+      might consist of the entire Solar System,
+      then the Milky Way galaxy, and so on to the entire universe.
+      Limiting ourselves to the Sun-Earth system and its many
+      <q>lesser fleas</q>
+      will keep us well-occupied.
+    </p>
+    <p>
+      For our purposes, there are only three types of systems:
+      isolated, closed, and open.
+      Each is characterized by the ability of energy and matter to enter or leave the system.
+      In an <em>isolated</em> system
+      (<xref ref="fig_sys_types">Figure</xref> upper pane),
+      neither energy nor matter can cross the system's boundaries,
+      either in or out.
+      Truly isolated systems are hard to find,
+      and even less interesting to study,
+      because technically you can't observe them from the outside!
+      The Universe is most likely a perfectly isolated system,
+      and we will often assume that small regions of Earth are
+      <q>mostly isolated</q>
+      under special circumstances.
+      More common are <em>closed</em> systems
+      (<xref ref="fig_sys_types">Figure</xref> middle pane),
+      which allow energy but not matter to flow through the boundary.
+      The Earth is an excellent example of a closed system,
+      with energy flowing into Earth from the Sun and out from Earth to
+      <q>space.</q>
+      Closed systems are readily understandable and abundant throughout the Universe.
+      Finally, <em>open</em> systems
+      (<xref ref="fig_sys_types">Figure</xref> lower pane)
+      are those that have both energy and mass passing through the boundaries.
+      Such systems are complex, and largely beyond the level of this book.
+      Organisms are excellent examples of open systems.
+    </p>
+    <p>
+      With one exception
+      (cosmic rays, discussed in Chapter 13)
+      nothing we examine in this book lays outside the boundaries of the closed Sun-Earth System,
+      as schematically illustrated in <xref ref="fig_sun_earth_sys">Figure</xref>.
+      The flow of energy from the Sun to Earth is a transfer within the system;
+      both the Sun and Earth radiate energy out of the system.
+      No appreciable energy enters the system from the outside.
+      By definition, our closed system allows no flow of matter<mdash/>
+      <q>stuff</q>
+      <mdash/>into or out of Earth.
+      This is a reasonable assumption for most of the last 4 billion years the system has been operating.
+      Meteors<mdash/>sand grain-sized pieces of asteroids from outside our Earth-Sun system<mdash/>may seem to violate our assumption.
+      But despite their dramatic appearance in the night sky,
+      they don't add up to much material<fn>
+      Gardner, Chester S., Liu, Alan Z., Marsh, D. R., Feng, Wuhu, Plane, J. M. C., Inferring the global cosmic dust influx to the Earth's atmosphere from lidar observations of the vertical flux of mesospheric Na, Journal of Geophysical Research: Space Physics, 119 (9) DOI 10.1002/2014JA020383
+      </fn>:
+      about 60 metric tonnes per day
+      (<m>\SI{60}{\tonne\per\day}</m>,
+      or roughly 66 US tons/day).
+      Sounds like an enormous amount,
+      but if spread evenly over the planet,
+      one day's deposition amounts to less than one billionth of the thickness of a piece of paper,
+      far less than 0.05% the radius of a small atom!
+      Our
+      <q>closed system</q>
+      assumption is a good one.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Earth Systems are the 6 Spheres</title>
+    <p>
+      Understanding Earth's workings in general and climate in particular is possible because Earth is a system of systems:
+      the Six spheres introduced in Chapter 1.
+      Interactions between the spheres create complex and often unpredictable conditions that feedback on themselves to create the rich and changing planet we inhabit.
+      As sketched in <xref ref="fig_6_spheres">Figure</xref>
+      these interactions are flows of energy and matter between the spheres.
+      Understanding these interactions is understanding Earth.
+      The Anthroposphere overlaps and intersects the five natural spheres,
+      indicating its profound influence on the spheres' interactions and Earth's natural processes,
+      including climate.
+      That climate is changing at rates not seen for millions of years.
+      We have to understand that change,
+      its causes, magnitudes and most importantly its consequences.
+      <em>And that means we need to understand energy,
+      heat and temperature.</em>
+    </p>
+  </subsection>
+</section>

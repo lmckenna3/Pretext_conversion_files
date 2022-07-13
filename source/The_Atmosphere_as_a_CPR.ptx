@@ -1,0 +1,297 @@
+<section xml:id="The_Atmosphere_as_a_CPR">
+  <title>The Atmosphere as a Common Pool Resource</title>
+  <introduction>
+    <p>
+      But the desire to dilute effluent into the wastelands means that eventually they spread world-wide,
+      like the smog from Chinese factories or the carbon dioxide from cars in the United States.
+      The ability of the hydrosphere and atmosphere to hold this waste is yet another resource provided by Earth to human society.
+      But this resource is different than most:
+      this resource is freely available to anyone,
+      often without direct cost.
+      You can test this yourself: light a camp fire or offer to wash a friend's car.
+      Chances are,
+      no one will ask you for a license to add waste to the atmosphere or hydrosphere.
+      Sure, outdoor fires may be banned by your local municipality,
+      but <em>not</em> because of the waste gasses.
+      They are afraid of the open fire.
+      If you live in an area of drought,
+      you may not be allowed to use public water to wash that car,
+      but letting the rinse water seep into the local stream is most likely <em>not</em> unlawful.
+      We all, it seems, use these spheres in common.
+    </p>
+  </introduction>
+  <subsection xml:id="cprs">
+    <title>Common Pool Resources</title>
+    <introduction>
+      <p>
+        The atmosphere's ability to act as a wasteland is an example of a
+        <em>common property resource</em>.
+        You are most likely familiar with private ownership of resources:
+        you own your phone, perhaps a car,
+        maybe even a house or some land.
+        You may also belong to an organization or club that provides resources to members only:
+        gyms are a typical example.
+        Finally, many resources are owned by the public,
+        typically through some form of government.
+        The United States government owns not only a splendid variety of National Parks,
+        but also 27% of all land in the US<fn>
+        Vincent, Carol Hardy, Laura A. Hanson, Jerome P. Bjelopera (2014)
+        <em>Federal Land Ownership: Overview and Data</em>
+        Congressional Research Service 7-5700, R42346,
+        <url href="https://fas.org/sgp/crs/misc/R42346.pdf">link</url>,
+        accessed 06 March 2017
+        </fn>.
+        All these things are resources, but the question of who
+        <q>owns</q>
+        them is less clear.
+      </p>
+      <p>
+        While the Anthroposphere relies on thousands of different resources,
+        most can be neatly and naturally divided by two complimentary characteristics (See <xref ref="tab_goods">Table</xref>).
+        The first is <em>excludability</em>.
+        Clubs and private concerns can exclude
+        <q>others</q>
+        from access to their resources.
+        Common property and public resources are not easily excludeable<mdash/>just about anyone can use them, freely.
+        The other quality is the resource's <em>extent</em>.
+        Some resources are <em>non-finite</em>.
+        This class includes equipment in the gym (sure,
+        there may be a line to use a machine,
+        but the machine's usefulness isn't
+        <em>destroyed</em> by others' use),
+        and some resources held by the public, such as park land.
+        But for us, it is the many resources which are
+        <em>finite</em> that interest us.
+        That resources are finite is obvious when applied to your dinner,
+        but perhaps less obvious when applied to resources in the hinterlands,
+        such as coal or gold ore,
+        or wastelands, such as the ability of a dump to hold wastes.
+      </p>
+      <table xml:id="tab_goods">
+        <title>Types of Resources</title>
+        <tabular>
+          {@lll@} \toprule
+          Extent &amp; Access\\ \cmidrule(r){2-3}
+          &amp;<em>Excludable</em> &amp; <em>Non-excludable</em>\\
+          <em>Finite</em> &amp; Private &amp; Common Pool\\
+          <em>Non-finite</em> &amp; Club    &amp; Public\\ \bottomrule
+        </tabular>
+      </table>
+    </introduction>
+    <subsubsection>
+      <title>Definition</title>
+      <p>
+        Common property resources are by definition finite and freely available for use.
+        Finite in this sense means that their use is a
+        <q>zero-sum</q>
+        game: if you use some, there is less for me to use.
+        Consider fish.
+        Only a finite number of fish are available for taking at a given time,
+        and if you extract a few thousand pounds from the ocean,
+        there are fewer fish for me to take.
+        Excluding others from taking common property resources is difficult<mdash/>because of law,
+        tradition,
+        or nature of the resources.
+        Fish for example can migrate across state and national boundaries,
+        making them open to all.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Examples</title>
+      <p>
+        CPRs are surprisingly
+        (pardon the pun)
+        common.
+        As hinted above,
+        fish are an excellent example of a common property resource.
+        The European settlement of the New England region was driven by the spectacular abundance of fish in New England waters.
+        At the time of the American Revolution,
+        fish was the largest source of revenue to New England,
+        and hence the war effort<fn>
+        Magra, C. P. (2007).
+        The New England cod fishing industry and maritime dimensions of the American Revolution.
+        Enterprise &amp; Society, 8(4), 799-806.
+        </fn>,
+        and to this day a
+        <q>sacred cod</q>
+        hangs in the Massachusetts state legislature as a reminder of the role cod fishing once played in the Commonwealth.
+        As <xref ref="fig_cod_lobstah">Figure</xref> illustrates,
+        a combination of over-fishing,
+        climate change and bad policy decisions<fn>
+        Pershing, A. J., Alexander, M. A., Hernandez, C. M., Kerr, L. A., Le Bris, A., Mills, K. E., ... &amp; Sherwood, G. D. (2015).
+        Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery.
+        Science, 350(6262), 809-812, and Acheson, J., &amp; Gardner, R. (2014).
+        Fishing failure and success in the Gulf of Maine:
+        lobster and groundfish management.
+        Maritime Studies, 13(1), 8
+        </fn> led to the utter collapse of the cod population in 1990s.
+        The lobster fishery is still going strong.
+        As we'll see below,
+        the different fates of these resources has much to do with how fishers choose to act towards others.
+      </p>
+      <p>
+        Other common property resources can be found closer to home.
+        Trash barrels in a park fit the definition:
+        freely available for use, but of finite capacity
+        (<xref ref="fig_trash">Figure</xref>).
+        Trash barrels are clearly the entry point of tash into a literal
+        <q>wasteland</q>
+        for solid wastes.
+        Eventually the barrels will be emptied and the trash transferred to an incinerator or landfill.
+        Either way, the remnants of that trash will remain in the atmosphere or geosphere for 100s of years,
+        as natural recycling(<xref ref="fig_circ_flow">Figure</xref>
+        of such materials is dreadfully slow.
+        Eventually even the largest dump,
+        landfill or wasteland eventually fills up.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Application to Climate</title>
+      <p>
+        Like a trash barrel,
+        our atmosphere's ability to hold waste products is limited.
+        Not by size,
+        but because of how the very wastes we emit into the atmosphere are changing Earth's climate.
+        Three fundamental actions at the very core of human culture<mdash/>the burning of fossil fuels,
+        land use change,
+        and manufacuring if cement<mdash/> all release waste <m>CO_{2}</m> gas into the atmosphere.
+        In an irony known before the start of the <m>20^{th}</m> Century,
+        <m>CO_{2}</m> is a potent greenhouse gas.
+        Every kilogram we emit will eventually make Earth's climate warmer.
+        The ability of the Atmosphere to absorb our waste <m>CO_{2}</m> without changing Earth's climate is finite.
+        Every kilogram of <m>CO_{2}</m> you emit is one less kilogram I can emit without consuming the wasteland's resourcefulness.
+      </p>
+      <p>
+        But the atmosphere has been, and still is,
+        a freely available wasteland for <m>CO_{2}</m> and other GHG wastes.
+        There are few direct costs
+        (as of now)
+        for emitting <m>CO_{2}</m> into the atmosphere.
+        So we are left with in inescapable conclusion:
+      </p>
+      <blockquote>
+        The ability of the Atmosphere to absorb the waste greenhouse gasses of human activities without changing Earth's climate is a common property resource.
+      </blockquote>
+      <p>
+        As a shorthand, we'll refer to this as the
+        <q>atmospheric CPR.</q>
+        We've already seen that some common property resources,
+        like cod from Maine, can be destroyed in years,
+        while some, like lobster, can be well-managed for decades.
+        A number of questions may occur to you immediately: Is collapse of a common property resource inevitable?
+        Is there scientific research that provides insight into why some CPRs are well managed
+        (like lobster)
+        and some (cod) not?
+        And finally,
+        is there any evidence that humans are inclined to manage CPRs effectively?
+        And perhaps most importantly,
+        which path will the atmosphere, and climate, follow?
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection xml:id="collective_action">
+    <title>The Tragedy of the Common: What do you choose to maximize</title>
+    <introduction>
+      <p>
+        CPRs are fragile because their fate is precariously balanced between their finite size and infinite availability.
+        An added complexity is that CPRs are used by humans,
+        humans who can make irrational decisions when they feel their best interests are at stake,
+        as we saw in the Prisoner's Dilemma above.
+        And most importantly,
+        some problems raised by CPRs don't have a technological solution,
+        so we can't
+        <q>science the heck</q>
+        our way out of the problem<fn>
+        Huffam, M., Kinberg, S., Schaffer, M., Scott, R., Sood, A. (Producer), &amp; Scott, R. (Director). (2015).
+        The Martian [Motion picture]. United States: Twentieth Century Fox Film Corporation.
+        </fn>.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Hardin and the Tragedy of the Common</title>
+      <p>
+        These various threads surrounding CPRs were brought to public attention in a famous,
+        controversial,
+        quirky and brilliant paper written by ecologist Garrett Hardin over 50 years ago.
+        In <em>The Tragedy of the Commons<fn>
+        Hardin, G. (1968).
+        The Tragedy of the Commons.
+        Science, 162(3859), 1243. https://doi.org/10.1126/science.162.3859.1243
+        </fn></em> Hardin noted that CPRs are often driven to extinction in a process he famously called the
+        <em>Tragedy of the Commons</em>.
+        Because the CPR is freely available yet not owned by any individual, Hardin thought it was rational for users to extract as much from the resources as they could,
+        as fast as they could, before someone else consumed the resource.
+        The short-term rational self-interests of the users leads to destruction of the resource for all.
+        This is the collective action dilemma:
+        choice that may be good and rational for an individual user may be bad and catastrophic for a group of users.
+      </p>
+      <p>
+        Hardin used a simple but brilliant example of this problem.
+        Many old villages in New England have a
+        <em>common</em>, (no 's') a publicly-owned, shared area.
+        All landowners were allowed to graze cattle on the common,
+        at no direct cost.
+        Consider a single farmer:
+        he has every reason to put as many cattle as he can on the common,
+        where they can eat all the grass they want for free.
+        Of course, all farmers in town have the same idea,
+        and load their cattle on to the Common.
+        Soon, the grass
+        (the common resource)
+        is completely consumed.
+        James Acheson and Ray Gardner put the case succinctly when they wrote<fn>
+        Acheson, J., &amp; Gardner, R. (2014).
+        Fishing failure and success in the Gulf of Maine:
+        lobster and groundfish management.
+        Maritime Studies, 13(1), 8. https://doi.org/10.1186/2212-9790-13-8
+        </fn>
+        <q>In a collective action dilemma,
+        rational action by individuals brings disaster</q>
+        to societies.
+      </p>
+      <p>
+        After describing this result, Hardin correctly noted that collective action problems often
+        <q>have no technical solutions.</q>
+        Individuals and societies can't science their way out of a collective action problem.
+        They need to change social preferences,
+        the way people, groups and societies act toward each other.
+        Hardin thought the very first action societies had to take was choosing what facet of the resource to maximize.
+        Options might include short-term production, long-term sustainability,
+        profitability, resource health,
+        or a host of other properties.
+        The problem is that only one facet can be maximized at a time.
+        Hardin was so pessimistic about his fellow humans that he thought the Tragedy of the Commons was inevitable unless resources were owned by private concerns or governments.
+        He was, fortunately, wrong about <em>that</em>.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>The Tragedy of the Commons isn't inevitable</title>
+    <p>
+      You can see for yourself
+      (the lobster fishery in <xref ref="fig_cod_lobstah">Figure</xref>)
+      that some CPRs avoid self-destruction just fine, thank you.
+      Other famous examples can be found from local irrigation cooperatives in Tibet to wildlife sanctuaries in India to the atmosphere's ozone layer (see Chapter 6)<fn>
+      Dietz, T., Ostrom, E., &amp; Stern, P. C. (2003).
+      The struggle to govern the commons.
+      Science, 302(5652), 1907-1912.
+      </fn>.
+      CPRs which have self-destructed are all too common.
+      The cod fishery is one example,
+      as are irrigation projects in California and,
+      recently , the atmospheric CPR. Most people have lived through the collapse of the New England cod fishery without even knowing it,
+      and the difficulties with California's irrigation system directly affects you only through the price of food.
+      But self-destruction of the atmospheric CPR will inevitable lead to global climate change,
+      and the planet-wide consequences discussed in <xref ref="Risk">Section</xref>.
+      As Ostrom notes<fn>
+      Ostrom, Elinor (2009).
+      A Polycentric Approach for Coping with Climate Change (October 1, 2009).
+      World Bank Policy Research Working Paper Series, No. 5095. https://ssrn.com/abstract=1494833, accessed 9 February 2017
+      </fn>,
+      global climate change is
+      <q>potentially the largest dilemma the world has ever faced.</q>
+      How do individuals,
+      groups and civilizations thrive if no seems to be looking out for each other?
+    </p>
+  </subsection>
+</section>

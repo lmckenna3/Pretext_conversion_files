@@ -1,0 +1,524 @@
+<section xml:id="The_Greenhouse_Effect">
+  <title>The Greenhouse Effect</title>
+  <subsection>
+    <title>A brief explanation</title>
+    <p>
+      Observation 3 from the previous chapter noted that
+      <q>anything that slows the radiation of heat from a warm object will keep the object warmer,
+      longer.</q>
+      Just like a blanket keeps you warmer,
+      so too can a planet's atmosphere keep its surface warmer and longer than otherwise.
+      This <em>Greenhouse Effect</em>
+      is a crucial aspect of Earth's climate, now,
+      in Earth's past, and in your future.
+      Four naturally occurring greenhouse gasses in Earth's atmosphere<mdash/>water vapor (<m>H_2O</m>),
+      carbon dioxide (<m>CO_2</m>),
+      methane (<m>CH_4</m>) and nitrous oxide (<m>N_2O</m>)<mdash/>conspire to warm Earth's surface above <m>T_{eq}</m>.
+      By absorbing and re-radiating the infrared radiation emitted from Earth's surface,
+      these gasses naturally retard the loss of heat from Earth.
+      A portion of this re-radiated energy strikes Earth's surface,
+      warming it by \SI{33}{\kelvin}. Carbon dioxide,
+      although it is neither the primary gas contributing to the Greenhouse Effect,
+      nor a major constituent of the atmosphere,
+      acts as a thermostat for Earth's climate by regulating the amount of water vapor in the atmosphere.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Empirical evidence</title>
+    <subsubsection>
+      <title>An hypothesis: Atmospheres matter to the Greenhouse Effect</title>
+      <p>
+        At the end of Chapter 3 we successfully calculated an equilibrium surface temperature (<m>T_{eq}</m>) for each of the terrestrial planets,
+        but we found rather poor agreement between these temperatures and the actual surface temperatures,
+        as recorded in Table 3.04.
+        That table is reproduced as <xref ref="tab_atmo_press_ghg">Table</xref>,
+        with the addition of an extra parameter:
+        the atmospheric pressure on the surface of each planet.
+        (Pressure is given in <em>bars</em>,
+        which is the surface pressure of Earth's atmosphere at sea level.)
+        Neither Mercury nor the Moon have appreciable atmospheres,
+        while Mars' thin,
+        dry one rates a paltry 1% of Earth's surface pressure.
+        The Venusian atmosphere, on the other hand,
+        is almost 100 times the pressure of Earth's atmosphere!
+        The atmospheric pressure on the surface of Venus is equivalent to that at a depth of \SI{920}{\metre} (3000 ft) in Earth's ocean-some \SI{90}{\metre} (300 ft) greater than the height of the world's tallest building<fn>
+        According to the Council on Tall Buildings and Urban Habitat,
+        <url href="http://www.skyscrapercenter.com/">link</url>,
+        the Burj Khalifa, Dubai,
+        at \SI{828}{\metre} has been the world's tallest building since 2008 CE
+        </fn>.
+        A careful examination of <xref ref="tab_atmo_press_ghg">Table</xref>
+        illustrates an excellent correlation between atmospheric pressure and the difference between the observed average and equilibrium temperatures.
+        A saying in science is that correlation between two things doesn't imply that one causes the other.
+        But as Edward Tufte noted,
+        <q>Correlation is not causation but it sure is a hint</q><fn>
+        Tufte, E. R. (2006).
+        Beautiful Evidence.
+        Cheshire, CT: Graphics, p. 159
+        </fn>.
+        A good hypothesis is that the amount of atmosphere surrounding a planet not only predicts this temperature difference,
+        but causes it as well.
+      </p>
+      <table xml:id="tab_atmo_press_ghg">
+        <title>Atmospheres of the terrestrial planets and the greenhouse effect</title>
+        <tabular>
+          {@cccccccc@} \toprule
+          Parameter  &amp;Symbol  &amp;Units                        &amp;Mercury  &amp;Venus  &amp;Earth  &amp;Moon  &amp;Mars \\ \midrule
+          Albedo    &amp;A      &amp;   -                          &amp;0.07     &amp;0.90   &amp;0.30   &amp;0.11 &amp;0.25\\
+          Insolation&amp;S  &amp;<m>\SI{}{\watt\per\m^{2}}</m>                &amp;9130      &amp;2610    &amp;1361    &amp;1361  &amp;590\\
+          Equilibrium Surface Temperature  &amp;<m>T_{eq}</m>   &amp;K    &amp;440      &amp;184    &amp;255    &amp;270  &amp;211\\
+          Average Surface Temperature      &amp;<m>T_{avg}</m> &amp;K    &amp;440      &amp;737    &amp;288    &amp;270  &amp;210\\
+          Greenhouse effect <m>T_{avg}- T_{eq}</m>    &amp;<m>\Delta T_{GHE}</m> &amp;K &amp;0   &amp;553    &amp;33     &amp;0    &amp;1\\
+          Atmospheric Pressure &amp;<m>P_{atm}</m> &amp;bar            &amp;0        &amp;92     &amp;1      &amp;0    &amp;0.01\\ \bottomrule
+        </tabular>
+      </table>
+    </subsubsection>
+    <subsubsection>
+      <title>Testing the hypothesis with a different kind of graph</title>
+      <p>
+        An excellent way to test this hypothesis is to graph the difference between the observed average surface temperature and the calculated equilibrium temperature (<m>T_{av}- T_{eq}</m>) against atmospheric pressure
+        (<m>P</m>).
+        Most graphs you've seen in textbooks use arithmetic axes:
+        each division on an axis is separated by a constant value.
+        The left-hand pane of <xref ref="fig_tghe_P">Figure</xref>
+        shows the temperature difference and atmospheric presure on typical arithmetic axes,
+        with increments of 20 bar on the horizontal axis and 100 K on the vertical axis.
+        The problem with these axes is that data are difficult to see,
+        because most of the data points are squeezed into the tiny corner of the graph near the origin.
+        This is a common problem in studying Earth:
+        the scale of measurement can range over factors of thousands,
+        even millions.
+        Data like that just don't fit on arithmetic axes.
+      </p>
+      <p>
+        A better way to display such data is to use axes where each division is separated by a constant factor,
+        or multiple.
+        This factor is typically 10,
+        as it is on both axes of the right-hand pane of <xref ref="fig_tghe_P">Figure</xref>.
+        Each major division on both axes is a factor of 10 greater than the preceding division.
+        This
+        <q>log-log</q>
+        graph expands the lower left corner of the arithmetic graph,
+        allowing us to clearly see the majority of the data.
+        The downside of such a graph is that we can't plot any points which are equal to 0, such as atmospheric pressure for Mercury and the Moon.
+        The benefits are that a clear pattern emerges,
+        one that supports our hypothesis:
+        the pressure-temperature difference for Mars, Earth and Venus follows a spectacular line.
+        Following Tufte,
+        we conclude that the atmosphere of these three planets is somehow warming the surface.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Natural warming from the Greenhouse Effect</title>
+      <p>
+        This unexpected behavior by planetary atmospheres is called the
+        <em>greenhouse effect</em>,
+        a central concept of this text and our study of Earth's Systems.
+        The greenhouse effect has profound influence on the climate of Venus, Earth,
+        and just about any planet with a dense atmosphere<fn>
+        for example, page 35 of Pierrehumbert, R. T, 2011.
+        Infrared radiation and planetary temperature, Physics Today, Vol. 64(1),pg 33-38
+        </fn>.
+        Driven by a remarkable greenhouse effect
+        (<xref ref="tab_atmo_press_ghg">Table</xref>)
+        the average surface temperature of Venus is an astonishing \SI{737}{\kelvin}, or roughly
+        <m>{870}^{\circ}</m> F. This is hotter than the melting point of about a third of the naturally occurring elements,
+        including zinc and lead,
+        both of which would melt to puddles of liquid on Venus' surface.
+        On Earth, the greenhouse effect naturally raises the average surface temperature of the planet from well below the freezing point of water to a comfortable \SI{288}{\kelvin} or \SI{15}{\celsius}
+        (<m>{60}^{\circ}</m> F).
+        Our planet is habitable
+        (for life as we know it, including us!)
+        because of this natural greenhouse effect.
+        The magnitude of the greenhouse effect is sensitive to even small variations in the concentration of greenhouse gasses in the atmosphere,
+        which is how tiny inputs of carbon dioxide from the Anthroposphere to the Atmosphere can cause dramatic global climate change.
+        We need to understand how trace gasses in the atmosphere cause the greenhouse effect,
+        the implications of the greenhouse effect to Earth's climate,
+        and how human activities are nudging the greenhouse effect higher.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Light and molecules</title>
+    <introduction>
+      <p>
+        Light, we decided in Chapter 3, is how electrons interact.
+        All matter with a temperature above absolute zero vibrates constantly,
+        and vibrating electrons continuously radiate energy as light into their environment.
+        This light travels across the Universe until it interacts with electrons which can vibrate with the same energy as the light contains.
+        The energy in light is inversely proportional to wavelength and hence color,
+        so different electrons absorb different colors of light.
+        Some gasses absorb light with energies in the visible portion of the spectrum
+        (<xref ref="fig_iodine">Figure</xref>),
+        but all gasses absorb and emit some color of light.
+        This is the basis for the sometimes arcane science of spectroscopy,
+        and for the success of John Tyndall,
+        the most important scientist of whom you've never heard.
+      </p>
+    </introduction>
+    <subsubsection xml:id="tyndal">
+      <title>Tyndall discovers the ability of carbon dioxide to absorb infrared light</title>
+      <p>
+        In the 1820s<mdash/>45 years before the American Civil War<mdash/>Joseph Fourier<fn>
+        See Spencer Weart's remarkable <em>The Discovery of Global Warming</em> website,
+        hosted by the American Institute of Physics, at
+        <url href="https://history.aip.org/climate/index.htm">this link</url>,
+        last accessed 7 May 2019.
+        </fn> had speculated that visible light from the Sun could easily pass through Earth's atmosphere,
+        while infrared light from Earth could not.
+        Fourier's first hypothesis should come as no surprise to you;
+        otherwise you wouldn't be able to see distant buildings,
+        mountainsides or even the setting sun.
+        But his second hypothesis was far more speculative.
+        After all, no one could see infrared light,
+        or measure it quantitatively.
+        Not until 1859<mdash/>the same year Oregon became the <m>33^{rd}</m> state<mdash/>did John Tyndall experimentally confirm<fn>
+        Weart, op cit,
+        <url href="http://www.aip.org/history/climate/co2.htm">this page</url>
+        </fn> Fourier's second hypothesis.
+        In a justly famous set of experiments, Tyndall measured the surprisingly robust ability of both water vapor and carbon dioxide gas to absorb infrared light.
+        He also discovered that the two primary constituents of Earth's atmosphere,
+        nitrogen (<m>N_2</m>) and oxygen (<m>O_2</m>) gasses,
+        do not absorb infrared light to any appreciable degree.
+      </p>
+      <p>
+        We now know that the ability of water vapor and carbon dioxide to absorb infrared light is due to the shape and composition of these molecules.
+        Both molecules have three atoms connected by shared electrons that form bonds.
+        Infrared light happens to have exactly the same energy as that which excites the electrons in the bonds,
+        causing the molecules to vibrate and oscillate.
+        <xref ref="fig_bending_modes">Figure</xref>:
+        shows a simple model of how water and carbon dioxide vibrate and rotate.
+        These movements are possible only because the molecules have three or more atoms of two or more elements.
+        Nitrogen and oxygen gas (<m>N_2</m> and <m>O_2</m> respectively) lack both these properties,
+        so cannot absorb infrared radiation to any appreciable magnitude.
+        Tyndall knew and explained to the global scientific community these behaviors,
+        if not their explanation, over 160 years ago.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Raising the temperature</title>
+      <p>
+        The energy to vibrate and rotate bonds comes from infrared light hitting the molecules.
+        Within a few millionths of a second after the light is absorbed,
+        the newly energized molecule bumps into another,
+        lower temperature molecule in the atmosphere,
+        transferring some of its energy to that molecule<fn>
+        Pierrehumbert, R. T, op cit
+        </fn>.
+        In this manner every gas in the atmosphere<mdash/>even those that can't absorb infrared light<mdash/>gains energy,
+        and so gets hotter.
+        The greenhouse effect raises the temperature of the entire atmosphere.
+      </p>
+      <p>
+        Within a second of absorbing the light,
+        the warmer greenhouse gas molecule will re-emit some infrared light,
+        its vibration or rotation decreasing in response.
+        The molecule has no
+        <q>memory</q>
+        of the direction the original light was traveling,
+        so it emits the new infrared light in a random direction,
+        effectively sending half of the light toward space,
+        and half back down toward the ground.
+        The ground absorbs some of that radiation and warms in response,
+        which is why Earth's average surface temperature is warmer than the equilibrium temperature.
+        The greenhouse effect raises the surface temperature, too.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection xml:id="ghe_1">
+    <title>Earth's energy balance</title>
+    <p>
+      If you look back at Figure 3.21,
+      you'll see that the sun radiates energy in the ulatra-violet,
+      visible and infra-red portions of the spectrum.
+      Because ultraviolet and visible light both have shorter wavelengths than infrared light,
+      we can lump both together as <em>short wave radiation</em>,
+      or <em>SWR</em>.
+      The longer-wavelength infrared light is termed
+      <em>long wave radiation</em>, or <em>LWR</em>.
+      We also learned in Chapter 3 that each square meter of Earth's upper atmosphere facing the Sun receives on average <m>\SI{340}{\watt}</m> of solar power.
+      Let's follow the SWR from the Sun as it makes its way from the top of the atmosphere to the Earth's surface
+      (<xref ref="fig_erb_a">Figure</xref>),
+      in three stages of increasing complexity.
+    </p>
+    <p>
+      <xref ref="fig_erb_a">Figure</xref>
+      shows <m>\SI{340}{\watt\per\m^{2}}</m> of incoming SWR
+      (yellow arrow in the center)
+      hitting Earth.
+      About 30% of this light is reflected as SWR
+      (yellow arrows on left),
+      most by clouds and gasses in the atmosphere, some by Earth's surface.
+      This reflected portion is due to Earth's
+      <em>albedo</em>, <m>A</m>, and amounts to
+      <md>
+        <mrow>E_{reflected}=Albedo\cdot E_{SWR}</mrow>
+        <mrow>E_{reflected}=0.30\cdot \SI{340}{\watt\per\m^{2}}</mrow>
+        <mrow xml:id="eq_eref" number="yes">E_{reflected}=\SI{102}{\watt\per\m^{2}}</mrow>
+      </md>
+      of SWR reflected back into space.
+      <q>Reflect</q>
+      is a surprisingly precise word.
+      Look simultaneously at an object and its reflection in a mirror.
+      Note that reflection doesn't change the color,
+      and hence energy, of the reflected light.
+      True to Fourier's hypothesis and Tyndall's discoveries
+      (<xref ref="tyndal">Section</xref>),
+      the incoming <em>SWR</em> from the Sun doesn't strongly interact with atmospheric gasses as it travels downward toward the surface.
+      After it reflects from the surface, with its energy,
+      wavelength and color unchanged,
+      the SWR passes unperturbed and unchanged back through the atmosphere and into space. (The tiny portion of the Sun's <em>SWR</em>
+      in the ultra-violet spectrum is absorbed about \SI{20}{\kilo\metre} (12 miles) above the surface by ozone,
+      a process we'll cover in more detail in Chapter 8.)
+    </p>
+    <p>
+      The 70% of the Sun's SWR <em>not</em>
+      reflected back to space must be absorbed by Earth's surface.
+      This warms the surface to a temperature you already know,
+      <m>T_{eq}</m>, \SI{255}{\kelvin}. But Observation 1 in Chapter 3 says that Earth at equilibrium must emit into space just as much energy it receives from the Sun.
+      Hence Earth must emit \SI{238}{\watt\per\m^2} to stay in balance with the incoming solar radiation.
+      <md>
+        <mrow>E_{absorbed}=E_{SWR}-E_{reflected}</mrow>
+        <mrow>E_{absorbed}=\SI{340}{\watt\per\m^{2}}-\SI{102}{\watt\per\m^{2}}</mrow>
+        <mrow xml:id="eq_eabs" number="yes">E_{absorbed}=\SI{238}{\watt\per\m^{2}}</mrow>
+      </md>
+    </p>
+    <p>
+      But what color is the light emitted by Earth?
+      The light emitted by blackbody radiators like Earth is directly related to their equilibrium temperature,
+      <m>T_{eq}</m>.
+      We can determine the wavelength of Earth's maximum emission using Wein's Law,
+      equation 3.05:
+      <md>
+        <mrow xml:id="eq_lambda_earth" number="yes">\lambda_{max}=\frac{\SI{2.9e6}{\nano\metre\kelvin}}{T}=  \frac{\SI{2.9e6}{\nano\metre\kelvin}}{\SI{255}{\kelvin}} =\SI{1.14e4}{\nano\metre}=\SI{1.14e-5}{\metre}</mrow>
+      </md>
+    </p>
+    <p>
+      Look back to Figure 3.16,
+      and you can see that this wavelength is deep in the infra-red portion of the spectrum.
+      <xref ref="fig_sun_earth_spectrum">Figure</xref>
+      shows the Sun's and Earth's spectra on a single diagram.
+      Note that Earth
+      (in the red tint)
+      emits all of its energy as infrared light,
+      or LWR! <xref ref="fig_erb_a">Figure</xref> shows this radiation
+      (in red as well)
+      heading off to space.
+      This LWR fought a tough battle to escape Earth's atmosphere.
+      We know this because we have thousands of weather stations across Earth's surface,
+      and dozens of satellites in Earth's orbit,
+      measuring the planet's average temperature.
+      This temperature is <m>T_{av}=\SI{288}{\kelvin}</m>,
+      far warmer than the <m>T_{eq}</m> we calculated back in Chapter 3.
+      <xref ref="fig_erb_b">Figure</xref>
+      illustrates the problem: At a temperature of \SI{288}{\kelvin}, Earth's surface radiates <m>E=\sigma (\SI{288}{\kelvin})^4 = \SI{390}{\watt\per\m^2}</m>, far,
+      far more than it receives from the Sun.
+      What is this source of this energy?
+    </p>
+    <p>
+      Tyndall's discovery explains the origin of this energy.
+      The details are shown in Piece 3, <xref ref="fig_erb_c">Figure</xref>.
+      As the LWR emitted from the surface travels upward,
+      it is absorbed by water vapor,
+      carbon dioxide and other greenhouse gasses in the atmosphere.
+      As we saw above, these gasses hold on to that energy,
+      warming the atmosphere,
+      until they re-emit the energy in a random direction.
+      Roughly half of this energy will head up to space,
+      and roughly half will head down,
+      toward the ground, shown in the figure by the large,
+      <q>U</q>
+      -shaped arrow with magnitude \SI{326}{\watt\per\m^{2}}. Eventually the surface absorbs a good portion of this re-emitted energy,
+      and warms in response.
+      <em>This is the Greenhouse Effect: Earth's surface is warmed by infrared radiation re-emitted by the atmosphere.</em>
+      As climate scientist David Randall notes<fn>
+      Randall, D. (2012).
+      Atmosphere, clouds, and climate.
+      Princeton University Press.
+      Amongst the finest general interest books on climate,
+      the book is an excellent reference for those wanting more details on this aspect of Earth's climate.
+      </fn>,
+      <q>It is a very important and perhaps counter-intuitive fact that
+      <em>Earth's surface actually absorbs more energy from...the atmosphere,
+      than it gains from the Sun!</em></q>
+      (Randall's well placed emphasis).
+    </p>
+  </subsection>
+  <subsection>
+    <title>Three different ways of understanding the Greenhouse Effect</title>
+    <introduction>
+      <p>
+        Understanding the greenhouse effect is central to every topic we examine in this book,
+        and so we'll work through three different,
+        but complimentary, explanations for it.
+        Each is physically correct,
+        and each provides insight into the processes behind this crucial concept.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Explaining the Greenhouse Effect through radiation from the atmosphere</title>
+      <p>
+        You've already read the first explanation in the previous <xref ref="ghe_1">section</xref>:
+        the greenhouse effect as radiation from the atmosphere to the surface.
+        In this view, Earth's surface is warmer than one expects because <em>both</em>
+        the Sun and the atmosphere warm the surface.
+        This second,
+        unexpected source of energy to the surface leads to a unexpectedly warmer surface temperature.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Explaining the Greenhouse Effect as an atmospheric blanket</title>
+      <p>
+        Another way to understand the Greenhouse Effect is to consider Observation 3 from the previous chapter:
+        <q>Anything that slows the loss of heat from a warm object will keep the object warmer,
+        longer.</q>
+        Greenhouse gasses in the atmosphere do just this.
+        They delay the flow of heat
+        (the LWR)
+        off the planet just as a blanket delays heat from escaping a body.
+        A difference exists between the atmosphere and a blanket in this analogy.
+        A blanket is equally good at keeping heat out as in,
+        as anyone who has used an oven mitt when picking up a hot pan can attest
+        (the mitt slows the flow of heat from the pan to your hand).
+        The atmosphere's quality as a blanket is asymmetric,
+        allowing incoming SWR through,
+        but blocking outgoing LWR, illustrated in <xref ref="fig_sun_earth_spectrum">Figure</xref>.
+      </p>
+      <p>
+        The middle panel shows the relative amount of light emitted by the Sun
+        (in yellow)
+        and Earth
+        (in red)
+        as a function of wavelength.
+        The higher the curve, the more light
+        (and energy)
+        is emitted at that wavelength.
+        The figure shows that the Sun radiates largely SWR, and Earth LWR. The gray areas in the middle panel depict how effectively Earth's atmosphere transmits radiation at each wavelength:
+        the lower the gray area,
+        the less absorbing<mdash/>and more transparent<mdash/>is Earth's atmosphere to that wavelength of light.
+        The long slow upswing in absorption seen at the blue end of the visible spectrum is due to scattering of light by gas molecules in the atmosphere,
+        and largely explains why the sky appears blue and the setting sun red.
+        Our atmosphere is of course transparent to visible light,
+        but is totally opaque to ultraviolet light with wavelengths less than \SI{300}{\nano\metre}. At the other end of the visible spectrum,
+        a series of absorption bands
+        (gray in the figure)
+        appear at about \SI{750}{\nano\metre}, and become higher and wider to \SI{5000}{\nano\metre}. The upper panel shows these absorption bands are due to water vapor molecules in the atmosphere.
+        Carbon dioxide contributes as well,
+        including the significant absorption band near \SI{15000}{\nano\metre}. This band is particularly important,
+        as it lies on the
+        <q>shoulder</q>
+        of Earth's emission and absorbs a significant portion of Earth's LWR. All those absorption bands add up to the Greenhouse
+        <q>blanket,</q>
+        effectively slowing the movement of heat from the surface to space,
+        warming the surface <em>via</em> the Greenhouse effect.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Explaining the Greenhouse Effect as a result of an atmospheric escape threshold</title>
+      <p>
+        In Chapter 3 we carefully constructed the idea of an equilibrium temperature,
+        which we calculated is <m>\SI{255}{\kelvin}</m> for Earth.
+        This equilibrium temperature has to be correct:
+        the energy Earth receives from the Sun has to be the same energy Earth emits back to space.
+        How can this happen if the surface is warmer than <m>\SI{255}{\kelvin}</m>?
+        The answer must be that somewhere in the atmosphere Earth has an apparent temperature of 255 K, and that this level of the atmosphere is what
+        <q>sees</q>
+        space.
+        This <em>emission level</em> in the atmosphere will be where infrared light leaving a greenhouse gas molecule has a decent chance of escaping the atmosphere,
+        of reaching space before it is absorbed by another greenhouse gas.
+        The situation is exactly analogous to walking through a thick forest.
+        As you look toward the edge of the forest
+        (<xref ref="fig_forest_trees">Figure</xref>, Panel A),
+        your sight lines to the meadow beyond are blocked by tree trunks:
+        you can't see the edge of the forest for the trees.
+        But as you get closer to the forest's edge
+        (<xref ref="fig_forest_trees">Figure</xref>, Panel B),
+        and fewer trees lay between you and the edge,
+        your chances of glimpsing the sky beyond the forest increase.
+        Eventually the trees are sufficiently rare that you can see the sky.
+        This is the emission level of the forest,
+        the distance into the forest that you can see the sky beyond.
+        The same idea applies to the atmosphere:
+        sufficiently high above Earth's surface, infra-red light can
+        <q>see</q>
+        space and escape the planet.
+      </p>
+      <p>
+        <xref ref="fig_emission_heights">Figure</xref>
+        shows the variation in emission heights for infra-red light in a mid-latitude winter's atmosphere,
+        when the sky is cloudless and blue,
+        much like it was when this sentence was written.
+        Between \SI{7500}{\nano\metre} and \SI{12500}{\nano\metre} Earth's atmosphere is transparent to most radiation and so emission from a few hundred meters above the surface can make its way to space.
+        In essence, the forest here is thin.
+        But the large <em>plateau</em> at 15,000 nm again marks the strong absorption peak for <m>CO_2</m>.
+        Such is the ability of <m>CO_2</m> to absorb this particular range of infrared radiation that light can't escape to space until it is above 75% of the atmosphere.
+        Here the forest is dense.
+        The emission level in the atmosphere averages about \SI{5.5}{\kilo\metre} (3 miles),
+        although in the figure it lies at about \SI{6.6}{\kilo\metre} km (3.6 miles).
+        Above this level infrared light largely escapes the planet;
+        below this level we expect infrared light is absorbed and warms the air.
+        This warmer air in turns keeps the surface warmer and once again we understand the Greenhouse Effect.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Earth's Average Surface temperature</title>
+    <p>
+      We can now write the most important equation in this book,
+      one so simple that its importance may seem misplaced:
+      <md>
+        <mrow>T_s\amp =T_{eq}+\Delta T_{GHE}</mrow>
+        <mrow>\SI{288}{\kelvin}\amp =\SI{255}{\kelvin}+\SI{33}{\kelvin}</mrow>
+      </md>
+    </p>
+    <p>
+      The equation states that Earth's average surface temperature,
+      <m>T_av</m> is equal to the sum of the equilibrium temperature,
+      <m>T_{eq}</m>,
+      and an increment from the Greenhouse Effect, <m>\Delta T_{GHE}</m>.
+      The current magnitude of the natural Greenhouse Effect is <m>\Delta T_{GHE}=\SI{33}{\kelvin}</m>,
+      or <m>60^{\circ}</m>F. Earth's equilibrium temperature is about
+      <m>0^{\circ}</m>F, the average temperature of Fairbanks, Alaska.
+      In February<fn>
+      Mean temperature climate normals from the 30-years 1981-2010,
+      averaged over Fairbanks AP#2, International Airport, and Midtown stations,
+      provided by the National Climatic Data Center, <em>via</em>
+      <url href="http://climate.gi.alaska.edu/Climate/Normals">link</url>,
+      accessed June 30, 2015.
+      </fn>.
+      Although the feedbacks between life and climate are complex,
+      the natural Greenhouse Effect undoubtedly makes the planet habitable for life as we know it.
+    </p>
+    <p>
+      We saw in Chapter 3 that the equilibrium temperature is itself due to the insolation <m>S</m> we receive from the Sun and Earth's albedo <m>A</m>,
+      and we saw above that the Greenhouse Effect is a function of the amount and type of greenhouse gasses in our atmosphere:
+      <md>
+        <mrow>T_s\amp =T_{eq}+\Delta T_{GHE}</mrow>
+        <mrow xml:id="eq_Ts" number="yes">T_s\amp =\left[\frac{S(1-A)}{4 \sigma}\right]^{1/4} + f(H_2O, CO_2, CH_4, N_2O)_{atm}</mrow>
+      </md>
+    </p>
+    <p>
+      The Sun's output <m>S</m> and Earth's albedo <m>A</m> change naturally on scales of billions of years to months.
+      The type and amount of greenhouse gasses in the atmosphere naturally change on similar timescales,
+      a variation we will look at closely over the course of this book.
+    </p>
+    <p>
+      Humans can't change the Sun's output,
+      and can change Earth's average albedo only slowly,
+      but we sure can change the amount and kind of greenhouse gasses in the atmosphere!
+      Over the past 250 years or so,
+      we have increased the effective concentration of such gasses in the atmosphere<fn>
+      http:\/\/www.esrl.noaa.govgmdaggiaggi.html, accessed 9 May, 2019,
+      and extrapolated to 2020 CE using a linear regression of equivalent <m>CO_2</m> concentration over time.
+      Uncertainty in the estimate is <m>\lt 1\%</m> point.
+      </fn> by 80%. In response, Earth's average surface temperature has increased<fn>
+      Field, Christopher B., et al.
+      <q>Summary for policymakers.</q>
+      Climate change 2014: impacts,
+      adaptation, and vulnerability.
+      Part a: global and sectoral aspects.
+      Contribution of working group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (2014): 1-32.
+      </fn> by at least \SI[separate-uncertainty]{0.92(07)}{\kelvin}, or \SI[separate-uncertainty]{1.7(4)} <m>^{\circ}</m>F .
+    </p>
+  </subsection>
+</section>

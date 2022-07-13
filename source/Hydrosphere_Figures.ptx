@@ -1,0 +1,271 @@
+<section xml:id="Hydrosphere_Figures">
+  <title>Figures</title>
+  <figure xml:id="fig_3_phase_water">
+    <caption>Water is a unique<mdash/>some might say miraculous<mdash/>substance. Water naturally occurs in three phases at Earth's surface: liquid (as shown by the ocean), solid (as shown by the floating sea ice) and gas (as shown by the
+    <q>sea smoke,</q>
+    or fog, wisping through the early morning air in Helsinki harbor. (The air temperature at the time was a frosty <m>\SI{-33}{\degreeCelsius}</m> [<m>-28^{\circ} F</m>]!) This behavior, coupled with water's unique chemical features, makes water a fundamental force affecting Earth's evolution. I do NOT yet have permission to use this photograph, arcived at
+    <url href="http://inktank.fi/these-surreal-photo-show-what-its-like-to-sail-through-the-sea-at-minus-28-degrees/">this link</url>
+    .</caption>
+    <image width="92.5%" source="3_phase_water"/>
+  </figure>
+  <figure xml:id="fig_wiw">
+    <caption>Water is just weird, and weirdness not shared by substances chemically similar to water. The upper panel shows the melting and boiling points of water (<m>H_2O</m>) and the four analogs to water made with elements in the same period as <m>O</m>: sulfur (<m>S</m>), selenium (<m>Se</m>), tellurium (<m>Te</m>), and polonium (<m>Po</m>), plotted by the weight of each molecule. Predicting the melting and boiling points of water based on these analogs is straightforward: just estimate the trend of each line to the atomic mass of water, 18 amu. While the prediction is easy to do, it is <em>wildly</em> wrong! The actual melting and boiling points are \SI{83}{\degreeCelsius} and \SI{170}{\degreeCelsius} warmer than the predictions. Why? (Data from CRC Handbook, 74th Edition, 1993) The <em>lower panel</em> shows the density of liquid water at temperatures of \SIrange{0}{10}{\degreeCelsius}.Note the density reaches a maximum near \SI{4}{\degreeCelsius}, not \SI{0}{\degreeCelsius}. Ice has a density of \SI{916.2}{\kilogram\per\metre^3}, which on scale of the graph would be \SI{17}{\metre} (56 feet) below the graph.</caption>
+    <image width="92.5%" source="Water_weird"/>
+  </figure>
+  <figure xml:id="fig_H_bonding">
+    <caption>Water's weird behavior is due to hydrogen bonding between hydrogen and oxygen atoms in adjacent water molecules. Within molecules, the <m>H</m> and <m>O</m> atoms are held together with strong covalent bonds, shown as the cylinders connecting the red <m>O</m> atoms and white <m>H</m> atoms. Oxygen's stronger affinity for electrons gives it a partial negative charge <m>\delta^{-}</m>, while the hydrogen develops a partial positive charge (<m>\delta^{+}</m>). These partial charges form hydrogen bonds (yellow), only one twentieth the strength of the covalent bonds. Each hydrogen atom establishes one hydrogen bond, and each oxygen atom accepts two hydrogen bonds, so most water molecules have a total of 4 hydrogen bonds. The kinetic energy of room-temperature (and body-temperature) water is about the same as the strength of hydrogen bonds, so a given bond breaks and reforms about \SI{1e12}{s^{-1}}, or one trillion times per second. The figure was  made with Jmol.</caption>
+    <image width="92.5%" source="H_bonding"/>
+  </figure>
+  <figure xml:id="fig_w_tetra">
+    <caption>At a microscopic level, water exists not as isolated, individual molecules of <m>H_2O</m>, but as chains of hydrogen-bonded
+    <q>super-molecules.</q>
+    Despite the overwhelming importance of water to every aspect of science, culture and economy, the microscopic structure of water is still an area of intense research. But at room temperature and below, liquid water resembles the structure shown above, with 4 water molecules arranged in a tetrahedron (gray outline) around a central fifth molecule. Each of molecules at the corner of this tetrahedron in turn will be arranged in a similar way, such that water consists of a interwoven and extensive matrix of interconnected molecules. The figure was made with Jmol.</caption>
+    <image width="92.5%" source="w_tetra"/>
+  </figure>
+  <figure xml:id="fig_where_water">
+    <caption>Water is an integral part of every Earth sphere. Each column shows the relative proportion of water in (<em>left panel</em>) the entire Earth, (<em>middle panel</em>) the near-surface Earth, and (<em>right panel</em>) the Hydrosphere.</caption>
+    <image width="92.5%" source="where_water"/>
+  </figure>
+  <figure xml:id="fig_water_scales">
+    <caption>Another way of visualizing the volume of near-surface water on Earth. Each sphere represents the volume of water in each of the labeled reservoirs. The top row shows the Hydrosphere, with the oceans occupying a sphere roughly \SI{1400}[{\kilo}{\metre}] (860 miles) across. Groundwater clearly and surprisingly makes up the majority of the non-ocean water in the Hydrosphere, with lakes, wetlands and rivers making up increasingly smaller portions. Water in the other spheres are shown in the lower portion of the Figure, with the Cryosphere dominating. Clearly the vast majority of fresh water on the planet<mdash/>stored in the Cryosphere and in groundwater<mdash/>is accessible to human societies only with great difficulty. This figure is based on one by Jack Cook, Woods Hole Oceanographic Institution.</caption>
+    <image width="92.5%" source="water_scales"/>
+  </figure>
+  <figure xml:id="fig_ice_soil">
+    <caption>A model for soil water, the water table, and groundwater is easy to make with a glass of ice and water, here dyed red to make it visible. Near the top of the glass, air occupies all the void spaces between the ice particles. Lower in the glass, water fills an increasingly larger proportion of the void spaces, until the voids between ice particles are fully occupied by water. The red food coloring in the water makes the transition from the under-saturated upper layer to the fully saturated groundwater layer particularly striking. Inserting a straw into the unsaturated zone wouldn't help quench your thirst; only air would be drawn uo the straw. So too with real groundwater. Wells for extracting groundwater must extend at least to the water table to gain access to the resource.</caption>
+    <image width="92.5%" source="ice_soil"/>
+  </figure>
+  <figure xml:id="fig_gw_sketch">
+    <caption>A schematic view of the formation, flow and fate of groundwater. The <em>upper panel</em> (modified from Figure 4.1 of Berner, E. K., &amp; Berner, R. A. (1987). Global water cycle: geochemistry and environment. Prentice-Hall) shows rain falling on the recharge area. A small proportion of the rain percolates into the ground as soil water, eventually reaching the water table to become groundwater. (The remainder of the rain runs off along the surface, evaporates, or is absorbed and later
+    <q>transpired</q>
+    by plants back to the Atmosphere.). Wetlands, which require long-term wet environment, form where the water table approaches the surface. Rivers, lakes and other standing bodies of water form from the baseflow provided by the intersection of the water table with the surface, as shown on the far right of the diagram. The <em>lower panel</em> (modified from Figure 3 of Winter, T. C. (Ed.). (1998). Ground water and surface water: a single resource. Denver, Colo: U.S. Geological Survey, Circular 1139.) shows a larger view of groundwater. Three different aquifers (volumes of rock and sediment which host and store groundwater) each contain groundwater of different age, with deeper aquifers holding older water.</caption>
+    <image width="92.5%" source="GW_sketch.pdf"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}[ht]
+  </p>
+  <p>
+    <image width="92.5%" source="HPA_final.pdf"/> \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_or_ions">
+    <caption>The oceans are not simply
+    <q>concentrated</q>
+    river water. Rivers are the primary, but not only, factor contribution to the ocean's salinity. rivers (in the blue shading) and oceans (in pink) have distinctly different ratios of ions. If the oceans were simply concetrated river water, the proportions of ions in each would be identical. As the graph shows, this is not true. Other sources and sinks<mdash/>which reside in the Geosphere and Biosphere<mdash/>must modify sea water's composition.</caption>
+    <image width="92.5%" source="ro_comp"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}[ht]
+  </p>
+  <p>
+    <image width="92.5%" source="global_bathymetry"/> \caption{Earth's topography
+    (height of land above sea level)
+    and bathymetry
+    (depth below sea level)
+    reveals a dynamic planet.
+    Mountain belts line the edges of continents, but the middle of oceans,
+    attesting to the different plate tectonic forces forming them.
+    The map was made with GeoMapApp (http://www.geomapapp.org) and uses the GMRT data assembled by Ryan, W.B.F., et al. (2009), Global Multi-Resolution Topography synthesis, Geochem.
+    Geophys.
+    Geosyst., 10, Q03014, doi:10.1029/2008GC002332. } \end{sidewaysfigure}
+  </p>
+  <p>
+    \begin{sidewaysfigure}[ht]
+  </p>
+  <p>
+    <image width="92.5%" source="sea_floor_detail.pdf"/> \caption{A detailed view of the bathymetry of the ocean floor,
+    with important features highlighted.
+    Red lines mark divergent plate boundaries;
+    yellow convergent boundaries,
+    and green major transform boundaries.
+    The map was made with GeoMapApp (http://www.geomapapp.org) and uses the GMRT data assembled by Ryan, W.B.F., et al., (2009), Global Multi-Resolution Topography synthesis, Geochem.
+    Geophys.
+    Geosyst., 10, Q03014, doi:10.1029/2008GC002332.
+    Plate boundaries are modified from Bird, P. (2003), An updated digital model of plate boundaries, Geochem.
+    Geophys.
+    Geosyst., 4, 1027, doi:10.1029/2001GC000252, 3.} \end{sidewaysfigure}
+  </p>
+  <p>
+    \begin{sidewaysfigure}[ht]
+  </p>
+  <p>
+    <image width="92.5%" source="hypso"/> \caption{The distribution of height and depth of every area on Earth's surface.
+    In the panel on the left is a histogram of heights and depths.
+    The continents are, on average,
+    relatively low at an elevation of about 800 m (2650 ft,
+    about one half mile) with a tiny proportion made up by mountains higher than 3000 m (10,000 ft).
+    Below sea level,
+    the most common depths are those of the deep abyssal plains.
+    At 3700 m (11,000 ft) deep the oceans are,
+    on average, far deeper than the continents are high.
+    In the right panel,
+    the cumulative distribution of area gives the hypsometric curve.
+    The continental plains
+    (where the weathered and eroded remnants of mountains are deposited)
+    give way to the continental shelves,
+    submerged portions of the continents.
+    The continental slope marks the transition from continental to oceanic crust,
+    and the beginning of abyssal depths.
+    Trenches, though spectacularly deep
+    (the deepest at 11,911 m [35,800 ft, or 6.8 miles!])
+    make up a tiny proportion of Earth's surface.
+    The intersection of sea level and the blue curve marks the proportion of Earth coverd by land:
+    currently about 30%, and the oceans about 70%. But knowing the shelves are really temporarily submerged parts of the continents suggests a different value: 35% for the continents and 65% for the oceans.
+    Data are from the ETOPO1 ''Ice Surface data set,'' and is inspired by Eakins, B.W. and G.F. Sharman, Hypsographic Curve of Earth's Surface from ETOPO1, NOAA National Geophysical Data Center, Boulder, CO, 2012.} \end{sidewaysfigure}
+  </p>
+  <p>
+    \begin{sidewaysfigure}[ht]
+  </p>
+  <p>
+    <image width="92.5%" source="smokin"/> \caption{Two examples of hydrothermal vents,
+    spectacular examples of interactions between the oceans and the hot volcanic rocks found at mid-ocean ridges.
+    On the left panel, super-heated water emerges from natural
+    <q>chimneys.</q>
+    The white solids form when hot fluids mix with cooler seawater,
+    forming the chimneys.
+    The white precipitates include compounds of barium, calcium and silicon.
+    In the right panel,
+    water at \SI{340}{\celsius} (<m>650\circ F</m>) emerges from a vent at a depth of \SI{2200}{\metre}
+    (<m>7200\ ft</m>).
+    The black precipitates are metal sulphides (<m>FeS</m>),
+    which likely include iron, copper, manganese and zinc.
+    When these
+    <q>black smoker</q>
+    vents were first discovered,
+    it became clear that the world's most important copper deposits formed in similar locations in Earth's distant past.
+    Credits: While from NOAA web sites,
+    the copyright for thee mages is unclear.
+    I do NOT yet have certain rights to these photographs.
+    Left panel URL points to
+    <url href="http://oceanexplorer.noaa.gov/okeanos/explorations/10index/logs/slideshow/ex_july_highlights/gallery/hires/white_plumes_hires.jpg">NOAA</url>,
+    as does the right panel
+    <url href="http://oceanexplorer.noaa.gov/okeanos/explorations/10index/background/hires/boardwalk_black_smoker_hires.jpg">URL</url>
+    .} \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_surf_salinity">
+    <caption>The annual average salinity of the surface ocean reveals that exchange of water with the atmosphere is the principle force determining surface salinity. Salinity is highest at <m>25\deg</m> N and S latitude, a few degrees poleward of the zone of maximum evaporation of water from the oceans to the atmosphere. Salinities are highest in the Atlantic Ocean because of the net movement of water by evaporation out of the Atlantic Basin and to the Pacific Basin.</caption>
+    <image width="92.5%" source="Salinity_Map"/>
+  </figure>
+  <figure xml:id="fig_salinity_sect">
+    <caption>Salinity variations below the surface layer are far less than those in the surface layer, as shown in this cross section of the Atlantic ocean. Below the \SI{600}{\metre} (2000 feet) deep surface layer, salinities are uniformly within the narrow range of <m>34.5-35</m> \textperthousand.</caption>
+    <image width="92.5%" source="ODV_sal_vs_Lat"/>
+  </figure>
+  <figure xml:id="fig_zonal_sst">
+    <caption>Warmer at the equator, cooler at the poles, the average sea surface temperature reflects the balance of heat flowing in and out of the oceans. Abundant sunlight and warm air in the tropics warms the surface waters of the ocean there, while less sunlight and relatively colder air in the extra-tropics cools the oceans. Circulation of the oceans (<xref ref="gyres">Section</xref>, like the atmosphere, transports heat from the equator to the poles, moderating Earth's climate extremes. Data are the 1961-1990 SST from the NOAA Optimum Interpolation (OI) Sea Surface Temperature (SST) V2, available at
+    <url href="https://www.esrl.noaa.gov/psd/data/gridded/data.noaa.oisst.v2.html">NOAA PSD</url>
+    accesssed pi day, 2018.</caption>
+    <image width="92.5%" source="zonal_sst"/>
+  </figure>
+  <figure xml:id="fig_sst_map">
+    <caption>The annual average surface temperature of the oceans.</caption>
+    <image width="92.5%" source="sst_map"/>
+  </figure>
+  <figure xml:id="fig_sst_anom_map">
+    <caption>Anomaly map</caption>
+    <image width="92.5%" source="sst_anom_map"/>
+  </figure>
+  <figure xml:id="fig_ODV_Temp_vs_Lat">
+    <caption>The average temperature of the deep oceans, here in the Atlantic. Below the thin surface layer <nbsp/>600 meters (2000 feet) deep, the oceans are monotonously cold, averaging between \SIrange{1}{3}{\celsius} (<m>34-37 \deg</m>F). When combined with the monotonous salinity variations (<xref ref="fig_salinity_sect">Figure</xref>, and the fact that sea water density is largely controlled by salinity and density, we conclude that density variations in the deep ocean must be subtle. Tiny difference in temperature and salinity can have profound effects on density, and hence circulation, of seawater.</caption>
+    <image width="92.5%" source="ODV_Temp_vs_Lat"/>
+  </figure>
+  <figure xml:id="fig_ph_map">
+    <caption>Ocean acidity determines marine organisms ability to construct shells. Lower pH means higher acidity and more difficulty making shells. Global variations in pH are relatively small compared to the variations we've seen in other ocean properties, partly because the pH scale is logarithmic, and partly because of natural buffering of pH by the many forms of <m>CO_2</m> dissolved in the oceans. In the tropics and temperate areas, pH is lower (more acidic) in summer and higher in winter. This pattern is reversed in the poles, with lower pH in winter and higher pH in summer. This odd pattern is due to the interplay of light and nutrient supplies affecting photosynthesis in the water column. The map shown here is for 2005 CE; since then pH has dropped roughly 0.03 units, equivalent to a 7% increase in acidity just since this mimage was made. (Takahashi, T., Sutherland, S. C., Chipman, D. W., Goddard, J. G., Ho, C., Newberger, T., ... &amp; Munro, D. R. (2014). Climatological distributions of pH, pCO2, total CO2, alkalinity, and CaCO3 saturation in the global surface ocean, and temporal changes at selected locations. Marine Chemistry, 164, 95-125. [I DO NOT HAVE (yet) PERMISSION TO USE THIS FIGURE. the data are available...])</caption>
+    <image width="92.5%" source="ph_map"/>
+  </figure>
+  <figure xml:id="fig_arag_map">
+    <caption>All marine organisms that secrete shells must expend energy to do so. Part of this energy goes toward removing the various chemical components (calcium  <m>[Ca^{2+}]</m> and bicorbonate <m>[HCO_3^{1-}]</m> ions) from the ocean. The relative ease with which this process takes place is given by the
+    <q>saturation state.</q>
+    Higher saturation states lead to easier shell building; lower states indicate more difficult shell building and even shell dissolution into the oceans. Warm, tropical oceans have higher saturation states than colder temperate waters. The map shown here is for 2005 CE; since then saturation states have dropped roughly 0.12 units (Takahashi, T., Sutherland, S. C., Chipman, D. W., Goddard, J. G., Ho, C., Newberger, T., ... &amp; Munro, D. R. (2014). Climatological distributions of pH, pCO2, total CO2, alkalinity, and CaCO3 saturation in the global surface ocean, and temporal changes at selected locations. Marine Chemistry, 164, 95-125.) in the 15 years since then. [I DO NOT HAVE (yet) PERMISSION TO USE THIS FIGURE. the data are available...]). Coral reefs include various types of calcium carbonate, including both the skeletons and shells of living organisms, and sediments from the eroded remains. The mud is more susceptible to dissolution, and Eyre, B. D. Cyronak, T., Drupp, P., De Carlo, E. H., Sachs, J. P., &amp; Andersson, A. J. (2018). Coral reefs will transition to net dissolving before end of century. Science, 359(6378), 908-911 argue that this mud will begin to dissolve at saturation states around 2.9, a situation that we'll see globally around 2050-2070 CE.</caption>
+    <image width="92.5%" source="omega_aragonite_map"/>
+  </figure>
+  <figure xml:id="fig_oa">
+    <caption>Ocean acidification is driven by absorption of <m>CO_2</m> by the oceans. The resulting change in acidity of the shallowest parts of the ocean is shown for three sites across the world. All three sites show about the same rate of change: -0.02 pH units per decade, equivalent to about +4% in acidity each decade. The annual cycle of pH change is also evident in the data; the range of these oscillations depends on the location of the station. The Canary and Bermuda data are plotted 0.15 and 0.30 pH units lower than their actual for clarity. Data are from the websites associated with: Bermuda<mdash/>Bates, N.R., Michaels, A.F., Knap, A.H., 1996. Seasonal and interannual variability of oceanic carbon dioxide species at the US JGOFS Bermuda Atlantic Time-series Study (BATS) site. Deep-Sea Res. II 43, 347-383. http://dx.doi.org/10.1016/0967-0645(95)00093-3 (Corrigendum: 43, 1435-1435, 1996); Canary Islands<mdash/>Santana-Casiano, J.M., Gonz'alez-D'avila, M., Rueda, M.-J., Llin'as, O., Gonz'alez-D'avila, E.-F.,2007. The interannual variability of oceanic CO2 parameters in the northeast Atlantic subtropical gyre at the ESTOC site. Glob. Biogeochem. Cycles 21. http://dx.doi.org/10.1029/2006GB002788 (GB1015); Hawai'i<mdash/>Dore, J.E., Lukas, R., Sadler, D.W., Church, M.J., Karl, D.M., 2009. Physical and biogeochemical modulation of ocean acidification in the central North Pacific. PNAS 106, 12235-12240. http://dx.doi.org/10.1073/pnas.0906044106. Files: ph_plot.m and ph_ocean_acid.</caption>
+    <image width="92.5%" source="ocean_acidification"/>
+  </figure>
+  <figure xml:id="fig_light_in_seas">
+    <caption>The ocean is divided into three zones based on depth and light level. The upper \SIrange{100}{200}{metre} (300 to 650 feet) of the ocean is called the euphotic, or
+    <q>sunlight,</q>
+    zone. Photosynthesis is confined to the euphotic zone, so it contains the vast majority of commercial fisheries and is home to most of the protected marine mammals and sea turtles. Sunlight entering the oceans may travel about \SI{1000}{metre}into the ocean under the right conditions, but there is rarely any significant light beyond SI{200}{metre} (650 feet). The zone beneath the euphotic zone but above \SI{1000}{metre} (3,300 feet) is usually referred to as the
+    <q>twilight</q>
+    zone, but is officially the dysphotic zone. In this zone, the intensity of light rapidly decreases as depth increases. The aphotic, or
+    <q>midnight,</q>
+    zone exists at depths below 1,000 meters (3,280 feet). Sunlight does not penetrate to these depths and the zone is bathed in darkness. Figure and caption modified from the National Oceanic and Atmospheric Administration, https://oceanservice.noaa.gov/facts/light_travel.html, accessed 17 May, 2018</caption>
+    <image width="92.5%" source="light_in_seas"/>
+  </figure>
+  <figure xml:id="fig_N_h_isotopes">
+    <caption>Earth's water is from far-flung sources: beyond the orbit of Jupiter. Hydrogen has two stable isotopes; their ratio in water reflects the ancient history of the water. A similar observation applies to nitrogen: the ratio of its two stable isotopes gives complimentary information on the history of a object's nitrogen. This history largely reflects how far from the sun the water formed. Earth (blue circle and line, the Moon (grey rectangle), Mars (red rectangle) and even the largest asteroid Ceres (white rectangle) all have hydrogen and nitrogen isotopic ratios near 0. Comets formed 1000s of AU from the sun in the Oort cloud (yellow box), and comets formed near 30 AU (green box) have hydrogen and nitrogen ratios distinct from Earth, and clearly are not the source of Earth's water. Of all the objects we have measured, only a few types of primitive carbon- and water-rich carbonaceous chondrite meteorites have the right composition to source Earth's water. These meteorites likely formed as asteroids near and beyond the orbit of Jupiter, at 5 to 10 AU. See <xref ref="fig_jupiter_source_water">Figure</xref> for illustrations of how Jupiter scattered these asteroids into Earth's neighborhood.</caption>
+    <image width="92.5%" source="N_H_isotope_ratios_planets"/>
+  </figure>
+  <figure xml:id="fig_water_timing">
+    <caption>The hydrosphere's early history. Delivery of carbon- and water-rich asteroids to the inner solar system began as early as 8 to 20 My after CAIs, long before the final moon-forming collision between Earth and Theia. The wet asteroids from the outer solar system delivered the equivalent of 3 to 5 times the mass of today's oceans to the still-forming Earth. The magma ocean resulting from the collision delivered much of this water to the hot, steam-rich atmosphere surrounding our nascent planet. Once the magma ocean solidified, steam condensed to water and the very first rain fell to the surface, forming the hydrosphere. This early liquid ocean was most likely repeatedly boiled back into the atmosphere by meteorites striking the surface, a process that may have continued until 4 Ga.(Marchi, S., Bottke, W. F., Elkins-Tanton, L. T., Bierhaus, M., Wuennemann, K., Morbidelli, A., &amp; Kring, D. A. (2014). Widespread mixing and burial of Earth's Hadean crust by asteroid impacts. Nature, 511(7511), 578.) The oldest pieces of Earth yet found<mdash/>tiny grains of the mineral zircon from outcrops in the Jack Kills area of Australia<mdash/>have clear O isotopic evidence that abundant surface water existed at 4.374 Ga, less than 100 My after Earth had a solid crust. The oceans are <em>old</em>. Dark-hued rectangles show best estimates for events, while light-hued rectangles give permissible (typically 95%) intervals; text in <em>italics</em> indicate events inferred from computer models, not measurement.</caption>
+    <image width="92.5%" source="Formation_hydrosphere"/>
+  </figure>
+  <figure xml:id="fig_jupiter_source_water">
+    <caption>Sophisticated computer models illustrate how a growing Jupiter and Saturn could have flooded the inner solar system with water-rich asteroids. One such model mathematically grows Jupiter and Saturn over a brief interval a few million years after solar system formation began. The horizontal axis shows the orbital radius of each object plotted, while the vertical axis gives the eccentricity of the orbit. Asteroids (the colored dots) are color coded by their distance to the Sun. Red and green asteroids are relatively dry, blue and cyan asteroids are relatively wet. The Earth will eventually form at an orbital radius of 1 AU. As Jupiter (the black circle at 5.4 AU) and Saturn (at 7.2 AU) grow, their gravity perturbs the orbits of nearby asteroid, forming
+    <q>wings.</q>
+    Eventually the planets grow big enough to force asteroids into highly eccentric orbits, which carry them into the inner solar system (indicated by the dashed purple line). Here they can collide with the growing terrestrial planets, providing water to the previously dry planets. This illustration is modified from Figure 2 of Raymond, S. N., &amp; Izidoro, A. (2017). Origin of water in the inner Solar System: Planetesimals scattered inward during Jupiter and Saturn's rapid gas accretion. Icarus, 297, 134-148. I DO NOT YET HAVE PERMISSION TO USE THIS FIGURE.</caption>
+    <image width="92.5%" source="Jup_Sat_water"/>
+  </figure>
+  <p>
+    \begin{sidewaysfigure}[ht]
+  </p>
+  <p>
+    <image width="92.5%" source="jhzircon"/> \caption{The oldest bits of our planet known are found in an ancient part of western Australia
+    (pane a).
+    From space (b) the desolate Jack Hills region shows <nbsp/>3 Ga sedimentary rocks that have repeatedly been heated an deformed.
+    On the ground (c),
+    the rocks include conglomerates clearly formed by and in running water,
+    hardly surprising in such
+    <q>young</q>
+    rocks.
+    Zircon grains (d) found in these rocks are substantially older than their host rocks:
+    the lower left corner of the zircon here is \num[separate-uncertainty = true]{4.404(8)}. Oxygen isotope ratios in the zircon indicate that the rocks from which the zircon formed had interacted with liquid water.
+    Earth's hydrosphere was up and running over 4.4 billion years ago.
+    Pane (a) and (b) are courtesy of NASA Earth Observatory
+    (https://earthobservatory.nasa.gov/Features/Zircon/Images/australia_map.jpg;
+    https://eoimages.gsfc.nasa.gov/images/imagerecords/6000/6331/jackhills_etm_1999208_lrg.jpg).
+    Panes (c; http://www.geology.wisc.edu/zircon/Earliest%20Piece/Images/3.jpg) and (d;
+    http://www.geology.wisc.edu/zircon/Earliest%20Piece/Images/5.jpg) are from John Valley's web site,
+    and I DO NOT YET HAVE PERMISSION TO USE THIS THEM. } \end{sidewaysfigure}
+  </p>
+  <figure xml:id="fig_bif">
+    <caption>The famous banded iron formations of Hamersley Range, Western Australia, a mere 2.46 Ga. These extensive deposits from ancient shallow seas are found world-wide, and are the primary source of iron ore to society. They are are also the oldest-known sedimentary rocks (although the ones pictured here are younger by 1.2 billion years!) Figure courtesy of the USGS and photographer https://www.usgs.gov/media/images/banded-iron-formation-hamersley-range. Accessed 29 May 2018.</caption>
+    <image width="92.5%" source="BIF_usgs"/>
+  </figure>
+  <figure xml:id="fig_historic_sst">
+    <caption>Debate still rages on the ancient ocean's temperature. One school of thought (exemplified in the model results shown in yellow in pane a) argues that SST were roughly the same as those now. Well-documented ice ages (pane c), average weathering rates, the faint-young sun, even the existence of life (pane d) all argue for low SST over geologic history. But the evidence for hot oceans (isotopic results shown in red, green and purple; ezymatic evidence in blue in pane a) are consistent and are based on a wide variety of observations. Archean and Proterozoic oceans were hot, as high as \SIrange{55}{85}{\celsius}, and have cooled slowly over time. There is some evidence of temperature increases following both oxygenation steps (2.5 and 0.7 Ga) of the atmosphere. The net cooling of the surface oceans in this case is on the order of \SI[per-mode=symbol]{15}{\celsius\per\giga\year}. Which school is the correct one is still impossible to tell. Data sources: blue rectangles, Garcia, A. K., Schopf, J. W., Yokobori, S. I., Akanuma, S., &amp; Yamagishi, A. (2017). Reconstructed ancestral enzymes suggest long-term cooling of Earth's photic zone since the Archean. Proceedings of the National Academy of Sciences, 114(18), 4619-4624; red and green bands, Robert, F., &amp; Chaussidon, M. (2006). A palaeotemperature curve for the Precambrian oceans based on silicon isotopes in cherts. Nature, 443(7114), 969; purple, Knauth, L. P., &amp; Lowe, D. R. (2003). High Archean climatic temperature inferred from oxygen isotope geochemistry of cherts in the 3.5 Ga Swaziland Supergroup, South Africa. Geological Society of America Bulletin, 115(5), 566-580; yellow, Krissansen-Totton, J., Arney, G. N., &amp; Catling, D. C. (2018). Constraining the climate and ocean pH of the early Earth with a geological carbon cycle model. Proceedings of the National Academy of Sciences, 201721296; deep purple, Hren, M. T., Tice, M. M., &amp; Chamberlain, C. P. (2009). Oxygen and hydrogen isotope evidence for a temperate climate 3.42 billion years ago. Nature, 462(7270), 205; orange, Blake, R. E., Chang, S. J., &amp; Lepland, A. (2010). Phosphate oxygen isotopic evidence for a temperate and biologically active Archaean ocean. Nature, 464(7291), 1029; oither arguments for low temperature from Kasting, J. F., Howard, M. T., Wallmann, K., Veizer, J., Shields, G., &amp; Jaffr'es, J. (2006). Paleoclimates, ocean depth, and the oxygen isotopic composition of seawater. Earth and Planetary Science Letters, 252(1-2), 82-93.</caption>
+    <image width="92.5%" source="ocean_temps_archean"/>
+  </figure>
+  <figure xml:id="fig_ocean_comp">
+    <caption>The oxidation state and trace element content of the oceans over time. Prior to the Great Oxidation event, the vast majority of the oceans<mdash/>from surface to bottom) were poor in dissolved oxygen (anoxic) but rich in dissolved  iron, <m>Fe^{2+}</m> (ferruginous), as shown by the brown shaded regions. Occasional oxygen-rich oases may have briefly bubbled-up in shallow oceans after the evolution, <nbsp/>3 Ga, of oxygen-producing photosynthesis. The oceans above the continental slopes were anoxic, ferruginous and rich in <m>H_2S</m>, or euxinic, a condition recorded by abundant black shales from the period. Following the GOE, an oxygen-rich surface layer (in blue) spread globally, but anoxic and ferruginous continued in the deep ocean. Only after the NOE did bottom waters of the ocean become oxygenated, allowing soon thereafter for the evolution of large animals for the first time. Note (bottom panel) the sudden expansion of metazoan animals at the time of the NOE. Euxinic areas, though rare now, are still found in some areas of intense biological activity. (Lyons, T. W., Reinhard, C. T., &amp; Planavsky, N. J. (2014). The rise of oxygen in Earth's early ocean and atmosphere. Nature, 506(7488), 307; Knoll, A. H., &amp; Nowak, M. A. (2017). The timetable of evolution. Science Advances, 3(5), e1603076; Chen, X., Ling, H. F., Vance, D., Shields-Zhou, G. A., Zhu, M., Poulton, S. W., ... &amp; Archer, C. (2015). Rise to modern levels of ocean oxygenation coincided with the Cambrian radiation of animals. Nature Communications, 6, 7142.</caption>
+    <image width="92.5%" source="ocean_comp_time"/>
+  </figure>
+  <figure xml:id="fig_enso_norm">
+    <caption>Normal sea surface temperatures (SSTs) in the equatorial Pacific (for the period 1961-1990). This figure is identical to <xref ref="fig_sst_map">Figure</xref>, except for its focus on the Pacific and the different color scale. The
+    <q>Western Pacific Warm Pool,</q>
+    with SSTs over \SI{27}{\celsius} stretches from the western edge of the Pacific basin to the International Date Line at <m>180\circ</m>E longitude. The locations of Darwin and Tahiti are labeled; they become important locations for understanding the ENSO phenomena. The
+    <q>cold tongue</q>
+    along the equator from the western coast of South America to the IDL is also noticeable. <xref ref="fig_sst_anom_map">Figure</xref> nicely highlights the east-west temperature differences nicely.</caption>
+    <image width="92.5%" source="enso_norm"/>
+  </figure>
+  <figure xml:id="fig_enso_stages">
+    <caption>The ENSO includes three end-member stages, here illustrated by maps of SST differences from normal conditions. At normal conditions (third panel from top) SST differences are small (white areas) and the few areas of larger differences (yellow and blue areas) are small and scattered. During the classical El Ni&#xf1;o (second panel from top) the warm pool sloshes across the Pacific Ocean, piling up against South America. This is attended by a deeper thermocline and reduced upwelling, both detrimental to the productive areas along the coast. The
+    <q>Central Pacific</q>
+    form of the El Ni&#xf1;o also has the warm pool moving eastward, but it stalls in the central Pacific ocean. After return to normal conditions following an El Ni&#xf1;o, a La Ni&#xf1;a can form (bottom panel) where the strengthened cold tongue surges westward at the equator. The La Ni&#xf1;a SST cooling is generally much less than the warming associated with an El Ni&#xf1;o. (Wang, C., Deser, C., Yu, J. Y., DiNezio, P., &amp; Clement, A. (2012). El Ni&#xf1;o and southern oscillation (ENSO): a review. In Coral Reefs of the Eastern Pacific, P. Glymn, D. Manzello, and I. Enochs, Eds., Springer Science Publisher, 85-106.)</caption>
+    <image width="92.5%" source="ENSO_stages"/>
+  </figure>
+  <figure xml:id="fig_walker">
+    <caption>Caption</caption>
+    <image width="92.5%" source="Walker"/>
+  </figure>
+  <figure xml:id="fig_wpwp_tstorms">
+    <caption>[This is a low res version of a much larger file.]
+    <q>Late afternoon sun casts long shadows from high thunderhead anvils over southern Borneo. Crews aboard the International Space Station have recently concentrated on panoramic views of clouds<ndash/>taken with lenses similar to the focal length of the human eye. These images reveal the kinds of views crews see <mdash/> huge areas of the planet, with a strong three-dimensional sense of what it is like to fly \SI{400}{\kilo\metre} (250 miles) above the Earth. High-altitude winds are clearly sweeping the tops off the many tallest thunderclouds, generating long anvils of diffuse cirrus plumes that trail south. Storm formation near the horizon <mdash/> more than 1000 km distant (image center) <mdash/> is assisted as air currents rise over the central mountains of Borneo.</q>
+    The inset shows the approximate view as seen from the ISS (http://www.isstracker.com/historical) Image and caption courtesy of NASA, https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS040&amp;roll=E&amp;frame=88891, accessed on Summer solstice, 2018 (Northern Hemisphere).</caption>
+    <image width="92.5%" source="wpwp_tstorms"/>
+  </figure>
+  <figure xml:id="fig_oni">
+    <caption>The El Ni&#xf1;o-Southern Oscillation since 1950, as shown by departures of SST from the average in the
+    <q>Nino3.4 region</q>
+    of the central Pacific Ocean. El Ni&#xf1;os and La Ni&#xf1;as are indicated by the red and blue spikes respectively; greater and longer departures indicate stronger events. Note that El Ni&#xf1;os are in generally stronger than La Ni&#xf1;as. A quick count of El Ni&#xf1;os indicates (see <xref ref="enso_cycle">Section</xref>) an average period of 3 years, although there is significant variation around this average. The diagram gives the maximum amplitude of El Ni&#xf5;s is rising with time. This plot, modified from one created by Kevin Trenberth (https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni),  is constructed from NOAA_ERSST_V4 data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, from their Web site at https://www.esrl.noaa.gov/psd/.</caption>
+    <image width="92.5%" source="ONI"/>
+  </figure>
+</section>

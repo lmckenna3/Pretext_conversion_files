@@ -1,0 +1,14 @@
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude"  xml:id="Hydrosphere">
+  <title>The Hydrosphere</title>
+  <xi:include  href="Hydrosphere_Epigraph.ptx"/>
+  <xi:include  href="Hydrosphere_Core_Concepts.ptx"/>
+  <xi:include  href="Hydrosphere_Opening_Problem.ptx"/>
+  <xi:include  href="Water_is_Weird.ptx"/>
+  <xi:include  href="Water_and_the_Hydrosphere.ptx"/>
+  <xi:include  href="The_Contemporary_Ocean.ptx"/>
+  <xi:include  href="Oceans_of_the_Past.ptx"/>
+  <xi:include  href="Circulation.ptx"/>
+  <xi:include  href="Climate_change_in_the_Oceans.ptx"/>
+  <xi:include  href="Hydrosphere_Exercises.ptx"/>
+  <xi:include  href="Hydrosphere_Figures.ptx"/>
+</chapter>

@@ -1,0 +1,358 @@
+<section xml:id="Oceans_of_the_Past">
+  <title>Evolution over geologic time</title>
+  <subsection>
+    <title>Introduction</title>
+    <p>
+      Like every part of the Earth,
+      the contemporary hydrosphere with which we have such first-hand experience is <em>not</em>
+      the same as the hydrosphere of the past.
+      The oceans in particular have evolved in synchrony with the atmosphere. biosphere and geosphere,
+      changes in each driving changes in the others.
+      Our approach in this section of the book is to look at each of the spheres in turn,
+      examining the connections<mdash/>the flows of energy and mass<mdash/>between them and how these interactions formed a continuously-habitable climate on Earth.
+      A study more focused on the sequential history of Earth and Earth systems (a field known as Historical Geology) would instead use time as the organizational tool,
+      and examine the happenings in all spheres at each slice of Earth's history.
+      Both approaches are valuable,
+      but our approach has the advantage of explicitly examining the powerful effects of feedbacks between the spheres on shaping climate.
+      The feedbacks involving the oceans, atmosphere and biosphere,
+      show how Earth naturally has stable climate states,
+      states that can change over time.
+    </p>
+  </subsection>
+  <subsection>
+    <title>Origins of Earth's water</title>
+    <p>
+      Before we tackle the hydropshere's long-term evolution,
+      we need to understand the source of Earth's water, both in time and space.
+      The timing and location of Jupiter's formation was the key factor delivering water to the still-forming Earth.
+      As we saw in Chapter 5, Earth and the other terrestrial planets formed in the warm inner portion of the proto-planetary nebula.
+      Inside the
+      <q>snow-line</q>
+      gas and ice were largely absent,
+      and the growing planetesimals were bone dry.
+      The terrestrial planets thus formed hot and dry.
+      Beyond the snow-line,
+      at distances beyond 3 to 4 AU from the Sun, water ice was stable,
+      and made up significant proportions of growing planetesimals<fn>
+      Raymond, S. N., &amp; Izidoro, A. (2017).
+      Origin of water in the inner Solar System: Planetesimals scattered inward during Jupiter and Saturn's rapid gas accretion.
+      Icarus, 297, 134-148.
+      </fn>.
+      The logical conclusion is that Earth's water is from the outer solar system!
+      Fortunately we can test this hypothesis,
+      and even add some precision to the location.
+      The contemporary asteroid belt still contains remnants of planetesimals formed near Earth
+      (the s-type asteroids)
+      and those formed beyond the snow-line (The c-type asteroids).
+      We have samples of both types thanks to meteorites,
+      so we can minutely study their chemical and isotopic composition.
+      Studying the water alone isn't enough to uniquely identify the source of Earth's water.
+      Both hydrogen and nitrogen have multiple isotopes,
+      and their ratios provide isotopic
+      <q>fingerprints</q>
+      unique to the many possible sources of water to Earth.
+      <xref ref="fig_N_h_isotopes">Figure</xref>
+      shows that objects farther from the Sun (comets,
+      some of the asteroids sampled by meteorites) are isotopically distinct from Earth:
+      these distant objects couldn't have contributed any substantial water to the early Earth<fn>
+      Jessica J. Barnes, David A. Kring, Romain Tart`ese, Ian A. Franchi, Mahesh Anand,
+      et al., An asteroidal origin for water in the Moon.
+      Nature Communications, Nature Publishing Group, 2016, 7, pp.11684. 10.1038/ncomms11684.
+      </fn>.
+      The best isotopic match is with primitive carbon- and water-rich carbonaceous chondrites,
+      whose parent bodies formed beyond the orbit of Jupiter.
+      Go ahead, have a sip of water,
+      and enjoy the taste of the solar system.
+    </p>
+    <p>
+      Those asteroids must have flooded the inner solar system very early in its history (<xref ref="fig_water_timing">Figure</xref>; see this
+      <url href="https://www.youtube.com/watch?v=Ji5ZC7CP5to">this link</url>
+      for a great video of the process,
+      as all of the terrestrial planets for which we have data share Earth's H and N isotopic composition.
+      The cause of this
+      <q>flood</q>
+      was the rapid formation of Jupiter and Saturn in the earliest phases of the solar system's formation
+      (<xref ref="fig_jupiter_source_water">Figure</xref>).
+      While the precise timing is still unclear<fn>
+      Morbidelli, A., &amp; Wood, B. J. (2015).
+      Late accretion and the late veneer.
+      The Early Earth: Accretion and Differentiation, Geophysical Monograph, 212, 71-82; Sarafian, A. R., Nielsen, S. G., Marschall, H. R., McCubbin, F. M., &amp; Monteleone, B. D. (2014).
+      Early accretion of water in the inner solar system from a carbonaceous chondrite-like source.
+      Science, 346(6209), 623-626; Barnes et al., op. cit., Raymond &amp; Andre Izidoroa, op. cit.
+      </fn> the water-rich c-type asteroids clearly arrived in
+      <q>our</q>
+      part of the solar system prior to the moon-forming impact that completed Earth's accretion.
+      During this early period, Jupiter and Saturn carved rings of dust and gas from the proto-planetary nebula as they grew.
+      As their mass increased,
+      their gravitational muscle nudged the orbits of nearby c-type asteroids,
+      sending some into the asteroid belt
+      (where they still reside)
+      and some into the inner solar system.
+      All of this activity is loosely constrained to within the first 8-20 My after solar system formation started.
+      Earth's water must have been mixed into the Earth while it was still half the mass it is now<fn>
+      Assuming Theia impact at \num[separate-uncertainty = true]{92(35)}My after CAI, with
+      <m>0.1M_\Earth</m> added at collision, and exponential growth
+      (mean time of accretion = 17 My)
+      to the collision, mass of the proto-Earth is <m>0.28\pm 0.13</m> to
+      <m>0.54\pm 0.14\ M_\Earth</m> at 8 and 20 My, based on simple MC modeling.
+      </fn>.
+      Water on Earth is old and was deeply buried.
+    </p>
+  </subsection>
+  <subsection>
+    <title>The earliest oceans</title>
+    <introduction>
+      <p>
+        But not for long.
+        As we saw in Chapter 6, Earth's formation ended with a giant collision that left the upper few hundred kilometers of the Earth molten,
+        covered with a magma ocean.
+        Don't confuse this magma ocean<mdash/>made of liquid rock at temperatures of \SIrange{1500}{2500}{\kelvin}<mdash/>with the watery ocean now covering our planet.
+        The magma ocean convected easily,
+        so material from deep below the surface was continuously being brought to the surface<fn>
+        Ikoma, M., Elkins-Tanton, L., Hamano, K., &amp; Suckale, J. (2018).
+        Water Partitioning in Planetary Embryos and Protoplanets with Magma Oceans.
+        Space Science Reviews, 214(4), 76.
+        </fn>.
+        Despite its high temperatures and rocky composition,
+        liquid water readily dissolved in the magma,
+        until it reached the surface,
+        where it lost some of this water to the atmosphere.
+        Over a few million years much of the water dissolved in the magma ocean bubbled away into the super-heated steamy atmosphere,
+        hundreds of times heavier than the puny atmosphere of our current Earth.
+        For the few million years the magma ocean was molten at the surface<fn>
+        Hamano, K., Abe, Y., &amp; Genda, H. (2013).
+        Emergence of two types of terrestrial planet on solidification of magma ocean.
+        Nature, 497(7451), 607.
+        </fn>,
+        and continually pumped water into the atmosphere.
+        But 4 to 5 Myr after the giant collision,
+        the magma ocean solidified and the atmosphere began to cool.
+        Although there is no direct evidence (yet!) for when this happened,
+        computer models suggest that within a few
+        <em>hundreds to thousands</em> years,
+        the atmosphere had cooled enough for the first<mdash/>ever<ndash/>rains to fall on the newly solidified Earth<fn>
+        Ikoma et al., <m>\S 4.3</m>
+        </fn>.
+        The hydrosphere was born.
+        These earliest oceans probably contained<mdash/>within a factor of two<mdash/>about as much water as the contemporary oceans do.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>How we characterize ancient oceans</title>
+      <p>
+        The chronology of Earth's hydrosphere nudges against the very start of the solar system,
+        at least 4.547 billion years ago.
+        But the first direct evidence<mdash/>evidence that one can hold in one's hand<mdash/>is younger,
+        <em>only</em> 4.374 billions years old,
+        and comes in the form of fragments of even older rocks,
+        deposited on Earth's early crust as sedimentary rocks. \paragraphs{Zircons and inclusions} Sometimes the littlest packages have the largest surprises.
+        This is certainly true of the zircon crystals found in the Jack Hills area of Western Australia.
+        The rocks there (<xref ref="fig_jhzirc">Figure</xref> are
+        <q>only</q>
+        3 Ga old, and consist of sandstones and conglomerates clearly deposited in water on an ancient continent.
+        Within those rocks are grains of zircon,
+        a mineral typically formed in granitic magmas.
+        Zircons are tough little minerals,
+        and can be precisely dated using U-Pb dating methods<fn>
+        Bowring, S. (2014).
+        Early Earth: Closing the gap.
+        Nature Geoscience, 7(3), 169 presents a brief review.
+        </fn>.
+        Hundreds of thousands of zircons from the Jack Hills have been dated,
+        and the oldest<fn>
+        Wilde, S. A., Valley, J. W., Peck, W. H., &amp; Graham, C. M. (2001).
+        Evidence from detrital zircons for the existence of continental crust and oceans on the Earth 4.4 Gyr ago.
+        Nature, 409(6817), 175.
+        </fn> (See <xref ref="fig_jhzirc">Figure</xref>) formed at \num[separate-uncertainty = true]{4.404(8)} Ga, less than 100 My after the Earth-Theia collision!
+        The zircons have another surprise:
+        the oxygen isotopic ratios indicate that the magmas from which they formed clearly interacted with surface waters:
+        an early ocean.
+        While it is no bigger than the width of a human hair,
+        the zircon in <xref ref="fig_jhzirc">Figure</xref>
+        it has planet-wide implications as the oldest direct evidence for Earth's hydrosphere. \paragraphs{Sedimentary rocks} Many sedimentary rocks form by the erosion,
+        transport and deposition of rock fragments in oceans,
+        so they too are direct evidence of an active hydrosphere.
+        The oldest sedimentary rocks on Earth are found in and around western Greenland and eastern Canada,
+        and date to <nbsp/>3.75 Ga.
+        These sedimentary rocks include cherts and banded iron formations formed on the ocean floor soon after the the last dregs of meteorite bombardment had stopped
+        (<xref ref="fig_bif">Figure</xref>).
+        Sedimentary rocks of every age are found since that time,
+        so it is extremely likely that Earth has had stable oceans since then.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Archean and Proterozoic hydrosphere</title>
+    <introduction>
+      <p>
+        In an influential essay, Ariel Anbar noted the odd truth of the modern oceans.
+        You'd expect that the vast majority of the surface oceans would thrive with life:
+        basking in sunlight streaming through the clear, blue water;
+        provided with abundant <m>CO_2</m>,
+        and slurping up required nutrients dissolved in the water.
+        In fact, most of the tropical oceans are a lifeless desert,
+        because the water lacks trace metals
+        (mostly metals like Fe, Mn, and Co)
+        as well as nitrogen<fn>
+        Lyons, T. W., Reinhard, C. T., &amp; Planavsky, N. J. (2014).
+        The rise of oxygen in Earth's early ocean and atmosphere.
+        Nature, 506(7488), 307-315. https://doi.org/10.1038/nature13068
+        </fn>.
+        This is paradoxical:
+        why after some 4 Ga of evolution should life in the oceans be so ill-adapated to life in the oceans!
+        The explanation is that the core machinery of life evolved not in the modern oceans,
+        but in those from 4 Ga, and that ocean was far different chemically from the one we have now.
+        Understanding the evolution of the oceans is essential for understanding how the basic machinery of life evolved as well.
+        Biosphere, hydropshere and geosphere are intertwined not only today,
+        but through time.
+        Understanding the evolving compositions of the oceans is essential to understanding the evolution of Earth's climate.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>The Archean: Hot, anoxic and iron-y</title>
+      <p>
+        Just about every aspect of the ancient oceans was different than the modern oceans,
+        even such simple features as temperature.
+        We saw in <xref ref="modern_sst">Section</xref>
+        that typical sea surface temperatures in the modern ocean average about \SIrange{15}{20}{\celsius}. Although a fierce debate continues<fn>
+        Garcia, A. K., Schopf, J. W., Yokobori, S. I., Akanuma, S., &amp; Yamagishi, A. (2017).
+        Reconstructed ancestral enzymes suggest long-term cooling of Earth's photic zone since the Archean.
+        Proceedings of the National Academy of Sciences, 114(18), 4619-4624 is a recent discussion;
+        see references to <xref ref="fig_historic_sst">Figure</xref> for a more complete list.
+        </fn> on this, SST at 4.0 Ga might have been as hot as \SIrange{55}{85}{\celsius}, or <m>130</m> to <m>180^\circ F</m>,
+        hot enough to safely cook chicken!
+        As <xref ref="fig_historic_sst">Figure</xref>
+        illustrates, SSTs have slowly decreased since then,
+        arriving near modern temperatures only in the last 250 Ma.
+        Many scientists disagree with this
+        <q>hot ocean</q>
+        model<fn>
+        Kasting, J. F., Howard, M. T., Wallmann, K., Veizer, J., Shields, G., &amp; Jaffr&#xe9;s, J. (2006).
+        Paleoclimates,
+        ocean depth, and the oxygen isotopic composition of seawater.
+        Earth and Planetary Science Letters, 252(1-2), 82-93.
+        </fn>,
+        arguing that ice ages, weathering rates,
+        the dimmer Sun and even the unlikely ability of large animals to live in such hot water all support a cooler ocean for all of its history.
+        Clearly someone is making incorrect assumptions about their science,
+        and this debate will continue as new tools become available.
+        Don't mistake this apparent ignorance of the
+        <q>facts</q>
+        as a weakness; as Stuart Firestein<fn>
+        Firestein, S. (2012).
+        Ignorance: How it drives science.
+        Oxford University Press, pg 15-16.
+        </fn> notes,
+        <q>Want to be at the cutting edge [of science]? Well,
+        it's all or mostly, ignorance out there.
+        Forget the answers, work on the questions.</q>
+      </p>
+      <p>
+        All data agrees that the Archean ocean had a substantially different chemistry than today's ocean.
+        Prior to the Great Oxygenation Event at 2.5 Ga, oxygen would have been largely absent from the oceans,
+        except for brief, local episodes<fn>
+        Kendall, B., Creaser, R. A., Reinhard, C. T., Lyons, T. W., &amp; Anbar, A. D. (2015).
+        Transient episodes of mild environmental oxygenation and oxidative continental weathering during the late Archean.
+        Science advances, 1(10), e1500777.
+        </fn>.
+        Iron and chemically similar metals (Ni, Co and Mn, for example) readily dissolved into the anoxic ocean as reduced ions like <m>Fe^{2+}</m>,
+        so the earliest oceans were 10,000 times more enriched in Fe than we see today.
+        In such
+        <q>ferrungous</q>
+        or iron-rich environments,
+        it is no wonder that life evolved to use these abundant metals.
+        Life then as now depends upon gaining energy through reduction-oxidation reactions.
+        The oldest of the molecular machines that conduct these reactions all have metal atoms at their core,
+        metals abundant in the Archean<mdash/>but not contemporary<mdash/>oceans.
+        While the deep oceans of the Archean were uniformly hot,
+        anoxic and ferrungous,
+        the continental slopes and shelves had their own peculiarity.
+        Isotopic data from shales<mdash/>mud-rich sedimentary rocks deposited on the shallow and well-lit shelves<mdash/>indicate that relatively large portions<fn>
+        Reinhard, C. T., Planavsky, N. J., Robbins, L. J., Partin, C. A., Gill, B. C., Lalonde, S. V., ... &amp; Lyons, T. W. (2013).
+        Proterozoic ocean redox and biogeochemical stasis.
+        Proceedings of the National Academy of Sciences, 110(14), 5357-5362.
+        </fn> of the shelves may have been anoxic and rich in hydrogen sulfide,
+        <m>H_2S</m>,
+        the gas that gives rotten eggs and sewers their distinctive aroma.
+        Such
+        <q>euxinic</q>
+        areas are exceptionally rare in the modern oceans]footnote{the Black Sea is largest such area in the world today}. Significant changes in ocean chemistry had to wait until oxygenic photosynthesis had established itself in earnest:
+        at the GOE.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Proterozoic: Great Oxidation Event and the Boring Billion</title>
+      <p>
+        As we saw in Chapter 6, the evolution of photosynthesis<fn>
+        Planavsky, N. J., Asael, D., Hofmann, A., Reinhard, C. T., Lalonde, S. V., Knudsen, A., ... Rouxel, O. J. (2014).
+        Evidence for oxygenic photosynthesis half a billion years before the Great Oxidation Event.
+        Nature Geoscience, 7(4), 283-286. https://doi.org/10.1038/ngeo2122
+        </fn> at 2.95 Ga began the slow process of oxygenating Earth's surface.
+        The bacteria conducting all this photosynthesis lived principally in the oceans,
+        so one might expect the oxygen released in this photosynthesis would have oxidized the ocean before the atmosphere.
+        But <m>>99\%</m> of all the <m>O_2</m> produced in photosynthesis is consumed by the same organism which produced it.
+        The net result is the slow oxygenation of the well-lit surface layers of the Proterozoic Ocean,
+        but not the deep portions, which remained anoxic and iron-rich
+        (<xref ref="fig_ocean_comp">Figure</xref>).
+        In fact, for the nearly billion year period from the end of the GOE to the NOE, known informally as the
+        <q>boring billion,</q>
+        represent a period of stasis in the Earth's evolution:
+        geosphere, hydrosphere and biosphere all seemed to find a comfortable
+        <q>middle age</q>
+        of unchanging complacency.<fn>
+        amongst others,
+        see Reinhard, C. T., Planavsky, N. J., Olson, S. L., Lyons, T. W., &amp; Erwin, D. H. (2016).
+        Earth's oxygen cycle and the evolution of animal life.
+        Proceedings of the National Academy of Sciences, 113(32), 8933-8938.
+        </fn> Well, with the exception of complex multicellular life,
+        known collectively as eukaryotes.
+        Subtle but persuasive evidence<fn>
+        Knoll, A. H., Javaux, E. J., Hewitt, D., &amp; Cohen, P. (2006).
+        Eukaryotic organisms in Proterozoic oceans.
+        Philosophical Transactions of the Royal Society B: Biological Sciences, 361(1470), 1023-1038; Parfrey, L. W., Lahr, D. J., Knoll, A. H., &amp; Katz, L. A. (2011).
+        Estimating the timing of early eukaryotic diversification with multigene molecular clocks.
+        Proceedings of the National Academy of Sciences, 108(33), 13624-13629.
+        </fn> all indicate that the branch of life that includes essentially all naked-eye life forms<mdash/>algae,
+        seaweed, plants,
+        fungi and animals<mdash/>evolved around 1.8 Ga, and underwent slow evolution during this time.
+        Eukaryotes, big and multi-cellular,
+        demand far more oxygen than the relatively tiny and uni-cellular prokaryote that had dominated the biosphere since life first evolved. \paragraphs{End Proterozoic changes and birth of a
+        <q>modern</q>
+        ocean} That boring period ended around 0.8 Ga, when dramatic changes rippled through Earth's spheres.
+        <xref ref="fig_ocean_comp">Figure</xref>
+        (pane 3) indicates a sudden and long-lasting increase in global ice cover;
+        abrupt diversification of marine eukaryotes (pane 4) and large perturbations to the C cycle (pane 2),
+        all ultimately caused by the reorganization of continents at the time<fn>
+        Shields-Zhou, G., &amp; Och, L. (2011).
+        The case for a Neoproterozoic oxygenation event:
+        geochemical evidence and biological consequences.
+        GSA Today, 21(3), 4-11.
+        </fn>.
+        For the first time in its history, Earth would have looked familiar from space,
+        with blue skies, blue oceans,and green life
+        (thin land-dwelling algae sliming the rocks)
+        on land<fn>
+        Wellman, C. H., &amp; Strother, P. K. (2015).
+        The terrestrial biota prior to the origin of land plants (embryophytes):
+        a review of the evidence.
+        Palaeontology, 58(4), 601-627.
+        </fn>.
+        In the oceans,
+        the important change was the rapid and inexorable penetration of dissolved oxygen into the deepest oceans.
+        Once the bottom of the ocean was oxygenated,
+        animal life quickly radiated across the world.
+        After 4 billion years of history,
+        all of the major forms of animals<mdash/>from sponges and worms to chordates,
+        our ancestors<mdash/>evolved and spread across the world's oceans in the relatively brief Cambrian
+        <q>explosion</q>, from approximately 540 to 522 Ma<fn>
+        Maloof, A. C., Porter, S. M., Moore, J. L., Dud&#xe1;s, F. O., Bowring, S. A., Higgins, J. A., ... &amp; Eddy, M. P. (2010).
+        The earliest Cambrian record of animals and ocean geochemical change.
+        Bulletin, 122(11-12), 1731-1774.
+        </fn>.
+        A long journey for Earth and reader,
+        but ending in a comfortable place:
+        a recognizable and comfortable Earth.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

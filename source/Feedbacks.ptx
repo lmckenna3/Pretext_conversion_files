@@ -1,0 +1,70 @@
+<section xml:id="Feedbacks">
+  <title>Introduction: the importance of Cryosphere<mdash/>climate feed backs</title>
+  <p>
+    Uniquely among, well,
+    the entire known Universe, Earth's average surface temperature (\SI{288}{\kelvin}, \SI{15}{\celsius},
+    <m>60^{\circ}F</m>) and pressure are near the freezing point of water (\SI{273}{\kelvin}, \SI{0}{\celsius}, <m>32^{\circ}F</m>).
+    At various times, in various places and for various durations,
+    temperatures fall below that freezing point and in a complex and still incompletely understood process<fn>
+    Pradzynski, C. C., Forck, R. M., Zeuch, T., Slav'icek, P., &amp; Buck, U. (2012).
+    A Fully Size-Resolved Perspective on the Crystallization of Water Clusters.
+    Science, 337(6101), 1529.
+    <url href="https://doi.org/10.1126/science.1225468">Link</url>
+    </fn> liquid water freezes into solid ice.
+    The sum total of all that ice at any time is Earth's <em>Cryosphere</em>.
+    If you look back at the previous few chapters, you'll find a theme:
+    our examination of each sphere starts with a monologue about the sphere's role in moving heat from the Equator to the Poles,
+    moderating Earth's surface temperatures.
+    Not this chapter.
+    The Cryosphere is too small, too un-massive,
+    too static and too ephemeral to move any substantial heat around the planet.
+    On local and regional scales,
+    the Cryosphere acts like a thermal battery, storing heat for later,
+    slower release,
+    and moderating local and regional temperature changes.
+    But the climatically important role of the Cryosphere lies at the core of its ephemerality:
+    newly-fallen snow and ice are bright and reflective,
+    so they have unusual high albedo.
+    Snow and ice can reduce Earth's equilibrium surface temperature,
+    and hence make the additional snow and ice more likely.
+    These feedbacks reach into the heart of the carbon cycle,
+    so the cryosphere-albedo-surface temperature feedback is one of the strongest and most important in climatology.
+    For the past 2.6 million years these feedbacks have repeatedly plunged Earth into Ice Ages<fn>
+    Maslin, M. A., &amp; Brierley, C. M. (2015).
+    The role of orbital forcing in the Early Middle Pleistocene Transition.
+    Quaternary International, 389, 47-55.
+    <url href="https://doi.org/10.1016/j.quaint.2015.01.047">Link</url>
+    </fn>,
+    and even affected the timing and path of human evolution and migration.
+  </p>
+  <p>
+    The feedback begins with increases in snow and ice <xref ref="fig_cryo_albedo_feedback">cover</xref>,
+    which reduces Earth's average albedo.
+    It doesn't take much snow to raise Earth's albedo significantly:
+    coating just 1% of Earth's surface with snow
+    (about the amount shown in <xref ref="fig_jonas">Figure</xref>)
+    would raise average albedo by nearly 2 percentage points<fn>
+    Roughly, for an Earth (<m>A_\Earth=0.30</m>) fraction <m>f</m> newly covered with snow (<m>A_{snow}=0.80</m>),
+    <m>A_{new} \approx (1-f)A_\Earth+fA_{snow}</m> so
+    <m>A_{new} \approx 0.305</m> and <m>dA=0.005=5/3\%</m>.
+    </fn>.
+    This albedo change leads to a change in Earth's equilibrium temperature <m>T_{eq}</m><mdash/>assuming the snow never melted or darkened,
+    reasonable in this thought experiment<mdash/> of \SI{0.5}K (see<fn>
+    For <m>T_{eq}=\left(\frac{S(1-A)}{4\sigma}\right)^{1/4}</m>,
+    <m>\left(dT_{eq}\right)_S=-\frac{1}{4}\frac{1}{1-A}T_{eq}dA=\SI{0.46}{\kelvin}</m>
+    </fn>), which lowers the surface temperature,
+    <m>T_{surf}</m>,
+    which increases the Cryosphere's stability formation of more snow and ice.
+    Over time, average temperatures in the oceans fall,
+    which draws <m>CO_2</m> from the atmosphere and into the oceans,
+    reducing the greenhouse effect,
+    further lowering <m>T_{surf}</m> and altering the carbon cycle!
+    A little bit of snow can,
+    over a few centuries, make a difference of the world.
+    The intricate relationships between the Cryosphere and other aspects of the Earth System are shown in <xref ref="fig_cryo_concept_map">Figure</xref>.
+    We'll explore the Cryosphere in reverse,
+    briefly noting the small and temporary components,
+    and then dwelling on glaciers and ice sheets.
+    These will lead us naturally into our examination of the Ice Ages and the factors<mdash/>both here on Earth and in the greater Solar System<mdash/>controlling them.
+  </p>
+</section>

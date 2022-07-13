@@ -1,0 +1,149 @@
+<section xml:id="Hot_Equator__Cold_Poles">
+  <title>Why are the Tropics Hot, and the Poles Cold</title>
+  <subsection>
+    <title>A Brief Review</title>
+    <subsubsection>
+      <title>Two important characteristic temperatures</title>
+      <p>
+        In the Chapters and Sections above we found that we could predict an equilibrium temperature for the Earth as a whole using the Stefan-Boltzman Law,
+        finding <m>T_{eq}=\SI{255}{\kelvin} = \SI{-18}{\kelvin}= -1^{\circ}F</m>.
+        This temperature is a manifestation of the proportion of the Sun's insolation<mdash/>short wave radiation<mdash/>absorbed by Earth.
+        We realized this temperature was far lower than Earth's actual surface temperature,
+        and discovered (Equation 4.04) that the Greenhouse Effect raises Earth's average global temperature to <m>T_{av}=\SI{288}{\kelvin} = \SI{15}{\kelvin}= 60^{\circ}F</m>.
+        This change was due to the interrupted flow of heat<mdash/>as long wave radiation<mdash/>from Earth to space by greenhouse gasses in the atmosphere.
+        As you might have guessed, these two temperatures,
+        important as they are, are insufficient to describe Earth's climate.
+        Unless you live in a sealed, air conditioned room,
+        you know that there are seasonal and diurnal variations in temperature at one place,
+        as well as temperature variations at the same time from place to place.
+        These temporal and spatial variations are due to temporal and spatial variations in the amount of energy received and absorbed by Earth;
+        understanding their origin and scale will prepare us for understanding the crucial role the atmosphere and oceans play in transporting heat and moderating climate across the globe.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>Climate Averages</title>
+    <subsubsection>
+      <title>A brief geographical interlude: latitude and longitude</title>
+      <p>
+        Understanding Earth's climate requires that we understand Earth's natural directions and geography.
+        As a rotating sphere, Earth naturally has two Poles, North and South,
+        and an Equator half-way between.
+        <xref ref="fig_globe">Figure</xref>
+        is a map of the Earth in Robinson projection,
+        which nicely presents all parts of the globe with relatively little distortion,
+        except near the poles.
+        On the Robinson projection, the North and South Poles,
+        which are really points,
+        are spread into the upper and lower blues lines on the map.
+        Lines of latitude are actually circles
+        (shown in blue),
+        parallel to the Equator and indicate the angle from the equator to the given parallel of latitude measured north or south of the Equator.
+        The contiguous 48 states of the United States fall, for example,
+        between <m>\ang{49.5}</m> N and
+        <m>\ang{24.5}</m>N, although Alaska and Hawaii are respectively much further north and south of these limits.
+        The North and South Poles are at latitudes <m>\ang{90}</m>N and
+        <m>\ang{90}</m>S, and the Equator is at <m>\ang{0}</m>.
+        A number of parallels have significant climatological and cultural significance,
+        and are shown and labeled on the map.
+      </p>
+      <p>
+        Establishing an east-west coordinate system is more difficult;
+        lines of longitude run from pole to pole,
+        but one such line is no more natural a starting point than another.
+        By international agreement,
+        one fraught with intrigue and mathematics, 25 nations decided somewhat arbitrarily in 1884 CE to set the line of longitude running through a particular telescope at the Greenwich Observatory,
+        near London, England, as the starting point for longitude<fn>
+        Steel, D. (2001).
+        Marking time: The epic quest to invent the perfect calendar.
+        John Wiley &amp; Sons., pg. 269
+        </fn>.
+        Longitudes increase from <m>\ang{0}</m> to
+        <m>\ang{180}</m>E eastward from London,
+        and from <m>\ang{0}</m> to
+        <m>\ang{180}</m>W to the west of London.
+        The contiguous United States fall between
+        <m>\ang{67}</m>W (West Quoddy Head, Maine) and
+        <m>\ang{125}</m> W (Cape Alava, Washington).
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>
+      <q>Latitudes however, are more significant for the diversity of lands than longitudes</q>
+      </title>
+      <p>
+        In terms of locating a place on Earth,
+        latitude and longitude are equal.
+        Not so in terms of climate.
+        Over 2500 years ago, the Greek philosopher Parmenides<fn>
+        G&#xf3;mez, N. W. (2008).
+        The tropics of empire: why Columbus sailed south to the Indies.
+        Cambridge, MA: MIT Press, pg. 72
+        </fn> was aware that climate varied more by latitude than by longitude,
+        an observation best summarized by the great Muslim polymath Averro{\:e}s (1126-1198 CE) in the quote opening this section<fn>
+        Ibid, pg. 1
+        </fn>.
+        Directions on Earth are climatologicaly important.
+      </p>
+      <p>
+        Parmenides called areas of similar latitude <em>zones</em>,
+        and so east-west directions and averages are termed <em>zonal</em>,
+        as shown on <xref ref="fig_globe">Figure</xref>.
+        For the subsequent 25 centuries western science has divided Earth into 5 major zones,
+        symmetric to the Equator.
+        They are labeled in bold letters on the map:
+        two Polar zones, two Temperate zones,
+        and a single Tropical zone.
+        Parmenides, and a long train of geographers after him,
+        used the Sun's apparent position at key seasonal points to define the boundaries.
+        In the polar zones, the Sun does not rise at least one day per year,
+        and does not set at least one day per year.
+        The Arctic and Antarctic circles
+        (dashed lines at <m>\ang{66.6}</m> N and S)
+        mark the equator-ward extent of these areas.
+        In the Tropics,
+        the Sun passes directly overhead at least one day during the year.
+        The Tropic of Cancer and Capricorn
+        (dashed lines at <m>\ang{23.4}</m>N and S)
+        bound the Tropics.
+        Precise latitudes for the climatological boundaries between the zones are neither necessary nor possible,
+        but if you have to have a number,
+        choose <m>\ang{30}</m> and
+        <m>\ang{60}</m>, N and S, for the climatological boundaries between the zones.
+        These aren't the traditional boundaries identified by Parmenides,
+        but as we'll see they reflect the actual behavior of Earth's climate system better than the solar boundaries.
+        The other direction,
+        parallel to lines of longitude, is termed meridional,
+        after meridian, another name for a line of longitude.
+        <xref ref="fig_Apollo17">Figure</xref>
+        shows the zonal nature of climate nicely.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>The power of ignoring detail</title>
+      <p>
+        Semester grades at most colleges and universities are based on some form of average,
+        typically an average over time and over different types of assignments.
+        That average grade is a remarkably compact number,
+        summarizing an entire semester's worth of last minute cramming and late night writing into a single number or letter.
+        Averages eliminate the need to slog through every grade on every quiz and homework;
+        they illustrate the big picture without the distraction of detail.
+        Climate is a
+        <q>big picture</q>
+        view of average weather over time.
+        This time scale varies, but for the purposes of our studies,
+        climate is generally considered to be the average over multiple decades,
+        and very often 30 years.
+        This averaging removes the
+        (sometimes interesting)
+        short-term detail,
+        but also removes the distractions of too much detail.
+        Climate can be averaged over space, as well as time.
+        Zonal averages,
+        averages at a given latitude or range of latitudes,
+        taken over all longitudes, will be particularly useful.
+        We don't need too much detail to get a great understanding of Earth's climate.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

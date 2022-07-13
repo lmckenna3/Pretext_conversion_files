@@ -1,0 +1,315 @@
+<section xml:id="Water_and_the_Hydrosphere">
+  <title>Water and the Hydrosphere</title>
+  <introduction>
+    <p>
+      Studying the
+      <q>Hydrosphere</q>
+      should be easy: examine the watery part of Earth.
+      But just about every part of Earth <em>is</em> watery
+      (see <xref ref="fig_where_water">Figure</xref>),
+      and the parts that are most watery aren't even all water!
+      The difficulty arises from water's wonderful chemical flexibility,
+      partially due to, of course, hydrogen bonding.
+      So let's be explicit: <em>for our purposes,
+      the Hydrosphere includes all those parts of the Earth that are bodies of connected liquid water</em>.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Where's the Water?</title>
+    <introduction>
+      <p>
+        With this definition, the Hydrosphere includes oceans;
+        lakes and other bodies of water standing on the surface;
+        rivers and streams flowing across the surface; and even
+        <q>groundwater,</q>
+        liquid water flowing through the Geosphere.
+        While this definition may seem arbitrary,
+        we'll see that water's behavior varies depending upon its pressure and temperature.
+        So our definition of the Hydrosphere excludes solid water in the Cryosphere
+        (where water behaves like a rock),
+        water vapor in the Atmosphere,
+        water in the Biosphere, and the
+        <q>supercritical</q>
+        water in Earth's Geosphere
+        (where water and rock dissolve in to each other).
+        The amount of water in the deep parts of the Geosphere<mdash/>the mantle in particular<mdash/>is highly uncertain<fn>
+        Fei, H., Yamazaki, D., Sakurai, M., Miyajima, N., Ohfuji, H., Katsura, T., &amp; Yamamoto, T. (2017).
+        A nearly water-saturated mantle transition zone inferred from mineral viscosity.
+        Science Advances, 3(6), e1603024.
+        </fn>,
+        but probably includes at least as much water as found today in the oceans,
+        and perhaps twice as much!
+      </p>
+      <p>
+        With our definition, the Hydrosphere is essentially just the Oceans,
+        which contain 96.5% of all water in the Hydrosphere (See <xref ref="tab_hydro_comps">Table</xref>
+        and <xref ref="fig_water_scales">Figure</xref>).
+        We'll discuss the oceans in detail below.
+        The small portion of the Hydrosphere left over is mostly groundwater,
+        followed by water in lakes, and then rivers and streams.
+        Each deserves a brief discussion of their own.
+      </p>
+      <table xml:id="tab_wtw">
+        <title>Where's the water</title>
+        <tabular>
+          {@lrrr@} \toprule
+          Reservoir            &amp;Volume (<m>km^{3}</m>)&amp; Proportion (%) of\\ \cmidrule(r){3-4}
+          &amp;Surface Water  &amp;Surface Water &amp;Hydrosphere     \\  \midrule
+          <em>Hydrosphere</em>  &amp;<m>1.36x10^{9}</m>  &amp;50      &amp;-       \\
+          <m>\ \</m>Oceans        &amp;<m>1.34x10^{9}</m>  &amp;49      &amp;98     \\
+          <m>\ \</m>Groundwater    &amp;<m>2.34x10^{7}</m>  &amp;1      &amp;2       \\
+          <m>\ \</m>Lakes          &amp;<m>1.76x10^{5}</m>  &amp;<m>\approx 0</m>  &amp;<m>\approx 0</m> \\
+          <m>\ \</m>Wetlands      &amp;<m>1.15x10^{4}</m>  &amp;<m>\approx 0</m>  &amp;<m>\approx 0</m> \\
+          <m>\ \</m>Rivers        &amp;<m>2.12x10^{3}</m>  &amp;<m>\approx 0</m>  &amp;<m>\approx 0</m> \\
+          <em>Cryosphere</em>    &amp;<m>2.44x10^{7}</m>  &amp;1      &amp;-       \\
+          <em>Atmosphere</em>    &amp;<m>1.29x10^{4}</m>  &amp;<m>\approx 0</m>  &amp;-       \\
+          <em>Biosphere</em>    &amp;<m>1.12x10^{3}</m>  &amp;<m>\approx 0</m>  &amp;-       \\
+          <em>Soil</em>          &amp;<m>1.65x10^{4}</m>  &amp;<m>\approx 0</m>  &amp;-       \\
+          <em>Total</em>        &amp;<m>2.75x10^{9}</m>  &amp;100    &amp;100     \\  \bottomrule
+        </tabular>
+      </table>
+    </introduction>
+    <subsubsection>
+      <title>Groundwater</title>
+      <paragraphs>
+        <title>Formation and location</title>
+        <p>
+          Next time you have the opportunity,
+          watch rain falling on a hillside.
+          After it hits the ground,
+          the water can sink in to the soil, flow along the surface,
+          get absorbed by plants, or evaporate back into the Atmosphere.
+          The details of this will be part of our discussion of the hydrologic cycle,
+          which we'll cover in Chapter 9,
+          <em>Earth's Respiration</em>.
+          For now, follow the water sinking into the soil,
+          which passes through the air-filled voids between soil grains.
+          Eventually the sinking water reaches a place where the void spaces are completely filled with water,
+          which defines the <em>water table</em>,
+          the upper surface of groundwater.
+          Don't think of groundwater as filling underground cavities;
+          instead, think of a glass filled with ice and water (See <xref ref="fig_ice_soil">Figure</xref>).
+          The ice represents the particles of soil,
+          and the water in between the ice represents groundwater.
+          The water flows between the connected pathways around the ice
+          (which anyone who has used a straw to drink a beverage can attest to),
+          but the volume of water relative to ice is small.
+          So too in groundwater,
+          where water typically takes up 10% of the total volume of rock and water<fn>
+          Gleeson, T., Befus, K. M., Jasechko, S., Luijendijk, E., &amp; Cardenas, M. B. (2015).
+          The global volume and distribution of modern groundwater.
+          Nature Geoscience, 9(2), 161-167.
+          <url href="https://doi.org/10.1038/ngeo2590">Link</url>
+          </fn>.
+          Despite making up a small portion of the total volume of rock under your feet,
+          the total volume of groundwater stored in underground aquifers is surprising:
+          extracted just from the first \SI{2}[{\kilo}{\metre}] (1.3 miles) of Earth,
+          groundwater would make a \SI{180}{\metre} (600 foot) layer of water across the continents.
+          All that water,
+          buried beneath Earth's solid and opaque surface, is easy to miss.
+        </p>
+      </paragraphs>
+      <p>
+        Which is surprising,
+        as the average depth of the water table is only \SI{1}{\metre}<fn>
+        Fan, Y., Li, H., &amp; Miguez-Macho, G. (2013).
+        Global Patterns of Groundwater Table Depth.
+        Science, 339(6122), 940-943.
+        <url href="https://doi.org/DOI: 10.1126/science.1229881">Link</url>
+        </fn>.
+        After water percolates through the unsaturated soil to the water table,
+        it can flow like any other body of water,
+        as shown by the blue arrows in <xref ref="fig_gw_sketch">Figure</xref>.
+        Streams, rivers and lakes form where the water table intersects Earth's surface;
+        wetlands form where the water table is just below the surface.
+        Although most groundwater is deeply buried,
+        surface waters that you see
+        (and use)
+        every day are intimately connected to and dependent upon groundwater for their long-term stability<fn>
+        Winter, T. C. (Ed.). (1998).
+        Ground water and surface water: a single resource.
+        Denver, Colo: U.S. Geological Survey, Circular 1139.
+        </fn>.
+      </p>
+      <p>
+        Groundwater is a long-term stabilizer because water can remain in aquifers for thousands of years<fn>
+        Fan, Y. (2015).
+        Groundwater: How much and how old?
+        Nature Geoscience, 9(2), 93-94.
+        <url href="https://doi.org/10.1038/ngeo2609">Link</url>
+        </fn> after falling as rain.
+        As you might guess, deeper
+        (greater than <m>\SI{1000}{\metre}</m> [3300 feet])
+        groundwater tends to be older than shallower groundwater,
+        as shown in <xref ref="fig_gw_sketch">Figure</xref>.
+        This old groundwater can travel substantial distances over all that time,
+        and pick up high concentrations of compounds in the rocks through which it flows.
+        Because of this,
+        older groundwater tends to be more saline<mdash/>contain more dissolved salts<mdash/>than shallower and younger groundwater.
+        Just the existence of old groundwater shows that deep aquifers recharge slowly,
+        in some cases over thousands of years.
+        Groundwater, while vast, is finite.
+      </p>
+      <paragraphs>
+        <title>Groundwater as a Common Property Resource</title>
+        <p>
+          Fresh water is a crucial and irreplaceable resource to human society.
+          Not just for drinking and bathing,
+          but even more so for growing food.
+          About 90% of all water used by humans is for irrigating crops,
+          of which nearly half comes from groundwater<fn>
+          Morris B.L., et al. (2003) Groundwater and Its Susceptibility to Degradation: A Global Assessment of the Problem and Options for Management (United Nations Environ Programme, Nairobi)
+          </fn> In the U.S., groundwater provides the vast majority of water used for growing food in the Midwest (
+          <q>America's breadbasket</q>
+          ) and in California's Central Valley (
+          <q>America's fruit and vegetable basket</q>).
+          Both of these highly productive farming areas ($60 billion worth of food annually) are arid and receive far too little rain to fuel their spectacular productivity.
+          Instead, farmers pump groundwater from the High Plains and Central Valley aquifers to irrigate their crops.
+          Farmers in other arid climates must do the same.
+          In most places,
+          anyone who can afford to drill a well into the aquifer can use the finite resource of groundwater,
+          and not surprisingly and the world aquifers are facing the Tragedy of the Common<fn>
+          Steward D.R. , et al. (2013) Tapping unsustainable groundwater stores for agricultural production in the High Plains Aquifer of Kansas,
+          projections to 2110.
+          Proc.
+          Natl.
+          Acad.
+          Sci.
+          USA 110(37):E3477-E3486
+          </fn>.
+        </p>
+      </paragraphs>
+      <p>
+        The High Plains aquifer provides an excellent example of groundwater as a common property resource.
+        The aquifer stretches \SI{1300}[{\kilo}{\metre}] (800 miles) from South Dakota to central Texas,
+        with the water table less than a few hundred feet deep (See <xref ref="fig_hpa">Figure</xref>),
+        left panel).
+        Between 1950 CE
+        (roughly when pumping started),
+        to 2018 CE about 10% of all the groundwater in the aquifer had been pumped out by farmers and other users
+        (see <xref ref="fig_hpa">Figure</xref>),
+        right panel),
+        although areas in Kansas and Texas have pumped more than 50% of the available water<fn>
+        McGuire, V. L. (2009).
+        Water-level changes in the High Plains aquifer,
+        predevelopment to 2007, 2005-06, and 2006-07.
+        Publications of the US Geological Survey, 17
+        <url href="http://digitalcommons.unl.edu/usgspubs/17">Link</url>
+        </fn>.
+        Since 1950 CE, the water table has dropped about \SI{4}{\metre} (13 feet),
+        and continues to drop at about \SI{8}[{\centi}{\metre}] (3 inches) every year<fn>
+        Scanlon, B. R., Faunt, C. C., Longuevergne, L., Reedy, R. C., Alley, W. M., McGuire, V. L., &amp; McMahon, P. B. (2012).
+        Groundwater depletion and sustainability of irrigation in the US High Plains and Central Valley.
+        Proceedings of the National Academy of Sciences, 109(24), 9320-9325.
+        <url href="https://doi.org/10.1073/pnas.1200311109">Link</url>
+        </fn>.
+        All these numbers merely demonstrate that the High Plains Aquifer is being overused,
+        and because it is finite it will eventually run out of water.
+        That won't be for 150-200 years on average,
+        but might be as soon as 60 years for parts of Kansas and Texas.
+        Once again we are faced with balancing the needs of now with the needs of the future<fn>
+        Steward et al.
+        Op Cit.
+        </fn>.In this case,
+        <q>we</q>
+        is really
+        <q>we:</q>
+        <em>anyone</em> who eats food grown in the US does so thanks to water pumped from the High Plains Aquifer<fn>
+        Fenichel, E. P., Abbott, J. K., Bayham, J., Boone, W., Haacker, E. M. K., &amp; Pfeiffer, L. (2016).
+        Measuring the value of groundwater and other forms of natural capital.
+        Proceedings of the National Academy of Sciences, 113(9), 2382-2387.
+        <url href="https://doi.org/10.1073/pnas.1513779113">Link</url>
+        </fn>.
+        As we noted in Chapter 2, the time scale of this collective action problem (200 years!) seems so very long that we tend to discount the need to act quickly to avoid a problem only our far removed descendants will live to face.
+        But long-time residents of the western Kansas acknowledge that the climate is changing,
+        and water is more scarce than it was 50 years ago.
+        The small town of Atwood used to have two ground-water fed lakes,
+        providing places for skating in the winter and boating in the summer.
+        Despite multiple technological fixes,
+        including lining the bottom of the lakes with an impermeable layer and combing the water from two lakes in to one,
+        the lakes are now smaller than x% of their old size.
+        QUOTE FROM RESIDENT BRAD FINELY HERE. Whether this is an acceptable strategy is left as an exercise for the reader.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="swrwl">
+      <title>Surface water: Rivers, wetlands and lakes</title>
+      <p>
+        Measured just be the volume of water they contain, rivers,
+        wetlands and lakes (what we'll call <em>surface water</em>
+        may not seem important enough to deserve even a paragraph.
+        Not so!
+        They play a profound, if subtle,
+        role in moving water from land back to the oceans.
+        Rainfall on the continents is a fundamental part of the weathering process,
+        with implications for the composition of the oceans,
+        and the long-term stability of climate.
+      </p>
+      <paragraphs>
+        <title>Rivers</title>
+        <p>
+          Rain which falls on the continents but doesn't evaporate or become groundwater drains runs off from the continents back to the oceans in rivers and streams.
+          While this may seem obvious to us,
+          the idea was not scientifically established until the mid <m>18^{th}</m> Century.
+          Besides water,
+          rivers and streams carry with them materials eroded and dissolved from the continents.
+          The eroded material is rapidly dumped from rivers once they reach the sea,
+          forming vast deltas,
+          such as seen at the mouths of the Mississippi, Haung Bo (Yellow) and Ganges rivers
+          (<xref ref="deltas">Figure</xref>). \paragraphs{Weathering and dissolved materials} Surface water also carries significant material dissolved from the continents,
+          ultimately derived from weathering of rocks exposed at or near Earth's surface.
+          Water<mdash/>in droplets in clouds or lying on rocks at the surface<mdash/>is in equilibrium with the atmosphere,
+          and so the drops also contain dissolved gasses,
+          most importantly <m>CO_2</m>.
+          Water and carbon dioxide react weakly with each other to form naturally occurring carbonic acid (See <xref ref="eq_carbonic">Reaction</xref>).
+          The carbonic acid itself breaks down to form ions<mdash/>electrically charged molecular fragments<mdash/>dissolved in the water,
+          including a very reactive hydrogen ion.
+          So even the purest rain water is,
+          fortunately, slightly acidic.
+          (Don't confuse this natural acidity with
+          <q>acid rain,</q>
+          which is due to strong acids formed in rain from gasses emitted by coal burning.)
+          With its slight acidity, water attacks rocks at Earth's surface,
+          breaking bonds both between and within minerals in the rock.
+        </p>
+      </paragraphs>
+      <md>
+        <mrow xml:id="eq_carbonic" number="yes">H_2O+CO_2 \rightleftharpoons \amp  H_2CO_3</mrow>
+        <mrow>H_2CO_3  \rightleftharpoons \amp  H^{1+} + HCO_3^{1-}</mrow>
+      </md>
+      <p>
+        For our purposes,
+        we can simplify the many possible reactions between acidic water and rocks with the Urey equation:
+        <md>
+          <mrow xml:id="eq_urey" number="yes">CaSiO_3 + H_2O + 2CO_2  \rightarrow \amp  Ca^{2+} + \amp  2HCO_3^{1-} + SiO_2</mrow>
+          <mrow>Rock + Water + Carbon\ dioxide \rightarrow \amp  Calcium\ ion + \amp   Bicarbonate\ ion  + \amp  Silica</mrow>
+        </md>
+      </p>
+      <p>
+        Weathering via the Urey reaction happens faster in warmer,
+        wetter climates,
+        and in areas undergoing active uplift,
+        such as mountain belts<fn>
+        Maher, K., &amp; Chamberlain, C. P. (2014).
+        Hydrologic regulation of chemical weathering and the geologic carbon cycle.
+        Science, 343(6178), 1502-1504.
+        </fn>.
+        Interestingly, mountain belts tend to induce rainfall,
+        and thus contribute to their own weathering,
+        erosion and ultimate destruction<fn>
+        Molnar, P., Anderson, R. S., &amp; Anderson, S. P. (2007).
+        Tectonics, fracturing of rock, and erosion.
+        Journal of Geophysical Research: Earth Surface, 112(F3).
+        </fn>.
+        The Urey reaction drives the mixing of geosphere,
+        hydrosphere and atmosphere,
+        and rivers ultimately transport the results of this mixing into the oceans.
+        Once there all three products of the Urey reaction are used by marine organism to build shells,
+        shells which eventually collect as sediment on the ocean floor.
+        These sediments store vast quantities of carbon that otherwise would collect in the atmosphere as <m>CO_2</m>.
+        As we'll discover in Chapter 10,
+        this process is a key part of the carbon cycle,
+        and has moderated Earth's climate for billions of years.
+      </p>
+    </subsubsection>
+  </subsection>
+</section>

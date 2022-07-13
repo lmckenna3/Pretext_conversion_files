@@ -1,0 +1,180 @@
+<section xml:id="Cenozoic_Climate">
+  <title>Setting up the present: Earth's climate over the past 65 Ma</title>
+  <subsection>
+    <title>A generally warmer Earth</title>
+    <introduction>
+      <p>
+        We take for granted that the world we live in,
+        with ice-covered poles and warm tropical oceans,
+        is ''normal.'' But as we've seen repeatedly throughout this book, Earth's climate oscillates between two stable states:
+        a warmer greenhouse world and a colder icehouse world<fn>
+        Anagnostou, E., John, E. H., Edgar, K. M., Foster, G. L., Ridgwell, A., Inglis, G. N., ... &amp; Pearson, P. N. (2016).
+        Changing atmospheric CO 2 concentration was the primary driver of early Cenozoic climate.
+        Nature, 533(7603), 380; particularly their reference 16
+        </fn>.
+        The difference between these states is starkly evident in the Cenozoic Era,
+        the part of Earth's history that began roughly 66 Ma
+        (with giant impact that extirpated the non-bird dinosaurs)
+        and continues to today.
+        Earth sat firmly in the hothouse state for the first 30 My of the Cenozoic,
+        with global temperatures at least 5 K warmer than now,
+        and reptiles living comfortably near the ice-free poles.
+        All this warmth was driven by extraordinarily high concentrations of greenhouse gasses in the atmosphere<fn>
+        Zachos, J. C., Dickens, G. R., &amp; Zeebe, R. E. (2008).
+        An early Cenozoic perspective on greenhouse warming and carbon-cycle dynamics.
+        Nature, 451(7176), 279.
+        </fn>,
+        with <m>CO_2</m> estimated from proxy data at 3000-4500 ppm,
+        over ten times contemporary levels!
+        The highest temperatures were during the Early Eocene Climatic Optimum,
+        roughly 51-53 Ma, when Earth's average surface temperature soared \SI{14(3)}{\celsius} higher than our pre-industrial average,
+        driven by the high (<nbsp/>1400 ppm) concentration of <m>CO_2</m> in the atmosphere.
+        Over millions of years
+        (<xref ref="fig_cz_climate_from_zachos">Figure</xref>),
+        plate tectonic cycles and weathering of the continents slowly withdrew the <m>CO_2</m> from the atmosphere and deposited it in marine sediments.
+      </p>
+    </introduction>
+    <subsubsection>
+      <title>Hyperthermal episodes</title>
+      <p>
+        Those slow, majestic cycles produced slow,
+        majestic changes to Earth's climate.
+        But the Cenozoic period was also time of numerous <em>hyperthermals</em>,
+        brief episodes of extraordinary warmth and high
+        <m>[CO_2]_{atm}</m> that provide natural examples for how Earth will respond to our continuing release of greenhouse gasses into the atmosphere.
+        Humans currently release roughly 10 GtC into the atmosphere every year<fn>
+        Cite as: Boden, T. A., Marland, G., and Andres, R. J.: Global, Regional,
+        and National Fossil-Fuel CO2 Emissions, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tenn., U.S.A., doi 10.3334\/CDIAC\/00001_V2017, 2017; available at:
+        <url href="http://cdiac.ess-dive.lbl.gov/trends/emis/overview_2014.html">This link</url>
+        and (land use emissions) average of two bookkeeping models: Houghton, R. A. and Nassikas, A. A.: Global and regional fluxes of carbon from land use and land cover change 1850-2015, Global Biogeochemical Cycles, 31, 456-472, 2017; Hansis, E., Davis, S. J., and Pongratz, J.: Relevance of methodological choices for accounting of land use change carbon fluxes, Global Biogeochemical Cycles, 29, 1230-1246, 2015.
+        </fn>.
+        The best-studied hyperthermal,
+        the Paleocene-Eocene Thermal Maximum at <nbsp/>55.8 Ma, followed the release of
+        <m>\lt 10,000</m> Gt C into the atmosphere in less than 10,000 years<fn>
+        Ivany, L. C., Pietsch, C., Handley, J. C., Lockwood, R., Allmon, W. D., &amp; Sessa, J. A. (2018).
+        Little lasting impact of the Paleocene-Eocene Thermal Maximum on shallow marine molluscan faunas.
+        Science advances, 4(9), eaat5528.
+        </fn> While the source of all that carbon is still hotly debated<fn>
+        Gutjahr, M., Ridgwell, A., Sexton, P. F., Anagnostou, E., Pearson, P. N., P"alike, H., ... &amp; Foster, G. L. (2017).
+        Very large release of mostly volcanic carbon during the Palaeocene-Eocene Thermal Maximum.
+        Nature, 548(7669), 573.
+        </fn>,
+        it <em>is</em>
+        clear is that it was released far more slowly than we are currently releasing C into the environment<fn>
+        Zeebe, R. E., Ridgwell, A., &amp; Zachos, J. C. (2016).
+        Anthropogenic carbon release rate unprecedented during the past 66 million years.
+        Nature Geoscience, 9(4), 325.
+        </fn>.
+        Global temperatures spiked upward by \SIrange{5}{8}{\celsius} during the PETM, with global changes to precipitation,
+        acidification of the oceans,
+        and invasive migration of mammals across the continents<fn>
+        McInerney, F. A., &amp; Wing, S. L. (2011).
+        The Paleocene-Eocene Thermal Maximum: A perturbation of carbon cycle,
+        climate, and biosphere with implications for the future.
+        Annual Review of Earth and Planetary Sciences, 39, 489-516.
+        </fn>.
+        Earth's systems needed almost 200 ka to recover from this release,
+        which is in good accord with climate models.
+        Earth's response to the PETM C surge teaches us three things.
+        First, because humans most likely won't release 10,000 Gt of C into the atmosphere<fn>
+        McGlade, C., &amp; Ekins, P. (2015).
+        The geographical distribution of fossil fuels unused when limiting global warming to 2 C. Nature, 517(7533), 187.
+        </fn>,
+        we will see smaller changes than observed in the PETM. Second,
+        our rate of C release into the atmopshere is 10 times that of the PETM, so climate change will be faster now than during the PETM. Many species,
+        on land ind in the oceans,
+        will be unable to adapt to changing conditions fast enough to avoid extinction.
+        Finally, our study of the PETM shows that humanity's experiment with twiddling the control knobs of the climate system will persist for tens,
+        even hundreds, of thousand of years into the future.
+      </p>
+    </subsubsection>
+    <subsubsection>
+      <title>Beginnings of the chill: Antarctic ice develops</title>
+      <p>
+        Soon after the PETM, Earth's surface temperature peaked at \SI{14(3)}{\celsius} above pre-industrial temperatures,
+        which works out to an astonishing <em>average</em>
+        surfaace temperatuer of <m>84\pm 6 ^\circ\,F</m>!<fn>
+        Anagnostou, E., John, E. H., Edgar, K. M., Foster, G. L., Ridgwell, A., Inglis, G. N., ... Pearson, P. N. (2016).
+        Changing atmospheric CO2 concentration was the primary driver of early Cenozoic climate.
+        Nature, 533(7603), 380-384.
+        <url href="https://doi.org/10.1038/nature17423">Link</url>
+        </fn>.
+        During this time,
+        <m>CO_2</m> concentrations were around 1400 ppm (Figure CZ-climate),
+        about what Earth will have if humans burn all of the known,
+        and most of the suspected, fossil fuels stored in the crust<fn>
+        Zachos et al., op cit.
+        I assumed consumption of all fossil fuel reserves and resources (Rogner, H.-H. (1997).
+        An Assessment of World Hydrocarbon Resources.
+        Annual Review of Energy and the Environment, 22(1), 217-262.
+        <url href="https://doi.org/10.1146/annurev.energy.22.1.217">Link</url>),
+        contributing a total of 5000 GtC.
+        </fn>.
+        But after peaking 52 Ma, atmospheric <m>CO_2</m> began to fall slowly,
+        and so too did surface temperatures.
+        Just prior to 33 Ma, tectonic plate motion finally separated Antarctica from both South America and Australia,
+        allowing the Antarctic Circumpolar Current to form,
+        essentially isolating Antarctica from warm tropical seas.
+        Glaciers rapidly spread across eastern Antarctica,
+        plunging Earth into a new icehouse state<fn>
+        DeConto, R. M., &amp; Pollard, D. (2003).
+        Rapid Cenozoic glaciation of Antarctica induced by declining atmospheric <m>CO_2</m>.
+        Nature, 421(6920), 245.
+        </fn>.
+        Only around 10 Ma did temperatures fall low enough to allow ice sheets to spread across Greenland and higher places on the continents.
+        Icehouse was coming, but only after a last, brief warm period,
+        one which has significant similarities to the Earth we are creating now through global climate change.
+      </p>
+    </subsubsection>
+  </subsection>
+  <subsection>
+    <title>The mid-Pliocene: An analog for our near future?</title>
+    <p>
+      This was the Mid-Pliocene Warm Period (MPWP), which lasted from 3.3 to 3.0 Ma.
+      During this period (about as long as modern
+      <em>Homo sapiens</em> have existed<fn>
+      Hublin, J. J., Ben-Ncer, A., Bailey, S. E., Freidline, S. E., Neubauer, S., Skinner, M. M., ... &amp; Gunz, P. (2017).
+      New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens.
+      Nature, 546(7657), 289.
+      </fn>) <m>CO_2</m> concentrations were in the range 350-450 ppm,
+      and global average temperatures were \SIrange{2.7}{4}{\celsius} warmer than today.
+      That climate was quite different than ours,
+      with seas \SIrange{15}{25}{\metre} (50-80 feet) higher than now,
+      a more energetic water cycle,
+      strong polar amplification and a much reduced crysophere<fn>
+      Haywood, A. M. et al.
+      Integrating geological archives and climate models for the mid-Pliocene warm period.
+      Nat.
+      Commun. 7:10646 doi: 10.1038/ncomms10646 (2016).
+      </fn> The warmer,
+      wetter atmosphere actually steered Hadley cell circulation toward the poles,
+      resulting in changed precipitation patterns and smaller deserts.
+      As we've seen with recent climate change,
+      the poles warmed the most,
+      with both proxy data and models suggesting increases of greater than \SI{10}{\celsius} in both the Arctic and Antarctic.
+      You may have noticed that even though the MPWP climate was far different from ours today,
+      atmospheric <m>CO_2</m> concentrations in the MPWP were about what we have now.
+      This is an accurate and crucial observation.
+      The MPWP gives us insight into the <em>equilibrium</em>
+      climate Earth will have once our
+      <q>experiment</q>
+      is over and Earth has fully adjusted to the changes we've imposed.
+      Earth's climate needs thousands<fn>
+      Hansen, J., Sato, M., Russell, G., &amp; Kharecha, P. (2013).
+      Climate sensitivity, sea level and atmospheric carbon dioxide.
+      Phil.
+      Trans.
+      R. Soc.
+      A, 371(2001), 20120294.
+      </fn>,
+      even tens of thousands<fn>
+      Archer, D., Eby, M., Brovkin, V., Ridgwell, A., Cao, L., Mikolajewicz, U., ... &amp; Tokos, K. (2009).
+      Atmospheric lifetime of fossil fuel carbon dioxide.
+      Annual review of earth and planetary sciences, 37, 117-134.
+      </fn>,
+      of years to adjust to the enormous changes we're imposing on it,
+      so the current climate is only a transitional one.
+      The choices our species makes now will affect Earth for as long as our species has been on the planet.
+    </p>
+  </subsection>
+</section>
